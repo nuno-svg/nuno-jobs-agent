@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T09:58:26.240897+00:00",
-  "total": 70,
+  "generated_at": "2026-06-08T14:19:28.421929+00:00",
+  "total": 103,
   "items": [
     {
       "id": "c36aaa781e2c",
@@ -111,13 +111,13 @@
       }
     },
     {
-      "id": "94b6a92ce58a",
-      "title": "Associate Director, Private Equity (Lead for Sub Saharan Africa region)",
-      "url": "https://jobs.ebrd.com/job/Nairobi-Associate-Director%2C-Private-Equity-%28Lead-for-Sub-Saharan-Africa-region%29/1395067833/",
-      "description": "Associate Director, Private Equity (Lead for Sub Saharan Africa region) Associate Director, Private Equity (Lead for Sub Saharan Africa region) Nairobi, KE 19 May 2026 0.00 km Nairobi, KE 19 May 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
+      "id": "c018517ff60e",
+      "title": "Senior Investment Officer - Manufacturing, Agribusiness and Services - req36959",
+      "url": "https://at.linkedin.com/jobs/view/senior-investment-officer-manufacturing-agribusiness-and-services-req36959-at-ifc-international-finance-corporation-4419286153?position=2&pageNum=0&refId=ZU75491fFUNCZPrKlTiLKQ%3D%3D&trackingId=VY%2FTYQfuLdeL%2FEsumyhgrw%3D%3D",
+      "description": "IFC - International Finance Corporation | Senior Investment Officer - Manufacturing, Agribusiness and Services \n\nJob #: req36959\n\nOrganization: IFC\n\nSector: Investment\n\nGrade: GG\n\nTerm Duration: 3 years 0 months\n\nRecruitment Type: International Recruitment\n\nLocation: Vienna,Austria\n\nRequired Language(s): English\n\nPreferred Language(s)\n\nClosing Date: 6/16/2026 (MM/DD/YYYY) at 11:59pm UTC\n\nDescription\n\nBuild a career with impact. Working at the World Bank Group (WBG) provides a unique opportunity ",
+      "published": "2026-06-02",
+      "location": "Vienna, Vienna, Austria",
+      "source": "apify_linkedin_blended",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 4.0,
@@ -129,10 +129,64 @@
       }
     },
     {
+      "id": "b25a755a8bf3",
+      "title": "Senior Director",
+      "url": "https://es.linkedin.com/jobs/view/senior-director-at-eccleston-park-capital-4421955152?position=1&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=wsnaFuGi53bUq%2BYBrh4lKQ%3D%3D",
+      "description": "Eccleston Park Capital | \nSenior Director at Eccleston Park Capital\n\n\nAbout the Firm\nWe are an award-winning UK-based investment and advisory firm with a diversified platform encompassing corporate and asset-backed strategies. Integrating deep sector knowledge, transaction experience and proprietary portfolio access in cross-border markets, we partner with businesses and stakeholders to deliver long-term, sustainable value. The firm has been&nbsp;awarded Best Boutique Private Equity Company UK&n",
+      "published": "2026-06-08",
+      "location": "Madrid, Community of Madrid, Spain",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "f604f73fb3e6",
+      "title": "LatAm Debt Capital Markets Senior Analyst",
+      "url": "https://www.linkedin.com/jobs/view/latam-debt-capital-markets-senior-analyst-at-bbva-4413133988?position=51&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=EHHSJu0TPBRmw8QMB%2FORXA%3D%3D",
+      "description": "BBVA | \nPosition Overview\nThe Senior Analyst in the BBVA LatAm Debt Capital Markets (DCM) group will support the structuring, origination, and execution of international bond issuances and financing solutions for corporate, financial institutions, sovereign, and agency clients across Latin America, with a focus on Brazil, Mexico, Peru, Colombia, Chile, and Argentina.\n\n\nThe individual will work closely with senior bankers, product specialists, legal advisors, rating agencies, and clients througho",
+      "published": "2026-06-08",
+      "location": "New York, NY",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
       "id": "a3da9720b01e",
       "title": "Associate Manager Donor Programmes",
       "url": "https://jobs.ebrd.com/job/London-Associate-Manager-Donor-Programmes/1401766633/",
       "description": "Associate Manager Donor Programmes Associate Manager Donor Programmes London, GB 8 Jun 2026 0.00 km London, GB 8 Jun 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "fbc866d4f321",
+      "title": "Principal, Sol. Architect, AI",
+      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Sol_-Architect%2C-AI/1401883433/",
+      "description": "Principal, Sol. Architect, AI Principal, Sol. Architect, AI Sofia, BG 8 Jun 2026 0.00 km Sofia, BG 8 Jun 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -183,10 +237,10 @@
       }
     },
     {
-      "id": "f5ff0c2ea616",
-      "title": "Principal Banker, Debt Mobilisation",
-      "url": "https://jobs.ebrd.com/job/London-Principal-Banker%2C-Debt-Mobilisation/1400932033/",
-      "description": "Principal Banker, Debt Mobilisation Principal Banker, Debt Mobilisation London, GB 4 Jun 2026 0.00 km London, GB 4 Jun 2026",
+      "id": "2e8b446349a8",
+      "title": "Associate Banker",
+      "url": "https://jobs.ebrd.com/job/London-Associate-Banker/1400916433/",
+      "description": "Associate Banker Associate Banker London, GB 4 Jun 2026 0.00 km London, GB 4 Jun 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -201,10 +255,10 @@
       }
     },
     {
-      "id": "2e8b446349a8",
-      "title": "Associate Banker",
-      "url": "https://jobs.ebrd.com/job/London-Associate-Banker/1400916433/",
-      "description": "Associate Banker Associate Banker London, GB 4 Jun 2026 0.00 km London, GB 4 Jun 2026",
+      "id": "f5ff0c2ea616",
+      "title": "Principal Banker, Debt Mobilisation",
+      "url": "https://jobs.ebrd.com/job/London-Principal-Banker%2C-Debt-Mobilisation/1400932033/",
+      "description": "Principal Banker, Debt Mobilisation Principal Banker, Debt Mobilisation London, GB 4 Jun 2026 0.00 km London, GB 4 Jun 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -507,12 +561,48 @@
       }
     },
     {
+      "id": "b30e879c57da",
+      "title": "Senior Investment Manager Blended Finance",
+      "url": "https://nl.linkedin.com/jobs/view/senior-investment-manager-blended-finance-at-invest-nl-4416671065?position=3&pageNum=0&refId=ZU75491fFUNCZPrKlTiLKQ%3D%3D&trackingId=kOutjpIe%2BF7oTKz2nRTTKQ%3D%3D",
+      "description": "Invest-NL | Functieomschrijving\n\nWij vinden dat Nederland duurzamer en innovatiever moet. Gelukkig zijn er veel ondernemers met goede plannen voor de toekomst. Invest-NL is er om die te financieren en op weg te helpen. Dat doen we met durf, daadkracht en enthousiasme. Help je mee?\n\nTer voorbereiding op en voor verdere uitvoering van het Blended Finance mandaat zijn we op zoek naar een Senior investment Manager.\n\nOver het mandaat\n\nHet Blended Finance mandaat is een nieuw mandaat wat uitgevoerd wo",
+      "published": "2026-06-05",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 1.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "a6c82ec7e71f",
+      "title": "Financial Reporting Director",
+      "url": "https://www.linkedin.com/jobs/view/financial-reporting-director-at-corient-4375548609?position=9&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=iDxHHlV%2FeT12sHpV56RBwQ%3D%3D",
+      "description": "Corient | Join a team that values your ambition and empowers your growth\n\nAt Corient, we help high- and ultra-high-net-worth individuals and families to enjoy a full life, while enabling them to preserve their wealth for future generations, and provide for the people, causes and communities they care about. We focus on exceeding expectations, simplifying lives, and establishing legacies that last for generations. We are always looking for talented and motivated individuals to join our team. If y",
+      "published": "2026-06-04",
+      "location": "Miami-Fort Lauderdale Area",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "5f6a53346183",
       "title": "Zambia People Lead",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7953471",
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
-      "published": "2026-05-26T11:07:59-04:00",
-      "location": "Kabwe, Kenya",
+      "published": "2026-06-08T08:53:05-04:00",
+      "location": "Kabwe, Zambia",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
       "archetype_label": "D · Emerging Markets / Lusophone",
@@ -522,6 +612,150 @@
         "B_deal_structuring": 0.0,
         "C_executive_training": 1.0,
         "D_emerging_markets": 2.0
+      }
+    },
+    {
+      "id": "8f59d3c2c2e3",
+      "title": "Finance Director",
+      "url": "https://se.linkedin.com/jobs/view/finance-director-at-dellner-bubenzer-4424045850?position=7&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=EPccj5wAKTiMwzDo36cnLA%3D%3D",
+      "description": "Dellner Bubenzer | \nWould you like to be part of a larger group with both local and international influence and the global finance responsible for our biggest business unit?\nTo strengthen our global Dellner Bubenzer management team, we are looking for an experienced Finance Director who will take the Business Unit and our company to the next level through targeted financial management, digitalization and internationalization! \nThe Finance Director plays a critical role in ensuring that Dellner B",
+      "published": "2026-06-03",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "16ae7b0d852b",
+      "title": "Director, Innovative Financing Solutions",
+      "url": "https://at.linkedin.com/jobs/view/director-innovative-financing-solutions-at-the-opec-fund-for-international-development-4411355391?position=2&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=R873TqscMd1jwcBKNHm9cw%3D%3D",
+      "description": "The OPEC Fund for International Development | Department/Unit: Innovative Financing Solutions Unit /Strategy\n\nDate of Issuance: May 8, 2026\n\nDeadline of Applications: June 8, 2026\n\nRequired Languages: English\n\nContract Type: Fixed Term Contract\n\nGrade: Management\n\nJob Category: H2\n\nRecruitment Status: International\n\nContract Duration: Two-year fixed term appointment, with the possibility of renewal.\n\n\n\n- Please note that the recruitment modality for professional positions (international or local",
+      "published": "2026-06-05",
+      "location": "Vienna, Austria",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 2.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "beb5545d9fdf",
+      "title": "Director of Strategic Finance",
+      "url": "https://de.linkedin.com/jobs/view/director-of-strategic-finance-at-unybrands-4423951385?position=13&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=zW1jmh7EwAAkZ9AmLfUEMQ%3D%3D",
+      "description": "unybrands | \nFounded in 2020, unybrands is the next-generation brand accelerator platform built to acquire, integrate, and scale digital-first consumer brands. Headquartered in Miami, with offices in New York, London, Berlin, and Shenzhen, our 240+ team brings deep expertise across e-commerce, brand management, consumer retail, operational scaling, and M&amp;A.\nSince inception, we have acquired 30+ brands across Pet Care, Personal Care, Home Care, Supplements, Baby &amp; Juvenile, Garden &amp; O",
+      "published": "2026-06-02",
+      "location": "Berlin, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "06511d064e99",
+      "title": "Senior Manager, Finance",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-finance-at-nrg-energy-4399788193?position=56&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=6w4ptwGrLj7TnGjU9DBkUw%3D%3D",
+      "description": "NRG Energy | As an NRG employee, we encourage you to take charge of your career and development journey. We invite you to explore exciting opportunities across our businesses. You’ll find that our dynamic work environment provides variety and challenge. Your growth is key to our ongoing success—take the lead in shaping your career development, goals and future!\n\nJob Summary\n\nWe seek a highly motivated and detail-oriented Senior Manager of Finance to join our Development, Engineering, and Constru",
+      "published": "2026-06-04",
+      "location": "Houston, TX",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "cffe8aa96ee7",
+      "title": "Financial Controller",
+      "url": "https://www.linkedin.com/jobs/view/financial-controller-at-dynamo-software-4423517632?position=53&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=xEf3qxSO5QKTBurUUXom5w%3D%3D",
+      "description": "Dynamo Software | Dynamo Software is a leading global FinTech Research and Portfolio Management SaaS provider offering an industry-tailored, highly configurable SaaS platform solving challenges across the alternative investment landscape. For more than 20 years, the Dynamo™ platform has improved the productivity of fundraising, deal, research, investor servicing, portfolio management, and compliance teams worldwide. Collectively, Dynamo’s 1,000+ clients manage over $10 trillion in assets. Backed",
+      "published": "2026-06-04",
+      "location": "Watertown, MA",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "d5c96d81a899",
+      "title": "Dir, Regional Finance",
+      "url": "https://www.linkedin.com/jobs/view/dir-regional-finance-at-pds-health-4414665455?position=50&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=wJf6NB0UEGVCJhSe7RkLIg%3D%3D",
+      "description": "PDS Health | Now is the time to join PDS Health. You will have opportunities to learn new skills from our team of experienced professionals. If you're ready to take your career to the next level and gain valuable experience, apply today!\n\nThe Director, Regional Finance is responsible for facilitating meetings with the regional management team and conveying the corporate need for regional financial analysis and reporting. The incumbent is responsible for utilizing financial statement analysis, fo",
+      "published": "2026-06-05",
+      "location": "Miami, FL",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "dd673493d3a9",
+      "title": "Finance Manager",
+      "url": "https://www.linkedin.com/jobs/view/finance-manager-at-stelvio-inc-4422100610?position=46&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=CTRjYnGx%2BJVR9E9DH%2FF%2Bhg%3D%3D",
+      "description": "Stelvio Inc. | \nFinance Manager – Strategic Advisory\nMiami, FL (Hybrid)\n\n\nWe’re working with a high-growth advisory firm supporting leadership teams with financial strategy, forecasting, and performance improvement.\n\n\nThe Role\nAct as a senior financial partner, leading cash flow forecasting, financial modelling, and delivering insights that drive real business decisions.\n\n\nKey Responsibilities\n\n- Own 13-week cash flow forecasting and variance analysis\n- Build financial models to support strategi",
+      "published": "2026-06-01",
+      "location": "Miami, FL",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "d6da95b5a6a9",
+      "title": "Business Controller",
+      "url": "https://www.linkedin.com/jobs/view/business-controller-at-abb-4409094627?position=41&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=u%2BUvxXmVYrUnIb0gWg8Jmg%3D%3D",
+      "description": "ABB | At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis position reports to:\n\nBusiness Controller\n\n__\n\nABB is searching for a plug-and-play candidate to be able to step into our Electrification Installation Products (ELIP) Finance Leadership team and be able to help drive results and act as a key project stakeholder f",
+      "published": "2026-06-07",
+      "location": "Atlanta, GA",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
       }
     },
     {
@@ -586,6 +820,60 @@
       "published": "2026-05-29T09:58:02-04:00",
       "location": "Ethiopia",
       "source": "greenhouse_oneacre",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "e4dac8d7b467",
+      "title": "E T Consultant - Sustainable Finance Expert - req36997",
+      "url": "https://fr.linkedin.com/jobs/view/e-t-consultant-sustainable-finance-expert-req36997-at-ifc-international-finance-corporation-4423081029?position=5&pageNum=0&refId=ZU75491fFUNCZPrKlTiLKQ%3D%3D&trackingId=jDn2hx1AppCY%2B%2Bzv17W06w%3D%3D",
+      "description": "IFC - International Finance Corporation | E T Consultant - Sustainable Finance Expert \n\nJob #: req36997\n\nOrganization: IFC\n\nSector: Infrastructure\n\nGrade: EC2\n\nTerm Duration: 1 year 0 months\n\nRecruitment Type: Local Recruitment\n\nLocation: Paris,France\n\nRequired Language(s): English\n\nPreferred Language(s)\n\nClosing Date: 6/10/2026 (MM/DD/YYYY) at 11:59pm UTC\n\nDescription\n\nBuild a career with impact. Working at the World Bank Group (WBG) provides a unique opportunity to help countries solve their g",
+      "published": "2026-06-03",
+      "location": "Paris, Île-de-France, France",
+      "source": "apify_linkedin_blended",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 1.5,
+      "scores": {
+        "A_blended_catalytic": 1.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "6de1fb68029e",
+      "title": "Finance Director",
+      "url": "https://ro.linkedin.com/jobs/view/finance-director-at-leanpay-4423342975?position=9&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=9wKKpwOu9zR8J9eXKKK8%2FA%3D%3D",
+      "description": "Leanpay | \nLeanpay is a fast-growing fintech operating as a licensed Non-Bank Financial Institution (NBFI) in Romania, on a mission to enable any consumer to make any purchase in any shop by providing responsible, fair and easy financing. We combine cutting-edge technology with transparent, people-first products; from point-of-sale consumer credit and BNPL to digital lending, serving both retail customers and merchant partners across the country.\n\n\nWe are currently expanding our Leanpay Romania ",
+      "published": "2026-06-04",
+      "location": "Bucharest, Bucharest, Romania",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "c8c1428d7eb6",
+      "title": "Commercial Finance Lead, Americas",
+      "url": "https://www.linkedin.com/jobs/view/commercial-finance-lead-americas-at-jacuzzi-group-4423055792?position=48&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=t151C9kfo7i%2B7N7GgCtvxw%3D%3D",
+      "description": "Jacuzzi Group | \nJacuzzi Group is a leading global manufacturer of hot tubs, swim spas, saunas, and pool equipment. More than four thousand global employees work across our portfolio of brands, including Jacuzzi, Sundance Spas, Hydropool Swim Spas and Hot Tubs, DreamMaker, and more.\n \nWith a presence in the United States, Canada, Mexico, Italy, the United Kingdom, France, Brazil, Chile, and Australia, we have more than 65 years of experience delivering innovative wellness products to our consume",
+      "published": "2026-06-03",
+      "location": "Miami, FL",
+      "source": "apify_linkedin_lusophone_africa",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 1.5,
@@ -781,8 +1069,8 @@
       "title": "Global Investor Relations Manager",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7953975",
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
-      "published": "2026-06-07T15:57:25-04:00",
-      "location": "Flexible, Countries of Operations",
+      "published": "2026-06-08T08:51:32-04:00",
+      "location": " This role is only open to citizens or permanent residents of Kenya, Rwanda, Burundi and Malawi",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
       "archetype_label": "D · Emerging Markets / Lusophone",
@@ -1047,12 +1335,48 @@
       }
     },
     {
+      "id": "585e90cd533c",
+      "title": "Senior Product Manager",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7981681",
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
+      "published": "2026-06-08T06:56:04-04:00",
+      "location": "Nairobi, Kenya or Kigali, Rwanda",
+      "source": "greenhouse_oneacre",
+      "archetype": "D_emerging_markets",
+      "archetype_label": "D · Emerging Markets / Lusophone",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
       "id": "679513ae1c98",
       "title": "Strategy & Operations Associate, Office of the CEO (Renewable)",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7486455",
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
       "published": "2026-06-02T06:19:27-04:00",
       "location": "Kigali or Nairobi as first preferences, but flexible to any program country",
+      "source": "greenhouse_oneacre",
+      "archetype": "D_emerging_markets",
+      "archetype_label": "D · Emerging Markets / Lusophone",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "7d6e73240ae4",
+      "title": "Sustainable Agriculture Innovation Lead (Fixed-term)",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7988454",
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
+      "published": "2026-06-08T08:51:10-04:00",
+      "location": "Kenya, Uganda, Tanzania, Rwanda, Burundi, Malawi, Zambia, Nigeria",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
       "archetype_label": "D · Emerging Markets / Lusophone",
@@ -1107,24 +1431,6 @@
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
       "published": "2026-05-06T03:17:34-04:00",
       "location": "Kenya",
-      "source": "greenhouse_oneacre",
-      "archetype": "D_emerging_markets",
-      "archetype_label": "D · Emerging Markets / Lusophone",
-      "fit": 1.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
-      }
-    },
-    {
-      "id": "07aef07e3c5a",
-      "title": "Tupande Soko Laboratory Specialist (Fixed - Term)",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7896953",
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
-      "published": "2026-05-07T01:50:51-04:00",
-      "location": "Sagana, Kenya",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
       "archetype_label": "D · Emerging Markets / Lusophone",
@@ -1209,42 +1515,6 @@
       }
     },
     {
-      "id": "863644e9847e",
-      "title": "Account Manager - West and Central U.S. (Commercial)",
-      "url": "https://job-boards.greenhouse.io/rti/jobs/7927480",
-      "description": "<p>Are you an enthusiastic and talented Account Manager (AM) with a passion for bringing products to the market that truly make a positive impact in the world? Are you interested in the opportunity to grow a customer base of innovative engineers with interesting technical challenges?&nbsp;</p>\n<p>RTI is looking for an&nbsp; Account Manager to drive sales of our Connext DDS software and services to existing and new customers in the West and Midwest U.S. Our ideal candidate has experience selling ",
-      "published": "2026-05-20T16:15:43-04:00",
-      "location": "US Remote",
-      "source": "greenhouse_rti",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 1.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 1.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "dfbe72c5d692",
-      "title": "Sr. Account Manager - Commercial Markets",
-      "url": "https://job-boards.greenhouse.io/rti/jobs/7984016",
-      "description": "<p>Are you an enthusiastic, talented, and experienced Account Manager (AM) with a passion for bringing products to the market that truly make a positive impact in the world? Are you interested in the opportunity to grow a customer base of innovative engineers with interesting technical challenges?&nbsp;</p>\n<p>RTI is looking for an experienced Account Manager to drive sales of our Connext DDS software and services to existing and new customers in Europe. Our ideal candidate has experience sellin",
-      "published": "2026-06-04T18:53:44-04:00",
-      "location": "Germany Remote",
-      "source": "greenhouse_rti",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 1.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 1.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "aba10485d711",
       "title": "AFC Senior Associate / SAR Delegate (déclarant and correspondant Tracfin)",
       "url": "https://n26.com/en-eu/careers/positions/7811338?gh_jid=7811338",
@@ -1252,6 +1522,330 @@
       "published": "2026-05-20T04:42:04-04:00",
       "location": "Paris",
       "source": "greenhouse_n26",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "b4c9cf22edb9",
+      "title": "Partnership and Network Adviser",
+      "url": "https://be.linkedin.com/jobs/view/partnership-and-network-adviser-at-unops-4417632726?position=6&pageNum=0&refId=ZU75491fFUNCZPrKlTiLKQ%3D%3D&trackingId=26dLnElVCTFQuBHOzvA%2BjQ%3D%3D",
+      "description": "UNOPS | Job Highlight \n\nThe position will support a global initiative focused on climate action and sustainable urban development. Through this role, the successful candidate will actively contribute to innovation in partnership development, knowledge management and coalition building, working with a diverse range of stakeholders to empower cities and local governments in their transition to climate-resilient systems.\n\nAbout The Group \n\nThe Water, Environment, and Climate (WEC) portfolio, based ",
+      "published": "2026-06-02",
+      "location": "Brussels, Brussels Region, Belgium",
+      "source": "apify_linkedin_blended",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 1.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "f1c991e2b086",
+      "title": "Director of Financial Planning and Analysis",
+      "url": "https://nl.linkedin.com/jobs/view/director-of-financial-planning-and-analysis-at-fastned-4419261243?position=6&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=njhpxfqvrVuHTkXtjkO8EA%3D%3D",
+      "description": "Fastned | \nFastned is on a mission to accelerate the transition to electric mobility. Since 2012, we have been building and operating a rapidly growing network of iconic fast-charging stations across Europe powered entirely by solar and wind energy. We now operate over 400 stations across nine countries, with an ambitious goal of reaching 1,000 stations by 2030. We are not building infrastructure for its own sake. Every station we open is a tangible step in the transition away from fossil fuels.",
+      "published": "2026-06-02",
+      "location": "Amsterdam Area",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "e9c819ec9c1c",
+      "title": "Finance Director AGS (m/f/d)",
+      "url": "https://de.linkedin.com/jobs/view/finance-director-ags-m-f-d-at-mo%C3%ABt-hennessy-4415007951?position=4&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=o4qir2Elsg%2FSoo6E9%2B%2Bpgw%3D%3D",
+      "description": "Moët Hennessy | Position\n\nAct as Finance Director AGS (Germany, Austria, Switzerland), providing strategic and operational leadership across financial planning, performance management, statutory and Group reporting, and finance governance for the AGS Shared Service Center scope. Ensure the accuracy, integrity and timeliness of financial and operational information to enable fact-based decision-making, while proactively managing risk, internal controls and compliance (incl. GDPR). Act as a key st",
+      "published": "2026-06-05",
+      "location": "Munich, Bavaria, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "765173da00d8",
+      "title": "Head of Investment Portfolio & Derivatives (M/F)",
+      "url": "https://lu.linkedin.com/jobs/view/head-of-investment-portfolio-derivatives-m-f-at-banque-internationale-%C3%A0-luxembourg-bil-4422326848?position=3&pageNum=0&refId=NVkXMr8FSjZ15h9eTZAzfw%3D%3D&trackingId=QesqgLPi7pvpwh8Keykiog%3D%3D",
+      "description": "Banque Internationale à Luxembourg (BIL) | \nFounded in 1856, Banque Internationale à Luxembourg is the oldest multi-business bank in the Grand Duchy. From its foundation, the BIL has always played an active role in the development of the Luxembourg economy. It currently operates in retail, private and corporate banking, as well as on major capital markets. Employing more than 2 000 people, BIL is present in the financial hotspots that are Luxembourg, Switzerland, and China. \nAs a major player in",
+      "published": "2026-06-02",
+      "location": "Luxembourg, Luxembourg, Luxembourg",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "ff9bab9ebedf",
+      "title": "Senior Finance Manager, Americas Sales",
+      "url": "https://www.linkedin.com/jobs/view/senior-finance-manager-americas-sales-at-pure-storage-4413199176?position=58&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=StdHjrVJU9Flc2q7ivnyaw%3D%3D",
+      "description": "Pure Storage | We’re in an unbelievably exciting area of tech and are fundamentally reshaping the data storage industry. Here, you lead with innovative thinking, grow along with us, and join the smartest team in the industry.\n\nThis type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.\n\nTHE ROLE\n\nWe're looking for an exceptional Senior Finance Manager to partner with the Americas",
+      "published": "2026-06-02",
+      "location": "New York, NY",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "2a80c323f27e",
+      "title": "Senior Finance Manager (Etihad Park- Food and Beverage",
+      "url": "https://www.linkedin.com/jobs/view/senior-finance-manager-etihad-park-food-and-beverage-at-legends-global-4414637605?position=55&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=QEqheGP9KZTqlQvUQBYzlA%3D%3D",
+      "description": "Legends Global | POSITION: Senior Finance Manager\n\nREPORTS TO: District Finance Director\n\nDEPARTMENT: Finance\n\nFLSA STATUS: Salaried, Exempt\n\nLEGENDS GLOBAL\n\nLegends Global is the premier partner to the world's greatest live events, venues, and brands. We deliver a fully integrated solution of premium services that keeps our partners front and center through our white-label approach.\n\nOur network of 450 venues worldwide, hosting 20,000 events and entertaining 165 million guests each year, is pow",
+      "published": "2026-06-05",
+      "location": "New York City Metropolitan Area",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "9594a997ae7d",
+      "title": "Fortune 500 Co seek Senior Reporting Manager",
+      "url": "https://www.linkedin.com/jobs/view/fortune-500-co-seek-senior-reporting-manager-at-lhh-4425194781?position=54&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=XP8FzXC6E%2BXIgo6qz7LJhw%3D%3D",
+      "description": "LHH | \n\nSalary ranges between $150k - $180k plus 25% targeted bonus\nSenior Manager / Director, Corporate Reporting (Title and compensation commensurate with experience)\nAn operating entity of a Fortune 500 company is seeking a Senior Manager or Director‑level Corporate Reporting professional to join its finance team. This highly visible role supports a diverse portfolio of inventory‑based operating subsidiaries across North America.\nThe company’s portfolio consists of defensive, recession‑resili",
+      "published": "2026-06-07",
+      "location": "New York City Metropolitan Area",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "a0789ec73ab5",
+      "title": "Finance Integration Manager",
+      "url": "https://www.linkedin.com/jobs/view/finance-integration-manager-at-hudbay-minerals-u-s-business-unit-4405615224?position=47&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=pQVp9ZkUrC8s3Pb3o2WDUQ%3D%3D",
+      "description": "Hudbay Minerals U.S. Business Unit | Role Title\n\nFinance Integration Manager\n\nReports To\n\nCFO, USBU\n\nJob Type\n\nFull-time Regular\n\nLocation:\n\nTucson, AZ\n\nAbout Hudbay\n\nHudbay (TSX, NYSE: HBM) is a copper-focused mining company with three long-life operations and a world-class pipeline of copper growth projects in tier-one mining-friendly jurisdictions of Canada, Peru, and the United States.\n\nHudbay’s operating portfolio includes the Constancia mine in Cusco (Peru), the Snow Lake operations in Man",
+      "published": "2026-06-05",
+      "location": "Tucson, AZ",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "54f10163717f",
+      "title": "Senior Financial Analyst FP&A",
+      "url": "https://www.linkedin.com/jobs/view/senior-financial-analyst-fp-a-at-languageline-solutions-4424945112?position=39&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=jsdub%2BKsSrtc7wIxyfhxNg%3D%3D",
+      "description": "LanguageLine Solutions | Job Description\n\nJob Title: Director, AI Center of Excellence\n\nDepartment: Finance\n\nReports To: Senior Manager, Financial Systems and Business Intelligence\n\nClassification: Exempt\n\nPrimary Location: Corporate Headquarters in Monterey, CA\n\nSecondary Location: US Remote\n\nPosition Overview\n\nWe are seeking a highly capable Senior Financial Analyst\\Manager to join the FP&amp;A team in a role that combines budgeting, forecasting, financial analysis, business intelligence, FP&a",
+      "published": "2026-06-05",
+      "location": "Monterey, CA",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "7e346c423aa9",
+      "title": "IDB Invest - Chief Financial and Administration Officer",
+      "url": "https://www.linkedin.com/jobs/view/idb-invest-chief-financial-and-administration-officer-at-idb-invest-4420780009?position=42&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=HFggw9uLPqjBPFpFaQzE1w%3D%3D",
+      "description": "IDB Invest | We improve lives\n\nIDB Invest is an international financial institution and the private-sector arm of the IDB Group, aiming to address development needs in Latin America and the Caribbean. Our mission is to support sustainable enterprises and projects that achieve financial results while maximizing regional social and environmental development. IDB Invest operates in 26 countries grouped into four regions and three industries (Infrastructure and Energy, Financial Intermediaries, and ",
+      "published": "2026-06-05",
+      "location": "Washington, DC",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "ab68f2408276",
+      "title": "Senior Finance Manager",
+      "url": "https://www.linkedin.com/jobs/view/senior-finance-manager-at-cv-resources-4424255374?position=40&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=SfTishoNnBUi32FNG6TjNw%3D%3D",
+      "description": "CV Resources | \nCV Resources is partnering with a global manufacturer in search for a Senior Finance Manager within their Global Supply Chain Finance.\n\n\nKey Responsibilities:\n1. Supply Chain Strategy (60% near-term focus)\n\n- Lead network strategy modeling (1–3 year horizon)\n- Support enterprise decisions on future-state supply chain design\n- Bring data-driven insights to leadership debates (CSCO, CFOs, etc.)\n2. Advanced Financial Analysis &amp; Modeling\n\n- True cost to manufacture / product prof",
+      "published": "2026-06-03",
+      "location": "United States",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "e45a81806747",
+      "title": "Senior Commercial Finance Analyst, Americas",
+      "url": "https://www.linkedin.com/jobs/view/senior-commercial-finance-analyst-americas-at-oxea-4419671155?position=34&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=5zZc%2BpmBf5oQhASel4qOkw%3D%3D",
+      "description": "OXEA | OXEA Corporation Company Overview | World leader in Oxo Chemicals\n\nOxo products are the core competency of OXEA Corporation. We are producing more than 70 oxo intermediates and oxo derivatives for customers in a wide range of industries with various end market applications. Our chemicals are important ingredients in products that are used in daily life around the world. \"We\" refers to more than 1,400 OXEA employees worldwide. At our plants in Germany, the USA, China and the Netherlands, w",
+      "published": "2026-06-03",
+      "location": "Houston, TX",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "50dd082038f6",
+      "title": "Senior Accountant",
+      "url": "https://www.linkedin.com/jobs/view/senior-accountant-at-the-latin-recording-academy-4418430950?position=29&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=p01EJioVFI%2BSK8quH8v2Pg%3D%3D",
+      "description": "The Latin Recording Academy | \nWHO WE'RE LOOKING FOR\n\n\nThe Latin GRAMMY Cultural Foundation (LGCF) is looking for an experienced Senior Accountant to join our growing team! Reporting to the Senior Finance Manager, you will create and manage budgets and prepare PowerPoint presentations for the Board of Directors and Finance Committee. You are an effective communicator who is organized, detail-oriented, and can juggle multiple projects and work efficiently under the pressure of tight deadlines.\n\n\n",
+      "published": "2026-06-01",
+      "location": "Miami, FL",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "1d6164026506",
+      "title": "Associate Finance Director, Global Solutions",
+      "url": "https://www.linkedin.com/jobs/view/associate-finance-director-global-solutions-at-prodigious-worldwide-4392121401?position=27&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=aZM4WIj%2B6wQGBb8CJz7IbA%3D%3D",
+      "description": "Prodigious Worldwide | Company Description\n\nDesigned to serve a content-driven media landscape, Prodigious brings together specialist production expertise in video, digital and print to design, produce and deliver brand content across all channels, using the best talent, workflow processes and tools.\n\nWe boast 3,500 employees operating out of over 40 locations worldwide and complemented by best-in-class production talent sourced via our owned crowd-sourcing platform.\n\nCombining these highly-skil",
+      "published": "2026-06-03",
+      "location": "New York, NY",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "cfca393931f4",
+      "title": "Assistant Controller, Global Finance & Accounting",
+      "url": "https://www.linkedin.com/jobs/view/assistant-controller-global-finance-accounting-at-international-justice-mission-4424780288?position=26&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=VTLbfnHpRW8YerW8saeUAg%3D%3D",
+      "description": "International Justice Mission | Who We Are\n\nInternational Justice Mission (IJM) is the global leader in protecting vulnerable people from violence around the world. Our team of over 1,300 professionals are at work worldwide in over 30 offices. Together we are on a mission to rescue millions, protect half a billion, and make justice unstoppable.\n\nWe are a global community that cares for one another. We believe that the way we work is as important as the results we achieve. We provide professional",
+      "published": "2026-06-05",
+      "location": "Arlington, VA",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "8e7858ea7bc4",
+      "title": "Senior Manager Consolidations & Reporting",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-consolidations-reporting-at-acushnet-company-4414928282?position=21&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=POQPg1Lyrhm%2FJwf8FFI9EQ%3D%3D",
+      "description": "Acushnet Company | Where Performance Meets Purpose\n\nJoin a team that values excellence and innovation, at a company known for its iconic golf brands. At Acushnet Company, your background and experience contribute to creating the best products for dedicated golfers worldwide. Here, your performance has purpose.\n\nWhat You Will Be Doing\n\nThe role leads and optimizes the company’s global financial consolidation and close processes while serving as the primary owner of critical finance systems, ensur",
+      "published": "2026-06-05",
+      "location": "Fairhaven, MA",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "942d481259ec",
+      "title": "Senior Officer Finance (New York, USA)",
+      "url": "https://www.linkedin.com/jobs/view/senior-officer-finance-new-york-usa-at-mashreq-4425606598?position=17&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=dZo6SjQfkAQ798KssqH%2F%2Fw%3D%3D",
+      "description": "Mashreq | The Senior Finance Officer will assist in ensuring that Branch’s accounting system and related MIS runs in an efficient and timely manner such that it conforms to the requirements of Central bank and Bank’s Policies, while assisting in the financial planning for the branch ensuring that assumptions are in order.\n- Monitor recording of transactions in New York Branch for conformity with International Accounting Standards and Bank’s Accounting policies and Procedures Manual (APPR) read i",
+      "published": "2026-06-08",
+      "location": "New York, United States",
+      "source": "apify_linkedin_lusophone_africa",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "f53311adc5c8",
+      "title": "Controller",
+      "url": "https://www.linkedin.com/jobs/view/controller-at-robert-half-4418776509?position=13&pageNum=0&refId=r%2BAgCc%2FS%2Bdei6arWevt9%2Bg%3D%3D&trackingId=CumAv9r8hl0GEJSNnnsWrA%3D%3D",
+      "description": "Robert Half | \nWe are seeking an experienced and detail-oriented Controller to lead the accounting and financial reporting function for a growing copper mining company generating approximately $100M in annual revenue. Will report directly into the CFO. The position is 100% remote and requires bilingual fluency in Spanish and English. Candidate must have public company experience and strong technical accounting/consolidations. CPA and public accounting foundation highly preferred.",
+      "published": "2026-06-01",
+      "location": "New Jersey, United States",
+      "source": "apify_linkedin_lusophone_africa",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 1.0,
