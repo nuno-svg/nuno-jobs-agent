@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-06-08T14:19:28.421929+00:00",
-  "elapsed_total_s": 297.6,
+  "generated_at": "2026-06-08T14:38:14.692756+00:00",
+  "elapsed_total_s": 158.5,
   "sources_total": 20,
   "sources_ok": 19,
   "sources_failed": 1,
-  "items_total_raw": 390,
-  "items_kept": 103,
+  "items_total_raw": 340,
+  "items_kept": 81,
   "sources": [
     {
       "name": "reliefweb",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.3,
       "ok": false,
-      "error": "HTTP 410: {\"status\":410,\"time\":1,\"error\":{\"type\":\"Exception\",\"message\":\"The API version 'v1' has been decommissioned. Please use version 'v2' instead.\"}}"
+      "error": "HTTP 403: {\"status\":403,\"time\":15,\"error\":{\"type\":\"AccessDeniedHttpException\",\"message\":\"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefwe"
     },
     {
       "name": "afdb",
       "raw": 2,
       "kept": 0,
-      "elapsed_s": 0.9,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "ebrd",
       "raw": 25,
       "kept": 23,
-      "elapsed_s": 1.1,
+      "elapsed_s": 1.6,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.5,
+      "elapsed_s": 1.5,
       "ok": true
     },
     {
       "name": "greenhouse_instiglio",
       "raw": 5,
       "kept": 4,
-      "elapsed_s": 1.7,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -54,49 +54,49 @@
       "name": "greenhouse_oneacre",
       "raw": 38,
       "kept": 35,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_socialfinance",
       "raw": 5,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_codeforamerica",
       "raw": 8,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_omidyar",
       "raw": 1,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_monzo",
       "raw": 62,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
       "name": "greenhouse_n26",
       "raw": 64,
       "kept": 1,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
@@ -110,42 +110,42 @@
       "name": "apify_linkedin_blended",
       "raw": 6,
       "kept": 4,
-      "elapsed_s": 9.7,
+      "elapsed_s": 12.4,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
       "raw": 13,
       "kept": 8,
-      "elapsed_s": 71.2,
+      "elapsed_s": 13.6,
       "ok": true
     },
     {
       "name": "apify_linkedin_lusophone_africa",
-      "raw": 50,
-      "kept": 22,
-      "elapsed_s": 30.5,
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 5.6,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
       "raw": 50,
       "kept": 0,
-      "elapsed_s": 92.0,
+      "elapsed_s": 59.6,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
       "raw": 50,
       "kept": 0,
-      "elapsed_s": 76.4,
+      "elapsed_s": 49.9,
       "ok": true
     },
     {
       "name": "apify_indeed_portugal_finance",
       "raw": 2,
       "kept": 0,
-      "elapsed_s": 11.1,
+      "elapsed_s": 9.1,
       "ok": true
     }
   ]
