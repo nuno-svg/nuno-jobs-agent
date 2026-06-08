@@ -62,13 +62,6 @@
       "geo_filter": false
     },
     {
-      "name": "greenhouse_rti",
-      "type": "greenhouse",
-      "board": "rti",
-      "robust": true,
-      "geo_filter": true
-    },
-    {
       "name": "greenhouse_codeforamerica",
       "type": "greenhouse",
       "board": "codeforamerica",
@@ -111,6 +104,99 @@
       "robust": false,
       "geo_filter": false,
       "_note": "Best effort"
+    },
+    {
+      "name": "apify_linkedin_blended",
+      "type": "apify",
+      "actor_id": "curious_coder/linkedin-jobs-scraper",
+      "robust": true,
+      "geo_filter": false,
+      "needs_secret": "APIFY_TOKEN",
+      "input": {
+        "urls": [
+          "https://www.linkedin.com/jobs/search/?keywords=blended%20finance&location=European%20Union&f_TPR=r604800&f_E=4%2C5%2C6"
+        ],
+        "count": 50,
+        "scrapeCompany": false
+      },
+      "_note": "LinkedIn — Archetype A queries via Apify"
+    },
+    {
+      "name": "apify_linkedin_investment_director",
+      "type": "apify",
+      "actor_id": "curious_coder/linkedin-jobs-scraper",
+      "robust": true,
+      "geo_filter": false,
+      "needs_secret": "APIFY_TOKEN",
+      "input": {
+        "urls": [
+          "https://www.linkedin.com/jobs/search/?keywords=investment%20director%20development%20finance&location=European%20Union&f_TPR=r604800&f_E=5%2C6"
+        ],
+        "count": 50,
+        "scrapeCompany": false
+      },
+      "_note": "LinkedIn — Archetype B queries via Apify"
+    },
+    {
+      "name": "apify_linkedin_lusophone_africa",
+      "type": "apify",
+      "actor_id": "curious_coder/linkedin-jobs-scraper",
+      "robust": true,
+      "geo_filter": false,
+      "needs_secret": "APIFY_TOKEN",
+      "input": {
+        "urls": [
+          "https://www.linkedin.com/jobs/search/?keywords=Lusophone%20Africa%20finance%20OR%20Angola%20senior&f_TPR=r604800&f_E=4%2C5%2C6"
+        ],
+        "count": 50,
+        "scrapeCompany": false
+      },
+      "_note": "LinkedIn — Archetype D queries via Apify"
+    },
+    {
+      "name": "apify_indeed_blended_eu",
+      "type": "apify",
+      "actor_id": "misceres/indeed-scraper",
+      "robust": true,
+      "geo_filter": true,
+      "needs_secret": "APIFY_TOKEN",
+      "input": {
+        "position": "blended finance OR development finance senior",
+        "country": "GB",
+        "maxItems": 50,
+        "parseCompanyDetails": false
+      },
+      "_note": "Indeed UK — Archetype A"
+    },
+    {
+      "name": "apify_indeed_cfo_remote",
+      "type": "apify",
+      "actor_id": "misceres/indeed-scraper",
+      "robust": true,
+      "geo_filter": true,
+      "needs_secret": "APIFY_TOKEN",
+      "input": {
+        "position": "fractional CFO OR interim CFO OR head of finance remote",
+        "country": "GB",
+        "maxItems": 50,
+        "parseCompanyDetails": false
+      },
+      "_note": "Indeed UK — Archetype B (CFO/interim)"
+    },
+    {
+      "name": "apify_indeed_portugal_finance",
+      "type": "apify",
+      "actor_id": "misceres/indeed-scraper",
+      "robust": true,
+      "geo_filter": true,
+      "needs_secret": "APIFY_TOKEN",
+      "input": {
+        "position": "diretor financeiro OR head of finance OR consultor sénior",
+        "country": "PT",
+        "maxItems": 50,
+        "parseCompanyDetails": false
+      },
+      "_note": "Indeed Portugal — generalist senior finance"
     }
   ],
   "geo_allow_keywords": [

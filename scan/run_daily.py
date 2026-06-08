@@ -196,6 +196,57 @@ def fetch_linkedin_rss(source):
     return items
 
 
+def fetch_apify(source):
+    """Generic Apify actor runner. Triggers a synchronous run and reads the dataset.
+
+    Source config requires:
+      actor_id: e.g. 'curious_coder/linkedin-jobs-scraper'
+      input:    JSON dict passed as actor input
+      field_map (optional): mapping {our_field: actor_output_field} to normalise
+                            field names across different actors. Defaults below
+                            cover the most common LinkedIn/Indeed output shapes.
+    """
+    token = os.environ.get("APIFY_TOKEN", "").strip()
+    if not token:
+        raise RuntimeError("missing env var APIFY_TOKEN")
+    actor_id = source["actor_id"].replace("/", "~")
+    actor_input = source.get("input", {})
+    # run-sync-get-dataset-items: triggers actor, waits for completion, returns items
+    url = f"https://api.apify.com/v2/acts/{actor_id}/run-sync-get-dataset-items"
+    params = {"token": token, "timeout": 180}
+    r = requests.post(url, params=params, json=actor_input, timeout=240)
+    if r.status_code not in (200, 201):
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
+    try:
+        data = r.json()
+    except Exception:
+        raise RuntimeError(f"non-JSON response: {r.text[:200]}")
+    if not isinstance(data, list):
+        raise RuntimeError(f"unexpected response shape: {str(data)[:200]}")
+    fmap = source.get("field_map", {})
+    items = []
+    for d in data[:200]:
+        # Best-effort field mapping: try the mapped field, then common alternatives
+        title = d.get(fmap.get("title", "title")) or d.get("jobTitle") or d.get("position") or ""
+        url_field = d.get(fmap.get("url", "url")) or d.get("jobUrl") or d.get("applyUrl") or d.get("link") or ""
+        desc = d.get(fmap.get("description", "description")) or d.get("jobDescription") or d.get("descriptionText") or d.get("summary") or ""
+        if isinstance(desc, str) and "<" in desc:
+            desc = BeautifulSoup(desc, "html.parser").get_text(" ", strip=True)
+        loc = d.get(fmap.get("location", "location")) or ""
+        pub = d.get(fmap.get("published", "postedAt")) or d.get("publishedAt") or d.get("date") or ""
+        company = d.get("companyName") or d.get("company") or ""
+        if company:
+            desc = f"{company} | {desc}"
+        items.append({
+            "title": str(title)[:300],
+            "url": str(url_field),
+            "description": str(desc)[:2000],
+            "published": str(pub),
+            "location": str(loc),
+        })
+    return items
+
+
 FETCHERS = {
     "rss": fetch_rss,
     "api": fetch_reliefweb,
@@ -203,6 +254,7 @@ FETCHERS = {
     "lever": fetch_lever,
     "html": fetch_html,
     "linkedin_rss": fetch_linkedin_rss,
+    "apify": fetch_apify,
 }
 
 
