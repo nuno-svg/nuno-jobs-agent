@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-06-08T09:58:26.240897+00:00",
+  "elapsed_total_s": 9.4,
+  "sources_total": 15,
+  "sources_ok": 14,
+  "sources_failed": 1,
+  "items_total_raw": 230,
+  "items_kept": 70,
+  "sources": [
+    {
+      "name": "reliefweb",
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 0.0,
+      "ok": false,
+      "error": "missing env var RELIEFWEB_APPNAME"
+    },
+    {
+      "name": "afdb",
+      "raw": 2,
+      "kept": 0,
+      "elapsed_s": 1.3,
+      "ok": true
+    },
+    {
+      "name": "ebrd",
+      "raw": 25,
+      "kept": 23,
+      "elapsed_s": 2.4,
+      "ok": true
+    },
+    {
+      "name": "worldbank",
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 0.8,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_instiglio",
+      "raw": 5,
+      "kept": 4,
+      "elapsed_s": 1.5,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_acumen",
+      "raw": 9,
+      "kept": 6,
+      "elapsed_s": 0.2,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_oneacre",
+      "raw": 37,
+      "kept": 34,
+      "elapsed_s": 0.2,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_socialfinance",
+      "raw": 5,
+      "kept": 0,
+      "elapsed_s": 0.2,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_rti",
+      "raw": 13,
+      "kept": 2,
+      "elapsed_s": 0.2,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_codeforamerica",
+      "raw": 8,
+      "kept": 0,
+      "elapsed_s": 0.1,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_omidyar",
+      "raw": 1,
+      "kept": 0,
+      "elapsed_s": 0.1,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_monzo",
+      "raw": 63,
+      "kept": 0,
+      "elapsed_s": 0.2,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_n26",
+      "raw": 62,
+      "kept": 1,
+      "elapsed_s": 0.2,
+      "ok": true
+    },
+    {
+      "name": "linkedin_search_blended",
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 1.0,
+      "ok": true
+    },
+    {
+      "name": "linkedin_search_dfi",
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 0.7,
+      "ok": true
+    }
+  ]
+}

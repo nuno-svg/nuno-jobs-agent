@@ -1,0 +1,41 @@
+name: daily-jobs-scan
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # 06:30 UTC every day = 07:30 Portugal summer / 06:30 winter
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install requests feedparser beautifulsoup4
+
+      - name: Run scan
+        env:
+          RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
+        run: python scan/run_daily.py
+
+      - name: Commit updated jobs.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/jobs.json docs/last_run.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "scan: update jobs.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi

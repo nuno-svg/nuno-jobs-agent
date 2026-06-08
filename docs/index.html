@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Pipeline — Nuno L. Mendonça</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --bg-soft: #f7f7f5;
+    --border: #e5e5e0;
+    --border-strong: #c8c8c0;
+    --text: #1a1a1e;
+    --text-soft: #666660;
+    --text-tertiary: #999990;
+    --accent: #1d4e89;
+    --accent-soft: #e6eef7;
+    --green: #1d9e75;
+    --amber: #ba7517;
+    --red: #a32d2d;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; padding: 2rem 1.5rem; max-width: 1280px; margin: 0 auto; }
+  h1 { font-size: 22px; font-weight: 600; margin-bottom: 4px; }
+  .subtitle { font-size: 13px; color: var(--text-soft); margin-bottom: 1.5rem; }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 1.5rem; }
+  .stat { background: var(--bg-soft); border-radius: 8px; padding: 1rem; }
+  .stat-label { font-size: 12px; color: var(--text-soft); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+  .stat-value { font-size: 26px; font-weight: 600; }
+  .filters { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; padding: 1rem; background: var(--bg-soft); border-radius: 8px; margin-bottom: 1rem; }
+  .filter-group { display: flex; gap: 6px; align-items: center; }
+  .filter-group label { font-size: 12px; color: var(--text-soft); font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 4px; }
+  select, input[type="text"] { font-size: 13px; padding: 6px 10px; border: 1px solid var(--border-strong); border-radius: 6px; background: white; color: var(--text); font-family: inherit; }
+  input[type="text"] { min-width: 220px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  thead { background: var(--bg-soft); }
+  thead th { padding: 10px 12px; text-align: left; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-soft); border-bottom: 1px solid var(--border-strong); }
+  tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
+  tbody tr:hover { background: var(--bg-soft); }
+  tbody td { padding: 12px; vertical-align: top; }
+  .title-cell { font-weight: 500; }
+  .title-cell a { color: var(--text); text-decoration: none; }
+  .title-cell a:hover { color: var(--accent); text-decoration: underline; }
+  .archetype-tag { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 500; }
+  .arch-A { background: #e6eef7; color: #1d4e89; }
+  .arch-B { background: #f5e6e6; color: #a33d2d; }
+  .arch-C { background: #fff3e0; color: #ba7517; }
+  .arch-D { background: #e8f5e9; color: #1d9e75; }
+  .fit-cell { font-weight: 600; text-align: right; font-variant-numeric: tabular-nums; }
+  .fit-high { color: var(--green); }
+  .fit-mid { color: var(--amber); }
+  .fit-low { color: var(--text-soft); }
+  .source-cell { font-size: 12px; color: var(--text-soft); }
+  .action-btn { font-size: 11px; padding: 3px 10px; border: 1px solid var(--border-strong); background: white; border-radius: 4px; cursor: pointer; color: var(--text); font-family: inherit; }
+  .action-btn:hover { background: var(--bg-soft); }
+  .action-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+  .empty { padding: 3rem; text-align: center; color: var(--text-tertiary); font-size: 14px; }
+  .footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 12px; color: var(--text-tertiary); }
+  .footer a { color: var(--text-soft); }
+  .status-applied { opacity: 0.45; }
+  .status-dismissed { display: none; }
+  body.show-dismissed .status-dismissed { display: table-row; opacity: 0.4; }
+</style>
+</head>
+<body>
+
+<h1>Job Pipeline</h1>
+<p class="subtitle" id="subtitle">Loading…</p>
+
+<div class="stats">
+  <div class="stat"><div class="stat-label">In pipeline</div><div class="stat-value" id="stat-total">—</div></div>
+  <div class="stat"><div class="stat-label">New to review</div><div class="stat-value" id="stat-new">—</div></div>
+  <div class="stat"><div class="stat-label">Applied</div><div class="stat-value" id="stat-applied">—</div></div>
+  <div class="stat"><div class="stat-label">Top fit score</div><div class="stat-value" id="stat-top">—</div></div>
+</div>
+
+<div class="filters">
+  <div class="filter-group">
+    <label>Archetype</label>
+    <select id="f-arch">
+      <option value="all">All</option>
+      <option value="A_blended_catalytic">A · Blended/Catalytic</option>
+      <option value="B_deal_structuring">B · Deal Structuring</option>
+      <option value="C_executive_training">C · Executive Training</option>
+      <option value="D_emerging_markets">D · Emerging Markets</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label>Status</label>
+    <select id="f-status">
+      <option value="all">All active</option>
+      <option value="new">New</option>
+      <option value="reviewing">Reviewing</option>
+      <option value="applied">Applied</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label>Min fit</label>
+    <select id="f-minfit">
+      <option value="0">≥ 0 (all)</option>
+      <option value="1" selected>≥ 1</option>
+      <option value="2">≥ 2</option>
+      <option value="3">≥ 3</option>
+      <option value="5">≥ 5</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label>Source</label>
+    <select id="f-source"><option value="all">All</option></select>
+  </div>
+  <div class="filter-group">
+    <label>Search</label>
+    <input type="text" id="f-search" placeholder="title, keyword…">
+  </div>
+  <div class="filter-group" style="margin-left: auto;">
+    <button class="action-btn" id="toggle-dismissed">Show dismissed</button>
+  </div>
+</div>
+
+<div id="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Archetype</th>
+        <th>Source</th>
+        <th style="text-align: right;">Fit</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div class="empty" id="empty" style="display:none;">No items match these filters.</div>
+</div>
+
+<div class="footer">
+  Sources: ReliefWeb API · AfDB · EBRD · World Bank · Greenhouse boards (Instiglio, Acumen, One Acre Fund, Social Finance, RTI, Omidyar, Monzo, N26, others) · LinkedIn search (best-effort).
+  Fit score = strongest archetype keyword match + breadth bonus + publisher boost.
+  Status saved locally in your browser. Edit <code>scan/sources.json</code> or <code>scan/archetype_keywords.json</code> and commit to tune.
+</div>
+
+<script>
+const STORAGE_KEY = "njobs_status_v1";
+
+function getStatuses() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); }
+  catch { return {}; }
+}
+function setStatus(id, status) {
+  const s = getStatuses();
+  if (status === "new") delete s[id]; else s[id] = status;
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+}
+
+let DATA = null;
+let STATUSES = getStatuses();
+
+async function load() {
+  try {
+    const r = await fetch("jobs.json?ts=" + Date.now());
+    DATA = await r.json();
+  } catch (e) {
+    document.getElementById("subtitle").textContent = "Failed to load jobs.json — has the scan run yet?";
+    return;
+  }
+  document.getElementById("subtitle").textContent =
+    `${DATA.total} opportunities · scored against 4 archetypes · last scan ${new Date(DATA.generated_at).toLocaleString("en-GB", {dateStyle: "medium", timeStyle: "short"})}`;
+  populateSourceFilter();
+  render();
+}
+
+function populateSourceFilter() {
+  const sources = [...new Set(DATA.items.map(i => i.source))].sort();
+  const sel = document.getElementById("f-source");
+  for (const s of sources) {
+    const opt = document.createElement("option");
+    opt.value = s; opt.textContent = s;
+    sel.appendChild(opt);
+  }
+}
+
+function statusOf(id) { return STATUSES[id] || "new"; }
+
+function render() {
+  const fArch = document.getElementById("f-arch").value;
+  const fStatus = document.getElementById("f-status").value;
+  const fMin = parseFloat(document.getElementById("f-minfit").value);
+  const fSource = document.getElementById("f-source").value;
+  const fSearch = document.getElementById("f-search").value.toLowerCase().trim();
+
+  let filtered = DATA.items.filter(it => {
+    if (fArch !== "all" && it.archetype !== fArch) return false;
+    if (it.fit < fMin) return false;
+    if (fSource !== "all" && it.source !== fSource) return false;
+    if (fSearch && !((it.title || "") + " " + (it.description || "")).toLowerCase().includes(fSearch)) return false;
+    const st = statusOf(it.id);
+    if (fStatus === "all" && st === "dismissed") return false;
+    if (fStatus !== "all" && st !== fStatus) return false;
+    return true;
+  });
+
+  const tbody = document.getElementById("tbody");
+  tbody.innerHTML = "";
+  document.getElementById("empty").style.display = filtered.length ? "none" : "block";
+
+  for (const it of filtered) {
+    const st = statusOf(it.id);
+    const tr = document.createElement("tr");
+    tr.className = "status-" + st;
+    tr.innerHTML = `
+      <td class="title-cell"><a href="${it.url}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a></td>
+      <td><span class="archetype-tag arch-${it.archetype.charAt(0)}">${escapeHtml(it.archetype_label)}</span></td>
+      <td class="source-cell">${escapeHtml(it.source)}</td>
+      <td class="fit-cell ${it.fit >= 5 ? 'fit-high' : it.fit >= 3 ? 'fit-mid' : 'fit-low'}">${it.fit.toFixed(1)}</td>
+      <td>
+        <button class="action-btn ${st === 'reviewing' ? 'active' : ''}" data-act="reviewing" data-id="${it.id}">Review</button>
+        <button class="action-btn ${st === 'applied' ? 'active' : ''}" data-act="applied" data-id="${it.id}">Applied</button>
+        <button class="action-btn" data-act="dismissed" data-id="${it.id}">Dismiss</button>
+      </td>
+    `;
+    tbody.appendChild(tr);
+  }
+
+  // Stats
+  const active = DATA.items.filter(it => statusOf(it.id) !== "dismissed");
+  document.getElementById("stat-total").textContent = active.length;
+  document.getElementById("stat-new").textContent = active.filter(it => statusOf(it.id) === "new").length;
+  document.getElementById("stat-applied").textContent = active.filter(it => statusOf(it.id) === "applied").length;
+  const top = active.length ? Math.max(...active.map(it => it.fit)) : 0;
+  document.getElementById("stat-top").textContent = top.toFixed(1);
+}
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+}
+
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest("button[data-act]");
+  if (!btn) return;
+  const id = btn.dataset.id;
+  const act = btn.dataset.act;
+  const current = statusOf(id);
+  const next = (current === act) ? "new" : act;
+  setStatus(id, next);
+  STATUSES = getStatuses();
+  render();
+});
+
+document.getElementById("f-arch").addEventListener("change", render);
+document.getElementById("f-status").addEventListener("change", render);
+document.getElementById("f-minfit").addEventListener("change", render);
+document.getElementById("f-source").addEventListener("change", render);
+document.getElementById("f-search").addEventListener("input", render);
+document.getElementById("toggle-dismissed").addEventListener("click", () => {
+  document.body.classList.toggle("show-dismissed");
+});
+
+load();
+</script>
+</body>
+</html>

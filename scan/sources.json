@@ -1,0 +1,129 @@
+{
+  "_comment": "Curated list — only sources tested as working as of 2026-06. Failing RSS feeds (Impactpool, UNTalent, Devex) were removed because they now return HTML/empty rather than feeds, or are protected by Cloudflare. ReliefWeb is the most productive source (200+ jobs per scan). LinkedIn is best-effort and frequently blocked. HTML scrapes on big-org career sites (AfDB, EBRD, World Bank) work but yield few items due to JS rendering — they're kept as low-yield-but-zero-cost signal sources.",
+  "sources": [
+    {
+      "name": "reliefweb",
+      "type": "api",
+      "url": "https://api.reliefweb.int/v1/jobs?appname={appname}&limit=300&sort[]=date.created:desc&filter[field]=experience&filter[value][]=Mid-career&filter[value][]=Senior&filter[operator]=OR",
+      "robust": true,
+      "geo_filter": true,
+      "needs_secret": "RELIEFWEB_APPNAME"
+    },
+    {
+      "name": "afdb",
+      "type": "html",
+      "url": "https://www.afdb.org/en/about-us/careers/current-vacancies",
+      "robust": false,
+      "geo_filter": false,
+      "selector": "table tr"
+    },
+    {
+      "name": "ebrd",
+      "type": "html",
+      "url": "https://jobs.ebrd.com/search/?q=&locationsearch=",
+      "robust": false,
+      "geo_filter": false,
+      "selector": "tr.data-row"
+    },
+    {
+      "name": "worldbank",
+      "type": "html",
+      "url": "https://worldbankgroup.csod.com/ats/careersite/search.aspx?site=1&c=worldbankgroup",
+      "robust": false,
+      "geo_filter": true,
+      "selector": "table tr"
+    },
+    {
+      "name": "greenhouse_instiglio",
+      "type": "greenhouse",
+      "board": "instiglio",
+      "robust": true,
+      "geo_filter": false
+    },
+    {
+      "name": "greenhouse_acumen",
+      "type": "greenhouse",
+      "board": "acumen",
+      "robust": true,
+      "geo_filter": true
+    },
+    {
+      "name": "greenhouse_oneacre",
+      "type": "greenhouse",
+      "board": "oneacrefund",
+      "robust": true,
+      "geo_filter": true
+    },
+    {
+      "name": "greenhouse_socialfinance",
+      "type": "greenhouse",
+      "board": "socialfinance",
+      "robust": true,
+      "geo_filter": false
+    },
+    {
+      "name": "greenhouse_rti",
+      "type": "greenhouse",
+      "board": "rti",
+      "robust": true,
+      "geo_filter": true
+    },
+    {
+      "name": "greenhouse_codeforamerica",
+      "type": "greenhouse",
+      "board": "codeforamerica",
+      "robust": true,
+      "geo_filter": true
+    },
+    {
+      "name": "greenhouse_omidyar",
+      "type": "greenhouse",
+      "board": "omidyarnetwork",
+      "robust": true,
+      "geo_filter": false
+    },
+    {
+      "name": "greenhouse_monzo",
+      "type": "greenhouse",
+      "board": "monzo",
+      "robust": true,
+      "geo_filter": false
+    },
+    {
+      "name": "greenhouse_n26",
+      "type": "greenhouse",
+      "board": "n26",
+      "robust": true,
+      "geo_filter": false
+    },
+    {
+      "name": "linkedin_search_blended",
+      "type": "linkedin_rss",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=blended%20finance&location=Europe&f_TPR=r604800&f_E=4%2C5%2C6&format=rss",
+      "robust": false,
+      "geo_filter": false,
+      "_note": "Best effort — LinkedIn blocks aggressively"
+    },
+    {
+      "name": "linkedin_search_dfi",
+      "type": "linkedin_rss",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=investment%20officer%20development%20finance&location=Europe&f_TPR=r604800&format=rss",
+      "robust": false,
+      "geo_filter": false,
+      "_note": "Best effort"
+    }
+  ],
+  "geo_allow_keywords": [
+    "europe", "european", "remote", "luxembourg", "brussels", "amsterdam", "paris",
+    "london", "frankfurt", "lisbon", "lisboa", "porto", "madrid", "barcelona",
+    "milan", "rome", "geneva", "zurich", "vienna", "dublin", "copenhagen", "stockholm",
+    "africa", "angola", "luanda", "mozambique", "maputo", "cabo verde", "cape verde",
+    "praia", "são tomé", "sao tome", "guinea-bissau", "bissau", "lusophone",
+    "global", "international", "multi-country", "hybrid", "anywhere", "worldwide"
+  ],
+  "geo_deny_keywords": [
+    "only us", "us only", "us citizens only", "must reside in us", "must reside in united states",
+    "asia only", "apac only", "singapore only", "manila only", "tokyo only",
+    "australia only", "anz only", "latam only", "latin america only"
+  ]
+}
