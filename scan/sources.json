@@ -4,7 +4,7 @@
     {
       "name": "reliefweb",
       "type": "api",
-      "url": "https://api.reliefweb.int/v1/jobs?appname={appname}&limit=300&sort[]=date.created:desc&filter[field]=experience&filter[value][]=Mid-career&filter[value][]=Senior&filter[operator]=OR",
+      "url": "https://api.reliefweb.int/v2/jobs?appname={appname}&limit=300&sort[]=date.created:desc&filter[field]=experience&filter[value][]=Mid-career&filter[value][]=Senior&filter[operator]=OR",
       "robust": true,
       "geo_filter": true,
       "needs_secret": "RELIEFWEB_APPNAME"
