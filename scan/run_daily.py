@@ -150,7 +150,12 @@ def fetch_html(source):
     """Generic HTML scrape — best effort. Many job sites use JS-rendered content
     that this won't catch; sources marked robust=false are expected to sometimes
     return empty without that being an error."""
-    r = requests.get(source["url"], headers={"User-Agent": UA, "Accept": "text/html"}, timeout=TIMEOUT)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+        "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "en-GB,en;q=0.9",
+    }
+    r = requests.get(source["url"], headers=headers, timeout=TIMEOUT)
     if r.status_code != 200:
         raise RuntimeError(f"HTTP {r.status_code}")
     soup = BeautifulSoup(r.text, "html.parser")
@@ -193,6 +198,75 @@ def fetch_linkedin_rss(source):
             "description": e.get("summary", ""),
             "published": e.get("published", ""),
         })
+    return items
+
+
+def fetch_ashby(source):
+    """Ashby HQ public job board JSON API.
+
+    Used by many impact-finance and dev-tech organisations that migrated off
+    Greenhouse/Lever in 2024-2026 (e.g. Lendable, FINCA).
+    """
+    board = source["board"]
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{board}?includeCompensation=false"
+    r = requests.get(url, headers={"User-Agent": UA}, timeout=TIMEOUT)
+    if r.status_code != 200:
+        raise RuntimeError(f"HTTP {r.status_code}")
+    data = r.json()
+    items = []
+    for j in data.get("jobs", []):
+        loc = j.get("location", "") or ""
+        # Some Ashby responses use a list of secondary locations
+        sec = j.get("secondaryLocations", []) or []
+        if sec and isinstance(sec, list):
+            loc_parts = [loc] + [s if isinstance(s, str) else s.get("location", "") for s in sec]
+            loc = " / ".join([x for x in loc_parts if x])
+        items.append({
+            "title": j.get("title", ""),
+            "url": j.get("jobUrl") or j.get("applyUrl") or "",
+            "description": BeautifulSoup(j.get("descriptionHtml", "") or j.get("descriptionPlain", ""),
+                                          "html.parser").get_text(" ", strip=True)[:2000],
+            "published": str(j.get("publishedAt") or j.get("updatedAt") or ""),
+            "location": loc,
+        })
+    return items
+
+
+def fetch_smartrecruiters(source):
+    """SmartRecruiters public postings API.
+
+    Used by some big European employers (e.g. Wise). Pagination via offset.
+    We pull up to 200 to keep latency low.
+    """
+    company = source["company"]
+    items = []
+    offset = 0
+    page_size = 100
+    while offset < 200:
+        url = f"https://api.smartrecruiters.com/v1/companies/{company}/postings?limit={page_size}&offset={offset}"
+        r = requests.get(url, headers={"User-Agent": UA, "Accept": "application/json"}, timeout=TIMEOUT)
+        if r.status_code != 200:
+            if offset == 0:
+                raise RuntimeError(f"HTTP {r.status_code}")
+            break
+        data = r.json()
+        content = data.get("content", [])
+        if not content:
+            break
+        for j in content:
+            loc_obj = j.get("location", {}) or {}
+            loc = " / ".join([x for x in [loc_obj.get("city"), loc_obj.get("country")] if x])
+            items.append({
+                "title": j.get("name", ""),
+                "url": (j.get("ref") or "").replace("postings/", "https://jobs.smartrecruiters.com/") or
+                       f"https://jobs.smartrecruiters.com/{company}/{j.get('id', '')}",
+                "description": "",  # SmartRecruiters list API doesn't return full description
+                "published": j.get("releasedDate") or j.get("createdOn") or "",
+                "location": loc,
+            })
+        offset += page_size
+        if len(content) < page_size:
+            break
     return items
 
 
@@ -254,6 +328,8 @@ FETCHERS = {
     "lever": fetch_lever,
     "html": fetch_html,
     "linkedin_rss": fetch_linkedin_rss,
+    "ashby": fetch_ashby,
+    "smartrecruiters": fetch_smartrecruiters,
     "apify": fetch_apify,
 }
 
@@ -356,6 +432,9 @@ def main():
     for source in sources:
         name = source["name"]
         stype = source["type"]
+        if source.get("disabled"):
+            log(f"skipped (disabled)", source=name)
+            continue
         fetcher = FETCHERS.get(stype)
         if not fetcher:
             log(f"no fetcher for type {stype}", source=name, level="warn")

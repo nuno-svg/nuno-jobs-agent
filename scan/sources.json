@@ -1,5 +1,5 @@
 {
-  "_comment": "Curated list — only sources tested as working as of 2026-06. Failing RSS feeds (Impactpool, UNTalent, Devex) were removed because they now return HTML/empty rather than feeds, or are protected by Cloudflare. ReliefWeb is the most productive source (200+ jobs per scan). LinkedIn is best-effort and frequently blocked. HTML scrapes on big-org career sites (AfDB, EBRD, World Bank) work but yield few items due to JS rendering — they're kept as low-yield-but-zero-cost signal sources.",
+  "_comment": "ReliefWeb v2 requires pre-approved appname (post Nov 2025) — disabled until appname approved for this app. Apify queries tuned 2026-06-08 to reduce noise: Lusophone broadened to single-term keyword, Indeed blended narrowed with explicit senior modifier.",
   "sources": [
     {
       "name": "reliefweb",
@@ -7,7 +7,9 @@
       "url": "https://api.reliefweb.int/v2/jobs?appname={appname}&limit=300&sort[]=date.created:desc&filter[field]=experience&filter[value][]=Mid-career&filter[value][]=Senior&filter[operator]=OR",
       "robust": true,
       "geo_filter": true,
-      "needs_secret": "RELIEFWEB_APPNAME"
+      "needs_secret": "RELIEFWEB_APPNAME",
+      "disabled": true,
+      "_note": "v2 requires pre-approved appname for this app since 2025-11-01. Re-enable once nuno-jobs-agent appname is approved by ReliefWeb team."
     },
     {
       "name": "afdb",
@@ -90,6 +92,30 @@
       "geo_filter": false
     },
     {
+      "name": "ashby_lendable",
+      "type": "ashby",
+      "board": "lendable",
+      "robust": true,
+      "geo_filter": true,
+      "_note": "Lendable Africa — fintech / impact finance, 60+ jobs"
+    },
+    {
+      "name": "ashby_finca",
+      "type": "ashby",
+      "board": "finca",
+      "robust": true,
+      "geo_filter": true,
+      "_note": "FINCA — microfinance"
+    },
+    {
+      "name": "smartrecruiters_wise",
+      "type": "smartrecruiters",
+      "company": "Wise",
+      "robust": true,
+      "geo_filter": false,
+      "_note": "Wise — fintech London-based, 300+ postings"
+    },
+    {
       "name": "linkedin_search_blended",
       "type": "linkedin_rss",
       "url": "https://www.linkedin.com/jobs/search/?keywords=blended%20finance&location=Europe&f_TPR=r604800&f_E=4%2C5%2C6&format=rss",
@@ -113,13 +139,10 @@
       "geo_filter": false,
       "needs_secret": "APIFY_TOKEN",
       "input": {
-        "urls": [
-          "https://www.linkedin.com/jobs/search/?keywords=blended%20finance&location=European%20Union&f_TPR=r604800&f_E=4%2C5%2C6"
-        ],
+        "urls": ["https://www.linkedin.com/jobs/search/?keywords=blended%20finance&location=European%20Union&f_TPR=r604800&f_E=4%2C5%2C6"],
         "count": 50,
         "scrapeCompany": false
-      },
-      "_note": "LinkedIn — Archetype A queries via Apify"
+      }
     },
     {
       "name": "apify_linkedin_investment_director",
@@ -129,29 +152,24 @@
       "geo_filter": false,
       "needs_secret": "APIFY_TOKEN",
       "input": {
-        "urls": [
-          "https://www.linkedin.com/jobs/search/?keywords=investment%20director%20development%20finance&location=European%20Union&f_TPR=r604800&f_E=5%2C6"
-        ],
+        "urls": ["https://www.linkedin.com/jobs/search/?keywords=investment%20director%20development%20finance&location=European%20Union&f_TPR=r604800&f_E=5%2C6"],
         "count": 50,
         "scrapeCompany": false
-      },
-      "_note": "LinkedIn — Archetype B queries via Apify"
+      }
     },
     {
-      "name": "apify_linkedin_lusophone_africa",
+      "name": "apify_linkedin_angola_senior",
       "type": "apify",
       "actor_id": "curious_coder/linkedin-jobs-scraper",
       "robust": true,
       "geo_filter": false,
       "needs_secret": "APIFY_TOKEN",
       "input": {
-        "urls": [
-          "https://www.linkedin.com/jobs/search/?keywords=Lusophone%20Africa%20finance%20OR%20Angola%20senior&f_TPR=r604800&f_E=4%2C5%2C6"
-        ],
-        "count": 50,
+        "urls": ["https://www.linkedin.com/jobs/search/?keywords=Angola%20senior%20finance&f_TPR=r604800&f_E=5%2C6"],
+        "count": 30,
         "scrapeCompany": false
       },
-      "_note": "LinkedIn — Archetype D queries via Apify"
+      "_note": "Tuned 2026-06-08: removed broken OR syntax that returned 0 results"
     },
     {
       "name": "apify_indeed_blended_eu",
@@ -161,12 +179,12 @@
       "geo_filter": true,
       "needs_secret": "APIFY_TOKEN",
       "input": {
-        "position": "blended finance OR development finance senior",
+        "position": "blended finance director",
         "country": "GB",
-        "maxItems": 50,
+        "maxItems": 30,
         "parseCompanyDetails": false
       },
-      "_note": "Indeed UK — Archetype A"
+      "_note": "Tuned 2026-06-08: narrowed to 'blended finance director' to cut noise"
     },
     {
       "name": "apify_indeed_cfo_remote",
@@ -180,8 +198,7 @@
         "country": "GB",
         "maxItems": 50,
         "parseCompanyDetails": false
-      },
-      "_note": "Indeed UK — Archetype B (CFO/interim)"
+      }
     },
     {
       "name": "apify_indeed_portugal_finance",
@@ -195,8 +212,7 @@
         "country": "PT",
         "maxItems": 50,
         "parseCompanyDetails": false
-      },
-      "_note": "Indeed Portugal — generalist senior finance"
+      }
     }
   ],
   "geo_allow_keywords": [
@@ -205,7 +221,7 @@
     "milan", "rome", "geneva", "zurich", "vienna", "dublin", "copenhagen", "stockholm",
     "africa", "angola", "luanda", "mozambique", "maputo", "cabo verde", "cape verde",
     "praia", "são tomé", "sao tome", "guinea-bissau", "bissau", "lusophone",
-    "global", "international", "multi-country", "hybrid", "anywhere", "worldwide"
+    "global", "international", "multi-country", "hybrid", "anywhere", "worldwide", "uk", "united kingdom"
   ],
   "geo_deny_keywords": [
     "only us", "us only", "us citizens only", "must reside in us", "must reside in united states",
