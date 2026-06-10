@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-09T10:12:13.069643+00:00",
-  "total": 88,
+  "generated_at": "2026-06-10T10:41:01.139959+00:00",
+  "total": 132,
   "items": [
+    {
+      "id": "406b2bc6a81b",
+      "title": "Corporate Development Manager",
+      "url": "https://it.linkedin.com/jobs/view/corporate-development-manager-at-domyn-4422758356?position=20&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=Jgm%2FI3%2FrRvrSQLobfNizzA%3D%3D",
+      "description": "Domyn | \nWe are seeking a highly driven and hands-on Corporate Development Manager to join our Finance Team, reporting directly to the CFO and working on funding, strategic finance and growth initiatives.\nThis is an operational role with high ownership, where the candidate will not only contribute to strategic decisions, but will also directly execute financial models, investor materials and fundraising processes. The position plays a key role in shaping the company’s equity story and supporting",
+      "published": "2026-06-09",
+      "location": "Milan, Lombardy, Italy",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 7.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 7.0,
+        "C_executive_training": 1.0,
+        "D_emerging_markets": 0.0
+      }
+    },
     {
       "id": "c36aaa781e2c",
       "title": "Senior Manager/Manager",
@@ -57,6 +75,42 @@
       }
     },
     {
+      "id": "564de90317bd",
+      "title": "Corporate Development Manager",
+      "url": "https://ie.linkedin.com/jobs/view/corporate-development-manager-at-darwin-hawkins-4426314271?position=55&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=PfTrJgHYSZBk1rXBhmP3ww%3D%3D",
+      "description": "Darwin Hawkins | \nJob Title: Corporate Development Manager\nSector: Large Private Corporate\nLocation: Dublin West\nSalary: Salary €120,000 - €140,000 Plus Bonus &amp; Benefits\n\n\nOur Client\nOur client is a large privately held business with a significant international footprint and a strong reputation in its sector. The company is well-established, commercially successful and continues to invest in strategic growth, innovation and expansion across multiple markets.\n\n\nWhy should you apply?\nThis is a",
+      "published": "2026-06-09",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 6.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 6.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "294775bc808d",
+      "title": "Financial Advisor AIFA",
+      "url": "https://be.linkedin.com/jobs/view/financial-advisor-aifa-4426318480?position=10&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=Zul0X5n%2FHQlABxcJWn6DMA%3D%3D&trk=public_jobs_jserp-result_search-card",
+      "description": "T&G Europe - Regional Hub | Join ENGIE’s Acquisitions, Investments and Financial Advisory (AIFA) team, a high-performing and inclusive hub at the core of the Group’s most strategic investments and transactions. Operating in a fast-paced environment, AIFA plays a key role in shaping ENGIE’s future across all business lines.\n\nAs Financial Advisor for Western Europe, you will drive complex financial analyses, valuations, structuring, and project financing, supporting strategic initiatives across Be",
+      "published": "2026-06-09",
+      "location": "Brussels, Brussels Region, Belgium",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 6.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 6.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "a84debcc85f8",
       "title": "Associate Partner (Anglophone Africa)",
       "url": "https://job-boards.greenhouse.io/instiglio/jobs/5989429004",
@@ -93,6 +147,114 @@
       }
     },
     {
+      "id": "30630d9f2989",
+      "title": "Associate/Consultant – Energy & Infrastructure Advisory",
+      "url": "https://it.linkedin.com/jobs/view/associate-consultant-%E2%80%93-energy-infrastructure-advisory-at-bip-4421226353?position=39&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=v3WMcSXFsRQMpXs%2BRxbSBQ%3D%3D",
+      "description": "BIP | \nEnter our world.\n Transform together with us.\n What will your challenge be?\nBip is a consulting firm born in and for the 21st century. Founded in Italy in 2003, today it employs more than 6,000 professionals worldwide, supporting companies across all industries in achieving Quality at Scale by rethinking their business models and markets.\nAs part of strengthening our team in the Milan office, we are looking for a:\n Associate/Consultant – Energy &amp; Infrastructure Advisory\nRole Overview\n",
+      "published": "2026-06-04",
+      "location": "Milan, Lombardy, Italy",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "e668e23e4fa4",
+      "title": "M&A Associate",
+      "url": "https://es.linkedin.com/jobs/view/m-a-associate-at-sungrow-renewables-development-co-ltd-4419560783?position=38&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=K3f1vAE4%2B9A1eVGyzy477Q%3D%3D",
+      "description": "Sungrow Renewables Development Co., Ltd | \nJob Description\nThis position has been created to support Sungrow Renewables’ expansion in Spain. The M&amp;A Associate will be a key member of the Investments &amp; M&amp;A team, playing a hands‑on role in executing buy‑side and sell‑side transactions, originating investment opportunities, and contributing to the company’s strategic growth.\n\n\nThe role focuses on execution – financial modelling, valuation, due diligence coordination, preparation of inve",
+      "published": "2026-06-09",
+      "location": "Community of Madrid, Spain",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "35b451dc47b4",
+      "title": "Private Equity (Senior) Investment Associate",
+      "url": "https://lu.linkedin.com/jobs/view/private-equity-senior-investment-associate-at-oraxys-environmental-private-equity-4418771152?position=27&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=d5OHCyAB7WavomH8RIVlyA%3D%3D",
+      "description": "ORAXYS Environmental Private Equity | \nJob opportunity in Private Equity: (Senior) Investment Associate in Luxembourg\n\n\nOpen position to start 3rd Quarter 2026\n\n\n\n\nORAXYS (www.oraxys.com) is a European Private Equity firm based in Luxembourg. We are specialized in Leveraged Buy-Out transactions on Small and Mid-sized Enterprises which market Environment-friendly products or services. \n\n\nORAXYS operates in Europe, with a focus on Benelux, France, Switzerland and Northern Italy. The structure of o",
+      "published": "2026-06-08",
+      "location": "Luxembourg, Luxembourg, Luxembourg",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "65b0fce7a0f7",
+      "title": "Investment Manager",
+      "url": "https://be.linkedin.com/jobs/view/investment-manager-at-wad-capital-4423554915?position=19&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=ih2wdeSJszQhla6vIocU%2FA%3D%3D",
+      "description": "WAD Capital | \nPartner with operators to redefine Entrepreneurship Through Acquisition.\n\n\nAs Investment Manager at WAD Capital, you are the technical and execution engine supporting our 15+ CEOs-in-Residence (CIRs). You partner with these operators to turn their search into closed, well-structured transactions, bringing sophisticated structuring and debt financing expertise to SME successions across the Benelux.\nYou act as the deal-structuring expert, managing the financial, legal, and insurance",
+      "published": "2026-06-04",
+      "location": "Brussels, Brussels Region, Belgium",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "89deb9859ead",
+      "title": "Investment & Development Manager (Renewables) (m/w/d)",
+      "url": "https://de.linkedin.com/jobs/view/investment-development-manager-renewables-m-w-d-at-lvi-associates-4426317022?position=18&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=61nLkb3E1YqrxAM%2ByJMwnA%3D%3D",
+      "description": "LVI Associates | \nThis role sits at the intersection of M&amp;A and project development, playing a key part in identifying, evaluating, and executing renewable energy transactions across Europe.\nYou'll be actively involved in screening and assessing investment opportunities, supporting due diligence processes, and contributing to deal structuring and execution. In parallel, you'll work closely with internal stakeholders to help translate transactions into tangible project development pipelines.\n",
+      "published": "2026-06-09",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "d3ea27212912",
+      "title": "Investment Associate, Energy Transition Fund Manager, Copenhagen, Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/investment-associate-energy-transition-fund-manager-copenhagen-denmark-at-per-4415690492?position=16&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=yQeEy6rIw3hWKFzIjo9xKA%3D%3D",
+      "description": "PER | About our client\n\nOur client is a leading energy transition-focused investment platform headquartered in Copenhagen, investing across Europe and North America. Founded by senior renewable energy and infrastructure investors, the firm focuses on scalable businesses across the renewable energy value chain to accelerate decarbonisation. With strong institutional backing and an ambitious growth strategy, they are actively expanding their investment team. \n\nWhat the job involves\n\n\n\n- Support en",
+      "published": "2026-06-09",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "e8ffba0f1743",
       "title": "Analyst, Nature and Climate Finance",
       "url": "https://jobs.ebrd.com/job/London-Analyst%2C-Nature-and-Climate-Finance/1401312933/",
@@ -111,21 +273,129 @@
       }
     },
     {
-      "id": "db06802b5d62",
-      "title": "Senior Investment Officer - Manufacturing, Agribusiness and Services - req36959",
-      "url": "https://at.linkedin.com/jobs/view/senior-investment-officer-manufacturing-agribusiness-and-services-req36959-at-ifc-international-finance-corporation-4419286153?position=2&pageNum=0&refId=nDu3JYQUx7wUgD8WbX6UBg%3D%3D&trackingId=p2etGCrM17dZz1eZlayQqQ%3D%3D",
-      "description": "IFC - International Finance Corporation | Senior Investment Officer - Manufacturing, Agribusiness and Services \n\nJob #: req36959\n\nOrganization: IFC\n\nSector: Investment\n\nGrade: GG\n\nTerm Duration: 3 years 0 months\n\nRecruitment Type: International Recruitment\n\nLocation: Vienna,Austria\n\nRequired Language(s): English\n\nPreferred Language(s)\n\nClosing Date: 6/16/2026 (MM/DD/YYYY) at 11:59pm UTC\n\nDescription\n\nBuild a career with impact. Working at the World Bank Group (WBG) provides a unique opportunity ",
-      "published": "2026-06-02",
-      "location": "Vienna, Vienna, Austria",
+      "id": "9653015f9c5a",
+      "title": "Investment Manager - Renewable Energy Scaleup",
+      "url": "https://de.linkedin.com/jobs/view/investment-manager-renewable-energy-scaleup-at-arteus-energy-4419696291?position=60&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=IG9w7GxEfX1qMHy5p2zvFg%3D%3D",
+      "description": "Arteus Energy | Deine Aufgaben\n\n\n\n- Corporate &amp; Project Finance\n\n- Unterstützung bei der Strukturierung des gesamten Capital Stacks (EK, Mezzanine und FK) zur Skalierung unserer &gt;1 GW Projekt-Pipeline.\n- Verhandlungen mit Banken und Finanzierungspartnern als wichtiger Bestandteil unserer Finanzierungsstrategie.\n- M&amp;A: Begleitung von Akquisitions- oder Verkaufsprozessen von Batterie- oder Agri-PV-Projekten vom Sourcing, Due Diligence, Transaction Management bis zum erfolgreichen Closin",
+      "published": "2026-06-03",
+      "location": "Karlsruhe, Baden-Württemberg, Germany",
       "source": "apify_linkedin_blended",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
       "fit": 4.0,
       "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 1.0,
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "8474f01e33d2",
+      "title": "Corporate Finance Manager",
+      "url": "https://se.linkedin.com/jobs/view/corporate-finance-manager-at-alight-4425496201?position=47&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=GJsl4AvPCKIpvoGTX2gLRw%3D%3D",
+      "description": "Alight | \nDo you thrive on building complex financial models and turning them into strategic decisions? Are you excited by the idea of owning the financial engine that helps scale renewable energy?\n\n\nAt Alight, we're on a mission to kick carbon off the grid by helping businesses switch to solar and battery storage from day one. As one of Europe's fastest-growing renewable energy platforms, we're now looking for a Corporate Finance Manager to own and develop the corporate model that underpins our",
+      "published": "2026-06-08",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "f2e1f5c64878",
+      "title": "Investment projects expert at the Advisory hub",
+      "url": "https://lt.linkedin.com/jobs/view/investment-projects-expert-at-the-advisory-hub-at-ilte-lietuva-4420711408?position=13&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=jA1jIof%2BaderOG%2F3lCcFyw%3D%3D",
+      "description": "ILTE Lietuva | \nPosition - at Advisory Hub\n\n\nKEY RESPONSIBILITIES\n\n- Advise project promoters throughout all stages of project development, from concept refinement to the preparation of investment projects that meet the requirements of financial institutions.\n- Prepare and assess feasibility studies, cost-benefit analyses (CBA), financial models, and socioeconomic impact assessments.\n- Provide expert support on project financial viability, structuring, and risk management matters.\n- Identify the",
+      "published": "2026-06-04",
+      "location": "Vilniaus, Lithuania",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "ca2438699e23",
+      "title": "Associate Director - Investment & Portfolio Management",
+      "url": "https://ie.linkedin.com/jobs/view/associate-director-investment-portfolio-management-at-morgan-mckinley-4425833332?position=14&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=1JZ7ZDN%2FenbM9uj0r4yO7A%3D%3D",
+      "description": "Morgan McKinley | \nOur client is leading financial services firm with offices based in Dublin City Centre. They are seeking an experienced investment professional to join a high-performing team focused on the evaluation, management, and optimisation of a diverse portfolio of investments.\n\n\nThis role offers the opportunity to contribute to investment decision-making, portfolio oversight, and value creation initiatives across a range of sectors. The successful candidate will work closely with inte",
+      "published": "2026-06-09",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "b16500c3b466",
+      "title": "Associate - Project finance and M&A - Paris, France",
+      "url": "https://fr.linkedin.com/jobs/view/associate-project-finance-and-m-a-paris-france-at-green-giraffe-advisory-4424195490?position=23&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=IVT%2F35CkDfXv5ioBw8imOQ%3D%3D",
+      "description": "Green Giraffe Advisory | As an Associate on our project finance &amp; M&amp;A deal team, you will be right in the middle of all the action. You will be working on impactful transactions and will be accountable for the smooth execution of advisory missions relating to financial structuring, raising debt or executing M&amp;A equity finance transactions. This is the ideal job for you to apply your analytical skills and curiosity for out-of-the-box solutions.\n\nWhy join the French Green Giraffe team?",
+      "published": "2026-06-05",
+      "location": "Paris, Île-de-France, France",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "d89492cc1317",
+      "title": "Analyst",
+      "url": "https://jobs.ebrd.com/job/Istanbul-Analyst/1402478633/",
+      "description": "Analyst Analyst Istanbul, TR 9 Jun 2026 0.00 km Istanbul, TR 9 Jun 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "d8e8e37673cb",
+      "title": "Analyst, Health & Safety Unit",
+      "url": "https://jobs.ebrd.com/job/London-Analyst%2C-Health-&-Safety-Unit/1402408033/",
+      "description": "Analyst, Health & Safety Unit Analyst, Health & Safety Unit London, GB 9 Jun 2026 0.00 km London, GB 9 Jun 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
       }
     },
     {
@@ -255,24 +525,6 @@
       }
     },
     {
-      "id": "6a1f722afa84",
-      "title": "Associate, Platform Eng DevOps",
-      "url": "https://jobs.ebrd.com/job/Sofia-Associate%2C-Platform-Eng-DevOps/1277117201/",
-      "description": "Associate, Platform Eng DevOps Associate, Platform Eng DevOps Sofia, BG 3 Jun 2026 0.00 km Sofia, BG 3 Jun 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "0c539cffd7cd",
       "title": "Analyst, Banking",
       "url": "https://jobs.ebrd.com/job/Kyiv-Analyst%2C-Banking/1400354933/",
@@ -363,46 +615,10 @@
       }
     },
     {
-      "id": "a29835d8b22d",
-      "title": "Analyst, Banking",
-      "url": "https://jobs.ebrd.com/job/London-Analyst%2C-Banking/1399937533/",
-      "description": "Analyst, Banking Analyst, Banking London, GB 2 Jun 2026 0.00 km London, GB 2 Jun 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "9a0f72161d9c",
       "title": "Principal, Lead Engineer AI",
       "url": "https://jobs.ebrd.com/job/London-Principal%2C-Lead-Engineer-AI/1398129833/",
       "description": "Principal, Lead Engineer AI Principal, Lead Engineer AI London, GB 28 May 2026 0.00 km London, GB 28 May 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "bc77a2eb427e",
-      "title": "Analyst, Banking SME F&D",
-      "url": "https://jobs.ebrd.com/job/Nairobi-Analyst%2C-Banking-SME-F&D/1397861533/",
-      "description": "Analyst, Banking SME F&D Analyst, Banking SME F&D Nairobi, KE 27 May 2026 0.00 km Nairobi, KE 27 May 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -471,6 +687,24 @@
       }
     },
     {
+      "id": "bc77a2eb427e",
+      "title": "Analyst, Banking SME F&D",
+      "url": "https://jobs.ebrd.com/job/Nairobi-Analyst%2C-Banking-SME-F&D/1397861533/",
+      "description": "Analyst, Banking SME F&D Analyst, Banking SME F&D Nairobi, KE 27 May 2026 0.00 km Nairobi, KE 27 May 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "ba376b409d7f",
       "title": "Assoc, Platform Eng, DevOps",
       "url": "https://jobs.ebrd.com/job/Sofia-Assoc%2C-Platform-Eng%2C-DevOps/1277114301/",
@@ -525,21 +759,165 @@
       }
     },
     {
-      "id": "620c88be897e",
-      "title": "Senior Investment Manager Blended Finance",
-      "url": "https://nl.linkedin.com/jobs/view/senior-investment-manager-blended-finance-at-invest-nl-4416671065?position=3&pageNum=0&refId=nDu3JYQUx7wUgD8WbX6UBg%3D%3D&trackingId=jSriSr8Fld9B8eoSXIjXcQ%3D%3D",
-      "description": "Invest-NL | Functieomschrijving\n\nWij vinden dat Nederland duurzamer en innovatiever moet. Gelukkig zijn er veel ondernemers met goede plannen voor de toekomst. Invest-NL is er om die te financieren en op weg te helpen. Dat doen we met durf, daadkracht en enthousiasme. Help je mee?\n\nTer voorbereiding op en voor verdere uitvoering van het Blended Finance mandaat zijn we op zoek naar een Senior investment Manager.\n\nOver het mandaat\n\nHet Blended Finance mandaat is een nieuw mandaat wat uitgevoerd wo",
-      "published": "2026-06-05",
-      "location": "Amsterdam, North Holland, Netherlands",
+      "id": "78d90f6cf33b",
+      "title": "Global Head of Asset Rotation (Sell-Side M&A)",
+      "url": "https://gr.linkedin.com/jobs/view/global-head-of-asset-rotation-sell-side-m-a-at-metlen-energy-metals-4423371210?position=59&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=ntfIq1Cf07pr6wsJaIIXGQ%3D%3D",
+      "description": "Metlen Energy & Metals | Job description:\n\n\nAt METLEN Energy &amp; Metals, we are catalysts for a sustainable future, positioned at the forefront of the energy transition while being a reference point for competitive green metallurgy at both the European and global levels.  We are a global industrial and energy company operating across two highly interconnected and complementary sectors: Energy and Metals. With a consolidated turnover of €5,683 million and an EBITDA of €1,080 million, along with",
+      "published": "2026-06-04",
+      "location": "Athens, Attiki, Greece",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 3.0,
       "scores": {
-        "A_blended_catalytic": 1.0,
-        "B_deal_structuring": 2.0,
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
         "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "7a2f25091fba",
+      "title": "Investment Associate / Vice President Venture Capital",
+      "url": "https://it.linkedin.com/jobs/view/investment-associate-vice-president-venture-capital-at-lhh-4314669709?position=54&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=C4umioOC7aCWOCTCfQht7A%3D%3D",
+      "description": "LHH | Per nostro Cliente, primario fondo di venture capital paneuropeo, siamo alla ricerca di un/una\n\nINVESTMENT ASSOCIATE / VP– VENTURE CAPITAL\n\nLa figura avrà un ruolo chiave nel definire la strategia di investimento, identificare e valutare nuove opportunità, gestire il portafoglio e consolidare le relazioni con università, centri di ricerca e partner industriali.\n\nResponsibilities\n\nLa figura si occuperà delle seguenti attività:\n\n\n\n-  Sourcing e valutazione investimenti: individuare e analizz",
+      "published": "2026-06-10",
+      "location": "Milan, Lombardy, Italy",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "96d35ff52f48",
+      "title": "Investment Associate",
+      "url": "https://nl.linkedin.com/jobs/view/investment-associate-at-blinqx-4424750123?position=43&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=zNUNT3DSqPysB7yXcDkffA%3D%3D",
+      "description": "Blinqx | \nBen jij toe aan een volgende stap binnen M&amp;A en zoek je een rol waarin je vanaf dag één echte verantwoordelijkheid draagt? In deze functie werk je aan uiteenlopende acquisitietrajecten binnen een snelgroeiende, PE-backed organisatie. Je bouwt mee aan waardecreatie, werkt nauw samen met management en krijgt de ruimte om door te groeien.\n\n\nWat ga je doen?\nAls Investment Associate ondersteun je het volledige M&amp;A-proces: van het beoordelen van kansen tot de uitvoering en integratie",
+      "published": "2026-06-05",
+      "location": "Barendrecht, South Holland, Netherlands",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "7ed64f680c17",
+      "title": "Structured Finance & Investment Associate",
+      "url": "https://se.linkedin.com/jobs/view/structured-finance-investment-associate-at-alight-4425471027?position=42&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=xbvLwopBBXTivS05xcXVjw%3D%3D",
+      "description": "Alight | \nDo you enjoy building and owning complex financial models—and want to use that skill set to accelerate the transition to renewable energy?\n\n\nWelcome to Alight! We’re an entrepreneurial Solar and BESS IPP (Independent Power Producer) with a clear mission: to kick carbon off the grid by helping businesses switch to solar &amp; batteries from day one.\n\n\nAs a Structured Finance Associate, you will be at the heart of how we finance and grow Alight’s portfolio of solar PV and Battery Energy ",
+      "published": "2026-06-08",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "5e5f64ab970e",
+      "title": "Investment Associate (m/w/d)",
+      "url": "https://de.linkedin.com/jobs/view/investment-associate-m-w-d-at-aream-4426769250?position=40&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=adldF3a8XiEQ4P9Fc77zdQ%3D%3D",
+      "description": "aream | \nDie aream Gruppe arbeitet seit 20 Jahren ausschließlich im Bereich der Erneuerbaren Energien und hat sich dadurch als einer der Spezialisten für diesen Markt in Europa etabliert. An unserem Standort im Düsseldorfer Hafen arbeiten wir mit rund 50 engagierten Mitarbeitern, strukturieren Fonds im Bereich der erneuerbaren Energien und sind führend im Erwerb und Management von Wind- und Solarparks in ganz Europa. Unsere Expertise erstreckt sich über drei Kernbereiche: Fund- und Asset-Managem",
+      "published": "2026-06-10",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "36760b416423",
+      "title": "Investment Manager (m/f/d)",
+      "url": "https://de.linkedin.com/jobs/view/investment-manager-m-f-d-at-a11-4426544042?position=36&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=9NCIvxw0x4lSiJuLpHdvKg%3D%3D",
+      "description": "A11 | About The Job\n\nAs a key growth accelerator, A11 partners with Europe’s most ambitious companies to connect them with top-tier talent ready to make an impact.\n\nProject A is a Berlin-based tech investor with &gt; EUR 1.3b in assets under management and two dedicated investment strategies: early-stage VC investments as well as co-investments with leading PE funds in buyout and growth transactions. The firm has invested in over 130 companies, which include European leaders such as sennder, Tra",
+      "published": "2026-06-09",
+      "location": "Berlin, Berlin, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "488e122d365a",
+      "title": "Investment Manager (m/f/d)",
+      "url": "https://de.linkedin.com/jobs/view/investment-manager-m-f-d-at-project-a-4425891884?position=44&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=WUA1Q%2FIS31df3nwarGYD%2Fg%3D%3D",
+      "description": "Project A | About The Job\n\nProject A is a Berlin-based tech investor with &gt; EUR 1.3b in assets under management and two dedicated investment strategies: early-stage VC investments as well as co-investments with leading PE funds in buyout and growth transactions. The firm has invested in over 130 companies, which include European leaders such as sennder, Trade Republic, Spryker, LUQOM and yoummday. Our platform team of &gt; 120 functional experts provide our portfolio companies with exclusive ",
+      "published": "2026-06-09",
+      "location": "Berlin, Berlin, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "5f928fff94b0",
+      "title": "Corporate & Project Finance Consultant",
+      "url": "https://it.linkedin.com/jobs/view/corporate-project-finance-consultant-at-rina-4415926187?position=21&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=ZQmsJs3tVkkGAHOstVE4bg%3D%3D",
+      "description": "RINA | RINA is currently recruiting for a Corporate &amp; Project Finance Consultant to join its office in Geona or Rozzano within the Sustainability and Business Innovation Division.\n\nMission\n\nRINA is looking for a motivated Consultant to join the Economics, Finance and Strategy Discipline in Genova or Rozzano.\n\nEconomics, Finance and Strategy Discipline provides consulting services such as Commercial &amp; Financial Due Diligence, Financial Modelling, Business Planning, Market Analysis, Subsid",
+      "published": "2026-06-09",
+      "location": "Genoa, Liguria, Italy",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "ea9696642110",
+      "title": "Corporate & Project Finance Consultant",
+      "url": "https://it.linkedin.com/jobs/view/corporate-project-finance-consultant-at-rina-4415927160?position=11&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=77zue47AJipjfjOkThKBRA%3D%3D",
+      "description": "RINA | RINA is currently recruiting for a Corporate &amp; Project Finance Consultant to join its office in Geona or Rozzano within the Sustainability and Business Innovation Division.\n\nMission\n\nRINA is looking for a motivated Consultant to join the Economics, Finance and Strategy Discipline in Genova or Rozzano.\n\nEconomics, Finance and Strategy Discipline provides consulting services such as Commercial &amp; Financial Due Diligence, Financial Modelling, Business Planning, Market Analysis, Subsid",
+      "published": "2026-06-09",
+      "location": "Rozzano, Lombardy, Italy",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
       }
     },
     {
@@ -561,21 +939,57 @@
       }
     },
     {
-      "id": "95b58c4f3224",
-      "title": "Finance Director",
-      "url": "https://se.linkedin.com/jobs/view/finance-director-at-dellner-bubenzer-4424045850?position=8&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=NWkANUjgB7WCprqgIHn37g%3D%3D",
-      "description": "Dellner Bubenzer | \nWould you like to be part of a larger group with both local and international influence and the global finance responsible for our biggest business unit?\nTo strengthen our global Dellner Bubenzer management team, we are looking for an experienced Finance Director who will take the Business Unit and our company to the next level through targeted financial management, digitalization and internationalization! \nThe Finance Director plays a critical role in ensuring that Dellner B",
-      "published": "2026-06-03",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
+      "id": "9e4244a7d4da",
+      "title": "Senior Manager, Finance – FP&A and Project Finance",
+      "url": "https://at.linkedin.com/jobs/view/senior-manager-finance-%E2%80%93-fp-a-and-project-finance-at-climate-policy-initiative-4425636511?position=50&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=CsiLrr4BRB6FFRoQnxoCFQ%3D%3D",
+      "description": "Climate Policy Initiative | Job Title: Senior Manager, Finance – FP&amp;A and Project Finance (Exceptional candidates who do not fully meet the Senior Manager criteria may be considered for a Manager-level position.)\n\nReports to: Global Finance Director (Washington, DC)\n\nDirect Reports: Financial Reporting Analyst (Delhi, India)\n\nLocation: Vienna, Austria\n\nSenior Manager Salary Range: €85,000 - €100,000\n\nUpdated: June 2026\n\nAbout CPI\n\nClimate Policy Initiative (CPI) is an analysis and advisory o",
+      "published": "2026-06-08",
+      "location": "Vienna, Vienna, Austria",
+      "source": "apify_linkedin_blended",
+      "archetype": "D_emerging_markets",
+      "archetype_label": "D · Emerging Markets / Lusophone",
       "fit": 2.5,
       "scores": {
         "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 2.0
+      }
+    },
+    {
+      "id": "ff405361ac78",
+      "title": "Financial Analyst - req37045",
+      "url": "https://fr.linkedin.com/jobs/view/financial-analyst-req37045-at-the-world-bank-group-4425644789?position=33&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=XzKuGHGykEXOvzqsi9NL2A%3D%3D",
+      "description": "The World Bank Group | Financial Analyst \n\nJob #: req37045\n\nOrganization: World Bank\n\nSector: Treasury\n\nGrade: GE\n\nTerm Duration: 3 years 0 months\n\nRecruitment Type: Local Recruitment\n\nLocation: Paris,France\n\nRequired Language(s): English\n\nPreferred Language(s): French, Spanish, or Arabic\n\nClosing Date: 6/26/2026 (MM/DD/YYYY) at 11:59pm UTC\n\nDescription\n\nDo you want to build a career that is truly worthwhile? The World Bank Group is a unique global partnership of five institutions driven by a bo",
+      "published": "2026-06-08",
+      "location": "Paris, Île-de-France, France",
+      "source": "apify_linkedin_blended",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 2.5,
+      "scores": {
+        "A_blended_catalytic": 2.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "01d075d1aa3a",
+      "title": "Senior Consultant - Business Financing & ESPA",
+      "url": "https://gr.linkedin.com/jobs/view/senior-consultant-business-financing-espa-at-nosis-business-solutions-consulting-4423513033?position=29&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=hNRuYIPZRjz3Sc458%2FhUsw%3D%3D",
+      "description": "NOSIS Business Solutions & Consulting | About NOSIS NOSIS is a boutique investment advisory firm based in Chalandri. We help ambitious Greek companies — hotel groups, manufacturers, real estate developers, SaaS and EdTech founders — finance their next growth phase through a combination of bank lending and EU-funded instruments: corporate loans, ΕΣΠΑ grants, RRF/ΤΑΑ loans, Αναπτυξιακός Νόμος, ΤΕΠΙΧ ΙΙΙ and InvestEU. Most of our deals are blended structures, where a bank facility sits alongside a ",
+      "published": "2026-06-04",
+      "location": "Khalándrion, Attiki, Greece",
+      "source": "apify_linkedin_blended",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 2.5,
+      "scores": {
+        "A_blended_catalytic": 2.0,
         "B_deal_structuring": 2.0,
         "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
+        "D_emerging_markets": 0.0
       }
     },
     {
@@ -597,13 +1011,13 @@
       }
     },
     {
-      "id": "f7fe28f225e3",
-      "title": "Director of Strategic Finance",
-      "url": "https://de.linkedin.com/jobs/view/director-of-strategic-finance-at-unybrands-4423951385?position=15&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=dJj6UA3Nt0lKje%2BmvAqAgg%3D%3D",
-      "description": "unybrands | \nFounded in 2020, unybrands is the next-generation brand accelerator platform built to acquire, integrate, and scale digital-first consumer brands. Headquartered in Miami, with offices in New York, London, Berlin, and Shenzhen, our 240+ team brings deep expertise across e-commerce, brand management, consumer retail, operational scaling, and M&amp;A.\nSince inception, we have acquired 30+ brands across Pet Care, Personal Care, Home Care, Supplements, Baby &amp; Juvenile, Garden &amp; O",
-      "published": "2026-06-02",
-      "location": "Berlin, Germany",
-      "source": "apify_linkedin_investment_director",
+      "id": "1cc3a6935730",
+      "title": "Financial Modeller",
+      "url": "https://es.linkedin.com/jobs/view/financial-modeller-at-opdenergy-4412669182?position=56&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=m2uZrN2Uf%2Bp8AYORQrnUwA%3D%3D",
+      "description": "Opdenergy | \nOpdenergy is a growing independent renewable energy producer (IPP) with presence in Europe, United States and Latin America with more than 21 years of experience. The company develops, builds, finances, manages, and operates high quality renewable energy projects in several countries, with a portfolio of 2,6 GW (1,3 operational and + 1,3 ready to build / under construction) assets in operations and construction, whole portfolio under development sums up to over 18 GW.\n\n\nWe are curre",
+      "published": "2026-06-08",
+      "location": "Madrid, Community of Madrid, Spain",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
@@ -615,10 +1029,46 @@
       }
     },
     {
-      "id": "3726e9899a83",
+      "id": "a8b8ed5dd192",
+      "title": "EY-Parthenon | Corporate Finance Senior Analyst and Analyst (Energy & Infrastructure)",
+      "url": "https://fi.linkedin.com/jobs/view/ey-parthenon%C2%A0-%C2%A0corporate-finance%C2%A0senior-analyst%C2%A0and%C2%A0analyst%C2%A0-energy%C2%A0-infrastructure-at-ey-parthenon-4425250945?position=48&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=3j7EcS2%2FVyX24PTqYEYZNA%3D%3D",
+      "description": "EY-Parthenon | Are you an experienced professional with a strong interest in M&amp;A and other capital raisings? Do you want to have a meaningful job where you have the chance to see and contribute to the energy and infrastructure sector transition and work on exciting transactions raising equity and debt financing to build renewables, energy and data center projects? Do you enjoy working in an international and fast-paced environment?\n\nIf you answered yes, we would be happy to hear more about y",
+      "published": "2026-06-08",
+      "location": "Helsinki, Uusimaa, Finland",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "52ab7ed667d9",
+      "title": "Senior Associate/Principal  (w/m/d)",
+      "url": "https://de.linkedin.com/jobs/view/senior-associate-principal-w-m-d-at-oyster-bay-venture-capital-4420166030?position=35&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=WPg2LMZZWnvea6DPhZBZcQ%3D%3D",
+      "description": "Oyster Bay Venture Capital | \nWith Oyster Bay, we invest in ambitious founders to create a sustainable food system for future generations. We have previously invested in companies such as Oatly, AirUp, Stenon, TrueGum, Peas of Heaven, nukoko and GoodBytz. Our first fund is in the top 10% of European VC funds. In 2025 we closed our oversubscribed second fund.\n\nA sustainable food value chain would contribute to solving the climate crisis, ensuring food security for our growing population, and supp",
+      "published": "2026-06-03",
+      "location": "Hamburg, Hamburg, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "af9f4d72535e",
       "title": "Head of Finance - Housing and Housing Revenue Account",
-      "url": "https://ee.linkedin.com/jobs/view/head-of-finance-housing-and-housing-revenue-account-at-bristol-city-council-4425935536?position=6&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=S1BPnWxIV1%2F7fXxDxkT6Fw%3D%3D",
-      "description": "Bristol City Council | Shape the future of a city that dares to be different\n\nBristol is one of the UK’s most vibrant, innovative and ambitious cities. With a strong sense of identity, a clear long‑term vision and a commitment to social justice, sustainability and inclusive growth, Bristol City Council plays a pivotal role in improving outcomes for people who live, work and visit the city.\n\nSound financial leadership is fundamental to achieving this vision. Housing in Bristol is undertaking a cl",
+      "url": "https://ee.linkedin.com/jobs/view/head-of-finance-housing-and-housing-revenue-account-at-bristol-city-council-4425935536?position=9&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=yRp7ZrnsDzOxpjW7g9Ly0A%3D%3D",
+      "description": "Bristol City Council | Full time, Permanent \n\nShape the future of a city that dares to be different\n\nBristol is one of the UK’s most vibrant, innovative and ambitious cities. With a strong sense of identity, a clear long‑term vision and a commitment to social justice, sustainability and inclusive growth, Bristol City Council plays a pivotal role in improving outcomes for people who live, work and visit the city.\n\nSound financial leadership is fundamental to achieving this vision. Housing in Bris",
       "published": "2026-06-08",
       "location": "City Centre, Harjumaa, Estonia",
       "source": "apify_linkedin_investment_director",
@@ -633,12 +1083,12 @@
       }
     },
     {
-      "id": "a60c18e9042a",
-      "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422251492?position=3&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=c2%2F7lyh8r4aRV%2BPSPgslZA%3D%3D",
-      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
+      "id": "4c75f49c7581",
+      "title": "Finance Director",
+      "url": "https://ie.linkedin.com/jobs/view/finance-director-at-fk-international-financial-search-and-selection-4426360605?position=8&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=CNjwfz2J4UD3WBGSSSbndA%3D%3D",
+      "description": "FK International - Financial Search and Selection | \nFinance Director\nFMCG - Kilkenny\n\n\nPosition Description\nNewly created position with a well-established SME business embarking on a period of sustained growth and development. The Finance Director will play a lead role in the business implementing a growth strategy, and driving continuous profitable growth in the business. Key aspects of role will involve:\n\n- Commercial decision support and management reporting, establishing MI systems to provi",
       "published": "2026-06-09",
-      "location": "Frankfurt am Main, Hesse, Germany",
+      "location": "Kilkenny, County Kilkenny, Ireland",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -651,9 +1101,9 @@
       }
     },
     {
-      "id": "aeb5e6d6f053",
+      "id": "190f4fafcd7c",
       "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254492?position=4&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=xZoSEqETRVvkkJ25246wFQ%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254492?position=5&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=7YjMkAWjZ%2Bn6K%2FZeOZanaw%3D%3D",
       "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
       "published": "2026-06-09",
       "location": "Berlin, Berlin, Germany",
@@ -669,9 +1119,9 @@
       }
     },
     {
-      "id": "08be45545b69",
+      "id": "da268db94af1",
       "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254495?position=2&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=u1zrZs5pL8qY7UA5WMqPAQ%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254495?position=4&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=I2P8nweO5lL%2FPIp2yS%2BoZw%3D%3D",
       "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
       "published": "2026-06-09",
       "location": "Munich, Bavaria, Germany",
@@ -687,12 +1137,48 @@
       }
     },
     {
-      "id": "c5290250c0d9",
+      "id": "8241fb435bf1",
       "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422269129?position=1&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=xIWm3FyhNlpRySrFyUPLJg%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422251492?position=2&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=nzhqsDLZXXitX9%2FSiLuX6Q%3D%3D",
+      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
+      "published": "2026-06-09",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "18121f0da38e",
+      "title": "Investment Director (Lyon, France)",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422269129?position=3&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=KHmR9esiELXRNhMsVvWVqA%3D%3D",
       "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
       "published": "2026-06-09",
       "location": "Hamburg, Hamburg, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "be094e634e82",
+      "title": "Chief Investment Officer - Head of Funds",
+      "url": "https://ie.linkedin.com/jobs/view/chief-investment-officer-head-of-funds-at-boyden-4423127009?position=1&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=MWWefuHCQpDIpoPzDQ0FQw%3D%3D",
+      "description": "Boyden | \nOur client is a newly established investment company, backed by a substantial capital base. It has been created to invest across cash, bonds, funds, and securities, with the objective of growing capital for the benefit of its stakeholders, who are shareholders in one of Ireland’s largest independent businesses. It is now seeking to appoint a Chief Investment Officer (Head of Funds) to strengthen its strategic and organisational capability.\n\n\nReporting to the Fund &amp; Asset Management",
+      "published": "2026-06-10",
+      "location": "Shannon, County Clare, Ireland",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -777,12 +1263,48 @@
       }
     },
     {
-      "id": "b9e81ee2adf9",
-      "title": "E T Consultant - Sustainable Finance Expert - req36997",
-      "url": "https://fr.linkedin.com/jobs/view/e-t-consultant-sustainable-finance-expert-req36997-at-ifc-international-finance-corporation-4423081029?position=5&pageNum=0&refId=nDu3JYQUx7wUgD8WbX6UBg%3D%3D&trackingId=bbeP1wRDKxL%2B5HYYNju36A%3D%3D",
-      "description": "IFC - International Finance Corporation | E T Consultant - Sustainable Finance Expert \n\nJob #: req36997\n\nOrganization: IFC\n\nSector: Infrastructure\n\nGrade: EC2\n\nTerm Duration: 1 year 0 months\n\nRecruitment Type: Local Recruitment\n\nLocation: Paris,France\n\nRequired Language(s): English\n\nPreferred Language(s)\n\nClosing Date: 6/10/2026 (MM/DD/YYYY) at 11:59pm UTC\n\nDescription\n\nBuild a career with impact. Working at the World Bank Group (WBG) provides a unique opportunity to help countries solve their g",
-      "published": "2026-06-03",
-      "location": "Paris, Île-de-France, France",
+      "id": "f3f879c38d08",
+      "title": "(CDP)_Development Finance Associate - Finanza di Progetto Cooperazione allo Sviluppo",
+      "url": "https://it.linkedin.com/jobs/view/cdp-development-finance-associate-finanza-di-progetto-cooperazione-allo-sviluppo-at-cdp-cassa-depositi-e-prestiti-4425477458?position=53&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=JO0dWdXYg8faIqJVFw465Q%3D%3D",
+      "description": "CDP Cassa Depositi e Prestiti | Descrizione lavoro:\n\n\nCassa Depositi e Prestiti ricerca una figura di \"Development Finance Associate\" per il Team Finanza di Progetto Cooperazione allo Sviluppo\n \nLa persona verrà inserita all’interno della Direzione “Cooperazione allo Sviluppo e Relazioni Istituzionali Internazionali”, nell’Area “Istituzioni Finanziarie, Imprese e Fondi Cooperazione allo Sviluppo”, in particolare nel team “Finanza di Progetto Cooperazione allo Sviluppo” e si occuperà, con riferim",
+      "published": "2026-06-08",
+      "location": "Rome, Latium, Italy",
+      "source": "apify_linkedin_blended",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 1.5,
+      "scores": {
+        "A_blended_catalytic": 1.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "fea92e7a2ac9",
+      "title": "Zacua Ventures Platform (VC) Profile",
+      "url": "https://es.linkedin.com/jobs/view/zacua-ventures-platform-vc-profile-at-zacua-ventures-4420704354?position=45&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=mH7GWBn6rF3JCoaCpJAppg%3D%3D",
+      "description": "Zacua Ventures | \nAbout Zacua Ventures\n\nZacua Ventures is an early-stage venture capital fund with a global reach, specializing in innovations within the built environment. Our core focus is on investing in transformative technologies that enhance sustainability, productivity, and industrial resiliency.\n\nZacua Ventures is managed by an international and diverse team, each having more than a decade of industry experience. In alignment with our international perspective, we maintain a presence in ",
+      "published": "2026-06-04",
+      "location": "Madrid, Community of Madrid, Spain",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "822a51ee784d",
+      "title": "Șef Departament Parteneriat Public-Privat (PPP)",
+      "url": "https://ro.linkedin.com/jobs/view/%C8%99ef-departament-parteneriat-public-privat-ppp-at-banca-de-investitii-si-dezvoltare-4426362086?position=17&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=7pR%2FkL755iiPXnBWIDE4bQ%3D%3D",
+      "description": "Banca de Investitii si Dezvoltare | \nBanca de Investiții și Dezvoltare (BID) își consolidează capacitatea de structurare si implementare a proiectelor strategice și caută un Șef Departament Parteneriat Public-Privat (PPP) care să susțină dezvoltarea și evaluarea oportunităților de investiții în proiecte de infrastructură cu potențial PPP, să contribuie la structurarea soluțiilor de finanțare și să colaboreze cu investitori, instituții financiare și parteneri internaționali pentru mobilizarea cap",
+      "published": "2026-06-09",
+      "location": "Bucharest, Romania",
       "source": "apify_linkedin_blended",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
@@ -795,9 +1317,9 @@
       }
     },
     {
-      "id": "b8a1a9ed9951",
+      "id": "38cef03baf0d",
       "title": "Finance Director",
-      "url": "https://ro.linkedin.com/jobs/view/finance-director-at-leanpay-4423342975?position=9&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=nLE2XHJjvyxqbRH2Vjmp5w%3D%3D",
+      "url": "https://ro.linkedin.com/jobs/view/finance-director-at-leanpay-4423342975?position=7&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=1COOVzuGQ%2FR5HJvmqjYrLQ%3D%3D",
       "description": "Leanpay | \nLeanpay is a fast-growing fintech operating as a licensed Non-Bank Financial Institution (NBFI) in Romania, on a mission to enable any consumer to make any purchase in any shop by providing responsible, fair and easy financing. We combine cutting-edge technology with transparent, people-first products; from point-of-sale consumer credit and BNPL to digital lending, serving both retail customers and merchant partners across the country.\n\n\nWe are currently expanding our Leanpay Romania ",
       "published": "2026-06-04",
       "location": "Bucharest, Bucharest, Romania",
@@ -927,6 +1449,24 @@
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
       "published": "2026-06-09T04:59:07-04:00",
       "location": "Burundi",
+      "source": "greenhouse_oneacre",
+      "archetype": "D_emerging_markets",
+      "archetype_label": "D · Emerging Markets / Lusophone",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "eca72f65ecbd",
+      "title": "Burundi Operations Senior Manager/Director",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7984655",
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
+      "published": "2026-06-10T05:09:23-04:00",
+      "location": "Muramvya, Burundi",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
       "archetype_label": "D · Emerging Markets / Lusophone",
@@ -1101,6 +1641,24 @@
       }
     },
     {
+      "id": "d1f032b3e263",
+      "title": "Malawi Market Access Lead",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7992768",
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
+      "published": "2026-06-09T15:36:06-04:00",
+      "location": "Zomba, Malawi or Lilongwe, Malawi",
+      "source": "greenhouse_oneacre",
+      "archetype": "D_emerging_markets",
+      "archetype_label": "D · Emerging Markets / Lusophone",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
       "id": "9f26d1601063",
       "title": "Nigeria Credit Lead",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7382855",
@@ -1179,24 +1737,6 @@
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
       "published": "2026-03-30T10:34:11-04:00",
       "location": "Bugesera, Rwanda ",
-      "source": "greenhouse_oneacre",
-      "archetype": "D_emerging_markets",
-      "archetype_label": "D · Emerging Markets / Lusophone",
-      "fit": 1.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
-      }
-    },
-    {
-      "id": "f463083687d6",
-      "title": "Rwanda Financial Reporting Associate",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7735358",
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
-      "published": "2026-03-19T10:26:26-04:00",
-      "location": "Kigali, Rwanda",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
       "archetype_label": "D · Emerging Markets / Lusophone",
@@ -1335,11 +1875,11 @@
       }
     },
     {
-      "id": "7d6e73240ae4",
-      "title": "Sustainable Agriculture Innovation Lead (Fixed-term)",
+      "id": "f2969c4e8851",
+      "title": "Sustainable Agriculture Innovation Lead",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7988454",
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
-      "published": "2026-06-08T08:51:10-04:00",
+      "published": "2026-06-10T04:51:56-04:00",
       "location": "Kenya, Uganda, Tanzania, Rwanda, Burundi, Malawi, Zambia, Nigeria",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
@@ -1359,6 +1899,24 @@
       "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
       "published": "2026-05-09T05:54:45-04:00",
       "location": "Tanzania",
+      "source": "greenhouse_oneacre",
+      "archetype": "D_emerging_markets",
+      "archetype_label": "D · Emerging Markets / Lusophone",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "92f75a0ffa82",
+      "title": "Technical Assistance Success Specialist (Fixed-term)",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7992644",
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while perm",
+      "published": "2026-06-09T16:45:13-04:00",
+      "location": "Kigali, Rwanda",
       "source": "greenhouse_oneacre",
       "archetype": "D_emerging_markets",
       "archetype_label": "D · Emerging Markets / Lusophone",
@@ -1461,12 +2019,66 @@
       }
     },
     {
+      "id": "467294222669",
+      "title": "AFC Associate - SAR Delegate (CDD / Fixed-term contract)",
+      "url": "https://n26.com/en-eu/careers/positions/7965433?gh_jid=7965433",
+      "description": "<h2><strong>About the opportunity</strong></h2>\n<p>We are currently seeking an AFC Associate / SAR Delegate (Déclarant Tracfin) to join the French MLRO function on a CDD/fixed-term basis (6 months). In this role, you will be responsible for coordinating and taking ownership of key Anti-Financial Crime Operations activities, including decision-making on matters such as: review AML-CFT investigations, support the teams in charge of ongoing due diligence and EDD process (including decisions on requ",
+      "published": "2026-06-09T11:41:47-04:00",
+      "location": "Paris",
+      "source": "greenhouse_n26",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "02668aedfc6e",
+      "title": "AFC Associate - SAR Delegate  (Déclarant Tracfin) ",
+      "url": "https://n26.com/en-eu/careers/positions/7993063?gh_jid=7993063",
+      "description": "<h2><strong>About the opportunity</strong></h2>\n<p>We are currently seeking an AFC Associate / SAR Delegate (Déclarant Tracfin) to join the French MLRO function. In this role, you will be responsible for coordinating and taking ownership of key Anti-Financial Crime Operations activities, including decision-making on matters such as: review AML-CFT investigations, support the teams in charge of ongoing due diligence and EDD process (including decisions on requests for information to the customer)",
+      "published": "2026-06-10T04:06:58-04:00",
+      "location": "Paris",
+      "source": "greenhouse_n26",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "aba10485d711",
       "title": "AFC Senior Associate / SAR Delegate (déclarant and correspondant Tracfin)",
       "url": "https://n26.com/en-eu/careers/positions/7811338?gh_jid=7811338",
       "description": "<h2><strong>About the opportunity</strong></h2>\n<p data-start=\"161\" data-end=\"332\">We are currenlty looking for an AFC Senior Associate / SAR Delegate to join our French MLRO team in a high-impact, hands-on role at the heart of our Anti-Financial Crime operations.</p>\n<p data-start=\"334\" data-end=\"710\">In this position, you will take ownership of critical AFC activities, including leading AML-CFT investigations, supporting ongoing due diligence and enhanced due diligence (EDD) processes, and rev",
       "published": "2026-05-20T04:42:04-04:00",
       "location": "Paris",
+      "source": "greenhouse_n26",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "e74f27509422",
+      "title": "KYC Specialist",
+      "url": "https://n26.com/en-eu/careers/positions/7989181?gh_jid=7989181",
+      "description": "<h2>About the opportunity</h2>\n<p>We are looking for a Specialist in Know-Your-Customer (KYC) to join our growing KYC team in our Madrid office. In this role, you will take ownership of key processes within KYC and ensure an optimal user experience.</p>\n<p>In KYC, our goal is to lead and shape the industry by fostering a culture of compliance within N26 that is trusted by authorities, customers, and shareholders. For that purpose, your expertise in KYC is fundamental. Particularly in Ongoing Due",
+      "published": "2026-06-10T03:21:26-04:00",
+      "location": "Madrid",
       "source": "greenhouse_n26",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -1515,12 +2127,174 @@
       }
     },
     {
-      "id": "a66bacc69a6f",
-      "title": "Partnership and Network Adviser",
-      "url": "https://be.linkedin.com/jobs/view/partnership-and-network-adviser-at-unops-4417632726?position=6&pageNum=0&refId=nDu3JYQUx7wUgD8WbX6UBg%3D%3D&trackingId=oGf4cDpizHxw1YZoRzcOwg%3D%3D",
-      "description": "UNOPS | Job Highlight \n\nThe position will support a global initiative focused on climate action and sustainable urban development. Through this role, the successful candidate will actively contribute to innovation in partnership development, knowledge management and coalition building, working with a diverse range of stakeholders to empower cities and local governments in their transition to climate-resilient systems.\n\nAbout The Group \n\nThe Water, Environment, and Climate (WEC) portfolio, based ",
-      "published": "2026-06-02",
-      "location": "Brussels, Brussels Region, Belgium",
+      "id": "3a18bb53945d",
+      "title": "Senior Investment Manager (m/w/d)",
+      "url": "https://de.linkedin.com/jobs/view/senior-investment-manager-m-w-d-at-ibc-solar-ag-4424980087?position=57&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=gVGZ8ga5HHm7W41etfq9eQ%3D%3D",
+      "description": "IBC SOLAR AG | Karriereportal   Senior Investment Manager (m/w/d)  \n \n-  Bad Staffelstein mit mobiler Arbeit (anteilig)  \n-  unbefristet  \n-  Vollzeit    Einleitung  \n Die Energieerzeugung der Zukunft liegt in der Photovoltaik – dem Strom aus Sonnenlicht. Das ist unsere Mission. Wir schaffen Energieautarkie und Emissionsfreiheit durch den einfachen Zugang zur unendlichen Energie der Sonne – für eine lebenswerte Welt. Die IBC SOLAR AG bietet Komplettsysteme an und deckt das gesamte Spektrum von d",
+      "published": "2026-06-06",
+      "location": "Staffelstein, Bavaria, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "949abcb34c76",
+      "title": "Senior Consultant Debt & Capital Advisory",
+      "url": "https://be.linkedin.com/jobs/view/senior-consultant-debt-capital-advisory-at-deloitte-4373475460?position=52&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=CTxOdx6xmrtRODwqDh322w%3D%3D",
+      "description": "Deloitte | Can’t wait to make an impact on the world? You’re not alone. Join us in driving progress in the working world and beyond.\n\n Your journey with us \n\nThis Is Your Opportunity To Join Deloitte’s Fast Growing Debt &amp; Capital Advisory (“DCA”) Team As a Senior Consultant\n\n\n\n- You work in a team that specializes in providing unique and independent debt &amp; capital advice on the wide range of complex and strategic financing challenges our clients are facing. \n- You assist our clients achi",
+      "published": "2026-06-09",
+      "location": "Zaventem, Flemish Region, Belgium",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "3bb3db1866ba",
+      "title": "Associate - Private Equity (m/f/d)",
+      "url": "https://de.linkedin.com/jobs/view/associate-private-equity-m-f-d-at-a11-4426551009?position=51&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=lNLX%2Bd526xOksHUdbslN4Q%3D%3D",
+      "description": "A11 | About The Job\n\nAs a key growth accelerator, A11 partners with Europe’s most ambitious companies to connect them with top-tier talent ready to make an impact.\n\nProject A is a Berlin-based tech investor with &gt; EUR 1.3b in assets under management and two dedicated investment strategies: early-stage VC investments as well as co-investments with leading PE funds in buyout and growth transactions. The firm has invested in over 130 companies, which include European leaders such as sennder, Tra",
+      "published": "2026-06-09",
+      "location": "Berlin, Berlin, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "beea6a7ddc18",
+      "title": "Manager, Strategic Partnerships",
+      "url": "https://dk.linkedin.com/jobs/view/manager-strategic-partnerships-at-copenhagen-infrastructure-partners-4414943022?position=41&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=5CkWwKlyYzGC%2F40FOjVHyA%3D%3D",
+      "description": "Copenhagen Infrastructure Partners | Do you want to join a global fund manager in energy infrastructure investments? If so, Copenhagen Infrastructure Partners (CIP) is seeking a Manager to join our Strategic Partnerships team based in Copenhagen.\n\nTeam\nAs a Manager in Strategic Partnerships, you will be part of CIP’s Investor Relations &amp; Business Development team. The Strategic Partnerships function plays a central role in developing bespoke solutions and executing strategic collaborations w",
+      "published": "2026-06-05",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "0f0482ce4f74",
+      "title": "Circular Economy Dismantling Center - Coordinator JV and Global Strategic Projects Finance Manager",
+      "url": "https://fr.linkedin.com/jobs/view/circular-economy-dismantling-center-coordinator-jv-and-global-strategic-projects-finance-manager-at-stellantis-4412819754?position=31&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=Qk0mi%2BN7EPRiP4cy2pEixA%3D%3D",
+      "description": "Stellantis | Key Responsibilities\n\nOversight Of Regional Hubs\n\nDevelopment and coordination of the Global Dismantling Center project:\n\n\n\n-  Europe: Mirafiori Hub\n-  South America: São Paulo\n-  MEA: Morocco\n-  Future expansions: Middle East, Turkey\n\nDefinition and implementation of strategic and financial plans\n\n\n\n-  Coordination of CE Joint Ventures in:\n\n Europe (B-Parts; Valorauto)\n\n North America (B-Parts)\n\n China (Oruide)\n\n Support for future M&amp;A activities to expand the CE footprint.",
+      "published": "2026-06-09",
+      "location": "Poissy, Île-de-France, France",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "485fa1468fde",
+      "title": "Investment Manager Dual-Use Technology",
+      "url": "https://nl.linkedin.com/jobs/view/investment-manager-dual-use-technology-at-invest-nl-4419198540?position=30&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=6DJIZsolCUUKExb6WgcLww%3D%3D",
+      "description": "Invest-NL | Functieomschrijving\n\nWij geloven dat Nederland duurzamer en innovatiever moet. Ondernemers spelen daarin een sleutelrol. Invest-NL financiert en versnelt deze transitie – met durf, daadkracht en enthousiasme. Bouw je met ons mee?\n\nVoor ons investeringsteam Resilience zoeken wij een Investment Manager met transactie ervaring.\n\nOver de functie\n\nNederland staat voor grote economische en maatschappelijke uitdagingen. Binnen het nieuwe Resilience mandaat vergroot Invest-NL haar slagkracht",
+      "published": "2026-06-08",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "0d995faf7c57",
+      "title": "Director Climatech/Deeptech VC",
+      "url": "https://es.linkedin.com/jobs/view/director-climatech-deeptech-vc-at-santander-4367608283?position=22&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=xVtmzYX8lSTneBbgNylVzg%3D%3D",
+      "description": "Santander | Country: Spain\n\nIT STARTS HERE\n\nSantander (www.santander.com) is evolving from a global, high-impact brand into a technology-driven organization, and our people are at the heart of this journey. Together, we are driving a customer-centric transformation that values bold thinking, innovation, and the courage to challenge what’s possible.\n\nThis is more than a strategic shift. It’s a chance for driven professionals to grow, learn, and make a real difference.\n\nOur mission is to contribut",
+      "published": "2026-06-09",
+      "location": "Madrid, Community of Madrid, Spain",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "70aa81184838",
+      "title": "Strategy & Investment Manager",
+      "url": "https://de.linkedin.com/jobs/view/strategy-investment-manager-at-bifrost-defence-4419607312?position=24&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=VlDxmf7MBsN1id1wZl8kHg%3D%3D",
+      "description": "Bifrost Defence | \nBifrost Defence is a Copenhagen-based defence technology company building dual-use products for NATO allies and partner nations. Our portfolio includes 8 ventures at various stages, from Thor's Haven, which builds stabilization infrastructure already deployed with the Ukrainian armed forces, to Lightmark, developing light-based authentication technology for content verification. The company operates within the Bifrost Studios venture ecosystem.\n\n\nWe're hiring a Strategy &amp; ",
+      "published": "2026-06-04",
+      "location": "Munich, Bavaria, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "364b7b0259f4",
+      "title": "Investment Manager Tech/Deeptech/Cleantech",
+      "url": "https://be.linkedin.com/jobs/view/investment-manager-tech-deeptech-cleantech-at-sambrinvest-4421398558?position=14&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=pWvT0Jeizo718%2B735WfRIQ%3D%3D",
+      "description": "Sambrinvest | \nSambrinvest recrute !\nBasé au cœur de Charleroi, Sambrinvest est une société d’investissement œuvrant au développement économique de Charleroi Métropole. En lien avec ses activités d’investissement centrées sur 4 secteurs (Industrie, Matériaux, Sciences du Vivant et Agroalimentaire), Sambrinvest porte des projets immobiliers structurants pour le territoire.\nAvec +200 M€ d’interventions sur les 3 dernières années, +300 entreprises en portefeuille et près de 150.000 m² de projets im",
+      "published": "2026-06-04",
+      "location": "Charleroi, Walloon Region, Belgium",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "8fc3cabf9cea",
+      "title": "Consultant Debt & Capital Advisory - Infrastructure projects",
+      "url": "https://be.linkedin.com/jobs/view/consultant-debt-capital-advisory-infrastructure-projects-at-deloitte-4351212329?position=15&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=FFAmHGVoxJS6GOWCosiVbg%3D%3D",
+      "description": "Deloitte | Can’t wait to make an impact on the world? You’re not alone. Join us in driving progress in the working world and beyond.\n\n Your journey with us \n\nThis Is Your Opportunity To Join Deloitte’s Fast-growing Debt &amp; Capital Advisory (“DCA”) Team As a Consultant Specializing In Infrastructure Projects\n\n\n\n-  You will join a team that delivers unique and independent debt &amp; capital advice for the complex and strategic financing challenges our clients face within the dynamic infrastruct",
+      "published": "2026-06-04",
+      "location": "Zaventem, Flemish Region, Belgium",
       "source": "apify_linkedin_blended",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
@@ -1533,13 +2307,13 @@
       }
     },
     {
-      "id": "cd19ac6b548f",
-      "title": "Senior Finance Manager/Future Director - Strategic Finance - Fast Track Leaders",
-      "url": "https://pl.linkedin.com/jobs/view/senior-finance-manager-future-director-strategic-finance-fast-track-leaders-at-antal-poland-4425979759?position=16&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=n8UgSpmTDnAINIkCKWV3JQ%3D%3D",
-      "description": "Antal Poland | \nSenior Finance Manager/Future Director - Strategic Finance - Fast Track Leaders\n\n\nOn behalf of a leading international retail company, we are recruiting high-potential leaders for an exclusive 18-month Fast Track Leadership Program. This accelerated development path is designed for ambitious professionals ready to prepare for Director-level roles and make real business impact in a fast-growing, international organization. The program combines strategic projects, cross-functional ",
-      "published": "2026-06-09",
-      "location": "Warsaw, Mazowieckie, Poland",
-      "source": "apify_linkedin_investment_director",
+      "id": "208ed9c1143a",
+      "title": "Portfolio Manager (f/m/x)",
+      "url": "https://de.linkedin.com/jobs/view/portfolio-manager-f-m-x-at-enpal-4404060822?position=12&pageNum=0&refId=EzQyVW2alz%2FTU4XH9L2aXQ%3D%3D&trackingId=MMPo29%2BdFUTPUa2j8bEoeg%3D%3D",
+      "description": "Enpal | Our goal is to have a solar system on every roof, a storage unit in every house, and an electric car in every garage. Enpal makes this possible with an integrated total solution for decentralized energy—from solar systems and battery storage to wall boxes, smart meters, and heat pumps. At the heart of it all is our AI-powered platform Enpal.One+, which intelligently connects thousands of systems and efficiently optimizes electricity procurement and feed-in on the energy market.\n\nAre you ",
+      "published": "2026-06-10",
+      "location": "Berlin, Berlin, Germany",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 1.0,
@@ -1551,9 +2325,9 @@
       }
     },
     {
-      "id": "68000636f8a1",
+      "id": "1d01c046d3e2",
       "title": "Director Finance (m/f/d)",
-      "url": "https://de.linkedin.com/jobs/view/director-finance-m-f-d-at-ironmaxx-nutrition-4422201058?position=13&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=ekW5aYvGPdUWL1s%2Br%2FI8gQ%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/director-finance-m-f-d-at-ironmaxx-nutrition-4422201058?position=13&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=dJVcSD%2FeIrnKQy8Go1E%2F7w%3D%3D",
       "description": "IronMaxx Nutrition | \n#BEcomeMAXX\nAs Director of Finance at IronMaxx, you will have overall responsibility for all financial, strategic and operational management areas of our company. With entrepreneurial vision and a hands-on mentality, you will actively shape our growth strategy and ensure that we remain economically strong, innovative and profitable.\n\n\nReady to perform? Your tasks with MAXXimum focus\n\n\nStrategic &amp; Management\n\n- Overall responsibility for budget and sales planning, includ",
       "published": "2026-06-08",
       "location": "Hürth, North Rhine-Westphalia, Germany",
@@ -1569,9 +2343,27 @@
       }
     },
     {
-      "id": "eb4abc36e9f1",
+      "id": "4e87b4119bc8",
+      "title": "Senior Finance Manager/Future Director - Strategic Finance - Fast Track Leaders",
+      "url": "https://pl.linkedin.com/jobs/view/senior-finance-manager-future-director-strategic-finance-fast-track-leaders-at-antal-poland-4425979759?position=15&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=HDPqCEv4%2BU93AOgwk8iUMg%3D%3D",
+      "description": "Antal Poland | \nSenior Finance Manager/Future Director - Strategic Finance - Fast Track Leaders\n\n\nOn behalf of a leading international retail company, we are recruiting high-potential leaders for an exclusive 18-month Fast Track Leadership Program. This accelerated development path is designed for ambitious professionals ready to prepare for Director-level roles and make real business impact in a fast-growing, international organization. The program combines strategic projects, cross-functional ",
+      "published": "2026-06-09",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 1.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "698583b49ffc",
       "title": "Finance Director AGS (m/f/d)",
-      "url": "https://de.linkedin.com/jobs/view/finance-director-ags-m-f-d-at-mo%C3%ABt-hennessy-4415007951?position=5&pageNum=0&refId=DENC9SqWVVeJeDnp%2FwP0Xg%3D%3D&trackingId=cEnEMnucRLlPlJRt5Gfy8w%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/finance-director-ags-m-f-d-at-mo%C3%ABt-hennessy-4415007951?position=6&pageNum=0&refId=OK4QbFLiy3OQaVPk%2FiTM7w%3D%3D&trackingId=Rfba1nbWG5E15ifOnZqYiA%3D%3D",
       "description": "Moët Hennessy | Position\n\nAct as Finance Director AGS (Germany, Austria, Switzerland), providing strategic and operational leadership across financial planning, performance management, statutory and Group reporting, and finance governance for the AGS Shared Service Center scope. Ensure the accuracy, integrity and timeliness of financial and operational information to enable fact-based decision-making, while proactively managing risk, internal controls and compliance (incl. GDPR). Act as a key st",
       "published": "2026-06-05",
       "location": "Munich, Bavaria, Germany",
