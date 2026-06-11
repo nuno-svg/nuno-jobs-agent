@@ -337,12 +337,29 @@ FETCHERS = {
 # ---------------- Scoring ----------------
 
 EXCLUDE_TITLE_PATTERNS = [
+    # Pure junior / admin
     "intern", "internship", "trainee program", "graduate program", "graduate scheme",
     "driver", "receptionist", "secretary", "cleaner", "janitor", "security guard",
     "administrative assistant", "executive assistant", "office assistant",
     "junior analyst", "entry level", "entry-level", "apprentice",
     "data entry", "data clerk",
     "position title",
+    # Mid-level deal/PE/M&A execution roles — filter unless paired with a senior qualifier elsewhere
+    # (Tuned 2026-06-11 after repeated false positives from Apify LinkedIn queries)
+    "investment associate", "investment analyst",
+    "m&a associate", "m&a analyst", "m&a manager",
+    "corporate development associate", "corporate development analyst", "corporate development manager",
+    "transaction services associate", "transaction services analyst",
+    "private equity associate", "private equity analyst",
+    "deal associate", "deal analyst",
+    "buy-side analyst", "sell-side analyst",
+    "investment manager",  # mid-level in most Euro PE firms; senior roles use "Investment Director" or "Portfolio Manager"
+    # Specific role types that keep appearing and never fit
+    "package responsible buyer", "contracts analyst", "contracts engineer",
+    "document controller", "document control",
+    "credit analyst", "credit manager", "senior credit",
+    "account manager",  # almost always sales, not finance
+    "business analyst",  # too broad, rarely senior finance
 ]
 
 
@@ -350,8 +367,15 @@ def is_excluded_title(title):
     t = normalize(title)
     if not t or len(t) < 6:
         return True
+    # Exact-phrase exclusion: pattern must appear as a contiguous substring
     for pat in EXCLUDE_TITLE_PATTERNS:
         if pat in t:
+            # But never exclude if the title also signals genuine seniority
+            # (e.g. "Head of Investment Associates" or "Senior Director, M&A Manager")
+            senior_signals = ["head of", "director of", "chief", "vp ", "vice president",
+                              "managing director", "partner", "principal"]
+            if any(s in t for s in senior_signals):
+                return False
             return True
     return False
 
@@ -459,7 +483,7 @@ def main():
                 breadth_bonus = sum(0.5 for s in scores.values() if s > 0) - 0.5
                 breadth_bonus = max(0, breadth_bonus)
                 fit = round(top_score + breadth_bonus, 1)
-                if fit < 1:
+                if fit < 2:
                     continue
                 all_items.append({
                     "id": make_id(item["url"], item["title"]),
