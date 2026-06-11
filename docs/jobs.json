@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T10:16:56.516366+00:00",
-  "total": 22,
+  "generated_at": "2026-06-11T11:08:19.646694+00:00",
+  "total": 10,
   "items": [
     {
       "id": "c36aaa781e2c",
@@ -18,24 +18,6 @@
         "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "58c452dcfeae",
-      "title": "Head of M&A ( Corporate Development) - Healthcare and Life Sciences",
-      "url": "https://de.linkedin.com/jobs/view/head-of-m-a-corporate-development-healthcare-and-life-sciences-at-albert-cliff-limited-4420725126?position=24&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=wo5osVPyQ1Qvf9jjAYqA7Q%3D%3D",
-      "description": "Albert Cliff Limited | \nPosition: Head of Mergers &amp; Acquisitions\nFirm: High-Growth International Biopharmaceutical &amp; Life Sciences Platform\nLocation: Hamburg / EMEA HQ / Global Hub (Executive Hybrid)\n\n\nOverview\nOur client is a premier, vertically integrated pharmaceutical and life sciences group with a sprawling commercial and manufacturing footprint across EMEA and frontier markets. Operating at the intersection of advanced R&amp;D, biologics, and high-value branded generics, the firm d",
-      "published": "2026-06-04",
-      "location": "Hamburg, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 6.5,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 6.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
       }
     },
     {
@@ -57,24 +39,6 @@
       }
     },
     {
-      "id": "aece14276e05",
-      "title": "Managing Director - Special Situation",
-      "url": "https://it.linkedin.com/jobs/view/managing-director-special-situation-at-keypartners-4413113707?position=8&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=HrzygIpsrsGXBgawm3CsSw%3D%3D",
-      "description": "KeyPartners | \nPer conto di un fondo di investimento, specializzato in operazioni di special situations e turnaround su aziende in going concern, siamo alla ricerca di un Managing Director - Key Man da inserire nel team di investimento.\nLa figura avrà un ruolo chiave nell’origination, execution e gestione del portafoglio, con forte esposizione diretta al management delle partecipate e agli stakeholder finanziari.\n\n\nPrincipali Responsabilità\n\n- Origination e sviluppo di opportunità di investiment",
-      "published": "2026-06-10",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 6.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 6.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "a84debcc85f8",
       "title": "Associate Partner (Anglophone Africa)",
       "url": "https://job-boards.greenhouse.io/instiglio/jobs/5989429004",
@@ -90,132 +54,6 @@
         "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 1.0
-      }
-    },
-    {
-      "id": "3fb3ee16cda6",
-      "title": "Corporate M&A Director - PE Backed",
-      "url": "https://it.linkedin.com/jobs/view/corporate-m-a-director-pe-backed-at-keypartners-4418258140?position=39&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=YE3rLQBSWBXz09xhKS%2FcLg%3D%3D",
-      "description": "KeyPartners | \nPer conto di una società industriale, recentemente acquisito da un fondo di Private Equity internazionale, siamo alla ricerca di un M&amp;A Director che guiderà il percorso di crescita per linee esterne del gruppo.\nLa società si trova in una fase di forte espansione e consolidamento del settore, con l’obiettivo di accelerare lo sviluppo attraverso operazioni di acquisizione strategiche in Italia e potenzialmente a livello europeo.\nLa figura lavorerà a stretto contatto con il top m",
-      "published": "2026-06-08",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 5.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 5.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "a2b51efa36c1",
-      "title": "Financial Controller/ Director",
-      "url": "https://ie.linkedin.com/jobs/view/financial-controller-director-at-allied-talent-4422265123?position=53&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=ezoSYbFPV2hhezTebWD0Ug%3D%3D",
-      "description": "Allied Talent | \nOn behalf of an entreprenurial, owner-led commercial real estate firm in Dublin, we are looking to hire a Financial Controller/ Finance Director.\n\n\n\n\nThis is a hands-on, high-impact role working directly alongside the Managing Director and CFO on new acquisitions, portfolio management, and the continued scaling of the business.\n\n\nThe firm manages a diversified portfolio of commercial assets across Ireland, spanning office, retail and industrial. This is not a large corporate env",
-      "published": "2026-06-11",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 4.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 4.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "fa1a2ae62b6f",
-      "title": "Venture Capital Manager / Principal",
-      "url": "https://fr.linkedin.com/jobs/view/venture-capital-manager-principal-at-peakseek-4425477092?position=55&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=kYwRqzn9mcc5FwyqYmunpw%3D%3D",
-      "description": "PeakSeek | \nWe are partnering with an established venture capital platform seeking to hire a Manager / Principal to join its investment team in Paris.\n\n\nThis is an opportunity to play a key role across the full investment lifecycle, working closely with founders of high-growth businesses across Europe. The team invests across multiple sectors, with particular interest in technology-enabled consumer, digital platforms and emerging growth companies.\n\n\nResponsibilities\n\n\n\n- Identify and assess inve",
-      "published": "2026-06-08",
-      "location": "Paris, Île-de-France, France",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "341cc7f7bfcc",
-      "title": "Global Head of Asset Rotation (Sell-Side M&A)",
-      "url": "https://gr.linkedin.com/jobs/view/global-head-of-asset-rotation-sell-side-m-a-at-metlen-energy-metals-4423371210?position=57&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=R3R6wMB7RMYjvfLRDFCuwQ%3D%3D",
-      "description": "Metlen Energy & Metals | Job description:\n\n\nAt METLEN Energy &amp; Metals, we are catalysts for a sustainable future, positioned at the forefront of the energy transition while being a reference point for competitive green metallurgy at both the European and global levels.  We are a global industrial and energy company operating across two highly interconnected and complementary sectors: Energy and Metals. With a consolidated turnover of €5,683 million and an EBITDA of €1,080 million, along with",
-      "published": "2026-06-04",
-      "location": "Athens, Attiki, Greece",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "a7394e572e9c",
-      "title": "Portfolio Manager",
-      "url": "https://nl.linkedin.com/jobs/view/portfolio-manager-at-tfh-holland-group-4423380370?position=40&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=xZ8ONFxlnwo5vpIFHEox5Q%3D%3D",
-      "description": "TFH Holland Group | Bij TFH Holland draait het niet alleen om cijfers, maar om het daadwerkelijk versterken van bedrijven. Als Investment Manager speel je een sleutelrol in het realiseren van duurzame groei binnen onze deelnemingen. Jaarlijks investeren wij substantiële bedragen in de verdere ontwikkeling van onze portefeuillebedrijven. Het is daarom essentieel dat groeiprojecten, investeringen en verbetertrajecten zorgvuldig worden beoordeeld, effectief worden uitgevoerd en daadwerkelijk leiden",
-      "published": "2026-06-04",
-      "location": "Bussum, North Holland, Netherlands",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "f66a84a0fa3d",
-      "title": "Vice President Private Equity(EN)",
-      "url": "https://nl.linkedin.com/jobs/view/vice-president-private-equity-en-at-van-lanschot-kempen-4423130271?position=9&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=YfLt%2BwMisC%2BVJiS9N91Q6g%3D%3D",
-      "description": "Van Lanschot Kempen | Create your own future\n\nAs Vice President Private Equity at Van Lanschot Kempen, you will be part of a driven team of highly experienced investment professionals. Are you ready for a next career step with broad responsibility, variety, and a steep learning curve? Your role is multidisciplinary, with a primary focus on private equity partnerships and co-investments across Europe and the United States.\n\nThat is what you will use your talents for as a Vice President Private Eq",
-      "published": "2026-06-10",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "0cea98438144",
-      "title": "Manager of Corporate Finance",
-      "url": "https://www.linkedin.com/jobs/view/manager-of-corporate-finance-at-leyendecker-executive-search-4424516093?position=43&pageNum=0&refId=Dqjw9rjNs9pD5LzCGFPXTQ%3D%3D&trackingId=y7FBV6PXPVZG507np73%2Flw%3D%3D",
-      "description": "Leyendecker Executive Search | \nPublic company client has engaged us to find them a highly capable financial professional to assist CFO and SVP of Finance with M&amp;A, FP&amp;A, Board reporting, Investor Relations and other special projects. Company is well positioned to make acquisitions with major investor support. Highly visible role that provides outstanding career development experience and competitive annual compensation.",
-      "published": "2026-06-05",
-      "location": "Greater Houston",
-      "source": "apify_linkedin_angola_senior",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
       }
     },
     {
@@ -273,81 +111,9 @@
       }
     },
     {
-      "id": "582038f52b81",
+      "id": "f5ff81f590d0",
       "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422269129?position=50&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=pscdLXmLWILsjQ2F7cG7bQ%3D%3D",
-      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
-      "published": "2026-06-09",
-      "location": "Hamburg, Hamburg, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "a1fd3f9f5269",
-      "title": "Investment Senior Associate / VP - Infrastructure Private Equity",
-      "url": "https://es.linkedin.com/jobs/view/investment-senior-associate-vp-infrastructure-private-equity-at-w-executive-espa%C3%B1a-4424441488?position=43&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=7qeiCSQf6pVkkpWNNtWj3g%3D%3D",
-      "description": "W Executive España | \nImportante Private Equity nacional busca incorporar un Senior Associate / Vice President para reforzar su equipo de inversión especializado en infraestructuras.\nLa persona seleccionada participará activamente en todas las fases del ciclo de inversión, desde el análisis y ejecución de nuevas oportunidades hasta la gestión y seguimiento de la cartera, trabajando en operaciones dentro de sectores estratégicos con fuerte crecimiento estructural.\n\n\nResponsabilidades:\n\n- Análisis",
-      "published": "2026-06-04",
-      "location": "Madrid, Community of Madrid, Spain",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "98fd29632e88",
-      "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254492?position=42&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=G%2BKCs7bdsgMn4BO5qUUIaw%3D%3D",
-      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
-      "published": "2026-06-09",
-      "location": "Berlin, Berlin, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "7752246cdf17",
-      "title": "DP of Investment Management - 12 month FTC",
-      "url": "https://ie.linkedin.com/jobs/view/dp-of-investment-management-12-month-ftc-at-the-panel-4419193508?position=31&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=OpY79%2F6lvAHwFwbcIcua7Q%3D%3D",
-      "description": "The Panel | \nOur client, a leading investment management firm based in Dublin, is seeking an experienced Investment Oversight Officer for a 12-month fixed-term contract. This role offers an excellent opportunity to contribute to the development and maintenance of a robust investment oversight framework. The successful candidate will play a pivotal role in ensuring compliance with regulatory requirements, protecting investor interests, and providing strategic leadership in investment oversight ac",
-      "published": "2026-06-09",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "de1acc2b196f",
-      "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254495?position=34&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=lOBIbKZ0PLXZaTKKADKhaA%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254495?position=1&pageNum=0&refId=58PoBUHzLmJ0JxbMXgseQw%3D%3D&trackingId=CAxIJarCvWh49QyCuVGHTw%3D%3D",
       "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
       "published": "2026-06-09",
       "location": "Munich, Bavaria, Germany",
@@ -363,12 +129,12 @@
       }
     },
     {
-      "id": "f512212729b2",
-      "title": "Vice President Private Equity",
-      "url": "https://nl.linkedin.com/jobs/view/vice-president-private-equity-at-van-lanschot-kempen-4426071039?position=11&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=GSkmoBXmXxBI6ALb51QY4w%3D%3D",
-      "description": "Van Lanschot Kempen | Creëer je eigen toekomst\n\nAls Vice President Private Equity bij Van Lanschot Kempen ben je onderdeel van een gedreven team met zeer ervaren investeringsprofessionals. Ben je toe aan een stap in je carrière met veel verantwoordelijkheid, afwisseling en een steile leercurve? Aarzel dan niet om te reageren. Jouw rol is multidisciplinair met primaire focus op Private Equity partnerships en co-investeringen in zowel Europa en de Verenigde Staten.\n\nDaar zet je graag jouw talenten",
-      "published": "2026-06-10",
-      "location": "Amsterdam, North Holland, Netherlands",
+      "id": "5c45ecbeef22",
+      "title": "Investment Director (Lyon, France)",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422251492?position=3&pageNum=0&refId=58PoBUHzLmJ0JxbMXgseQw%3D%3D&trackingId=1Stn0cesCA7V6I1GlONAdQ%3D%3D",
+      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
+      "published": "2026-06-09",
+      "location": "Frankfurt am Main, Hesse, Germany",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -381,12 +147,30 @@
       }
     },
     {
-      "id": "36e296c65172",
-      "title": "VP de Inversiones en el fondo de Real Estate",
-      "url": "https://es.linkedin.com/jobs/view/vp-de-inversiones-en-el-fondo-de-real-estate-at-bestinver-4426772374?position=13&pageNum=0&refId=sKP2xG5weQ4Vh8iew11nmw%3D%3D&trackingId=YyA1Rp4lT1SBB4Ru5vAVdQ%3D%3D",
-      "description": "Bestinver | \nBestinver, grupo financiero independiente líder con más de 35 años de experiencia, busca incorporar a un VP de Inversiones para su departamento de Real Estate.\n\n\nDescripción del puesto\n\n- Análisis de mercados.\n- Originación y selección de oportunidades de inversión.\n- Creación de material y presentación de oportunidades en el comité de inversiones.\n- Liderazgo y coordinación de procesos de due diligence de las inversiones.\n- Capacidad de ejecución de cierre de transacciones y financ",
-      "published": "2026-06-10",
-      "location": "Madrid, Community of Madrid, Spain",
+      "id": "a05598170fc6",
+      "title": "Investment Director (Lyon, France)",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254492?position=4&pageNum=0&refId=58PoBUHzLmJ0JxbMXgseQw%3D%3D&trackingId=718Pb2Kocu9Kg%2Fd6zBPY%2Fg%3D%3D",
+      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
+      "published": "2026-06-09",
+      "location": "Berlin, Berlin, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "5f082d721f79",
+      "title": "Investment Director (Lyon, France)",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422269129?position=2&pageNum=0&refId=58PoBUHzLmJ0JxbMXgseQw%3D%3D&trackingId=YDyIwVlz9ni8eJJ9nZoyPw%3D%3D",
+      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
+      "published": "2026-06-09",
+      "location": "Hamburg, Hamburg, Germany",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
