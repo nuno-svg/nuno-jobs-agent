@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-06-11T11:08:19.646694+00:00",
-  "elapsed_total_s": 242.4,
+  "generated_at": "2026-06-12T10:24:11.923324+00:00",
+  "elapsed_total_s": 185.8,
   "sources_total": 23,
-  "sources_ok": 21,
-  "sources_failed": 1,
-  "items_total_raw": 553,
-  "items_kept": 10,
+  "sources_ok": 22,
+  "sources_failed": 0,
+  "items_total_raw": 581,
+  "items_kept": 32,
   "sources": [
     {
       "name": "afdb",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.9,
+      "elapsed_s": 0.8,
       "ok": true
     },
     {
       "name": "ebrd",
-      "raw": 0,
-      "kept": 0,
-      "elapsed_s": 30.3,
-      "ok": false,
-      "error": "HTTPSConnectionPool(host='jobs.ebrd.com', port=443): Max retries exceeded with url: /search/?q=&locationsearch= (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.ebrd.com', port=443) at 0x7f5"
+      "raw": 25,
+      "kept": 23,
+      "elapsed_s": 1.1,
+      "ok": true
     },
     {
       "name": "worldbank",
@@ -33,19 +32,19 @@
       "name": "greenhouse_instiglio",
       "raw": 4,
       "kept": 3,
-      "elapsed_s": 0.3,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_acumen",
-      "raw": 10,
+      "raw": 9,
       "kept": 0,
       "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "greenhouse_oneacre",
-      "raw": 43,
+      "raw": 46,
       "kept": 1,
       "elapsed_s": 0.2,
       "ok": true
@@ -54,14 +53,14 @@
       "name": "greenhouse_socialfinance",
       "raw": 5,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_codeforamerica",
       "raw": 8,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -73,23 +72,23 @@
     },
     {
       "name": "greenhouse_monzo",
-      "raw": 63,
+      "raw": 65,
+      "kept": 0,
+      "elapsed_s": 0.3,
+      "ok": true
+    },
+    {
+      "name": "greenhouse_n26",
+      "raw": 75,
       "kept": 0,
       "elapsed_s": 0.2,
       "ok": true
     },
     {
-      "name": "greenhouse_n26",
-      "raw": 76,
-      "kept": 1,
-      "elapsed_s": 1.0,
-      "ok": true
-    },
-    {
       "name": "ashby_lendable",
-      "raw": 55,
+      "raw": 54,
       "kept": 1,
-      "elapsed_s": 0.9,
+      "elapsed_s": 0.8,
       "ok": true
     },
     {
@@ -103,14 +102,14 @@
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 0.6,
       "ok": true
     },
     {
@@ -124,42 +123,42 @@
       "name": "apify_linkedin_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 6.1,
+      "elapsed_s": 7.3,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
       "raw": 4,
       "kept": 4,
-      "elapsed_s": 11.7,
+      "elapsed_s": 7.9,
       "ok": true
     },
     {
       "name": "apify_linkedin_angola_senior",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 7.7,
+      "elapsed_s": 6.8,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
       "raw": 30,
       "kept": 0,
-      "elapsed_s": 79.2,
+      "elapsed_s": 66.8,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
       "raw": 50,
       "kept": 0,
-      "elapsed_s": 89.3,
+      "elapsed_s": 69.3,
       "ok": true
     },
     {
       "name": "apify_indeed_portugal_finance",
-      "raw": 1,
+      "raw": 2,
       "kept": 0,
-      "elapsed_s": 11.0,
+      "elapsed_s": 20.0,
       "ok": true
     }
   ]
