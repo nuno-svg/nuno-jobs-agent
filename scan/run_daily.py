@@ -48,8 +48,24 @@ def load_config():
     return sources, keywords
 
 
+def _normalize_url_for_dedup(url):
+    """Strip query parameters and fragments so the same job posted with different
+    tracking codes hashes to the same id. Also handles URL variations like trailing
+    slashes and casing in the path. Returns lower-case path only."""
+    if not url:
+        return ""
+    try:
+        # Strip after ? and # (query + fragment); keep scheme+host+path
+        u = re.split(r"[?#]", url, maxsplit=1)[0]
+        return u.rstrip("/").lower()
+    except Exception:
+        return str(url).lower()
+
+
 def make_id(url, title):
-    h = hashlib.sha256(f"{url}|{title}".encode()).hexdigest()[:12]
+    norm_url = _normalize_url_for_dedup(url)
+    norm_title = normalize(title)
+    h = hashlib.sha256(f"{norm_url}|{norm_title}".encode()).hexdigest()[:12]
     return h
 
 
@@ -344,8 +360,11 @@ EXCLUDE_TITLE_PATTERNS = [
     "junior analyst", "entry level", "entry-level", "apprentice",
     "data entry", "data clerk",
     "position title",
-    # Mid-level deal/PE/M&A execution roles — filter unless paired with a senior qualifier elsewhere
-    # (Tuned 2026-06-11 after repeated false positives from Apify LinkedIn queries)
+    # Standalone Analyst / Assistant titles — never senior
+    # Use leading word-boundary patterns: title starts with these or has them as discrete sections
+    "assistant ",           # "Assistant Analyst", "Assistant Manager", etc.
+    "junior ",
+    # Mid-level deal/PE/M&A execution roles
     "investment associate", "investment analyst",
     "m&a associate", "m&a analyst", "m&a manager",
     "corporate development associate", "corporate development analyst", "corporate development manager",
@@ -353,28 +372,65 @@ EXCLUDE_TITLE_PATTERNS = [
     "private equity associate", "private equity analyst",
     "deal associate", "deal analyst",
     "buy-side analyst", "sell-side analyst",
-    "investment manager",  # mid-level in most Euro PE firms; senior roles use "Investment Director" or "Portfolio Manager"
+    "investment manager",  # mid-level in most Euro PE firms
+    # EBRD-style banker titles below the threshold we want
+    "associate banker", "principal banker",  # both mid-level at EBRD
+    # Non-finance roles that keep slipping through on keyword overlap
+    "infrastructure quality engineer", "quality engineer",
+    "health & safety", "health and safety",
+    "azure", "kubernetes", "devops", "data engineer", "software engineer",
+    "frontend", "backend", "full stack", "full-stack",
+    "qa automation", "qa engineer", "test engineer", "sol. architect",
+    "solution architect", "solutions architect",
+    "people lead", "people partner", "talent", "recruiter",
+    "marketing", "sales lead", "growth lead",
     # Specific role types that keep appearing and never fit
     "package responsible buyer", "contracts analyst", "contracts engineer",
     "document controller", "document control",
     "credit analyst", "credit manager", "senior credit",
     "account manager",  # almost always sales, not finance
     "business analyst",  # too broad, rarely senior finance
+    # Generic Analyst title alone (when title literally is just "Analyst" or short variants)
+    # Handled via the dedicated check below, not in this list
 ]
+
+# Titles where the entire title is just a junior generic word
+EXCLUDE_EXACT_TITLES = {"analyst", "associate", "manager", "consultant", "specialist"}
 
 
 def is_excluded_title(title):
     t = normalize(title)
     if not t or len(t) < 6:
         return True
-    # Exact-phrase exclusion: pattern must appear as a contiguous substring
+    # Exact-title exclusion (e.g. title is literally just "Analyst")
+    if t in EXCLUDE_EXACT_TITLES:
+        return True
+
+    # EBRD-style "Analyst, Department" pattern — title starts with "analyst," or "analyst "
+    # These are entry/mid level at EBRD regardless of what department follows
+    if t.startswith("analyst,") or t.startswith("analyst ") or t == "analyst":
+        return True
+    # Same for "associate" alone or with department qualifier
+    if t.startswith("associate,") or t == "associate":
+        return True
+
+    # Hard exclusions (these always exclude, regardless of senior-signal override).
+    # "Associate Banker" and "Principal Banker" at EBRD are mid-level positions
+    # even though "principal" normally signals seniority.
+    HARD_EXCLUDE = ["associate banker", "principal banker"]
+    for pat in HARD_EXCLUDE:
+        if pat in t:
+            return True
+
+    # Senior signals that override soft exclusions (e.g. "Head of M&A Associates")
+    senior_signals = ["head of", "director of", "chief", "vp ", "vice president",
+                      "managing director", "partner", "global head", "group head"]
+    has_senior_signal = any(s in t for s in senior_signals)
+
+    # Substring exclusion: pattern must appear as a contiguous substring
     for pat in EXCLUDE_TITLE_PATTERNS:
         if pat in t:
-            # But never exclude if the title also signals genuine seniority
-            # (e.g. "Head of Investment Associates" or "Senior Director, M&A Manager")
-            senior_signals = ["head of", "director of", "chief", "vp ", "vice president",
-                              "managing director", "partner", "principal"]
-            if any(s in t for s in senior_signals):
+            if has_senior_signal:
                 return False
             return True
     return False
@@ -512,7 +568,16 @@ def main():
         existing = by_id.get(it["id"])
         if not existing or it["fit"] > existing["fit"]:
             by_id[it["id"]] = it
-    deduped = sorted(by_id.values(), key=lambda x: x["fit"], reverse=True)
+
+    # Secondary dedup: same title appearing multiple times within the same source
+    # (LinkedIn aggregator queries often return the same job under multiple URLs)
+    by_title_source = {}
+    for it in by_id.values():
+        key = (normalize(it["title"]), it["source"])
+        existing = by_title_source.get(key)
+        if not existing or it["fit"] > existing["fit"]:
+            by_title_source[key] = it
+    deduped = sorted(by_title_source.values(), key=lambda x: x["fit"], reverse=True)
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
