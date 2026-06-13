@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-12T10:49:27.561547+00:00",
-  "elapsed_total_s": 265.9,
+  "generated_at": "2026-06-13T09:43:02.895635+00:00",
+  "elapsed_total_s": 124.0,
   "sources_total": 23,
-  "sources_ok": 22,
-  "sources_failed": 0,
-  "items_total_raw": 664,
-  "items_kept": 30,
+  "sources_ok": 21,
+  "sources_failed": 1,
+  "items_total_raw": 535,
+  "items_kept": 8,
   "sources": [
     {
       "name": "afdb",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.8,
+      "elapsed_s": 1.0,
       "ok": true
     },
     {
       "name": "ebrd",
       "raw": 25,
-      "kept": 5,
-      "elapsed_s": 1.2,
+      "kept": 4,
+      "elapsed_s": 1.5,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.8,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "greenhouse_socialfinance",
-      "raw": 5,
+      "raw": 4,
       "kept": 0,
       "elapsed_s": 0.1,
       "ok": true
@@ -72,93 +72,94 @@
     },
     {
       "name": "greenhouse_monzo",
-      "raw": 66,
+      "raw": 68,
       "kept": 0,
       "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_n26",
-      "raw": 75,
+      "raw": 73,
       "kept": 0,
       "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "ashby_lendable",
-      "raw": 54,
+      "raw": 57,
       "kept": 1,
-      "elapsed_s": 0.6,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
       "name": "ashby_finca",
       "raw": 1,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
       "name": "linkedin_search_dfi",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 1.1,
+      "elapsed_s": 0.7,
       "ok": true
     },
     {
       "name": "apify_linkedin_blended",
-      "raw": 51,
-      "kept": 22,
-      "elapsed_s": 33.9,
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 6.2,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
       "raw": 4,
       "kept": 4,
-      "elapsed_s": 10.3,
+      "elapsed_s": 9.2,
       "ok": true
     },
     {
       "name": "apify_linkedin_angola_senior",
-      "raw": 30,
+      "raw": 0,
       "kept": 0,
-      "elapsed_s": 23.9,
+      "elapsed_s": 6.7,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
       "raw": 30,
       "kept": 0,
-      "elapsed_s": 88.2,
+      "elapsed_s": 46.8,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
-      "raw": 50,
+      "raw": 0,
       "kept": 0,
-      "elapsed_s": 84.1,
-      "ok": true
+      "elapsed_s": 38.3,
+      "ok": false,
+      "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
     },
     {
       "name": "apify_indeed_portugal_finance",
       "raw": 3,
       "kept": 0,
-      "elapsed_s": 18.1,
+      "elapsed_s": 9.7,
       "ok": true
     }
   ]
