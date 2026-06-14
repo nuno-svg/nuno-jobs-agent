@@ -1,38 +1,40 @@
 {
-  "generated_at": "2026-06-13T09:43:02.895635+00:00",
-  "elapsed_total_s": 124.0,
+  "generated_at": "2026-06-14T10:05:30.723069+00:00",
+  "elapsed_total_s": 287.0,
   "sources_total": 23,
-  "sources_ok": 21,
-  "sources_failed": 1,
-  "items_total_raw": 535,
-  "items_kept": 8,
+  "sources_ok": 20,
+  "sources_failed": 2,
+  "items_total_raw": 559,
+  "items_kept": 5,
   "sources": [
     {
       "name": "afdb",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 0.7,
       "ok": true
     },
     {
       "name": "ebrd",
-      "raw": 25,
-      "kept": 4,
-      "elapsed_s": 1.5,
-      "ok": true
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 30.1,
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='jobs.ebrd.com', port=443): Max retries exceeded with url: /search/?q=&locationsearch= (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.ebrd.com', port=443) at 0x7f8"
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.5,
-      "ok": true
+      "elapsed_s": 30.2,
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='worldbankgroup.csod.com', port=443): Read timed out. (read timeout=30)"
     },
     {
       "name": "greenhouse_instiglio",
       "raw": 4,
       "kept": 3,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -46,7 +48,7 @@
       "name": "greenhouse_oneacre",
       "raw": 46,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -74,35 +76,35 @@
       "name": "greenhouse_monzo",
       "raw": 68,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
       "name": "greenhouse_n26",
       "raw": 73,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "ashby_lendable",
       "raw": 57,
       "kept": 1,
-      "elapsed_s": 0.5,
+      "elapsed_s": 0.6,
       "ok": true
     },
     {
       "name": "ashby_finca",
       "raw": 1,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.1,
+      "elapsed_s": 0.9,
       "ok": true
     },
     {
@@ -123,43 +125,42 @@
       "name": "apify_linkedin_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 6.2,
+      "elapsed_s": 7.2,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
       "raw": 4,
       "kept": 4,
-      "elapsed_s": 9.2,
+      "elapsed_s": 44.2,
       "ok": true
     },
     {
       "name": "apify_linkedin_angola_senior",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 6.7,
+      "elapsed_s": 16.5,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
       "raw": 30,
       "kept": 0,
-      "elapsed_s": 46.8,
+      "elapsed_s": 47.8,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
-      "raw": 0,
+      "raw": 50,
       "kept": 0,
-      "elapsed_s": 38.3,
-      "ok": false,
-      "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
+      "elapsed_s": 65.2,
+      "ok": true
     },
     {
       "name": "apify_indeed_portugal_finance",
-      "raw": 3,
+      "raw": 2,
       "kept": 0,
-      "elapsed_s": 9.7,
+      "elapsed_s": 40.9,
       "ok": true
     }
   ]
