@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T08:56:33.291254+00:00",
-  "total": 20,
+  "generated_at": "2026-06-15T12:50:14.161908+00:00",
+  "total": 9,
   "items": [
     {
       "id": "46ca0d744bbb",
@@ -18,24 +18,6 @@
         "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "4863cc6c8736",
-      "title": "Head of M&A ( Corporate Development) - Healthcare and Life Sciences",
-      "url": "https://de.linkedin.com/jobs/view/head-of-m-a-corporate-development-healthcare-and-life-sciences-at-albert-cliff-limited-4420725126?position=34&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=Bgj9aSPzzcEvt%2FZ6hXLuZQ%3D%3D",
-      "description": "Albert Cliff Limited | \nPosition: Head of Mergers &amp; Acquisitions\nFirm: High-Growth International Biopharmaceutical &amp; Life Sciences Platform\nLocation: Hamburg / EMEA HQ / Global Hub (Executive Hybrid)\n\n\nOverview\nOur client is a premier, vertically integrated pharmaceutical and life sciences group with a sprawling commercial and manufacturing footprint across EMEA and frontier markets. Operating at the intersection of advanced R&amp;D, biologics, and high-value branded generics, the firm d",
-      "published": "2026-06-12",
-      "location": "Hamburg, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 6.5,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 6.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
       }
     },
     {
@@ -57,24 +39,6 @@
       }
     },
     {
-      "id": "fd05f57f199b",
-      "title": "Managing Director - Special Situation",
-      "url": "https://it.linkedin.com/jobs/view/managing-director-special-situation-at-keypartners-4413113707?position=14&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=3ukVQ4vwDxAvzIEl5yWGqg%3D%3D",
-      "description": "KeyPartners | \nPer conto di un fondo di investimento, specializzato in operazioni di special situations e turnaround su aziende in going concern, siamo alla ricerca di un Managing Director - Key Man da inserire nel team di investimento.\nLa figura avrà un ruolo chiave nell’origination, execution e gestione del portafoglio, con forte esposizione diretta al management delle partecipate e agli stakeholder finanziari.\n\n\nPrincipali Responsabilità\n\n- Origination e sviluppo di opportunità di investiment",
-      "published": "2026-06-10",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 6.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 6.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "da8d2b4f21c1",
       "title": "Associate Partner (Anglophone Africa)",
       "url": "https://job-boards.greenhouse.io/instiglio/jobs/5989429004",
@@ -90,42 +54,6 @@
         "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 1.0
-      }
-    },
-    {
-      "id": "d479e31c45d5",
-      "title": "Corporate M&A Director - PE Backed",
-      "url": "https://it.linkedin.com/jobs/view/corporate-m-a-director-pe-backed-at-keypartners-4418258140?position=50&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=p0glHFRTGp3Mlqy%2B1Ez1Zw%3D%3D",
-      "description": "KeyPartners | \nPer conto di una società industriale, recentemente acquisito da un fondo di Private Equity internazionale, siamo alla ricerca di un M&amp;A Director che guiderà il percorso di crescita per linee esterne del gruppo.\nLa società si trova in una fase di forte espansione e consolidamento del settore, con l’obiettivo di accelerare lo sviluppo attraverso operazioni di acquisizione strategiche in Italia e potenzialmente a livello europeo.\nLa figura lavorerà a stretto contatto con il top m",
-      "published": "2026-06-15",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 5.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 5.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "ab19decffd18",
-      "title": "Associate Director - Investment & Portfolio Management",
-      "url": "https://ie.linkedin.com/jobs/view/associate-director-investment-portfolio-management-at-morgan-mckinley-4425833332?position=10&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=UikKgR96f8wVFUvTbdq6xQ%3D%3D",
-      "description": "Morgan McKinley | \nOur client is leading financial services firm with offices based in Dublin City Centre. They are seeking an experienced investment professional to join a high-performing team focused on the evaluation, management, and optimisation of a diverse portfolio of investments.\n\n\nThis role offers the opportunity to contribute to investment decision-making, portfolio oversight, and value creation initiatives across a range of sectors. The successful candidate will work closely with inte",
-      "published": "2026-06-09",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 4.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 4.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
       }
     },
     {
@@ -183,19 +111,19 @@
       }
     },
     {
-      "id": "a228158c2cf4",
-      "title": "Associate Director | Private Equity",
-      "url": "https://nl.linkedin.com/jobs/view/associate-director-private-equity-at-the-headhunter-group-4372604610?position=26&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=9bOwZiiI5tjNQDzCqcamGA%3D%3D",
-      "description": "The Headhunter Group | \nBedrijfsprofiel\nThe Headhunter Group is op zoek naar een Associate Director Private Equity voor een internationaal opererende Private Equity die fund to fund investeert. De organisatie beheert circa €5 miljard aan assets under management en investeert wereldwijd in primary fund commitments, co-investments en secondaries binnen private equity. Het team opereert vanuit meerdere internationale hubs en kenmerkt zich door een ondernemende, professionele cultuur met een sterke ",
-      "published": "2026-06-11",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "source": "apify_linkedin_investment_director",
+      "id": "ba849d96cfc5",
+      "title": "Capital Markets VP",
+      "url": "https://jobs.ashbyhq.com/lendable/c434a988-723f-4e1a-ab8f-889e233b6f95",
+      "description": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s newest unicorns with a team of just over 700 people Among the fastest-growing tech companies in the UK Profitable since 2017 Backed by top investors including Balderton Capital and Goldman Sachs Loved by customers with the best reviews in the market (4.9 across 10,000s of r",
+      "published": "2026-06-15T10:28:38.001+00:00",
+      "location": "London",
+      "source": "ashby_lendable",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
+      "fit": 2.0,
       "scores": {
         "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
+        "B_deal_structuring": 2.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -219,138 +147,12 @@
       }
     },
     {
-      "id": "69a6e911da43",
-      "title": "Investment Senior Associate / VP - Infrastructure Private Equity",
-      "url": "https://es.linkedin.com/jobs/view/investment-senior-associate-vp-infrastructure-private-equity-at-w-executive-espa%C3%B1a-4426928984?position=53&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=KFMTDDabOc7kmvTxDMgO7g%3D%3D",
-      "description": "W Executive España | \nImportante Private Equity nacional busca incorporar un Senior Associate / Vice President para reforzar su equipo de inversión especializado en infraestructuras.\nLa persona seleccionada participará activamente en todas las fases del ciclo de inversión, desde el análisis y ejecución de nuevas oportunidades hasta la gestión y seguimiento de la cartera, trabajando en operaciones dentro de sectores estratégicos con fuerte crecimiento estructural.\n\n\nResponsabilidades:\n\n- Análisis",
-      "published": "2026-06-12",
-      "location": "Madrid, Community of Madrid, Spain",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "b3cc9d5b9594",
+      "id": "c9e3037eb561",
       "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422254492?position=52&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=%2FhdIMHHjT%2FL5CUHG0R8X1Q%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422269129?position=3&pageNum=0&refId=07JWoeBDoRYkUnOlkwaccg%3D%3D&trackingId=sT36NAx977lmiRvGDJwbZw%3D%3D",
       "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
       "published": "2026-06-09",
-      "location": "Berlin, Berlin, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "548ea40033b9",
-      "title": "DP of Investment Management - 12 month FTC",
-      "url": "https://ie.linkedin.com/jobs/view/dp-of-investment-management-12-month-ftc-at-the-panel-4419193508?position=40&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=hVlng8cQMEhZbF4RxTDvtg%3D%3D",
-      "description": "The Panel | \nOur client, a leading investment management firm based in Dublin, is seeking an experienced Investment Oversight Officer for a 12-month fixed-term contract. This role offers an excellent opportunity to contribute to the development and maintenance of a robust investment oversight framework. The successful candidate will play a pivotal role in ensuring compliance with regulatory requirements, protecting investor interests, and providing strategic leadership in investment oversight ac",
-      "published": "2026-06-09",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "f0672a1b4c48",
-      "title": "Head of Treasury and M&A (m/f/d)",
-      "url": "https://de.linkedin.com/jobs/view/head-of-treasury-and-m-a-m-f-d-at-basf-4424892103?position=37&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=0lkJJvLxeepiJTvdOxEYEA%3D%3D",
-      "description": "BASF | WELCOME TO BASF\n\nWe are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fi",
-      "published": "2026-06-12",
-      "location": "Limburgerhof, Rhineland-Palatinate, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "43a2e2d23e56",
-      "title": "DIRECTEUR D'INVESTISSEMENT CAPITAL TRANSMISSION F/H",
-      "url": "https://fr.linkedin.com/jobs/view/directeur-d-investissement-capital-transmission-f-h-at-mediane-conseil-4423663035?position=29&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=maDIjjW%2BaPeLJ9RW%2B884HA%3D%3D",
-      "description": "Mediane Conseil | \nNCI, société d’investissement régionale indépendante de référence dans le Grand Tiers Nord-Ouest, souhaite renforcer son activité Transmission.\n\n\nAvec plus de 400M€ sous gestion, NCI accompagne les entrepreneurs et dirigeants de PME et ETI implantées en Normandie, Bretagne, Pays de la Loire, Hauts-de-France et Île-de-France dans leurs projets de développement, de croissance externe ou de transmission.\n\n\nAprès 5 millésimes marqués par de belles performances et fort de 17 ans de",
-      "published": "2026-06-11",
-      "location": "Rennes, Brittany, France",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "c3415b5a1d40",
-      "title": "Vice President Private Equity",
-      "url": "https://nl.linkedin.com/jobs/view/vice-president-private-equity-at-van-lanschot-kempen-4426071039?position=18&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=%2FxpT%2BiTSxqzlf00e%2FQerfQ%3D%3D",
-      "description": "Van Lanschot Kempen | Creëer je eigen toekomst\n\nAls Vice President Private Equity bij Van Lanschot Kempen ben je onderdeel van een gedreven team met zeer ervaren investeringsprofessionals. Ben je toe aan een stap in je carrière met veel verantwoordelijkheid, afwisseling en een steile leercurve? Aarzel dan niet om te reageren. Jouw rol is multidisciplinair met primaire focus op Private Equity partnerships en co-investeringen in zowel Europa en de Verenigde Staten.\n\nDaar zet je graag jouw talenten",
-      "published": "2026-06-10",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "c94228e2af9a",
-      "title": "Vice President/Principal, European Mid-Market, Germany",
-      "url": "https://de.linkedin.com/jobs/view/vice-president-principal-european-mid-market-germany-at-icg-4413630080?position=15&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=JzUNzNdVY4OcYVsMGqvsuA%3D%3D",
-      "description": "ICG | Job Title: Vice President/Principal, European Mid-Market\n\nLocation: Munich, Germany\n\nDepartment: Structured &amp; Private Equity Team\n\nReporting to: European Mid-Market Managing Director\n\nSummary Of Our Opportunity\n\nThe European Mid-Market team recently announced a €3bn close for Mid-Market Fund II, representing a 300% increase compared to the prior fund vintage, and was already deployed significantly across 8 investments. The Fund’s predecessor, Mid-Market Fund I, has delivered [5] exits ",
-      "published": "2026-06-11",
-      "location": "Munich, Bavaria, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "09f03fb7b688",
-      "title": "VP de Inversiones en el fondo de Real Estate",
-      "url": "https://es.linkedin.com/jobs/view/vp-de-inversiones-en-el-fondo-de-real-estate-at-bestinver-4426772374?position=23&pageNum=0&refId=Jv7G9sqGVvKLzY04H546nQ%3D%3D&trackingId=fvKdlkyVuSzqufG87BSNXQ%3D%3D",
-      "description": "Bestinver | \nBestinver, grupo financiero independiente líder con más de 35 años de experiencia, busca incorporar a un VP de Inversiones para su departamento de Real Estate.\n\n\nDescripción del puesto\n\n- Análisis de mercados.\n- Originación y selección de oportunidades de inversión.\n- Creación de material y presentación de oportunidades en el comité de inversiones.\n- Liderazgo y coordinación de procesos de due diligence de las inversiones.\n- Capacidad de ejecución de cierre de transacciones y financ",
-      "published": "2026-06-10",
-      "location": "Madrid, Community of Madrid, Spain",
+      "location": "Hamburg, Hamburg, Germany",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
