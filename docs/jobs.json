@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T12:50:14.161908+00:00",
-  "total": 9,
+  "generated_at": "2026-06-16T08:04:58.924352+00:00",
+  "total": 8,
   "items": [
     {
       "id": "46ca0d744bbb",
@@ -136,24 +136,6 @@
       "published": "2026-05-26T11:13:55.949+00:00",
       "location": "London",
       "source": "ashby_lendable",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "c9e3037eb561",
-      "title": "Investment Director (Lyon, France)",
-      "url": "https://de.linkedin.com/jobs/view/investment-director-lyon-france-at-archimed-4422269129?position=3&pageNum=0&refId=07JWoeBDoRYkUnOlkwaccg%3D%3D&trackingId=sT36NAx977lmiRvGDJwbZw%3D%3D",
-      "description": "ARCHIMED | Job Location : Lyon, France\n\nAbout ARCHIMED\n\nWith offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and financial expertise allows ARCHIMED to serve as both a strategic and financial partner to healthcare businesses. Prioritized areas of focus include Biopharma Products, Consumer Health, Healthcare IT, In Vitro Diagnostics, Life Science Tools &amp; Biologic Services",
-      "published": "2026-06-09",
-      "location": "Hamburg, Hamburg, Germany",
-      "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
