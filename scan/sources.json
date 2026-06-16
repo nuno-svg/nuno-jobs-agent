@@ -139,11 +139,11 @@
       "geo_filter": false,
       "needs_secret": "APIFY_TOKEN",
       "input": {
-        "urls": ["https://www.linkedin.com/jobs/search/?keywords=blended%20finance%20director&location=European%20Union&f_TPR=r604800&f_E=5%2C6"],
+        "urls": ["https://www.linkedin.com/jobs/search/?keywords=blended%20finance&location=European%20Union&f_TPR=r604800&f_E=4%2C5%2C6"],
         "count": 50,
         "scrapeCompany": false
       },
-      "_note": "Tuned 2026-06-11: f_E restricted to 5,6 (Director+Executive); added 'director' to keywords"
+      "_note": "Relaxed 2026-06-16: removed 'director' from keyword and restored f_E=4,5,6 — previous calibration was too tight (0 results)"
     },
     {
       "name": "apify_linkedin_investment_director",
@@ -153,25 +153,25 @@
       "geo_filter": false,
       "needs_secret": "APIFY_TOKEN",
       "input": {
-        "urls": ["https://www.linkedin.com/jobs/search/?keywords=%22investment%20director%22%20OR%20%22head%20of%20investments%22&location=European%20Union&f_TPR=r604800&f_E=5%2C6"],
+        "urls": ["https://www.linkedin.com/jobs/search/?keywords=%22head+of+finance%22+OR+%22finance+director%22+OR+%22investment+director%22&location=European%20Union&f_TPR=r604800&f_E=5%2C6"],
         "count": 50,
         "scrapeCompany": false
       },
-      "_note": "Tuned 2026-06-11: quoted exact-match titles to avoid catching 'Associate (reports to Investment Director)' type mid-level roles"
+      "_note": "Relaxed 2026-06-16: broader title-OR query, kept f_E=5,6 (Director+Executive only)"
     },
     {
-      "name": "apify_linkedin_angola_senior",
+      "name": "apify_linkedin_dfi_senior",
       "type": "apify",
       "actor_id": "curious_coder/linkedin-jobs-scraper",
       "robust": true,
       "geo_filter": false,
       "needs_secret": "APIFY_TOKEN",
       "input": {
-        "urls": ["https://www.linkedin.com/jobs/search/?keywords=Angola%20senior%20finance&f_TPR=r604800&f_E=5%2C6"],
+        "urls": ["https://www.linkedin.com/jobs/search/?keywords=development+finance+senior&location=European%20Union&f_TPR=r604800&f_E=4%2C5%2C6"],
         "count": 30,
         "scrapeCompany": false
       },
-      "_note": "Tuned 2026-06-08: removed broken OR syntax that returned 0 results"
+      "_note": "New 2026-06-16: replaces angola_senior (0 results) with DFI-focused query"
     },
     {
       "name": "apify_indeed_blended_eu",
