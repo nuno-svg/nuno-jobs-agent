@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T11:43:05.818864+00:00",
-  "elapsed_total_s": 243.7,
+  "generated_at": "2026-06-16T12:04:38.162749+00:00",
+  "elapsed_total_s": 250.2,
   "sources_total": 23,
   "sources_ok": 22,
   "sources_failed": 0,
-  "items_total_raw": 651,
-  "items_kept": 36,
+  "items_total_raw": 653,
+  "items_kept": 22,
   "sources": [
     {
       "name": "afdb",
@@ -18,14 +18,14 @@
       "name": "ebrd",
       "raw": 25,
       "kept": 5,
-      "elapsed_s": 1.1,
+      "elapsed_s": 1.0,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.6,
+      "elapsed_s": 0.7,
       "ok": true
     },
     {
@@ -46,7 +46,7 @@
       "name": "greenhouse_oneacre",
       "raw": 39,
       "kept": 0,
-      "elapsed_s": 0.4,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
@@ -60,14 +60,14 @@
       "name": "greenhouse_codeforamerica",
       "raw": 8,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_omidyar",
       "raw": 3,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -81,7 +81,7 @@
       "name": "greenhouse_n26",
       "raw": 72,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 1.2,
       "ok": true
     },
     {
@@ -109,56 +109,56 @@
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.6,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
       "name": "linkedin_search_dfi",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.8,
+      "elapsed_s": 0.9,
       "ok": true
     },
     {
       "name": "apify_linkedin_blended",
-      "raw": 5,
+      "raw": 6,
       "kept": 0,
-      "elapsed_s": 9.3,
+      "elapsed_s": 25.7,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
-      "raw": 50,
-      "kept": 29,
-      "elapsed_s": 31.1,
+      "raw": 51,
+      "kept": 11,
+      "elapsed_s": 34.5,
       "ok": true
     },
     {
       "name": "apify_linkedin_dfi_senior",
       "raw": 30,
-      "kept": 6,
-      "elapsed_s": 15.0,
+      "kept": 3,
+      "elapsed_s": 23.8,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
       "raw": 30,
       "kept": 0,
-      "elapsed_s": 97.0,
+      "elapsed_s": 52.7,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
       "raw": 50,
       "kept": 0,
-      "elapsed_s": 67.3,
+      "elapsed_s": 93.4,
       "ok": true
     },
     {
       "name": "apify_indeed_portugal_finance",
       "raw": 3,
       "kept": 0,
-      "elapsed_s": 16.6,
+      "elapsed_s": 11.6,
       "ok": true
     }
   ]
