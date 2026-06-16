@@ -398,6 +398,49 @@ EXCLUDE_TITLE_PATTERNS = [
 EXCLUDE_EXACT_TITLES = {"analyst", "associate", "manager", "consultant", "specialist"}
 
 
+# --------------- Language filter ---------------
+# Exclude job postings predominantly in languages Nuno cannot work in.
+# Strategy: count distinctive high-frequency function words from each excluded language.
+# If the ratio of foreign-language tokens exceeds threshold, exclude the posting.
+# We only check title + first 400 chars of description to keep it fast.
+
+_LANG_SIGNALS = {
+    "de": ["die", "der", "das", "und", "sie", "für", "mit", "auf", "auch", "eine", "einen",
+           "ist", "sind", "haben", "werden", "ihre", "ihren", "sowie", "suchen", "wir",
+           "verantwortung", "kenntnisse", "erfahrung", "aufgaben", "profil", "anforderungen",
+           "deutsch", "deutschkenntnisse", "unternehmen", "stellenangebot"],
+    "nl": ["de", "het", "een", "van", "voor", "met", "zijn", "worden", "deze", "ons",
+           "onze", "naar", "zoeken", "wij", "dutch", "nederland", "nederlandse",
+           "werkzaamheden", "functie", "profiel", "kandidaat", "vacature"],
+    "it": ["della", "delle", "degli", "nella", "nelle", "degli", "sono", "anche", "essere",
+           "viene", "avere", "nostro", "nostra", "cerchiamo", "requisiti", "italiano",
+           "italiano fluente", "sede", "azienda", "ruolo", "responsabilità"],
+    "ro": ["pentru", "este", "sunt", "care", "sau", "din", "unui", "unei", "coordoneaza",
+           "responsabilitati", "candidatului", "recruteaza", "pozitia", "profilul"],
+    "ru": ["для", "что", "это", "как", "или", "при", "по", "со", "на", "от", "из",
+           "который", "которые", "знание", "русский", "опыт"],
+    "fr": ["vous", "nous", "pour", "les", "des", "une", "dans", "sur", "avec", "par",
+           "votre", "notre", "qui", "que", "est", "sont", "avoir", "être", "ses", "ces",
+           "recherche", "poste", "candidat", "expérience", "compétences", "missions",
+           "français", "maîtrise", "rejoindre", "diplômé", "rejoindre", "entreprise"],
+}
+
+# Minimum number of signal words to trigger exclusion (avoids false positives on short texts)
+_LANG_THRESHOLD = 3
+
+
+def is_excluded_language(title: str, description: str) -> bool:
+    """Return True if the posting appears to be predominantly in an excluded language."""
+    # Combine title (weighted ×3) + first 400 chars of description
+    text = (normalize(title) + " ") * 3 + normalize(description[:400])
+    words = set(re.findall(r"\b\w+\b", text))
+    for lang, signals in _LANG_SIGNALS.items():
+        hits = sum(1 for s in signals if s in text)
+        if hits >= _LANG_THRESHOLD:
+            return True
+    return False
+
+
 def is_excluded_title(title):
     t = normalize(title)
     if not t or len(t) < 6:
@@ -529,6 +572,8 @@ def main():
                 if not item.get("title") or not item.get("url"):
                     continue
                 if is_excluded_title(item["title"]):
+                    continue
+                if is_excluded_language(item.get("title", ""), item.get("description", "")):
                     continue
                 if not passes_geo_filter(item, source, sources_cfg):
                     continue
