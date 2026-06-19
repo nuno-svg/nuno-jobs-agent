@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T10:56:26.080216+00:00",
-  "total": 21,
+  "generated_at": "2026-06-19T11:04:17.336940+00:00",
+  "total": 23,
   "items": [
     {
       "id": "46ca0d744bbb",
@@ -39,6 +39,24 @@
       }
     },
     {
+      "id": "a4ecee2ff5c2",
+      "title": "Corporate Finance Director",
+      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-director-at-fk-international-financial-search-and-selection-4430461828?position=22&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=oJ4Q2YSmkJQto2sfwwJYFQ%3D%3D",
+      "description": "FK International - Financial Search and Selection | \nJob Description\nWe are partnering with a leading advisory firm to appoint a Corporate Finance Director to its growing Dublin team. This opportunity is ideally suited to an experienced advisor, who will play a key leadership role in originating and executing a broad range of transactions, including M&amp;A, capital raising, and strategic advisory mandates. \n\n\nWorking closely with senior stakeholders, you will drive deal processes end-to-end whi",
+      "published": "2026-06-18",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 6.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 6.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "da8d2b4f21c1",
       "title": "Associate Partner (Anglophone Africa)",
       "url": "https://job-boards.greenhouse.io/instiglio/jobs/5989429004",
@@ -59,7 +77,7 @@
     {
       "id": "4e4ba58af6cd",
       "title": "Head of Finance",
-      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-talenom-espa%C3%B1a-4428482308?position=22&pageNum=0&refId=iO4E3dEScOr8XruU3iRs9g%3D%3D&trackingId=7vM37rqt7ha9pI4CB3AMxA%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-talenom-espa%C3%B1a-4428482308?position=14&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=2rDaw7SFbb4Qhv2xPufw1Q%3D%3D",
       "description": "Talenom España | \nAre you currently leading Finance as a Head of Finance and considering your next step? Would you be interested in joining a company where you can truly shape the financial strategy at a country level?\nRole Purpose\nThe Head of Finance is responsible for leading the financial function in Spain, ensuring sound financial management, control, and performance aligned with the company’s global strategy. The role acts as a strategic business partner at a local level, enabling data-driv",
       "published": "2026-06-17",
       "location": "Barcelona, Catalonia, Spain",
@@ -129,24 +147,6 @@
       }
     },
     {
-      "id": "e67bed3f8be8",
-      "title": "Principal, PODD",
-      "url": "https://jobs.ebrd.com/job/London-Principal%2C-PODD/1404990133/",
-      "description": "Principal, PODD Principal, PODD London, GB 16 Jun 2026 0.00 km London, GB 16 Jun 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "5e77ea63634e",
       "title": "Officer, AM R&M Support",
       "url": "https://jobs.ebrd.com/job/London-Officer%2C-AM-R&M-Support/1405124433/",
@@ -165,10 +165,10 @@
       }
     },
     {
-      "id": "3c70b8602e4c",
-      "title": "Principal Water Sector Specialist",
-      "url": "https://jobs.ebrd.com/job/Almaty-Principal-Water-Sector-Specialist/1403746933/",
-      "description": "Principal Water Sector Specialist Principal Water Sector Specialist Almaty, GB 12 Jun 2026 0.00 km Almaty, GB 12 Jun 2026",
+      "id": "e67bed3f8be8",
+      "title": "Principal, PODD",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-PODD/1404990133/",
+      "description": "Principal, PODD Principal, PODD London, GB 16 Jun 2026 0.00 km London, GB 16 Jun 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -201,12 +201,30 @@
       }
     },
     {
-      "id": "a0ba21db48e6",
-      "title": "Head of Finance (m/w/d) - Private Equity",
-      "url": "https://de.linkedin.com/jobs/view/head-of-finance-m-w-d-private-equity-at-options-group-germany-gmbh-4426405378?position=14&pageNum=0&refId=iO4E3dEScOr8XruU3iRs9g%3D%3D&trackingId=yiydlehDUIxM13G6uI01Gw%3D%3D",
-      "description": "Options Group Germany GmbH | \nWe are advising a PE-backed, internationally active industrial technology group undergoing a strategic transformation and global expansion. To strengthen its finance leadership in Germany, we are seeking an experienced and hands-on Head of Finance to take full responsibility for the German entities and act as a key interface to the Group CFO and international management.\n\nThis is a role with both operational depth and strategic exposure, suited for a candidate who c",
-      "published": "2026-06-15",
-      "location": "Bonn, North Rhine-Westphalia, Germany",
+      "id": "dc849d5976b3",
+      "title": "Principal Water Sector Specialist",
+      "url": "https://jobs.ebrd.com/job/London-Principal-Water-Sector-Specialist/1403759433/",
+      "description": "Principal Water Sector Specialist Principal Water Sector Specialist London, GB 12 Jun 2026 0.00 km London, GB 12 Jun 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "92e9c05625c2",
+      "title": "Financial Director",
+      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-wade-macdonald-4428246031?position=17&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=fbvG6Y9wSGxMQY6EHmFcrw%3D%3D",
+      "description": "Wade Macdonald | \nFinancial Director SME Software £90,000e - £100,000e plus 25% Bonus and Bens - Remote\nUK &amp; IRE\n\n\nAbout the Client:\nThis established global organisation in the Software / Telecoms sector is looking for a hands-on and commercially minded SME Finance Director / Head of Finance to lead a rapidly growing SME business unit $15million t/o. You will support its growth and operational efficiency. With a strong commitment to collaboration and accountability, they believe in empowerin",
+      "published": "2026-06-19",
+      "location": "Ireland",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -214,6 +232,24 @@
       "scores": {
         "A_blended_catalytic": 0.0,
         "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "b7c4f4580ddf",
+      "title": "ESG Analyst",
+      "url": "https://n26.com/en-eu/careers/positions/7981821?gh_jid=7981821",
+      "description": "<h1><strong>About the opportunity</strong></h1>\n<p>We are seeking an <strong>ESG Analyst</strong> to join our Sustainability Finance team.</p>\n<p>Our team sits at the intersection of finance, technology, and compliance. We translate complex data into investor-ready insights, navigate a rapidly shifting European regulatory landscape, and partner across the business to embed sustainability into N26’s core processes. We value analytical precision, strategic thinking, and proactive collaboration, em",
+      "published": "2026-06-18T10:22:12-04:00",
+      "location": "Berlin",
+      "source": "greenhouse_n26",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 2.0,
+        "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -237,13 +273,13 @@
       }
     },
     {
-      "id": "01ccd01833e9",
-      "title": "Capital Markets Analyst / Associate",
-      "url": "https://jobs.ashbyhq.com/lendable/9fe4b5ae-440e-4ef4-a363-8b0e46c902b7",
-      "description": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s newest unicorns with a team of just over 700 people Among the fastest-growing tech companies in the UK Profitable since 2017 Backed by top investors including Balderton Capital and Goldman Sachs Loved by customers with the best reviews in the market (4.9 across 10,000s of r",
-      "published": "2026-05-26T11:13:55.949+00:00",
-      "location": "London",
-      "source": "ashby_lendable",
+      "id": "d19ed14e2f6f",
+      "title": "Country Finance Manager - Benelux",
+      "url": "https://be.linkedin.com/jobs/view/country-finance-manager-benelux-at-hitachi-energy-4429964489?position=55&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=JmRCYhRZzM%2Br3fXLmkMz3w%3D%3D",
+      "description": "Hitachi Energy | The Opportunity\n\nwe are currently seeking an experienced Country Finance Manager Benelux to act as a senior strategic business partner to the Country Managing Director Benelux. In this role, you will have full end‑to‑end financial responsibility at country cluster (BeNeLux) level, combining strategic leadership with hands‑on involvement to drive profitable growth, robust governance, and financial transparency across our operations in Belgium and the Netherlands.\n\nOperating withi",
+      "published": "2026-06-17",
+      "location": "Zaventem, Flemish Region, Belgium",
+      "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
@@ -257,7 +293,7 @@
     {
       "id": "e2e12921901f",
       "title": "Finance Director",
-      "url": "https://es.linkedin.com/jobs/view/finance-director-at-yobrands-4406798469?position=34&pageNum=0&refId=iO4E3dEScOr8XruU3iRs9g%3D%3D&trackingId=btDCErBGmzy2e0JEyW2C%2Fg%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/finance-director-at-yobrands-4406798469?position=27&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=GbOsh2yG%2F83GU1vjcciRSw%3D%3D",
       "description": "YoBrands | YoBrands, part of The Rank Group, is a leading online gaming operator in the Spanish &amp; Portuguese markets with an expanding online and offline portfolio focused on bingo, casino and sports betting with 4 leading brands: Enracha, YoCasino, YoBingo and YoSports\n\nOur goals are to provide entertainment and community to our customers with our websites and apps so that they can access our products from their mobile phones, tablets while communicating with one another.\n\nWe offer our own ",
       "published": "2026-06-12",
       "location": "Barcelona, Catalonia, Spain",
@@ -275,7 +311,7 @@
     {
       "id": "481d8fdcb804",
       "title": "Head of Finance, BNPP Romania Branch",
-      "url": "https://ro.linkedin.com/jobs/view/head-of-finance-bnpp-romania-branch-at-bnp-paribas-4428100974?position=27&pageNum=0&refId=iO4E3dEScOr8XruU3iRs9g%3D%3D&trackingId=s%2F09njdyKIkLwgR1mCi%2BjQ%3D%3D",
+      "url": "https://ro.linkedin.com/jobs/view/head-of-finance-bnpp-romania-branch-at-bnp-paribas-4428100974?position=21&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=4aRQeMcJQx5LkaHfEW%2BwSg%3D%3D",
       "description": "BNP Paribas | If you are searching for opportunities to develop your career in the field of Corporate and Institutional Banking, challenges to boost your future career path, then BNP Paribas is the right place for you.\n\nJoining BNP Paribas means joining a Group that's constantly transforming itself in order to adapt to our changing society and to build the world of tomorrow. Applying to work at BNP Paribas is not just about applying for a job, it's about giving meaning to your work and passion a",
       "published": "2026-06-12",
       "location": "Bucharest, Bucharest, Romania",
@@ -291,30 +327,12 @@
       }
     },
     {
-      "id": "7d9c6e18bc67",
-      "title": "Financial Director",
-      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-darwin-hawkins-4427569322?position=25&pageNum=0&refId=iO4E3dEScOr8XruU3iRs9g%3D%3D&trackingId=Q77WmbhOi8ykzMrssoyJCA%3D%3D",
-      "description": "Darwin Hawkins | \nJob Title: Finance Director \nSector: High-Growth Financial Services - New Entrant to Ireland\nLocation: Dublin\nSalary: €180,000 - €220,000 plus Bonus, Pension &amp; Health Insurance\n \n\n\nOur Client\nOur client is a highly regarded and growing financial services organisation. The business is a new entrant to Ireland and is entering an exciting phase of growth, transformation and investment.\n\n\nWith a strong leadership team, ambitious strategic plans and a continued focus on operatio",
-      "published": "2026-06-11",
-      "location": "County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "a8b969027416",
-      "title": "Head of Finance till Enity Bank Group",
-      "url": "https://se.linkedin.com/jobs/view/head-of-finance-till-enity-bank-group-at-conpassio-executive-search-interim-4428734971?position=16&pageNum=0&refId=iO4E3dEScOr8XruU3iRs9g%3D%3D&trackingId=xp%2BESTsUXHMEPt33lw7SkA%3D%3D",
-      "description": "Conpassio Executive Search & Interim | I över 20 år har Enity utvecklats genom en resa av stark tillväxt och kontinuerlig förändring. Från att ha varit en nischad bolånebank i Sverige har vi vuxit till en nordisk aktör, där vi utmanar etablerade sätt att tänka med innovativa och mer inkluderande lösningar.\n\nPå Enity tror vi på människors potential. Vi utmanar den nordiska bolånemarknaden genom att göra banktjänster mer inkluderande, hållbara och mänskliga. Som ett noterat bolag med varumärkena B",
-      "published": "2026-06-17",
-      "location": "Stockholm, Stockholm County, Sweden",
+      "id": "32dffccc69e3",
+      "title": "Chief Financial Officer (CFO)",
+      "url": "https://nl.linkedin.com/jobs/view/chief-financial-officer-cfo-at-cepd-n-v-4426810101?position=15&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=tPL5ergaLBf2kEaDr9gU%2Fg%3D%3D",
+      "description": "CEPD N.V. | \nPURPOSE OF THE ROLE\n\n\nThe CFO is responsible for comprehensive financial oversight and shaping the Group's financial strategy to ensure long-term stability. The role combines responsibility for financial governance at the holding level with the function of a financial competency centre for local CFOs and finance directors across subsidiaries.\n\n\nAREAS OF IMPACT\n\n\n– Shaping and executing the Group's financial strategy.\n– Overseeing the financial performance and financial health of sub",
+      "published": "2026-06-16",
+      "location": "Amsterdam, North Holland, Netherlands",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -329,7 +347,7 @@
     {
       "id": "b49a5dc97df8",
       "title": "Chief Financial Officer",
-      "url": "https://it.linkedin.com/jobs/view/chief-financial-officer-at-keypartners-4427472721?position=10&pageNum=0&refId=iO4E3dEScOr8XruU3iRs9g%3D%3D&trackingId=vUUc0XQXFGS6A1lsSAIhow%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/chief-financial-officer-at-keypartners-4427472721?position=11&pageNum=0&refId=BHfgzDZ%2FOw24Ag8tF68Q9w%3D%3D&trackingId=%2F1NRjxiHzqF44bJEhnDFRQ%3D%3D",
       "description": "KeyPartners | \nPer conto di una consolidata PMI operante nel settore dei servizi siamo alla ricerca di un Chief Financial Officer che assuma un ruolo centrale nel supportare il management in una fase di crescita, consolidamento organizzativo e sviluppo del business.\n\n\nRiportando direttamente al CEO, il CFO sarà responsabile dell'intera funzione Amministrazione, Finanza e Controllo, con l'obiettivo di rafforzare gli strumenti di governo economico-finanziario, supportare i processi decisionali e c",
       "published": "2026-06-15",
       "location": "Rome, Latium, Italy",
@@ -345,9 +363,27 @@
       }
     },
     {
+      "id": "ad173c0f337c",
+      "title": "Vice President, Financial Planning & Analysis",
+      "url": "https://ie.linkedin.com/jobs/view/vice-president-financial-planning-analysis-at-icon-plc-4428068654?position=53&pageNum=0&refId=h%2FyNhAMtRSSKbZQIwtQgCA%3D%3D&trackingId=Om8O0Mm9%2Fqnfw%2B3oY4UbsA%3D%3D",
+      "description": "ICON plc | Vice President, Financial Planning &amp; Analysis (FP &amp; A) -- Dublin -- Hybrid\n\nICON plc is a world-leading healthcare intelligence and clinical research organization. We’re proud to foster an inclusive environment driving innovation and excellence, and we welcome you to join us on our mission to shape the future of clinical development.\n\nThe Vice President, FP&amp;A is a senior finance leadership role responsible for leading enterprise-wide financial planning, forecasting, perfor",
+      "published": "2026-06-16",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_dfi_senior",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "d566a56919f7",
       "title": "Senior EY Parthenon - Corporate Strategy",
-      "url": "https://it.linkedin.com/jobs/view/senior-ey-parthenon-corporate-strategy-at-ey-parthenon-4385033815?position=59&pageNum=0&refId=n7hSMroqYG7SDwTem5ty2Q%3D%3D&trackingId=1049aX0wUUsQB0YtifAlUA%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/senior-ey-parthenon-corporate-strategy-at-ey-parthenon-4385033815?position=50&pageNum=0&refId=h%2FyNhAMtRSSKbZQIwtQgCA%3D%3D&trackingId=Lr76jgjQMt95G5lFdBS%2B6g%3D%3D",
       "description": "EY-Parthenon | At EY, we’re all in to shape your future with confidence.\n\nWe’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n\nJoin EY and help to build a better working world.\n\nThe opportunity\n\nThe EY-Parthenon – Strategy team in Italy currently has exciting and inspiring opportunities. We are seeking to recruit new professionals for the Milan office, providing broader responsibilities, more exposure to clients, and signifi",
       "published": "2026-06-12",
       "location": "Milan, Lombardy, Italy",
@@ -365,7 +401,7 @@
     {
       "id": "c9c937fb69bb",
       "title": "Strategic Investment (Logistics real estate)",
-      "url": "https://fr.linkedin.com/jobs/view/strategic-investment-logistics-real-estate-at-jd-com-4428021613?position=57&pageNum=0&refId=n7hSMroqYG7SDwTem5ty2Q%3D%3D&trackingId=I8RwEEdK1TkfE7S%2FO13N%2Fw%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/strategic-investment-logistics-real-estate-at-jd-com-4428021613?position=46&pageNum=0&refId=h%2FyNhAMtRSSKbZQIwtQgCA%3D%3D&trackingId=jDvQotCf%2B4DgKuGk%2BJXPmw%3D%3D",
       "description": "JD.COM | \nQualifications: \nThe ideal candidate is a highly motivated, intelligent, and capable real estate investment professional with robust financial modeling and analytical skills, preferably with some experience in logistics real estate and/or experience in France and other European markets. In addition to strong technical skills, the ideal candidate should be a self-starter and entrepreneurial, can effectively multitask and propose new investment ideas. It will be added quality if the cand",
       "published": "2026-06-16",
       "location": "Paris, Île-de-France, France",
