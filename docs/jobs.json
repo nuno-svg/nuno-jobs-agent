@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T10:11:53.662299+00:00",
-  "total": 23,
+  "generated_at": "2026-06-22T12:34:38.843209+00:00",
+  "total": 24,
   "items": [
     {
       "id": "46ca0d744bbb",
@@ -41,7 +41,7 @@
     {
       "id": "a4ecee2ff5c2",
       "title": "Corporate Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-director-at-fk-international-financial-search-and-selection-4430461828?position=28&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=uzwofhMblpqdESQ4y0n%2BdQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-director-at-fk-international-financial-search-and-selection-4430461828?position=25&pageNum=0&refId=3hKsrt2Uh7ZzXFV2YvC8dg%3D%3D&trackingId=i8aEmKM63n6hAvoU3tPiIQ%3D%3D",
       "description": "FK International - Financial Search and Selection | \nJob Description\nWe are partnering with a leading advisory firm to appoint a Corporate Finance Director to its growing Dublin team. This opportunity is ideally suited to an experienced advisor, who will play a key leadership role in originating and executing a broad range of transactions, including M&amp;A, capital raising, and strategic advisory mandates. \n\n\nWorking closely with senior stakeholders, you will drive deal processes end-to-end whi",
       "published": "2026-06-18",
       "location": "Dublin, County Dublin, Ireland",
@@ -77,7 +77,7 @@
     {
       "id": "4e4ba58af6cd",
       "title": "Head of Finance",
-      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-talenom-espa%C3%B1a-4428482308?position=20&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=xCXuQrzm5HzSc%2Bg4j4T3Pw%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-talenom-espa%C3%B1a-4428482308?position=19&pageNum=0&refId=3hKsrt2Uh7ZzXFV2YvC8dg%3D%3D&trackingId=NTAn9bbgU95gL5zMB%2FS4BA%3D%3D",
       "description": "Talenom España | \nAre you currently leading Finance as a Head of Finance and considering your next step? Would you be interested in joining a company where you can truly shape the financial strategy at a country level?\nRole Purpose\nThe Head of Finance is responsible for leading the financial function in Spain, ensuring sound financial management, control, and performance aligned with the company’s global strategy. The role acts as a strategic business partner at a local level, enabling data-driv",
       "published": "2026-06-17",
       "location": "Barcelona, Catalonia, Spain",
@@ -93,31 +93,31 @@
       }
     },
     {
-      "id": "1cba83fc3739",
-      "title": "CFO (external)",
-      "url": "https://de.linkedin.com/jobs/view/cfo-external-at-phaseform-4428277025?position=30&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=Yc3hBXpzuzyTSO1fVjBXtw%3D%3D",
-      "description": "Phaseform | \nPhaseform is a successful deep-tech company based in Freiburg, Germany. We change the way adaptive optics can help microscopy, ophthalmology and machine vision using our proprietary optofluidic wavefront modulator technology (DPP).\n\nWe are currently in the second year of the EIC Accelerator programme — one of the most competitive EU funding instruments for breakthrough innovation — and are driving the next phase of growth, including further fundraising and international market expan",
-      "published": "2026-06-19",
-      "location": "Germany",
-      "source": "apify_linkedin_investment_director",
+      "id": "fcfb4ed34f87",
+      "title": "Head of Finance",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-amarox-limited-4431637482?position=47&pageNum=0&refId=xK40AafZgkU4VB%2BJHa3IlA%3D%3D&trackingId=%2FH4otB361KFUyKteMKGFeA%3D%3D",
+      "description": "Amarox Limited | \nLocation: Netherlands\n Industry: Pharmaceuticals (API / Formulations / Global Generics)\n Experience: 6-15 Years\nAbout the Company\nWe are a global pharmaceutical organization with strong capabilities across Active Pharmaceutical Ingredients (API), formulations, and research &amp; development. With a presence in regulated markets including the EU and US, the organization is committed to delivering high-quality, compliant, and affordable medicines worldwide.\nRole Overview\nThe Head",
+      "published": "2026-06-22",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 5.0,
+      "fit": 4.0,
       "scores": {
         "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 5.0,
+        "B_deal_structuring": 4.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
     },
     {
-      "id": "1419e090ce39",
-      "title": "Short-Term Staff (STS) - Office Clerk, RDGN",
-      "url": "https://www.afdb.org/en/vacancy/short-term-staff-sts-office-clerk-rdgn-94542",
-      "description": "Short-Term Staff (STS) - Office Clerk, RDGN GS3 Tunis, Tunisia 17-Jun-2026 23-Jun-2026",
+      "id": "83a164474305",
+      "title": "Associate- Cloud Network Engineer",
+      "url": "https://jobs.ebrd.com/job/Sofia-Associate-Cloud-Network-Engineer/1203357301/",
+      "description": "Associate- Cloud Network Engineer Associate- Cloud Network Engineer Sofia, BG 22 Jun 2026 0.00 km Sofia, BG 22 Jun 2026",
       "published": "",
       "location": "",
-      "source": "afdb",
+      "source": "ebrd",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 3.0,
@@ -239,7 +239,7 @@
     {
       "id": "51ee1092aec1",
       "title": "EMEA Finance Leader",
-      "url": "https://de.linkedin.com/jobs/view/emea-finance-leader-at-pax8-4419484341?position=45&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=40IJQBLhRmQGaaEbckDHCQ%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/emea-finance-leader-at-pax8-4419484341?position=40&pageNum=0&refId=3hKsrt2Uh7ZzXFV2YvC8dg%3D%3D&trackingId=fl4Ug4KsmTKVi8Se5UZE6w%3D%3D",
       "description": "Pax8 | Pax8 is looking for a senior finance professional operating at Head of Finance, Finance Director, or CFO level to join us as Regional Finance Leader EMEA.\n\nThis is a high-impact, high-visibility regional leadership role built for someone who loves influencing big decisions without needing a big org chart. You’ll be the finance voice at the table - elevating performance narratives, sharpening investment choices, and helping leaders move faster with better data.\n\nAbout Pax8\n\nPax8 is the tec",
       "published": "2026-06-19",
       "location": "Munich, Bavaria, Germany",
@@ -257,10 +257,28 @@
     {
       "id": "92e9c05625c2",
       "title": "Financial Director",
-      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-wade-macdonald-4428246031?position=29&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=ldCnl909LsdCm7YWgDkisg%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-wade-macdonald-4428246031?position=26&pageNum=0&refId=3hKsrt2Uh7ZzXFV2YvC8dg%3D%3D&trackingId=T3pZMXxD0RfzKs1t0FuUCw%3D%3D",
       "description": "Wade Macdonald | \nFinancial Director SME Software £90,000e - £100,000e plus 25% Bonus and Bens - Remote\nUK &amp; IRE\n\n\nAbout the Client:\nThis established global organisation in the Software / Telecoms sector is looking for a hands-on and commercially minded SME Finance Director / Head of Finance to lead a rapidly growing SME business unit $15million t/o. You will support its growth and operational efficiency. With a strong commitment to collaboration and accountability, they believe in empowerin",
       "published": "2026-06-19",
       "location": "Ireland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "a0ba21db48e6",
+      "title": "Head of Finance (m/w/d) - Private Equity",
+      "url": "https://de.linkedin.com/jobs/view/head-of-finance-m-w-d-private-equity-at-options-group-germany-gmbh-4426405378?position=16&pageNum=0&refId=3hKsrt2Uh7ZzXFV2YvC8dg%3D%3D&trackingId=X0qUEDH4UkR9x5SKt6RjJQ%3D%3D",
+      "description": "Options Group Germany GmbH | \nWe are advising a PE-backed, internationally active industrial technology group undergoing a strategic transformation and global expansion. To strengthen its finance leadership in Germany, we are seeking an experienced and hands-on Head of Finance to take full responsibility for the German entities and act as a key interface to the Group CFO and international management.\n\nThis is a role with both operational depth and strategic exposure, suited for a candidate who c",
+      "published": "2026-06-15",
+      "location": "Bonn, North Rhine-Westphalia, Germany",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -309,37 +327,19 @@
       }
     },
     {
-      "id": "b49a5dc97df8",
-      "title": "Chief Financial Officer",
-      "url": "https://it.linkedin.com/jobs/view/chief-financial-officer-at-keypartners-4427472721?position=21&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=hNbH1pg%2Bfl3mijDhGp7j8A%3D%3D",
-      "description": "KeyPartners | \nPer conto di una consolidata PMI operante nel settore dei servizi siamo alla ricerca di un Chief Financial Officer che assuma un ruolo centrale nel supportare il management in una fase di crescita, consolidamento organizzativo e sviluppo del business.\n\n\nRiportando direttamente al CEO, il CFO sarà responsabile dell'intera funzione Amministrazione, Finanza e Controllo, con l'obiettivo di rafforzare gli strumenti di governo economico-finanziario, supportare i processi decisionali e c",
-      "published": "2026-06-15",
-      "location": "Rome, Latium, Italy",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
+      "id": "94ad22caa51a",
+      "title": "Director, Innovative Financing Solutions",
+      "url": "https://at.linkedin.com/jobs/view/director-innovative-financing-solutions-at-the-opec-fund-for-international-development-4411355391?position=1&pageNum=0&refId=my6A2kTmz0r02Ph%2BV0J2AA%3D%3D&trackingId=gwBvERctmTjLnIJUIrpi%2BQ%3D%3D",
+      "description": "The OPEC Fund for International Development | Department/Unit: Innovative Financing Solutions Unit /Strategy\n\nDate of Issuance: May 8, 2026\n\nDeadline of Applications: July 3, 2026\n\nRequired Languages: English\n\nContract Type: Fixed Term Contract\n\nGrade: Management\n\nJob Category: H2\n\nRecruitment Status: International\n\nContract Duration: Two-year fixed term appointment, with the possibility of renewal.\n\nThis is a re-opening of the vacancy. Candidates who already applied do not need to re-submit the",
+      "published": "2026-06-21",
+      "location": "Vienna, Austria",
+      "source": "apify_linkedin_blended",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 2.0,
       "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "a8b969027416",
-      "title": "Head of Finance till Enity Bank Group",
-      "url": "https://se.linkedin.com/jobs/view/head-of-finance-till-enity-bank-group-at-conpassio-executive-search-interim-4428734971?position=19&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=mU%2BMaSWuOnCRniqdIhd%2Ftg%3D%3D",
-      "description": "Conpassio Executive Search & Interim | I över 20 år har Enity utvecklats genom en resa av stark tillväxt och kontinuerlig förändring. Från att ha varit en nischad bolånebank i Sverige har vi vuxit till en nordisk aktör, där vi utmanar etablerade sätt att tänka med innovativa och mer inkluderande lösningar.\n\nPå Enity tror vi på människors potential. Vi utmanar den nordiska bolånemarknaden genom att göra banktjänster mer inkluderande, hållbara och mänskliga. Som ett noterat bolag med varumärkena B",
-      "published": "2026-06-17",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
+        "A_blended_catalytic": 2.0,
+        "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -347,7 +347,7 @@
     {
       "id": "32dffccc69e3",
       "title": "Chief Financial Officer (CFO)",
-      "url": "https://nl.linkedin.com/jobs/view/chief-financial-officer-cfo-at-cepd-n-v-4426810101?position=22&pageNum=0&refId=hG%2FupL48XGDlaSUC9F%2BQFg%3D%3D&trackingId=oeqztPsI1u%2B1Rh0k%2Fi2XoQ%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/chief-financial-officer-cfo-at-cepd-n-v-4426810101?position=20&pageNum=0&refId=3hKsrt2Uh7ZzXFV2YvC8dg%3D%3D&trackingId=5PV5ByJh4YstO3aPODlJOg%3D%3D",
       "description": "CEPD N.V. | \nPURPOSE OF THE ROLE\n\n\nThe CFO is responsible for comprehensive financial oversight and shaping the Group's financial strategy to ensure long-term stability. The role combines responsibility for financial governance at the holding level with the function of a financial competency centre for local CFOs and finance directors across subsidiaries.\n\n\nAREAS OF IMPACT\n\n\n– Shaping and executing the Group's financial strategy.\n– Overseeing the financial performance and financial health of sub",
       "published": "2026-06-16",
       "location": "Amsterdam, North Holland, Netherlands",
@@ -363,9 +363,27 @@
       }
     },
     {
+      "id": "a8b969027416",
+      "title": "Head of Finance till Enity Bank Group",
+      "url": "https://se.linkedin.com/jobs/view/head-of-finance-till-enity-bank-group-at-conpassio-executive-search-interim-4428734971?position=17&pageNum=0&refId=3hKsrt2Uh7ZzXFV2YvC8dg%3D%3D&trackingId=omrG1CX06%2FER1TVTwc7DAQ%3D%3D",
+      "description": "Conpassio Executive Search & Interim | I över 20 år har Enity utvecklats genom en resa av stark tillväxt och kontinuerlig förändring. Från att ha varit en nischad bolånebank i Sverige har vi vuxit till en nordisk aktör, där vi utmanar etablerade sätt att tänka med innovativa och mer inkluderande lösningar.\n\nPå Enity tror vi på människors potential. Vi utmanar den nordiska bolånemarknaden genom att göra banktjänster mer inkluderande, hållbara och mänskliga. Som ett noterat bolag med varumärkena B",
+      "published": "2026-06-17",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "ad173c0f337c",
       "title": "Vice President, Financial Planning & Analysis",
-      "url": "https://ie.linkedin.com/jobs/view/vice-president-financial-planning-analysis-at-icon-plc-4428068654?position=48&pageNum=0&refId=3SCx318rCJ0oZTfy4PqOXQ%3D%3D&trackingId=kLVBc5ehS59A69Cnu5Gn9Q%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/vice-president-financial-planning-analysis-at-icon-plc-4428068654?position=43&pageNum=0&refId=xK40AafZgkU4VB%2BJHa3IlA%3D%3D&trackingId=r%2Bituda3MRRDRd3pEMs2RA%3D%3D",
       "description": "ICON plc | Vice President, Financial Planning &amp; Analysis (FP &amp; A) -- Dublin -- Hybrid\n\nICON plc is a world-leading healthcare intelligence and clinical research organization. We’re proud to foster an inclusive environment driving innovation and excellence, and we welcome you to join us on our mission to shape the future of clinical development.\n\nThe Vice President, FP&amp;A is a senior finance leadership role responsible for leading enterprise-wide financial planning, forecasting, perfor",
       "published": "2026-06-16",
       "location": "Dublin, County Dublin, Ireland",
@@ -381,12 +399,12 @@
       }
     },
     {
-      "id": "235dba8cc3ed",
-      "title": "Finance & Business Analysis Manager- Brussels",
-      "url": "https://be.linkedin.com/jobs/view/finance-business-analysis-manager-brussels-at-transearch-belgium-4430415859?position=42&pageNum=0&refId=3SCx318rCJ0oZTfy4PqOXQ%3D%3D&trackingId=Hs6%2FBBQPgpLicI7Vg0X%2FZw%3D%3D",
-      "description": "TRANSEARCH Belgium | \nWe are seeking a Finance &amp; Business Analysis Manager for one of our global clients, to oversee financial planning, performance monitoring, and business analysis activities across the organization. This role delivers meaningful insights that support management in steering business performance, optimizing resources, and achieving strategic objectives.\n\n\nThe successful candidate will be responsible for budgeting, forecasting, financial reporting, profitability analysis, re",
-      "published": "2026-06-18",
-      "location": "Brussels, Brussels Region, Belgium",
+      "id": "c9c937fb69bb",
+      "title": "Strategic Investment (Logistics real estate)",
+      "url": "https://fr.linkedin.com/jobs/view/strategic-investment-logistics-real-estate-at-jd-com-4428021613?position=38&pageNum=0&refId=xK40AafZgkU4VB%2BJHa3IlA%3D%3D&trackingId=ZC6sQMjhr04rm6VKl2mtgQ%3D%3D",
+      "description": "JD.COM | \nQualifications: \nThe ideal candidate is a highly motivated, intelligent, and capable real estate investment professional with robust financial modeling and analytical skills, preferably with some experience in logistics real estate and/or experience in France and other European markets. In addition to strong technical skills, the ideal candidate should be a self-starter and entrepreneurial, can effectively multitask and propose new investment ideas. It will be added quality if the cand",
+      "published": "2026-06-16",
+      "location": "Paris, Île-de-France, France",
       "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -399,12 +417,12 @@
       }
     },
     {
-      "id": "c9c937fb69bb",
-      "title": "Strategic Investment (Logistics real estate)",
-      "url": "https://fr.linkedin.com/jobs/view/strategic-investment-logistics-real-estate-at-jd-com-4428021613?position=40&pageNum=0&refId=3SCx318rCJ0oZTfy4PqOXQ%3D%3D&trackingId=iV4u%2BTAARYpUcvP9CRRfHA%3D%3D",
-      "description": "JD.COM | \nQualifications: \nThe ideal candidate is a highly motivated, intelligent, and capable real estate investment professional with robust financial modeling and analytical skills, preferably with some experience in logistics real estate and/or experience in France and other European markets. In addition to strong technical skills, the ideal candidate should be a self-starter and entrepreneurial, can effectively multitask and propose new investment ideas. It will be added quality if the cand",
-      "published": "2026-06-16",
-      "location": "Paris, Île-de-France, France",
+      "id": "235dba8cc3ed",
+      "title": "Finance & Business Analysis Manager- Brussels",
+      "url": "https://be.linkedin.com/jobs/view/finance-business-analysis-manager-brussels-at-transearch-belgium-4430415859?position=36&pageNum=0&refId=xK40AafZgkU4VB%2BJHa3IlA%3D%3D&trackingId=UwWfMf6eue1o7%2FJ4Hz3sKg%3D%3D",
+      "description": "TRANSEARCH Belgium | \nWe are seeking a Finance &amp; Business Analysis Manager for one of our global clients, to oversee financial planning, performance monitoring, and business analysis activities across the organization. This role delivers meaningful insights that support management in steering business performance, optimizing resources, and achieving strategic objectives.\n\n\nThe successful candidate will be responsible for budgeting, forecasting, financial reporting, profitability analysis, re",
+      "published": "2026-06-18",
+      "location": "Brussels, Brussels Region, Belgium",
       "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
