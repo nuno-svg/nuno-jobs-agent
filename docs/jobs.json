@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T09:43:16.513269+00:00",
-  "total": 28,
+  "generated_at": "2026-06-29T11:33:45.329932+00:00",
+  "total": 27,
   "items": [
     {
       "id": "46ca0d744bbb",
@@ -16,6 +16,24 @@
       "scores": {
         "A_blended_catalytic": 7.0,
         "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "966f2db7b0b7",
+      "title": "Senior Financial Analyst",
+      "url": "https://pt.linkedin.com/jobs/view/senior-financial-analyst-at-jo%C3%A3o-igor-consultor-de-projetos-de-investimento-e-financiamento-4433821715?position=52&pageNum=0&refId=h3fsvjW0gzozVroeN9rdaQ%3D%3D&trackingId=SHvpLDCoXrWpvYLO8eoyxw%3D%3D",
+      "description": "João Igor | Consultor de Projetos de Investimento e Financiamento | \nWe are a fast-growing consulting and innovation company supporting businesses, startups, municipalities and organisations in developing investment projects, financial strategies and funding applications across Portugal and Europe.\n\n\nOur work combines strategy, finance, innovation and business development to help organisations grow through robust financial planning and investment.\n\n\nWe are looking for an exceptional finance prof",
+      "published": "2026-06-26",
+      "location": "Évora, Évora, Portugal",
+      "source": "apify_linkedin_dfi_senior",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 7.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 7.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -39,27 +57,9 @@
       }
     },
     {
-      "id": "be2e28f27d3f",
-      "title": "Head of Grants and Funding",
-      "url": "https://de.linkedin.com/jobs/view/head-of-grants-and-funding-at-ignite-energy-access-4432206668?position=2&pageNum=0&refId=Y8mfIi%2FvhV0PV%2FHEIl3THA%3D%3D&trackingId=s7e9L3PchVp5tkgyjFRzZg%3D%3D",
-      "description": "Ignite Energy Access | \nHead of Grants &amp; Funding – Ignite Energy Access 🌍 Remote (EU or Africa-based preferred)\n\n\nIgnite Energy Access is looking for an exceptional grants and development finance professional to build and lead our grants function — turning an already strong portfolio into a systematic, high-performing pipeline.\nWe have the track record, the platform, and the distribution reach — 20M+ customers across 12 countries, and a growing portfolio of grants and results-based financing",
-      "published": "2026-06-23",
-      "location": "Berlin, Germany",
-      "source": "apify_linkedin_blended",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 6.0,
-      "scores": {
-        "A_blended_catalytic": 5.0,
-        "B_deal_structuring": 1.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
-      }
-    },
-    {
       "id": "ae22f8083b99",
       "title": "Head of Finance & Advisory",
-      "url": "https://mt.linkedin.com/jobs/view/head-of-finance-advisory-at-reed-recruitment-malta-4431720386?position=36&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=7n%2Bglx3WBg090JK1yCNBQQ%3D%3D",
+      "url": "https://mt.linkedin.com/jobs/view/head-of-finance-advisory-at-reed-recruitment-malta-4431720386?position=38&pageNum=0&refId=HHaX6LQVDiEcSdwzkRjqMw%3D%3D&trackingId=Our%2BN47I3Oo79P0FQJo5Yw%3D%3D",
       "description": "Reed Recruitment Malta | \nA well‑established firm on the island is looking for a Head of Finance &amp; Advisory.\n\n\nIn this role, you will lead the strategic direction, growth, and operational performance of the Corporate Finance Advisory practice while overseeing transaction services, CFO advisory engagements, financial modelling, and the delivery of high-quality outputs to support complex client needs and decision-making. You will also manage key client relationships, lead and develop a high-pe",
       "published": "2026-06-22",
       "location": "Ta' Xbiex, Malta",
@@ -79,7 +79,7 @@
       "title": "Associate Partner (Anglophone Africa)",
       "url": "https://job-boards.greenhouse.io/instiglio/jobs/5989429004",
       "description": "<p style=\"text-align: justify;\"><strong><span data-contrast=\"none\"><span data-ccp-parastyle=\"heading 3\">Who&nbsp;</span><span data-ccp-parastyle=\"heading 3\">we are</span></span></strong> <span data-ccp-props=\"{&quot;134245418&quot;:true,&quot;134245529&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}\">&nbsp;</span></p>\n<p style=\"text-align: justify;\"><span data-contrast=\"none\">When publ",
-      "published": "2026-05-06T09:17:02-04:00",
+      "published": "2026-06-29T01:46:23-04:00",
       "location": "Kenya",
       "source": "greenhouse_instiglio",
       "archetype": "A_blended_catalytic",
@@ -95,7 +95,7 @@
     {
       "id": "4e4ba58af6cd",
       "title": "Head of Finance",
-      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-talenom-espa%C3%B1a-4428482308?position=39&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=pn9RYLrcOmPGu9O0o2j99A%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-talenom-espa%C3%B1a-4428482308?position=40&pageNum=0&refId=HHaX6LQVDiEcSdwzkRjqMw%3D%3D&trackingId=ZtS2CM%2BJpniuSBoFydQCBg%3D%3D",
       "description": "Talenom España | \nAre you currently leading Finance as a Head of Finance and considering your next step? Would you be interested in joining a company where you can truly shape the financial strategy at a country level?\nRole Purpose\nThe Head of Finance is responsible for leading the financial function in Spain, ensuring sound financial management, control, and performance aligned with the company’s global strategy. The role acts as a strategic business partner at a local level, enabling data-driv",
       "published": "2026-06-26",
       "location": "Barcelona, Catalonia, Spain",
@@ -113,7 +113,7 @@
     {
       "id": "f75a4c56dc84",
       "title": "Chief Financial Officer (CFO)",
-      "url": "https://ee.linkedin.com/jobs/view/chief-financial-officer-cfo-at-wire-salad-o%C3%BC-4430215077?position=48&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=LfA%2B4uJlIQS58HZHEHKgIg%3D%3D",
+      "url": "https://ee.linkedin.com/jobs/view/chief-financial-officer-cfo-at-wire-salad-o%C3%BC-4430215077?position=49&pageNum=0&refId=HHaX6LQVDiEcSdwzkRjqMw%3D%3D&trackingId=3nAxVxWjmYZldtKjhnIhNA%3D%3D",
       "description": "WIRE SALAD OÜ | \nWire Salad is looking for a commercially minded CFO to lead finance across our fast-growing digital products and e-commerce businesses.\nThis is a hands-on leadership role for someone who can build strong financial systems, improve decision-making, manage cash efficiently, and act as a strategic partner to the CEOs.\n\n\nWhat you’ll do:\n\n- Own all financial planning, reporting, forecasting, cash flow, budgeting, and treasury management.\n- Build clear weekly and monthly reporting for",
       "published": "2026-06-25",
       "location": "Tallinn, Harjumaa, Estonia",
@@ -125,6 +125,24 @@
         "A_blended_catalytic": 0.0,
         "B_deal_structuring": 4.0,
         "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "60ebc5525437",
+      "title": "Corporate Finance - M&A Senior Associate",
+      "url": "https://gr.linkedin.com/jobs/view/corporate-finance-m-a-senior-associate-at-pwc-greece-4403621561?position=59&pageNum=0&refId=h3fsvjW0gzozVroeN9rdaQ%3D%3D&trackingId=RY2JcFk4tzwgXOtS3hq8yA%3D%3D",
+      "description": "PwC Greece | We are a trusted team shaping the biggest moves in business, having successfully executed ca. 50 M&amp;A transactions in the last 5 years and ranked as the #1 M&amp;A Advisor in Greece for the 4th consecutive year. We value leadership mindsets that demonstrate precision and decisiveness in every successful move.\n\nSHAPING TOMORROW \n\nMake a real impact, today, and tomorrow, through work that matters. Here, you will tackle today’s toughest challenges with a future-focused mindset; so o",
+      "published": "2026-06-24",
+      "location": "Athens, Attiki, Greece",
+      "source": "apify_linkedin_dfi_senior",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.5,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 1.0,
         "D_emerging_markets": 0.0
       }
     },
@@ -291,19 +309,19 @@
       }
     },
     {
-      "id": "8158c334154c",
-      "title": "Interim Chief Financial Officer",
-      "url": "https://ie.linkedin.com/jobs/view/interim-chief-financial-officer-at-noel-group-4433345445?position=58&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=7kF3I229aIuhFdhTT9%2FUWw%3D%3D",
-      "description": "Noel Group | \nChief Financial Officer (CFO)\nLocation: Dublin / Nationwide • 6-month interim contract (possible extension)\n\n\n\nThe rol\neReporting to the Board, the CFO will provide executive financial leadership on an interim basis — ensuring financial sustainability, operational efficiency and commercial growth. You will manage significant capital expenditure, navigate complex healthcare funding streams, maintain strict HIQA compliance, and drive cost-optimisation to protect and grow EBITDA acros",
-      "published": "2026-06-25",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
+      "id": "51aa50139145",
+      "title": "Managing Director, Risk Management",
+      "url": "https://jobs.ebrd.com/job/London-Managing-Director%2C-Risk-Management/1403758033/",
+      "description": "Managing Director, Risk Management Managing Director, Risk Management London, GB 12 Jun 2026 0.00 km London, GB 12 Jun 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 3.0,
       "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -311,7 +329,7 @@
     {
       "id": "bbf8efec1b24",
       "title": "Head of Finance Europe",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-europe-at-robert-walters-4428971230?position=30&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=zCoXcvSNv%2FKEz6nWSUX0eA%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-europe-at-robert-walters-4428971230?position=30&pageNum=0&refId=HHaX6LQVDiEcSdwzkRjqMw%3D%3D&trackingId=Mkk6TMZiE7mvhk%2B2UISfnw%3D%3D",
       "description": "Robert Walters | About the Company\n\n\nOur client is a publicly listed international industrial group, a multinational, with annual revenues exceeding € 3 billion and operations across Europe, Asia, and other global markets. The company has evolved from its heritage in building materials into a diversified platform spanning low-carbon construction solutions, energy infrastructure, battery energy storage, and sustainable mobility technologies.\nEurope represents the group's largest regional market, ",
       "published": "2026-06-22",
       "location": "Amsterdam, North Holland, Netherlands",
@@ -329,7 +347,7 @@
     {
       "id": "390ab4d19689",
       "title": "People & Change Associate Director (L&D)",
-      "url": "https://ie.linkedin.com/jobs/view/people-change-associate-director-l-d-at-kpmg-ireland-4431247884?position=7&pageNum=0&refId=Y8mfIi%2FvhV0PV%2FHEIl3THA%3D%3D&trackingId=A02i5hu4xC6%2FDBTpmQ1MYQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/people-change-associate-director-l-d-at-kpmg-ireland-4431247884?position=5&pageNum=0&refId=hXhBAbcEG4tGKrGtDbvu2w%3D%3D&trackingId=ZkiXKKXpDNVfpCkpyZbBag%3D%3D",
       "description": "KPMG Ireland | When you join KPMG Ireland, you are joining a community of over 4,200 employees who collectively work together, both in person and virtually, to achieve their full potential.\n\nWe are known as an organisation who want you to come as you are and do work that truly matters. Joining KPMG Ireland is an opportunity to enhance your career, not only in the work that you enjoy doing, but equally through the global connections that you make, the lifelong learning that you can accomplish and",
       "published": "2026-06-23",
       "location": "Dublin, County Dublin, Ireland",
@@ -345,12 +363,12 @@
       }
     },
     {
-      "id": "8d7e7b554f96",
+      "id": "60a7a9f74d62",
       "title": "Global Head of Finance",
-      "url": "https://ro.linkedin.com/jobs/view/global-head-of-finance-at-jobgether-4431478599?position=19&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=x3gVUcXtgYMYkrtu9izObQ%3D%3D",
-      "description": "Jobgether | This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Global Head of Finance based in Romania.\n\nThis is a senior financial leadership role responsible for shaping and overseeing the full financial architecture of a multi-entity, international organization operating across the United States and East Africa. You will act as both a strategic partner and hands-on finance leader, ensuring strong financial stewards",
+      "url": "https://fr.linkedin.com/jobs/view/global-head-of-finance-at-jobgether-4431486030?position=27&pageNum=0&refId=HHaX6LQVDiEcSdwzkRjqMw%3D%3D&trackingId=FqWNBNREh%2BxdzRVDdSbfzQ%3D%3D",
+      "description": "Jobgether | This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Global Head of Finance based in France.\n\nThis is a senior financial leadership role responsible for shaping and overseeing the full financial architecture of a multi-entity, international organization operating across the United States and East Africa. You will act as both a strategic partner and hands-on finance leader, ensuring strong financial stewardsh",
       "published": "2026-06-24",
-      "location": "Romania",
+      "location": "France",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -360,6 +378,24 @@
         "B_deal_structuring": 2.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 2.0
+      }
+    },
+    {
+      "id": "a140990fe00a",
+      "title": "ESG Risk & Sustainable Finance Analyst",
+      "url": "https://lu.linkedin.com/jobs/view/esg-risk-sustainable-finance-analyst-at-michael-page-4434065442?position=42&pageNum=0&refId=h3fsvjW0gzozVroeN9rdaQ%3D%3D&trackingId=9GJ%2BGy4iPyMJlGYNzrR0LA%3D%3D",
+      "description": "Michael Page | \n\n\n- A highly visible ESG role with real impact\n- An opportunity to deepen your expertise in EU sustainable finance regulation\n\n\nAbout Our Client\n\nOur client is a well-established international bank with a strong European footprint and regional headquarters in Luxembourg. The institution plays a strategic role in supporting cross-border banking activity and is continuing to strengthen its sustainable finance and ESG risk capabilities in line with the evolving European regulatory e",
+      "published": "2026-06-27",
+      "location": "Kirchberg, Luxembourg, Luxembourg",
+      "source": "apify_linkedin_dfi_senior",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 2.5,
+      "scores": {
+        "A_blended_catalytic": 2.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
       }
     },
     {
@@ -383,7 +419,7 @@
     {
       "id": "728a4f9bd54a",
       "title": "Associate Partner | Funding",
-      "url": "https://ro.linkedin.com/jobs/view/associate-partner-funding-at-civitta-4432941910?position=3&pageNum=0&refId=Y8mfIi%2FvhV0PV%2FHEIl3THA%3D%3D&trackingId=v2XscRY%2FwCcuL2QThJLzhw%3D%3D",
+      "url": "https://ro.linkedin.com/jobs/view/associate-partner-funding-at-civitta-4432941910?position=1&pageNum=0&refId=hXhBAbcEG4tGKrGtDbvu2w%3D%3D&trackingId=Sfir9o%2FSblbDtujYlDswxA%3D%3D",
       "description": "Civitta | \nJoin Civitta - an international company with 750+ colleagues across 20+ countries. We focus on management consulting, funding, and digital solutions. Originating from Central and Eastern Europe, we also deliver projects across Central Asia, the Middle East, and the United States.\n\n\nHelp companies secure EU and national funding - from grant applications to blended finance solutions. We support start-ups, SMEs, and corporates in scaling innovation projects.\nYou’ll work alongside founder",
       "published": "2026-06-26",
       "location": "Bucharest, Romania",
@@ -399,63 +435,9 @@
       }
     },
     {
-      "id": "94ad22caa51a",
-      "title": "Director, Innovative Financing Solutions",
-      "url": "https://at.linkedin.com/jobs/view/director-innovative-financing-solutions-at-the-opec-fund-for-international-development-4411355391?position=1&pageNum=0&refId=Y8mfIi%2FvhV0PV%2FHEIl3THA%3D%3D&trackingId=uJDSNz9AKOXsQOtbFu65yQ%3D%3D",
-      "description": "The OPEC Fund for International Development | Department/Unit: Innovative Financing Solutions Unit /Strategy\n\nDate of Issuance: May 8, 2026\n\nDeadline of Applications: July 3, 2026\n\nRequired Languages: English\n\nContract Type: Fixed Term Contract\n\nGrade: Management\n\nJob Category: H2\n\nRecruitment Status: International\n\nContract Duration: Two-year fixed term appointment, with the possibility of renewal.\n\nThis is a re-opening of the vacancy. Candidates who already applied do not need to re-submit the",
-      "published": "2026-06-21",
-      "location": "Vienna, Austria",
-      "source": "apify_linkedin_blended",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 2.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "796be30b2c33",
-      "title": "Head of Finance Operations & Analytics",
-      "url": "https://se.linkedin.com/jobs/view/head-of-finance-operations-analytics-at-paligo-4432945370?position=60&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=41K8IkpEisguGVMf6PzI1Q%3D%3D",
-      "description": "Paligo | \nDo you have experience building scalable finance operations in a B2B SaaS environment? Are you energized by automation, clean data and translating financial complexity into business clarity? If yes – this is a great opportunity to join an ambitious and fast-growing SaaS company!\nWho we are\nWe are a fast-growing SaaS scale-up (80+ people, 450+ customers across 38 countries) offering an end-to-end Component Content Management System (CCMS). We enable global enterprises to create, manage ",
-      "published": "2026-06-26",
-      "location": "Solna, Stockholm County, Sweden",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "9c57e9ed0748",
-      "title": "Group Chief Financial Officer",
-      "url": "https://www.linkedin.com/jobs/view/group-chief-financial-officer-at-bettingjobs-4429862354?position=54&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=qRMv8Krh2bSX5FNK%2Fpy9Mw%3D%3D",
-      "description": "BettingJobs | \nBettingJobs is workign with a well established iGaming group seeking to onboard a highly experienced iGaming Group CFO.\n\n\nThe Group is a predominantly crypto-led iGaming business, operating online crypto casino and sports betting products alongside affiliate marketing, with digital assets at the core of its product and payments model.\n\n\nThe Group CFO is the senior financial authority across the entirety of the Group, responsible for all financial functions spanning the Group’s reg",
-      "published": "2026-06-24",
-      "location": "European Union",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "d2abe4ebcc82",
       "title": "Finance Director",
-      "url": "https://de.linkedin.com/jobs/view/finance-director-at-littelfuse-4432209017?position=56&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=dvZI%2B0QkFFJFrDqOpAfw0A%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/finance-director-at-littelfuse-4432209017?position=55&pageNum=0&refId=HHaX6LQVDiEcSdwzkRjqMw%3D%3D&trackingId=a7pfIqMw6ux1OVqxwaF%2FLg%3D%3D",
       "description": "Littelfuse | Littelfuse (NASDAQ: LFUS) is a diversified industrial technology manufacturing company shaping solutions for the safe and efficient transfer of electrical energy. Headquartered in Chicago, Illinois, USA, we serve customers across industrial, transportation, and electronics markets worldwide. With approximately 16,000 employees we design and manufacture innovative technologies that support electrification, energy efficiency, and advanced automation. Our global reach is matched by a c",
       "published": "2026-06-23",
       "location": "Frankfurt, Hesse, Germany",
@@ -473,7 +455,7 @@
     {
       "id": "7e2fe59a3f24",
       "title": "Chief Financial Officer",
-      "url": "https://ie.linkedin.com/jobs/view/chief-financial-officer-at-re-work-4433864743?position=28&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=6J4slvARPRmoIdy2ppWCbQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/chief-financial-officer-at-re-work-4433864743?position=31&pageNum=0&refId=HHaX6LQVDiEcSdwzkRjqMw%3D%3D&trackingId=nJoYWxS3d5CNbxw1N8MgDg%3D%3D",
       "description": "Re:work | \nChief Financial Officer Dublin West | Hybrid\n\n\nOverview\nRe:work is assisting a key client with the build-out of their senior leadership team. As part of that engagement, we are now recruiting a Chief Financial Officer to lead the finance function within a large, safety-critical transport organisation based in Dublin. The business is in active mobilisation, and the CFO will play a central role in establishing financial governance, systems, and controls within a newly established entity",
       "published": "2026-06-26",
       "location": "Greater Dublin",
@@ -489,13 +471,13 @@
       }
     },
     {
-      "id": "5308b0215e13",
-      "title": "Commercial Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/commercial-finance-director-at-darwin-hawkins-4432561476?position=26&pageNum=0&refId=E8UC7yh8tVBaL1wUd30a4w%3D%3D&trackingId=vRdX3tnJs%2F9CW8ffg0QfOw%3D%3D",
-      "description": "Darwin Hawkins | \nJob Title: Commercial Finance Director \nSector: Private Equity Backed Organisation\nLocation: Dublin (Hybrid)\nSalary: €140,000 - €160,000 plus Bonus, Pension &amp; Health Insurance\n\n\nOur Client\nOur client is a large private equity backed organisation with a significant international footprint and ambitious growth plans. Following a recent value creation event and a period of sustained expansion, the business is entering an exciting new phase of growth.\n\n\nTo support this continue",
-      "published": "2026-06-24",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
+      "id": "2a3e0e64b10b",
+      "title": "Project Finance Manager",
+      "url": "https://gr.linkedin.com/jobs/view/project-finance-manager-4430872185?position=35&pageNum=0&refId=h3fsvjW0gzozVroeN9rdaQ%3D%3D&trackingId=NZ8wvBgnXVc3UNOB5WuIKg%3D%3D&trk=public_jobs_jserp-result_search-card",
+      "description": "Poudouleveis.gr | wherewework.gr on behalf of:\n\nFinance &amp; Banking Employers in Greece\n\nInterested in Project Finance Manager jobs in Greece? You're in the right place.\n\nCapital markets, investment banking, and trading roles are highly specialised and competitive in Greece in 2026. Athens is Greece's financial capital, home to all major bank headquarters, the Athens Stock Exchange, the Bank of Greece, and the Greek offices of international financial institutions and consultancies. The Athens ",
+      "published": "2026-06-23",
+      "location": "Athens, Attiki, Greece",
+      "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
