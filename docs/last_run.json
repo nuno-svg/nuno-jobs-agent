@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-11T08:22:42.683684+00:00",
-  "elapsed_total_s": 336.3,
+  "generated_at": "2026-07-12T08:39:37.521241+00:00",
+  "elapsed_total_s": 295.0,
   "sources_total": 23,
   "sources_ok": 22,
   "sources_failed": 0,
-  "items_total_raw": 745,
-  "items_kept": 31,
+  "items_total_raw": 731,
+  "items_kept": 27,
   "sources": [
     {
       "name": "afdb",
       "raw": 3,
       "kept": 2,
-      "elapsed_s": 0.7,
+      "elapsed_s": 1.2,
       "ok": true
     },
     {
       "name": "ebrd",
       "raw": 25,
       "kept": 4,
-      "elapsed_s": 1.3,
+      "elapsed_s": 1.5,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.4,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
@@ -46,7 +46,7 @@
       "name": "greenhouse_oneacre",
       "raw": 37,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
@@ -116,49 +116,49 @@
       "name": "linkedin_search_dfi",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "apify_linkedin_blended",
-      "raw": 50,
-      "kept": 10,
-      "elapsed_s": 65.4,
+      "raw": 36,
+      "kept": 6,
+      "elapsed_s": 27.2,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
       "raw": 50,
       "kept": 7,
-      "elapsed_s": 35.8,
+      "elapsed_s": 35.2,
       "ok": true
     },
     {
       "name": "apify_linkedin_dfi_senior",
       "raw": 30,
-      "kept": 8,
-      "elapsed_s": 37.9,
+      "kept": 7,
+      "elapsed_s": 31.4,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
       "raw": 30,
       "kept": 0,
-      "elapsed_s": 56.3,
+      "elapsed_s": 64.2,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
       "raw": 50,
       "kept": 0,
-      "elapsed_s": 61.7,
+      "elapsed_s": 67.3,
       "ok": true
     },
     {
       "name": "apify_indeed_portugal_finance",
       "raw": 50,
       "kept": 0,
-      "elapsed_s": 72.4,
+      "elapsed_s": 61.6,
       "ok": true
     }
   ]
