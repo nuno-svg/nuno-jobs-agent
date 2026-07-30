@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T09:23:19.644470+00:00",
-  "total": 21,
+  "generated_at": "2026-07-30T09:13:09.329213+00:00",
+  "total": 23,
   "items": [
     {
       "id": "af02e63c3484",
@@ -16,24 +16,6 @@
       "scores": {
         "A_blended_catalytic": 7.0,
         "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "630c2438f65f",
-      "title": "Chief Financial Officer",
-      "url": "https://de.linkedin.com/jobs/view/chief-financial-officer-at-privatal-4443148632?position=18&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=RCoKUXg4hBXRdL7%2BMaU2qQ%3D%3D",
-      "description": "Privatal | \nPrivatal is partnering with a leading SaaS business backed by a prominent PE investor, based in Baden-Württemberg (hybrid allowed). The company is entering its next phase of growth and is seeking a hands-on, entrepreneurial Chief Financial Officer to build a scalable finance organisation and support its strategic development.\n\n\nKey Responsibilities\n\n- Take overall responsibility for Finance, Accounting and Controlling.\n- Lead budgeting, forecasting, multi-year planning and performanc",
-      "published": "2026-07-22",
-      "location": "Baden-Württemberg, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 7.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 7.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -75,6 +57,24 @@
       }
     },
     {
+      "id": "36bd76ab3e89",
+      "title": "Assistant",
+      "url": "https://jobs.ebrd.com/job/Kyiv-Assistant/1405530533/",
+      "description": "Assistant Assistant Kyiv, UA 30 Jul 2026 0.00 km Kyiv, UA 30 Jul 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "7b80a5b8adfb",
       "title": "Visual Content Creator",
       "url": "https://jobs.ebrd.com/job/London-Visual-Content-Creator/1409929433/",
@@ -111,10 +111,10 @@
       }
     },
     {
-      "id": "e67bed3f8be8",
-      "title": "Principal, PODD",
-      "url": "https://jobs.ebrd.com/job/London-Principal%2C-PODD/1404990133/",
-      "description": "Principal, PODD Principal, PODD London, GB 21 Jul 2026 0.00 km London, GB 21 Jul 2026",
+      "id": "83a164474305",
+      "title": "Associate- Cloud Network Engineer",
+      "url": "https://jobs.ebrd.com/job/Sofia-Associate-Cloud-Network-Engineer/1203357301/",
+      "description": "Associate- Cloud Network Engineer Associate- Cloud Network Engineer Sofia, BG 21 Jul 2026 0.00 km Sofia, BG 21 Jul 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -129,10 +129,10 @@
       }
     },
     {
-      "id": "83a164474305",
-      "title": "Associate- Cloud Network Engineer",
-      "url": "https://jobs.ebrd.com/job/Sofia-Associate-Cloud-Network-Engineer/1203357301/",
-      "description": "Associate- Cloud Network Engineer Associate- Cloud Network Engineer Sofia, BG 21 Jul 2026 0.00 km Sofia, BG 21 Jul 2026",
+      "id": "e67bed3f8be8",
+      "title": "Principal, PODD",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-PODD/1404990133/",
+      "description": "Principal, PODD Principal, PODD London, GB 21 Jul 2026 0.00 km London, GB 21 Jul 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -183,63 +183,9 @@
       }
     },
     {
-      "id": "1a825006b6e4",
-      "title": "Group Finance Director – Europe (Automotive Industry)",
-      "url": "https://es.linkedin.com/jobs/view/group-finance-director-%E2%80%93-europe-automotive-industry-4443800687?position=43&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=v4GTRf35h0uwn1CgDqnQkA%3D%3D&trk=public_jobs_jserp-result_search-card",
-      "description": "KNGLOO MOBILITY S.L. | \nKey Responsibilities\n\n- Develop and execute the European group financial strategy aligned with overall business objectives.\n- Oversee financial management across multiple European subsidiaries and legal entities.\n- Establish standardized financial policies, reporting systems, and internal control frameworks across the group.\n- Lead budgeting, forecasting, financial planning, and performance analysis at the European level.\n- Manage group cash flow, liquidity planning, fina",
-      "published": "2026-07-23",
-      "location": "Sant Boi de Llobregat, Catalonia, Spain",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "409ce702de04",
-      "title": "Chief Financial Officer - Renewable Energy",
-      "url": "https://pt.linkedin.com/jobs/view/chief-financial-officer-renewable-energy-at-adecco-permanent-recruitment-4441511046?position=17&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=2vux0QJXWcpbrERuLaMN0A%3D%3D",
-      "description": "Adecco Permanent Recruitment | \nChief Financial Officer (CFO) | Renewable Energy Platform\n\n\nLocation: Lisbon, Portugal (Hybrid)\nSector: Renewable Energy\nPosition: Chief Financial Officer (CFO)\n\n\nA fast-growing renewable energy company is seeking a highly driven Chief Financial Officer (CFO) to play a pivotal role in its next stage of growth and value creation.\n\n\nThis position offers a unique opportunity to combine strategic leadership with hands-on execution in a dynamic, entrepreneurial environ",
-      "published": "2026-07-23",
-      "location": "Lisbon, Portugal",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "48e251271852",
-      "title": "Financial Modelling and Project Finance Documentation Advisory Senior Manager / Manager – Infrastructure, Deal Advisory",
-      "url": "https://gr.linkedin.com/jobs/view/financial-modelling-and-project-finance-documentation-advisory-senior-manager-manager-%E2%80%93-infrastructure-deal-advisory-at-kpmg-greece-4445914288?position=34&pageNum=0&refId=gD2DJaRU9xwtaEat5x50hw%3D%3D&trackingId=eA2xmZ97lqP%2FX0oPIKXArA%3D%3D",
-      "description": "KPMG Greece | \nKPMG is more than a professional services Firm, collectively employing more than 276,000 people all over the world. It is a family of creative problem solvers who are making a difference! We see a world of opportunities - one where enterprises and individuals have the insights they need to succeed. We Inspire Confidence and Empower Change!\n\n\nFind Opportunity everywhere with KPMG\n\n\nKPMG Greece is seeking an experienced Senior Manager / Manager to join its Deal Advisory – Infrastruc",
-      "published": "2026-07-27",
-      "location": "Athens, Attiki, Greece",
-      "source": "apify_linkedin_dfi_senior",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.5,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
-      }
-    },
-    {
       "id": "577fa3df0947",
       "title": "Director, Consulting – Gender Lens Investing",
-      "url": "https://www.linkedin.com/jobs/view/director-consulting-%E2%80%93-gender-lens-investing-at-sagana-4444954925?position=7&pageNum=0&refId=9D0GKYPPSzpHi6NZw6XhtA%3D%3D&trackingId=by8i9%2FWAz%2BqEwvpyiz6jvw%3D%3D",
+      "url": "https://www.linkedin.com/jobs/view/director-consulting-%E2%80%93-gender-lens-investing-at-sagana-4444954925?position=8&pageNum=0&refId=2R1tRDMVbYkbbSvxjVvPIQ%3D%3D&trackingId=qvSgfwNCtfWSWOL65mUadQ%3D%3D",
       "description": "SAGANA | \nTitle: Senior Director, Sagana Consulting – Gender Lens Investing\nLocation: Any location in Europe and India – this is a fully-remote position\nReports to: Business Unit lead / Head of Sagana Consulting and Co-Founder\n\n\nCompany:\nSagana is a global impact investment advisory firm working to unleash the potential of people, capital, and business to improve human and planetary health. We are passionate about advising, investing in, and growing companies that are successfully solving some o",
       "published": "2026-07-24",
       "location": "European Union",
@@ -257,7 +203,7 @@
     {
       "id": "a9349baa1729",
       "title": "Director, Innovative Financing Solutions",
-      "url": "https://at.linkedin.com/jobs/view/director-innovative-financing-solutions-at-the-opec-fund-for-international-development-4437169351?position=1&pageNum=0&refId=9D0GKYPPSzpHi6NZw6XhtA%3D%3D&trackingId=mQcRu8pEXxr6XgrIyYdkww%3D%3D",
+      "url": "https://at.linkedin.com/jobs/view/director-innovative-financing-solutions-at-the-opec-fund-for-international-development-4437169351?position=1&pageNum=0&refId=2R1tRDMVbYkbbSvxjVvPIQ%3D%3D&trackingId=uEwbPywQB0JHekV4o4e7QA%3D%3D",
       "description": "The OPEC Fund for International Development | \nDepartment/Unit:\n\nDate of Issuance:\n\nDeadline of Applications:\n\nRequired Languages:\n\nContract Type:\n\nGrade:\n\nJob Category:\n\nRecruitment Status:\n\nContract Duration:\n\n\n\n\n\n Innovative Financing Solutions Unit /Strategy\n\n May 8 , 2026\n\n August 5, 2026\n\n English\n\n Fixed Term Contract\n\n Management\n\n H2\n\n International\n\n Two-year fixed term appointment, with the possibility of renewal.\n\n\n\n\n\n\n\nThis is a re-opening of the vacancy. Candidates who already appl",
       "published": "2026-07-24",
       "location": "Vienna, Austria",
@@ -273,9 +219,27 @@
       }
     },
     {
+      "id": "fecd988af88c",
+      "title": "Data Finance Director",
+      "url": "https://es.linkedin.com/jobs/view/data-finance-director-at-accenture-espa%C3%B1a-4436868314?position=55&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=%2B3vmk5KgcE7Z6U4e7NhYlA%3D%3D",
+      "description": "Accenture España | Accenture, recognized as a Great Place To Work®, is a leading global professional services company that helps major businesses, public administrations, and other organizations around the world develop their digital core, optimize their operations, accelerate revenue growth, and improve services for citizens, creating tangible value at speed and scale.\n\nWe are looking for a Data Finance Director to lead the development of Data &amp; AI capabilities applied to Finance in a high-",
+      "published": "2026-07-29",
+      "location": "Madrid, Community of Madrid, Spain",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "aef4f0af3d18",
       "title": "Group Financial Controller",
-      "url": "https://ie.linkedin.com/jobs/view/group-financial-controller-at-lincoln-recruitment-specialists-4438676734?position=56&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=24bxsb34ekIkRvE1x5M18g%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/group-financial-controller-at-lincoln-recruitment-specialists-4438676734?position=54&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=SW66%2Fy7xwEi0Y%2B6fXkIeyA%3D%3D",
       "description": "Lincoln Recruitment Specialists | \nGroup Financial Controller | Dublin West\n\n\nAn opportunity has arisen for an ambitious and technically strong finance professional to join the leadership team of a large, publicly listed organisation based in Dublin West. Operating across multiple international markets, the business continues to grow through both organic expansion and strategic acquisitions, making this an excellent time to join its evolving Group Finance function.\n\n\nReporting to the Group Finan",
       "published": "2026-07-23",
       "location": "Dublin, County Dublin, Ireland",
@@ -291,9 +255,45 @@
       }
     },
     {
+      "id": "849abbcdc706",
+      "title": "Financial Director (m/f)",
+      "url": "https://pl.linkedin.com/jobs/view/financial-director-m-f-at-goldman-recruitment-executive-search-search-selection-4446599768?position=52&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=9uEBinvuqgof6%2BFyj632kA%3D%3D",
+      "description": "Goldman Recruitment - Executive Search / Search & Selection | \nFor our Client, an international company operating in the trade and services sector, we are looking for an experienced candidate for the position of Finance Director / CFO.\n\n\nResponsibilities:\n\n- overall responsibility for the company’s finance function and management of finance team,\n- contributing to the development of the company’s business and financial strategy,\n- overseeing accounting, controlling, taxation, treasury and cash f",
+      "published": "2026-07-29",
+      "location": "Gdańsk, Pomorskie, Poland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "edeacc8dc691",
+      "title": "Head of Finance",
+      "url": "https://mt.linkedin.com/jobs/view/head-of-finance-at-ceek-talent-4445492672?position=42&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=corQ44TRiz40GoPu8UVLsQ%3D%3D",
+      "description": "Ceek Talent | \nAre you ready to lead the financial strategy and operations for a dynamic organisation in Malta?\nOur client, a prominent entity within the pharmaceutical sector, is seeking a Head of Finance to oversee all financial aspects and drive strategic growth.\n\n\nWhat is expected of you?\n\n\n\n- Develop and implement comprehensive financial strategies aligned with the organisation's overall business objectives.\n- Oversee all financial operations, including accounting, treasury, tax, and regula",
+      "published": "2026-07-28",
+      "location": "Birzebbugia, Malta",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "40efff4c92c9",
       "title": "Group CFO, BIRN",
-      "url": "https://dk.linkedin.com/jobs/view/group-cfo-birn-at-hansen-toft-4444432998?position=46&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=MBgA4aRKBYWkF6ik9iQM%2Fw%3D%3D",
+      "url": "https://dk.linkedin.com/jobs/view/group-cfo-birn-at-hansen-toft-4444432998?position=45&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=zLagUlpAbZ%2B2mu6%2F4IZpcQ%3D%3D",
       "description": "Hansen Toft | \nHansen Toft søger på vegne af BIRN Group en Group CFO til fondsejet international industrikoncern \n\n\nBIRN søger en forretningsorienteret Group CFO, som vil indtage en central rolle i direktionen og blive en tæt sparringspartner for CEO, bestyrelse og den øvrige ledergruppe.\n\n\nSom Group CFO refererer du til bestyrelsen og får det samlede finansielle ansvar for BIRN Group på tværs af selskaberne i Danmark, Sverige, Tyskland og Italien.\n\n\nDu får ledelsesansvaret for Group Finance, Gr",
       "published": "2026-07-23",
       "location": "Holstebro, Central Denmark Region, Denmark",
@@ -309,9 +309,27 @@
       }
     },
     {
+      "id": "14859f6a491d",
+      "title": "Head of Finance- Europe",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-europe-at-hunter-philips-executive-search-4443250772?position=40&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=qBLZ5s6bZQSpgifRY7y73g%3D%3D",
+      "description": "Hunter Philips Executive Search | \nHead of Finance - Europe \nNetherlands \nMajor International Offshore Contractor \n\n\nA global engineering and energy major is establishing its European renewbles business, and is seeking a founding Head of Finance/CFO to help build the organisation from the ground up. This is one of the first two to three hires in the region, offering genuine influence over strategy, structure and long-term value creation.\n\n\nThe Role: \nYou’ll shape the full financial architecture ",
+      "published": "2026-07-28",
+      "location": "Netherlands",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "bed5d188ab4a",
       "title": "Finance Director, Burson",
-      "url": "https://se.linkedin.com/jobs/view/finance-director-burson-at-wpp-4434559649?position=30&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=A8Iz3gQJ7LH%2BXMCZCuVKRw%3D%3D",
+      "url": "https://se.linkedin.com/jobs/view/finance-director-burson-at-wpp-4434559649?position=27&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=HeSzY1VaW8NATGaV0WISPQ%3D%3D",
       "description": "WPP | WPP is the trusted growth partner for the world’s leading brands. \n\nWe unite cutting-edge media intelligence and data solutions, world-class creativity, next-generation production, transformative enterprise solutions and expert strategic counsel in a single company – powered by exceptional talent and our agentic marketing platform, WPP Open, to help our clients navigate change, capture opportunity and deliver transformational growth. \n\nWe work with the world's most valuable brands and have",
       "published": "2026-07-28",
       "location": "Stockholm, Stockholm County, Sweden",
@@ -329,7 +347,7 @@
     {
       "id": "19118bc89f27",
       "title": "Finance Director",
-      "url": "https://de.linkedin.com/jobs/view/finance-director-at-littelfuse-4443681653?position=21&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=P6XItolY99ANVGXAMggA8g%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/finance-director-at-littelfuse-4443681653?position=20&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=tJC5p5UI66RWZnsk9oIbzA%3D%3D",
       "description": "Littelfuse | Littelfuse (NASDAQ: LFUS) is a diversified industrial technology manufacturing company shaping solutions for the safe and efficient transfer of electrical energy. Headquartered in Chicago, Illinois, USA, we serve customers across industrial, transportation, and electronics markets worldwide. With approximately 16,000 employees we design and manufacture innovative technologies that support electrification, energy efficiency, and advanced automation. Our global reach is matched by a c",
       "published": "2026-07-29",
       "location": "Frankfurt, Hesse, Germany",
@@ -345,9 +363,27 @@
       }
     },
     {
+      "id": "7e038c113f15",
+      "title": "Group Finance Director",
+      "url": "https://nl.linkedin.com/jobs/view/group-finance-director-at-lime-search-4446040630?position=14&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=1kdK1oNKmg3wgDvYDEASbw%3D%3D",
+      "description": "LIME search | \nOrganization\nHFM Solutions is an international operating industrial group specialized in hot forging of metal components. The group consists of two specialized business units: Allbrass and Aluforge, with production locations in the Netherlands, Germany and Hungary. Across its facilities, the group focuses on forging and machining two main alloy families: brass and aluminum.\n\n\n\n- Aluforge, with production sites in Germany and Hungary, has increasingly specialized as a Tier 1 and Ti",
+      "published": "2026-07-29",
+      "location": "Borne, Overijssel, Netherlands",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "a36a24c9ef07",
       "title": "Head of Finance (FD)",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-fd-at-impactsearch-finance-recruitment-4444838190?position=16&pageNum=0&refId=k52P9ZWDfDzG%2F%2Fq035oKCA%3D%3D&trackingId=bGrufTzDUXV2%2Bim4mEzzkA%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-fd-at-impactsearch-finance-recruitment-4444838190?position=12&pageNum=0&refId=RZ42cJUn3lxz7R%2FNWpdjCA%3D%3D&trackingId=g4GbXzPApbJQHpNQx2TVtg%3D%3D",
       "description": "Impactsearch - Finance Recruitment | \nCompany Profile\nFor one of our clients, a company active in the food industry and headquartered in Zaandam, we are seeking a Head of Finance (FD). The organization operates globally with several locations, including a production facility in Thailand. The shareholders have outlined an ambitious growth strategy for the coming years, which includes both organic growth and acquisitions. To help shape these ambitions, the company is seeking a Head of Finance (FD)",
       "published": "2026-07-27",
       "location": "Zaandam, North Holland, Netherlands",
@@ -365,8 +401,8 @@
     {
       "id": "a0ffb25db049",
       "title": "Managing Consultant",
-      "url": "https://pt.linkedin.com/jobs/view/managing-consultant-at-a2f-consulting-llc-4445332501?position=26&pageNum=0&refId=gD2DJaRU9xwtaEat5x50hw%3D%3D&trackingId=PwhsB9luxvXgzT%2BmKqVOag%3D%3D",
-      "description": "A2F Consulting LLC | Aeconos Lda, the affiliate of A2F Consulting in Portugal is seeking two\n\nManaging Consultants\n\nto join our growing team in Lisbon, Portugal.\n\nAbout A2F Consulting\n\nA2F Consulting is an international consulting firm specializing in advisory services and policy advice in the areas of financial and private sector development in emerging markets. Founded in ****, we have established a strong global presence with offices in Washington, D.C., Frankfurt, Germany, Montreal, Canada a",
+      "url": "https://pt.linkedin.com/jobs/view/managing-consultant-at-a2f-consulting-llc-4445332501?position=37&pageNum=0&refId=QOxlRoE2T9E0Fs1WSIoHUg%3D%3D&trackingId=6hxriYywQhDWti3pDDO6qg%3D%3D",
+      "description": "A2F Consulting LLC | Aeconos Lda, the affiliate of A2F Consulting in Portugal is seeking two Managing Consultants to join our growing team in Lisbon, Portugal. About A2F Consulting: A2F Consulting is an international consulting firm specializing in advisory services and policy advice in the areas of financial and private sector development in emerging markets. Founded in ****, we have established a strong global presence with offices in Washington, D.C., Frankfurt, Germany, Montreal, Canada and ",
       "published": "2026-07-25",
       "location": "Lisbon, Lisbon, Portugal",
       "source": "apify_linkedin_dfi_senior",
