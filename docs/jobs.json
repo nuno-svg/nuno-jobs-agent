@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T09:21:52.924170+00:00",
-  "total": 20,
+  "generated_at": "2026-08-05T09:19:24.184460+00:00",
+  "total": 18,
   "items": [
     {
       "id": "6b6518cf4ef3",
       "title": "Fractional CFO (Equity-Based / Advisory)",
-      "url": "https://ie.linkedin.com/jobs/view/fractional-cfo-equity-based-advisory-at-hireforce-4445035022?position=47&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=UMB8emqubxh9bPK7BilAOQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/fractional-cfo-equity-based-advisory-at-hireforce-4445035022?position=50&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=obLlk0zY%2FPHRQrzQVF0kLA%3D%3D",
       "description": "HireForce | \nFractional Chief Financial Officer (Equity-Based / Advisory)\nPosition: Fractional Chief Financial Officer (CFO)\nTime Commitment: 1–2 days per month\nLocation: Hybrid / Remote (Ireland)\nCompensation: Equity-Only (Pre-seed / Early-Stage Equity Structure)\n\n\nAbout Us\nWe are an ambitious, early-stage cleantech company developing next-generation battery storage solutions to accelerate the energy transition. As we scale our technological foundation, we are preparing for major non-dilutive a",
       "published": "2026-07-30",
       "location": "Dublin, County Dublin, Ireland",
@@ -36,6 +36,24 @@
         "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 1.0
+      }
+    },
+    {
+      "id": "77e1db4dd3f5",
+      "title": "Finance Director - VC",
+      "url": "https://de.linkedin.com/jobs/view/finance-director-vc-at-peakseek-4448858240?position=23&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=rFa5iZyyEnTELQojUjNHKQ%3D%3D",
+      "description": "PeakSeek | \nOur client, a newly launched corporate venture unit backed by a major listed European group, is hiring its first Finance Director (Hamburg or Berlin) to build and own the finance function from scratch across both the holding entity and its VC fund.\n\n\nResponsibilities\n\n- Lead financial management and controlling across the holding entity and the VC fund -accounting, budgeting, forecasting, annual reporting, and cash-flow control in line with group standards.\n- Own fund administration ",
+      "published": "2026-08-04",
+      "location": "Berlin, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
       }
     },
     {
@@ -131,7 +149,7 @@
     {
       "id": "eec9a8b420db",
       "title": "Financial Director",
-      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-amicus-search-recruitment-4447017399?position=22&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=OyIhXvq5gBzT2B%2FWlwEgog%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-amicus-search-recruitment-4447017399?position=28&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=OWcx2z6O85H6HBBEPqfH2g%3D%3D",
       "description": "Amicus Search & Recruitment | \nFinance Director\nSouth- West Dublin - 5 days onsite\nPackage: up to €150k\n\n\nAmicus are recruiting for Finance Director to lead the finance function of our fast-growing modular construction business. As a pivotal member of the Senior Leadership Team, the Finance Director will act as a key commercial partner to the Managing Director and Group Leadership Team. The core purpose of this role is to drive commercial value-add and provide strategic financial leadership as t",
       "published": "2026-07-30",
       "location": "Dublin, County Dublin, Ireland",
@@ -147,9 +165,27 @@
       }
     },
     {
+      "id": "adf8a91ed04f",
+      "title": "Chief Financial Officer",
+      "url": "https://mt.linkedin.com/jobs/view/chief-financial-officer-at-boston-link-4448877032?position=10&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=jrXDfGfoM9hM6vtQOTWPjg%3D%3D",
+      "description": "Boston Link | \nChief Financial Officer (CFO)\nMalta\n\n\n\nOur client is a growing Financial Services organisation in Malta that is looking to appoint an experienced Chief Financial Officer (CFO) to join its executive leadership team\n\n\n.\nThis is a strategic leadership role, reporting directly to the CEO and Board, with responsibility for leading the finance function and supporting the company's continued growt\n\n\nh.\nKey Responsibilit\nies-Lead the overall finance strategy and financial operatio\nns.-Ove",
+      "published": "2026-08-04",
+      "location": "Sliema, Malta",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "2140693b1ad7",
       "title": "Head of Finance",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-at-marks-sattin-4445539074?position=32&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=anjlHNxDJnzlz%2FpiXBUbZQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-at-marks-sattin-4445539074?position=37&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=ZkICOXqVCHpDPKZrWakfXg%3D%3D",
       "description": "Marks Sattin | \nCountry CFO — Ireland\n\n\nOur client currently seeks a Country CFO for a newly created role. The companies operations are across the whole of Ireland with flexibility on where this position can be based. Reporting directly to the Managing Director and the Group CFO of this global organisation.\nDirect reports Finance &amp; Accounting team, Payroll, Credit Control, Procurement\n\n\nAbout the Role\nLead the finance function for the Irish business: financial planning, reporting, treasury, ",
       "published": "2026-07-31",
       "location": "County Cork, Ireland",
@@ -167,7 +203,7 @@
     {
       "id": "d8769f93a785",
       "title": "Associate Partner | Funding",
-      "url": "https://ee.linkedin.com/jobs/view/associate-partner-funding-at-civitta-4448267885?position=2&pageNum=0&refId=HgI9fIn9ZG2U5e27O0vLvg%3D%3D&trackingId=pztCwjPRwMI18BST4lU7%2FQ%3D%3D",
+      "url": "https://ee.linkedin.com/jobs/view/associate-partner-funding-at-civitta-4448267885?position=4&pageNum=0&refId=Qv7Ymt1%2B6Ryo79aVl8NK5w%3D%3D&trackingId=MbZw%2FGdILHqZb5C66YHQlA%3D%3D",
       "description": "Civitta | \nJoin Civitta - an international company with 750+ colleagues across 20+ countries. We focus on management consulting, funding, and digital solutions. Originating from Central and Eastern Europe, we also deliver projects across Central Asia, the Middle East, and the United States.\n\n\nHelp companies secure EU and national funding - from grant applications to blended finance solutions. We support start-ups, SMEs, and corporates in scaling innovation projects.\n\n\nYou’ll work alongside found",
       "published": "2026-08-04",
       "location": "Tallinn, Harjumaa, Estonia",
@@ -183,63 +219,9 @@
       }
     },
     {
-      "id": "14859f6a491d",
-      "title": "Head of Finance- Europe",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-europe-at-hunter-philips-executive-search-4443250772?position=60&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=5UVmRtHwDVhdKXrOMiHWsQ%3D%3D",
-      "description": "Hunter Philips Executive Search | \nHead of Finance - Europe \nNetherlands \nMajor International Offshore Contractor \n\n\nA global engineering and energy major is establishing its European renewbles business, and is seeking a founding Head of Finance/CFO to help build the organisation from the ground up. This is one of the first two to three hires in the region, offering genuine influence over strategy, structure and long-term value creation.\n\n\nThe Role: \nYou’ll shape the full financial architecture ",
-      "published": "2026-07-28",
-      "location": "Netherlands",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "bed5d188ab4a",
-      "title": "Finance Director, Burson",
-      "url": "https://se.linkedin.com/jobs/view/finance-director-burson-at-wpp-4434559649?position=35&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=fDlVIQKogqujkuxejD2WSg%3D%3D",
-      "description": "WPP | WPP is the trusted growth partner for the world’s leading brands. \n\nWe unite cutting-edge media intelligence and data solutions, world-class creativity, next-generation production, transformative enterprise solutions and expert strategic counsel in a single company – powered by exceptional talent and our agentic marketing platform, WPP Open, to help our clients navigate change, capture opportunity and deliver transformational growth. \n\nWe work with the world's most valuable brands and have",
-      "published": "2026-07-28",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "19118bc89f27",
-      "title": "Finance Director",
-      "url": "https://de.linkedin.com/jobs/view/finance-director-at-littelfuse-4443681653?position=29&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=JZxFvCG517jAbFka0kPTgg%3D%3D",
-      "description": "Littelfuse | Littelfuse (NASDAQ: LFUS) is a diversified industrial technology manufacturing company shaping solutions for the safe and efficient transfer of electrical energy. Headquartered in Chicago, Illinois, USA, we serve customers across industrial, transportation, and electronics markets worldwide. With approximately 16,000 employees we design and manufacture innovative technologies that support electrification, energy efficiency, and advanced automation. Our global reach is matched by a c",
-      "published": "2026-07-29",
-      "location": "Frankfurt, Hesse, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "80779464f7ed",
       "title": "Interim Finance Director (France & Benelux)",
-      "url": "https://fr.linkedin.com/jobs/view/interim-finance-director-france-benelux-at-ad-idem-consulting-4447533070?position=25&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=XhHKjMhYC0SLlQnzK%2FmQiQ%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/interim-finance-director-france-benelux-at-ad-idem-consulting-4447533070?position=32&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=DfMTTjzKmhIIIo78LAWqCQ%3D%3D",
       "description": "Ad Idem Consulting | \nOur client, a private equity-backed FMCG business is seeking an experienced Interim Finance Director (Maternity cover) to lead the finance function across its France and Benelux operations for an initial period of six to twelve months. Based in Paris, this is a hands-on leadership role for a commercially minded finance professional who can bring stability, rigour, and pace to an FMCG environment during a period of transition.\n\n\nThe Interim Finance Director will take full ow",
       "published": "2026-07-31",
       "location": "Paris, Île-de-France, France",
@@ -255,66 +237,12 @@
       }
     },
     {
-      "id": "e9d18324e0d8",
-      "title": "Interim Head of Finance - PB95435",
-      "url": "https://nl.linkedin.com/jobs/view/interim-head-of-finance-pb95435-at-eton-bridge-partners-ltd-4447019517?position=21&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=hBwUYzYl2HhFlhT2mAOQUg%3D%3D",
-      "description": "Eton Bridge Partners Ltd | \nInterim Head of Finance – Benelux \n\n\nEton Bridge Partners are supporting a leading international Tech/Services organisation to recruit an Interim Head of Finance – Benelux. This is a high-impact leadership role, responsible for leading the Benelux finance function through a period of growth and transformation while maintaining operational excellence. Reporting to the UK Group Director of Financial Control and acting as a key member of the Benelux Management Team, you ",
-      "published": "2026-07-30",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "9314ccae0ddc",
-      "title": "Country CFO Italy",
-      "url": "https://it.linkedin.com/jobs/view/country-cfo-italy-at-keystone-executive-search-divisione-randstad-4446208760?position=23&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=YJLh8VXbdWFymn%2FcFZ9DkQ%3D%3D",
-      "description": "Keystone Executive Search - divisione Randstad | \nOur client is a market-leading multinational company with local branches across the country.\nFor their Italian headquarters, we are seeking a qualified and motivated\n\n\nCountry CFO Italy\nThe candidate, directly reporting to the General Manager of the Italian Business Unit, and working closely with the Group International Finance Director, leads the financial, accounting, controlling and compliance activities of the country. As a member of the Exec",
-      "published": "2026-08-03",
-      "location": "Brescia, Lombardy, Italy",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "a36a24c9ef07",
-      "title": "Head of Finance (FD)",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-fd-at-impactsearch-finance-recruitment-4444838190?position=17&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=qIUFKrHmQ1hzfXDEAUvfyw%3D%3D",
-      "description": "Impactsearch - Finance Recruitment | \nCompany Profile\nFor one of our clients, a company active in the food industry and headquartered in Zaandam, we are seeking a Head of Finance (FD). The organization operates globally with several locations, including a production facility in Thailand. The shareholders have outlined an ambitious growth strategy for the coming years, which includes both organic growth and acquisitions. To help shape these ambitions, the company is seeking a Head of Finance (FD)",
-      "published": "2026-08-02",
-      "location": "Zaandam, North Holland, Netherlands",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "5ed36aa88fb9",
-      "title": "Finance Director - Actavo Modular",
-      "url": "https://ie.linkedin.com/jobs/view/finance-director-actavo-modular-at-actavo-4446799804?position=13&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=S%2FYoHfKuyrYTqHPcf6LKdQ%3D%3D",
-      "description": "Actavo | We’ve worked hard to build a culture where people feel a genuine sense of belonging, wherever they work in our operations, and whatever their role. Our culture is grounded in our core values and our very strong commitment to delivering every day for our clients and their customers, getting everyone home safely, and caring about your wellbeing.\n\nWe are seeking a highly capable and commercially focused Finance Director to lead the finance function of our successful Modular construction bu",
-      "published": "2026-07-30",
-      "location": "Kildare, County Kildare, Ireland",
+      "id": "1bb7351d7fc3",
+      "title": "Commercial Finance Director",
+      "url": "https://ie.linkedin.com/jobs/view/commercial-finance-director-at-ipl-schoeller-4435103282?position=27&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=qGZsUQPXFxiLK%2FY%2By7ddlg%3D%3D",
+      "description": "IPL Schoeller | Who We Are\n\nOn July 1, 2025, IPL Plastics merged with Schoeller Allibert to form IPL Schoeller (the ‘company’). Its operations are split across North America (11 manufacturing plants), The UK and Lommel (6 manufacturing plants) and Europe (9 manufacturing plants). The company is headquartered in Dublin, Ireland. IPL Schoeller is a leading manufacturer of sustainable rigid packaging solutions across a range of end market segments including returnable transit packaging, consumer an",
+      "published": "2026-08-04",
+      "location": "Dublin, County Dublin, Ireland",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -329,7 +257,7 @@
     {
       "id": "7e038c113f15",
       "title": "Group Finance Director",
-      "url": "https://nl.linkedin.com/jobs/view/group-finance-director-at-lime-search-4446040630?position=16&pageNum=0&refId=zPCkDzFwrJbGm4t8CvGuQg%3D%3D&trackingId=1J44E11yUUS4buLh4H%2BjrQ%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/group-finance-director-at-lime-search-4446040630?position=18&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=YsFFrbympFT3zKClFIloUw%3D%3D",
       "description": "LIME search | \nOrganization\nHFM Solutions is an international operating industrial group specialized in hot forging of metal components. The group consists of two specialized business units: Allbrass and Aluforge, with production locations in the Netherlands, Germany and Hungary. Across its facilities, the group focuses on forging and machining two main alloy families: brass and aluminum.\n\n\n\n- Aluforge, with production sites in Germany and Hungary, has increasingly specialized as a Tier 1 and Ti",
       "published": "2026-07-29",
       "location": "Borne, Overijssel, Netherlands",
@@ -345,11 +273,47 @@
       }
     },
     {
+      "id": "4eab827fe516",
+      "title": "Group Finance Director (m/f/d)",
+      "url": "https://de.linkedin.com/jobs/view/group-finance-director-m-f-d-at-communardo-4446947928?position=8&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=pJYU6owwes11ZlHmT4L9XQ%3D%3D",
+      "description": "Communardo | Communardo is one of the leading providers of software solutions and consulting services for the digital workplace. With over 500 experts across eleven countries, we support organisations worldwide in shaping modern work environments, enabling seamless communication, and driving digital transformation. Our teams help clients select the right technologies, implement innovative solutions, and develop tailored applications that create lasting business value. From strategy and implement",
+      "published": "2026-07-31",
+      "location": "Dresden, Saxony, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "9314ccae0ddc",
+      "title": "Country CFO Italy",
+      "url": "https://it.linkedin.com/jobs/view/country-cfo-italy-at-keystone-executive-search-divisione-randstad-4446208760?position=30&pageNum=0&refId=Ht4D0tZx1LSii4HVbwkcWQ%3D%3D&trackingId=HO8laz8jB27PKVeN8WjNoQ%3D%3D",
+      "description": "Keystone Executive Search - divisione Randstad | \nOur client is a market-leading multinational company with local branches across the country.\nFor their Italian headquarters, we are seeking a qualified and motivated\n\n\nCountry CFO Italy\nThe candidate, directly reporting to the General Manager of the Italian Business Unit, and working closely with the Group International Finance Director, leads the financial, accounting, controlling and compliance activities of the country. As a member of the Exec",
+      "published": "2026-08-03",
+      "location": "Brescia, Lombardy, Italy",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "efa7837c7620",
       "title": "Investor Relations Director",
-      "url": "https://nl.linkedin.com/jobs/view/investor-relations-director-at-the-magnum-ice-cream-company-4435485362?position=41&pageNum=0&refId=GC7%2BFXb2j1ESpr59yzFL8A%3D%3D&trackingId=Ya7tGOMb%2FLbpRUfhyBAkYQ%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/investor-relations-director-at-the-magnum-ice-cream-company-4435485362?position=53&pageNum=0&refId=Ct%2B%2F8HJAc9eGvxdpX5G88Q%3D%3D&trackingId=19pxTDbI3101qj2KGgV4wQ%3D%3D",
       "description": "The Magnum Ice Cream Company | Life tastes better with ice cream \n\nWith 19.000 expert ice cream colleagues and iconic brands like Wall’s, Cornetto and Ben &amp; Jerry’s, loved in 76 countries, we are the world’s largest Ice Cream company leading the industry.\n\nWe create iconic ice cream brands that are part of everyday life, bringing moments of joy to millions of people around the world. Everybody loves ice cream. And as the world’s biggest pure‑play ice cream company, we have the scale and ambi",
-      "published": "2026-08-04",
+      "published": "2026-08-05",
       "location": "Amsterdam, North Holland, Netherlands",
       "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
