@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-07T07:53:15.149612+00:00",
-  "total": 37,
+  "generated_at": "2026-08-08T07:29:40.375360+00:00",
+  "total": 27,
   "items": [
-    {
-      "id": "f1d521fd2db6",
-      "title": "Head of Corporate Finance Advisory",
-      "url": "https://mt.linkedin.com/jobs/view/head-of-corporate-finance-advisory-at-bdo-malta-4438193405?position=22&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=l9i6hu87rOOVuqxo87xong%3D%3D",
-      "description": "BDO Malta | \nWhy BDO Malta\nAt BDO Malta, you’ll join a firm where people are trusted with responsibility, encouraged to think critically, and supported as they grow.\n\n\nAs part of the global BDO network, we combine international standards with a locally grounded, client-focused approach, giving you close client interaction, meaningful exposure, and the opportunity to see the real impact of your work.\n\n\nWe are a growing firm in a dynamic business environment, investing in our people and creating o",
-      "published": "2026-08-05",
-      "location": "Msida, Malta",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 6.5,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 6.0,
-        "C_executive_training": 1.0,
-        "D_emerging_markets": 0.0
-      }
-    },
     {
       "id": "4587351a95ef",
       "title": "Director (Anglophone Africa)",
@@ -39,27 +21,9 @@
       }
     },
     {
-      "id": "e0b91d12b147",
-      "title": "M&A Director",
-      "url": "https://it.linkedin.com/jobs/view/m-a-director-at-societe-generale-4447533115?position=49&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=ySaiJFXDnc1lsaZVXB%2BWBQ%3D%3D",
-      "description": "Societe Generale | Responsibilities\n\nSociété Générale Corporate &amp; Investment Banking (SG CIB) is a leading European investment bank delivering high value-added financial solutions through strong local coverage and global expertise.\n\nThe M&amp;A Director is responsible for originating, leading, and executing complex M&amp;A and Private Equity-related transactions across buy-side and sell-side mandates. The role requires full accountability for transaction delivery, senior client relationship ",
-      "published": "2026-07-31",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 5.5,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 5.0,
-        "C_executive_training": 1.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "c09b0bf9ecbe",
       "title": "Director - Valuation and M&A - Corporate Finance (m/f/d)",
-      "url": "https://lu.linkedin.com/jobs/view/director-valuation-and-m-a-corporate-finance-m-f-d-at-kpmg-luxembourg-4404079505?position=24&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=w%2FubVCrEnWiLc071T1cLag%3D%3D",
+      "url": "https://lu.linkedin.com/jobs/view/director-valuation-and-m-a-corporate-finance-m-f-d-at-kpmg-luxembourg-4404079505?position=48&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=h%2F5ZimX3aD3aKc3wXGXqcA%3D%3D",
       "description": "KPMG Luxembourg | Find your purpose at KPMG Luxembourg\n\nWe see a world of opportunity. From uncovering ways to digitalize, to enabling new sectors to take off, to building sustainability and resilience into economies, we know insights reveal new opportunities for all.\n\nWe are diverse and dedicated problem solvers, part of the worldwide network of high-quality audit, tax and advisory services.\n\nWe offer excellent career prospects that balance autonomy, flexibility, and responsibility. Our compreh",
       "published": "2026-08-06",
       "location": "Luxembourg, Luxembourg, Luxembourg",
@@ -75,12 +39,12 @@
       }
     },
     {
-      "id": "6a544b3d8fb6",
-      "title": "(Senior) Director, Global Transaction Advisory Group",
-      "url": "https://be.linkedin.com/jobs/view/senior-director-global-transaction-advisory-group-at-alvarez-marsal-4441201217?position=50&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=wkK4ut6N%2F7Nas5dZA%2B0T4w%3D%3D",
-      "description": "Alvarez & Marsal | Description\n\nAbout Alvarez &amp; Marsal\n\nAlvarez &amp; Marsal (A&amp;M) is a global consulting firm with entrepreneurial, action and results-oriented professionals. We take a hands-on approach to solving our clients' problems and assisting them in reaching their potential. Our culture celebrates independent thinkers and doers who positively impact our clients and shape our industry. The collaborative environment and engaging work—guided by A&amp;M's core values of Integrity, Q",
-      "published": "2026-08-05",
-      "location": "Brussels, Brussels Region, Belgium",
+      "id": "57fe5afe134d",
+      "title": "Product Strategy and Corporate Development Lead (EMEA)",
+      "url": "https://fr.linkedin.com/jobs/view/product-strategy-and-corporate-development-lead-emea-at-datadog-4342892521?position=27&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=PcmgEb0h8pNZkuUfoPPNpA%3D%3D",
+      "description": "Datadog | Datadog (NASDAQ: DDOG) is looking for a Product Strategy and Corporate Development Lead to drive Product vision, M&amp;A, and venture investments for Datadog. You will work directly with Datadog's founders, partnering with Datadog's global engineering and product leaders to identify and execute transactions that expand our platform into new markets. This is not a traditional Corp Dev seat. You will operate on a small, high-autonomy team where technical depth matters as much as deal exe",
+      "published": "2026-08-06",
+      "location": "Paris, Île-de-France, France",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -93,9 +57,27 @@
       }
     },
     {
+      "id": "44329604c47f",
+      "title": "Investment Officer - Portfolio, Data and Transformation AI Officer - req37946",
+      "url": "https://at.linkedin.com/jobs/view/investment-officer-portfolio-data-and-transformation-ai-officer-req37946-at-ifc-international-finance-corporation-4448352531?position=14&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=YOr2F%2BGKdnwWpgtHebKpUQ%3D%3D",
+      "description": "IFC - International Finance Corporation | Investment Officer - Portfolio, Data and Transformation AI Officer \n\nJob #: req37946\n\nOrganization: IFC\n\nSector: Investment\n\nGrade: GG\n\nTerm Duration: 3 years 0 months\n\nRecruitment Type: International Recruitment\n\nLocation: Vienna,Austria\n\nRequired Language(s): English, Portuguese and/or Spanish\n\nPreferred Language(s)\n\nClosing Date: 8/10/2026 (MM/DD/YYYY) at 11:59pm UTC\n\nDescription\n\nBuild a career with impact. Working at the World Bank Group (WBG) provi",
+      "published": "2026-08-03",
+      "location": "Vienna, Vienna, Austria",
+      "source": "apify_linkedin_blended",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 1.0
+      }
+    },
+    {
       "id": "db78c6f66435",
       "title": "Group Chief Financial Officer",
-      "url": "https://mt.linkedin.com/jobs/view/group-chief-financial-officer-at-konnekt-4450272760?position=57&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=HbY5szzYJ1g5GrRB9bbwqg%3D%3D",
+      "url": "https://mt.linkedin.com/jobs/view/group-chief-financial-officer-at-konnekt-4450272760?position=39&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=T9k9yDAe9tn7hWPjOhVoWg%3D%3D",
       "description": "Konnekt | \nOur client, a leading multi-site retail group, is seeking to appoint a Group Chief Financial Officer (CFO) to provide senior executive leadership and drive the next phase of organizational maturity and growth across its diverse business portfolio.\n\n\nThe Role\n\n- Overall executive accountability for the group’s financial health and capital structure, defining and delivering a robust financial strategy that supports both the core supermarket chain and the group's various other business v",
       "published": "2026-08-06",
       "location": "San Gwann, Malta",
@@ -111,13 +93,13 @@
       }
     },
     {
-      "id": "1c2a99409e9a",
-      "title": "Private Debt Investment Vice President",
-      "url": "https://de.linkedin.com/jobs/view/private-debt-investment-vice-president-at-tikehau-capital-4450250732?position=54&pageNum=0&refId=0btjQ5BTK8yFY4eJMmBj8g%3D%3D&trackingId=Z1bRB8Ro96bhKPnYIyBWfA%3D%3D",
-      "description": "Tikehau Capital | Main Responsabilities\n\n\n\n- Support Tikehau Capital’s local team in sourcing, evaluating and executing new investments in the DACH Private Debt and Leveraged Loan market and working closely with the Private Debt team and portfolio management\n- Monitor a portfolio of companies across Direct Lending including financial performance, trading activity and credit developments\n- Develop and broaden relationships with private equity firms, corporates, M&amp;A and debt advisors, banks, l",
-      "published": "2026-08-06",
-      "location": "Frankfurt, Hesse, Germany",
-      "source": "apify_linkedin_dfi_senior",
+      "id": "04f559ba4464",
+      "title": "Chief Financial Officer - Settore Energy",
+      "url": "https://it.linkedin.com/jobs/view/chief-financial-officer-settore-energy-at-confidential-stealth-mode-4448768174?position=35&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=n6tdEelEs4afmUjIuxoveA%3D%3D",
+      "description": "Confidential ( Stealth Mode ) | \nPer importante realtà operante nel settore Energy siamo alla ricerca di una figura di Chief Financial Officer - Settore Energy. La figura avrà un ruolo centrale nel supportare lo sviluppo del business, contribuendo alla costruzione della futura organizzazione Finance e garantendo la sostenibilità economica, patrimoniale e finanziaria del Gruppo.\n\n\nLa posizione \n\n\nLa risorsa, a diretto riporto dell'Amministratore Delegato, avrà la responsabilità di guidare la funz",
+      "published": "2026-08-07",
+      "location": "Milan, Lombardy, Italy",
+      "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 4.0,
@@ -144,24 +126,6 @@
         "B_deal_structuring": 1.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "8452032e6b5b",
-      "title": "Project Finance Associate",
-      "url": "https://es.linkedin.com/jobs/view/project-finance-associate-at-worldwide-recruitment-energy-4444403564?position=53&pageNum=0&refId=0btjQ5BTK8yFY4eJMmBj8g%3D%3D&trackingId=gli94KlAFF5Lsg6l%2Bsu6eQ%3D%3D",
-      "description": "Worldwide Recruitment Energy | \n\nThe latent change at the heart of renewable energy: your talent. At Worldwide Recruitment Energy, a recruitment consultancy specialising in the renewable energy sector, we have successfully connected hundreds of professionals with a wide range of companies around the world.\nWith offices in Spain, Italy, France, Mexico and Brazil, we lead the sector in attracting talent for Investment Funds, Portfolio Companies, Independent Power Producers (IPPs), Developers, Cons",
-      "published": "2026-08-06",
-      "location": "Community of Madrid, Spain",
-      "source": "apify_linkedin_dfi_senior",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.5,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
       }
     },
     {
@@ -255,30 +219,12 @@
       }
     },
     {
-      "id": "ba9ec7753848",
-      "title": "Associate Director,  Senior Environmental and Social Advisor  (Infrastructure)",
-      "url": "https://jobs.ebrd.com/job/London-Associate-Director%2C-Senior-Environmental-and-Social-Advisor-%28Infrastructure%29/1417422433/",
-      "description": "Associate Director,  Senior Environmental and Social Advisor  (Infrastructure) Associate Director,  Senior Environmental and Social Advisor  (Infrastructure) London, GB 21 Jul 2026 0.00 km London, GB 21 Jul 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "7f3a583fbb9a",
-      "title": "Finance Director",
-      "url": "https://hu.linkedin.com/jobs/view/finance-director-at-bolt-4447134734?position=41&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=jiL20kkmNhLgK1viPhKtFA%3D%3D",
-      "description": "Bolt | About Bolt\n\nBolt is shaping a future where cities are built for people, not cars. What started as an ambitious project of a 19-year-old in 2013 has grown into a global mobility platform used by more than 200 million customers and 4.5 million driver and courier partners across 50 countries.\n\nFrom ride-hailing and food delivery to scooters, e-bikes, and car-sharing, Bolt helps people move through cities every day. Small, autonomous teams drive this work, combining the speed and ownership of",
-      "published": "2026-07-31",
-      "location": "Budapest, Budapest, Hungary",
+      "id": "01c1d2cd531a",
+      "title": "Fund Manager F/M - AIFM - LU878352",
+      "url": "https://lu.linkedin.com/jobs/view/fund-manager-f-m-aifm-lu878352-at-morgan-philips-executive-search-4446208557?position=56&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=0voIFKBG9GuH56g%2FZtTxgA%3D%3D",
+      "description": "Morgan Philips Executive Search | \nOur client is a well-established, human-sized asset manager with an international footprint. As part of its continued growth, we are looking for an experienced Fund Manager F/M to take on a role with genuine impact: managing a finance team and owning the production of investor reporting for the group's fund structures.\n\n\nYour role\nReporting directly to senior management, you take full ownership of the fund controlling function: you lead and coach a finance team",
+      "published": "2026-08-07",
+      "location": "Luxembourg, Luxembourg",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -291,13 +237,13 @@
       }
     },
     {
-      "id": "fd16b171bd90",
-      "title": "Finance Director (w/m/d)",
-      "url": "https://de.linkedin.com/jobs/view/finance-director-w-m-d-at-dr-maier-%2B-partner-group-4446607996?position=51&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=o4%2BE4Gd847SMO8xY%2FUSUFw%3D%3D",
-      "description": "Dr. Maier + Partner Group | \nThe main objectives of the position:\n\n- Supporting the CFO in a highly dynamic phase of budgeting, planning, and SaaS transformation\n- Building a professional, investor-ready FP&amp;A function\n- Establishing transparency, consistency, and narrative clarity in financial performance reporting\n- Acting as a strong counterpart to the CFO\n\n\nThe tasks in detail:\n\n- Driving budgeting, forecasting, and rolling planning processes across the product organization\n- Preparing an",
-      "published": "2026-08-04",
-      "location": "Stuttgart Region",
-      "source": "apify_linkedin_investment_director",
+      "id": "fff2e3e66d48",
+      "title": "Fund Controller - Senior Manager",
+      "url": "https://lu.linkedin.com/jobs/view/fund-controller-senior-manager-at-ey-4439246021?position=55&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=a9Fk05Qi%2Bjh%2BOf5aPtOWRA%3D%3D",
+      "description": "EY | At EY, we’re all in to shape your future with confidence.\n\nWe’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n\nJoin EY and help to build a better working world.\n\nFund Controller\n\nPosition Summary\n\nThe Fund Controller is responsible for the overall financial governance, oversight, and representation of a portfolio of Real Estate / Private Equity funds serviced.\n\nActing as the primary finance lead and trusted advisor to ",
+      "published": "2026-08-07",
+      "location": "Hesperange, Luxembourg, Luxembourg",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 3.0,
@@ -309,13 +255,13 @@
       }
     },
     {
-      "id": "adf8a91ed04f",
-      "title": "Chief Financial Officer",
-      "url": "https://mt.linkedin.com/jobs/view/chief-financial-officer-at-boston-link-4448877032?position=35&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=JJsK5RMh8BVIJynXUOJkMA%3D%3D",
-      "description": "Boston Link | \nChief Financial Officer (CFO)\nMalta\n\n\n\nOur client is a growing Financial Services organisation in Malta that is looking to appoint an experienced Chief Financial Officer (CFO) to join its executive leadership team\n\n\n.\nThis is a strategic leadership role, reporting directly to the CEO and Board, with responsibility for leading the finance function and supporting the company's continued growt\n\n\nh.\nKey Responsibilit\nies-Lead the overall finance strategy and financial operatio\nns.-Ove",
-      "published": "2026-08-04",
-      "location": "Sliema, Malta",
-      "source": "apify_linkedin_investment_director",
+      "id": "f29faa7ac20d",
+      "title": "Project Finance Manager",
+      "url": "https://es.linkedin.com/jobs/view/project-finance-manager-at-infrabe-4450279882?position=47&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=pxqNjuJ%2FBlTVy8FDWcQqDQ%3D%3D",
+      "description": "InfraBe | \nSalary €70k - €80k plus bonus\nAbout the Company\nOur client is a well-established renewable energy investor and Independent Power Producer with a strong track record across the European energy market. The business has extensive experience in developing, financing and delivering renewable energy projects across multiple technologies and geographies.\nWith a growing portfolio and pipeline of clean energy assets, the organisation is looking to strengthen its project finance capability with",
+      "published": "2026-08-06",
+      "location": "Madrid, Community of Madrid, Spain",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 3.0,
@@ -327,13 +273,13 @@
       }
     },
     {
-      "id": "e5bf02f9a469",
-      "title": "Deal manager - Large corporates",
-      "url": "https://cz.linkedin.com/jobs/view/deal-manager-large-corporates-at-j-t-banka-4447132330?position=33&pageNum=0&refId=0btjQ5BTK8yFY4eJMmBj8g%3D%3D&trackingId=Kj7gBdztL%2F8wbg0lrIi6Xw%3D%3D",
-      "description": "J&T BANKA | \nO nás:\nJsme J&amp;T Banka, součást skupiny J&amp;T a přední finanční instituce, která se specializuje na komplexní korporátní financování na míru. Hledáme motivovaného a dynamického kolegu, který s námi bude spravovat rozšiřující se portfolio našich velkých korporátních úvěrů. Budete se zaměřovat na strukturování seniorních, juniorních a mezaninových financování (s přesahem do M&amp;A). Tato pozice je ideální pro někoho, kdo má několik let zkušeností a je připraven posunout své dove",
-      "published": "2026-07-31",
-      "location": "Prague, Czechia",
-      "source": "apify_linkedin_dfi_senior",
+      "id": "1ea8c7144f3d",
+      "title": "Vice President - Investments",
+      "url": "https://ie.linkedin.com/jobs/view/vice-president-investments-at-av-airfinance-4448026900?position=36&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=2ocOG0MLvQwPzPVajJomvQ%3D%3D",
+      "description": "AV AirFinance | \nCompany:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AV AirFinance Limited\nPosition:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice President\nReports to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Investment Officer\nTerm:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Permanent\n\n\nAV AirFinance is a leading commercial aviation lending platform owned and backed by KKR, one of the world's largest alternative asset managers and a long term investo",
+      "published": "2026-08-06",
+      "location": "Dublin 4, County Dublin, Ireland",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 3.0,
@@ -342,24 +288,6 @@
         "B_deal_structuring": 3.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "2140693b1ad7",
-      "title": "Head of Finance",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-at-marks-sattin-4445539074?position=12&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=fkGFi2uS0xRlReffIzfi8g%3D%3D",
-      "description": "Marks Sattin | \nCountry CFO — Ireland\n\n\nOur client currently seeks a Country CFO for a newly created role. The companies operations are across the whole of Ireland with flexibility on where this position can be based. Reporting directly to the Managing Director and the Group CFO of this global organisation.\nDirect reports Finance &amp; Accounting team, Payroll, Credit Control, Procurement\n\n\nAbout the Role\nLead the finance function for the Irish business: financial planning, reporting, treasury, ",
-      "published": "2026-07-31",
-      "location": "County Cork, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.5,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
       }
     },
     {
@@ -381,63 +309,9 @@
       }
     },
     {
-      "id": "62da207f7801",
-      "title": "Head of Corporate Finance",
-      "url": "https://fr.linkedin.com/jobs/view/head-of-corporate-finance-at-axa-4394672065?position=60&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=I2RXgHiTAdIxdMuXTTn5kQ%3D%3D",
-      "description": "AXA | YOUR WORK ENVIRONMENT\n\nWhy AXA?\n\nAt AXA, we work together every day for human progress by protecting what matters. It’s a foundation of our actions, our strategy, and the way we collaborate across the Group. Every day, we contribute to human progress in a way that is practical, responsible, and meaningful, creating a shared sense of direction, commitment, and collective impact that connects people across teams, countries, and roles.\n\nAs one of the world’s leading insurers in the protection",
-      "published": "2026-07-31",
-      "location": "Paris, Île-de-France, France",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "847552ca84d9",
-      "title": "Manager Finance Transformation",
-      "url": "https://be.linkedin.com/jobs/view/manager-finance-transformation-at-bdo-belgium-4315193898?position=51&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=BNiuiDO07B%2BurtaphQShbg%3D%3D",
-      "description": "BDO Belgium | Are you passionate about driving change and innovation in finance? Do you thrive on collaborating with clients to create impactful solutions? As a Manager Finance Transformation at BDO, you'll lead initiatives that redefine the future of finance. With a focus on pragmatism and tailored interventions, you'll partner with clients to understand their objectives and implement strategies that drive sustainable growth. Join our team of experts and make a real impact in a warm, friendly, ",
-      "published": "2026-08-06",
-      "location": "Zaventem, Flemish Region, Belgium",
-      "source": "apify_linkedin_blended",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 2.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "bb0c53eba98e",
-      "title": "VP Finance",
-      "url": "https://be.linkedin.com/jobs/view/vp-finance-at-bluethrone-4448271803?position=44&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=POKrD%2BlIaS663BXZF0Ovqw%3D%3D",
-      "description": "BlueThrone | We’re looking for a hungry, challenge-seeking VP Finance to join our worldwide dream team and shape the next stage of BlueThrone’s growth!\n\nAbout BlueThrone\n\nBlueThrone is a remote-first company scaling a portfolio of mobile apps across multiple markets and categories.\n\nWe acquire apps with proven product-market fit and turn them into category leaders — with 80M+ organic downloads, 22.5M+ monthly active users and a growing ARR built through sharp execution and six strategic acquisit",
-      "published": "2026-08-04",
-      "location": "Brussels, Brussels Region, Belgium",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "4077a77a3db3",
       "title": "Portfolio Manager Private Markets (m/f/d)",
-      "url": "https://lu.linkedin.com/jobs/view/portfolio-manager-private-markets-m-f-d-at-allianz-global-investors-4445711569?position=38&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=wm%2FvWviO3oT43ph6gf3emg%3D%3D",
+      "url": "https://lu.linkedin.com/jobs/view/portfolio-manager-private-markets-m-f-d-at-allianz-global-investors-4445711569?position=31&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=ZutLbnIMp4uMxywTfq%2FDxA%3D%3D",
       "description": "Allianz Global Investors | Join us. Let’s care for tomorrow.\n\nAt Allianz Capital Partners our people enjoy motivating, fulfilling careers. If you are looking for a fast-paced working environment, you are resolved to cultivate and expand your talents and relish a challenge, then join us now!\n\nWe are committed to giving our people – experienced and energetic professionals alike – the opportunities and experiences they seek to thrive and gain personal fulfilment. We will work with you to craft your",
       "published": "2026-08-03",
       "location": "Niederanven, Luxembourg, Luxembourg",
@@ -453,47 +327,11 @@
       }
     },
     {
-      "id": "efa7837c7620",
-      "title": "Investor Relations Director",
-      "url": "https://nl.linkedin.com/jobs/view/investor-relations-director-at-the-magnum-ice-cream-company-4435485362?position=20&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=Q%2FBeh9wOiZQ6ErmiTL1Lsw%3D%3D",
-      "description": "The Magnum Ice Cream Company | Life tastes better with ice cream \n\nWith 19.000 expert ice cream colleagues and iconic brands like Wall’s, Cornetto and Ben &amp; Jerry’s, loved in 76 countries, we are the world’s largest Ice Cream company leading the industry.\n\nWe create iconic ice cream brands that are part of everyday life, bringing moments of joy to millions of people around the world. Everybody loves ice cream. And as the world’s biggest pure‑play ice cream company, we have the scale and ambi",
-      "published": "2026-08-05",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "d19ed14e2f6f",
-      "title": "Country Finance Manager - Benelux",
-      "url": "https://be.linkedin.com/jobs/view/country-finance-manager-benelux-at-hitachi-energy-4429964489?position=6&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=AAtuKlWtLukTaz8GcBvz3w%3D%3D",
-      "description": "Hitachi Energy | The Opportunity\n\nwe are currently seeking an experienced Country Finance Manager Benelux to act as a senior strategic business partner to the Country Managing Director Benelux. In this role, you will have full end‑to‑end financial responsibility at country cluster (BeNeLux) level, combining strategic leadership with hands‑on involvement to drive profitable growth, robust governance, and financial transparency across our operations in Belgium and the Netherlands.\n\nOperating withi",
-      "published": "2026-07-31",
-      "location": "Zaventem, Flemish Region, Belgium",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "1870eed1c4e8",
-      "title": "Investment VP/ Director",
-      "url": "https://fr.linkedin.com/jobs/view/investment-vp-director-at-venture-search-4445098153?position=8&pageNum=0&refId=eyr%2FMSGo2rh%2BnXyBDkHXqA%3D%3D&trackingId=JeMG1nSzFwytDne1dQWIoQ%3D%3D",
-      "description": "Venture Search | \nVice President / Director – Iberian Infrastructure Investments\nLocation: Paris\nSector: Infrastructure &amp; Real Assets\nGeographic focus: Spain and Portugal\n\n\nThe Opportunity\nA leading European infrastructure investment manager is seeking to appoint a Vice President or Director to join its investment team in Paris. The firm invests long-term institutional capital across essential infrastructure, with exposure spanning energy transition, mobility, digital infrastructure and soci",
-      "published": "2026-07-31",
+      "id": "72507e92d5b0",
+      "title": "Vice President, Middle Market Direct Lending",
+      "url": "https://fr.linkedin.com/jobs/view/vice-president-middle-market-direct-lending-at-mufg-4439405513?position=33&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=O1pdOZGaN7mrfymOmjIvtA%3D%3D",
+      "description": "MUFG | Do you want your voice heard and your actions to count? \n\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\n\nWith a vision to be the world’s most trusted fina",
+      "published": "2026-08-04",
       "location": "Paris, Île-de-France, France",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
@@ -507,12 +345,30 @@
       }
     },
     {
-      "id": "956f450a2256",
-      "title": "CFO till Humly",
-      "url": "https://se.linkedin.com/jobs/view/cfo-till-humly-at-finance-recruitment-sweden-4447294168?position=58&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=VhS1HVZm%2FD6iiwIFEvzcng%3D%3D",
-      "description": "Finance Recruitment Sweden | \nÄr du en hands-on CFO som kan bygga upp en enhetlig finansiell styrning i en växande koncern? Har du erfarenhet från internationell miljö och vill vara en strategisk affärspartner till ledning och styrelse?\n\n\nDå kan rollen som CFO på Humly vara din nästa utmaning! Humly söker nu en resultatorienterad och analytisk CFO med ett starkt affärsdriv. Du kommer att spela en nyckelroll i att utveckla och implementera en finansiell strategi som stöder bolagets tillväxt och e",
-      "published": "2026-07-31",
-      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "id": "bb0c53eba98e",
+      "title": "VP Finance",
+      "url": "https://be.linkedin.com/jobs/view/vp-finance-at-bluethrone-4448271803?position=32&pageNum=0&refId=KxLQV17D5QTUbTfanT%2FTpQ%3D%3D&trackingId=Cng0q8olQMIo%2FlOA68FBCQ%3D%3D",
+      "description": "BlueThrone | We’re looking for a hungry, challenge-seeking VP Finance to join our worldwide dream team and shape the next stage of BlueThrone’s growth!\n\nAbout BlueThrone\n\nBlueThrone is a remote-first company scaling a portfolio of mobile apps across multiple markets and categories.\n\nWe acquire apps with proven product-market fit and turn them into category leaders — with 80M+ organic downloads, 22.5M+ monthly active users and a growing ARR built through sharp execution and six strategic acquisit",
+      "published": "2026-08-04",
+      "location": "Brussels, Brussels Region, Belgium",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "d3730a66be72",
+      "title": "Finance Director",
+      "url": "https://de.linkedin.com/jobs/view/finance-director-at-camino-search-4441801711?position=45&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=Iq0likT%2Fe94z%2FxXtfadqpQ%3D%3D",
+      "description": "Camino Search | \nWe're currently partnering with a fast-growing international e-commerce company looking to hire a Finance Director to lead and scale the global accounting function. This is an international role spanning multiple entities and markets, working closely with the Group CFO to shape the finance function as the business scales. It's an ideal opportunity for someone seeking a senior accounting leadership role with genuine scope to make an impact.\n\n\nWhat you'll be doing\n\n- Lead and scal",
+      "published": "2026-08-07",
+      "location": "Germany",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -527,7 +383,7 @@
     {
       "id": "4fff10c51ea8",
       "title": "Vice President Finance",
-      "url": "https://de.linkedin.com/jobs/view/vice-president-finance-at-systemsaccountants-4450231769?position=47&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=10b0jYzo88xHgBNqXCwy8g%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/vice-president-finance-at-systemsaccountants-4450231769?position=43&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=v0M8DILhvjMiZ%2B6m3G26Rg%3D%3D",
       "description": "SystemsAccountants | \nIntroduction to the position\nWe are supporting a venture capital-backed company in the search for an experienced VP Finance to strengthen and scale its international finance function. This is a key leadership role responsible for overseeing finance operations across multiple entities and jurisdictions, while partnering closely with senior leadership to support continued growth.\n\n\nThe VP Finance will play a critical role in developing the finance organization, improving proc",
       "published": "2026-08-06",
       "location": "Germany",
@@ -543,9 +399,45 @@
       }
     },
     {
+      "id": "7315a519b212",
+      "title": "Director of Strategic Finance",
+      "url": "https://de.linkedin.com/jobs/view/director-of-strategic-finance-at-unybrands-4447653701?position=27&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=do2hHw7PvM1dWETihhSvWg%3D%3D",
+      "description": "unybrands | \nFounded in 2020, unybrands is the next-generation brand accelerator platform built to acquire, integrate, and scale digital-first consumer brands. Headquartered in Miami, with offices in New York, London, Berlin, and Shenzhen, our 240+ team brings deep expertise across e-commerce, brand management, consumer retail, operational scaling, and M&amp;A.\nSince inception, we have acquired 30+ brands across Pet Care, Personal Care, Home Care, Supplements, Baby &amp; Juvenile, Garden &amp; O",
+      "published": "2026-08-02",
+      "location": "Berlin, Germany",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "b9c7f7b854f2",
+      "title": "Head of Finance",
+      "url": "https://mt.linkedin.com/jobs/view/head-of-finance-at-boston-link-4448836706?position=25&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=3vwZmtkkxU%2BD%2BOFu1LXhsQ%3D%3D",
+      "description": "Boston Link | \nOur client, a banking institution, is looking to hire a Head of Finance &amp; Treasury to join their team.\n\n\nResponsibilities:\n\n- Lead the Bank's finance and treasury functions, aligning financial strategy with business objectives.\n- Provide strategic financial advice to senior leadership on budgeting, forecasting, capital planning, and business performance.\n- Oversee treasury operations, including liquidity management, cash flow forecasting, funding strategies, and balance sheet ",
+      "published": "2026-08-04",
+      "location": "Valletta, Malta",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "72d20adef3e7",
       "title": "Regional Head of Finance",
-      "url": "https://nl.linkedin.com/jobs/view/regional-head-of-finance-at-oqema-group-4449375968?position=27&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=ZPuj%2FnPTqz9eFXiE4a84%2FA%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/regional-head-of-finance-at-oqema-group-4449375968?position=23&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=jz%2Bbvfcvgaeu4prgMxg7XQ%3D%3D",
       "description": "OQEMA Group | \nRegional Head of Finance\nLocation: Son en Breugel, The Netherlands (Hybrid)\n\n\nLead the Finance Transformation of an International Organisation\nRobert Half is partnering with OQEMA to recruit a Regional Head of Finance.\n\n\nThis is an exceptional opportunity for an experienced finance leader to play a key role in building OQEMA's new regional finance organisation and leading its finance transformation across 13 legal entities in eight countries.\n\n\nAs Regional Head of Finance, you wil",
       "published": "2026-08-06",
       "location": "Son en Breugel, North Brabant, Netherlands",
@@ -563,7 +455,7 @@
     {
       "id": "fb6f922f0e45",
       "title": "VP Finance",
-      "url": "https://de.linkedin.com/jobs/view/vp-finance-at-bluethrone-4448267878?position=13&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=bsOFctyjuFpACAHVwF%2FqXw%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/vp-finance-at-bluethrone-4448267878?position=16&pageNum=0&refId=T%2B11xHLY%2BgUpDHdbYdz7zA%3D%3D&trackingId=ye2fnVEmETa%2FXmTD7vFK6g%3D%3D",
       "description": "BlueThrone | We’re looking for a hungry, challenge-seeking VP Finance to join our worldwide dream team and shape the next stage of BlueThrone’s growth!\n\nAbout BlueThrone\n\nBlueThrone is a remote-first company scaling a portfolio of mobile apps across multiple markets and categories.\n\nWe acquire apps with proven product-market fit and turn them into category leaders — with 80M+ organic downloads, 22.5M+ monthly active users and a growing ARR built through sharp execution and six strategic acquisit",
       "published": "2026-08-04",
       "location": "Berlin, Berlin, Germany",
@@ -579,84 +471,12 @@
       }
     },
     {
-      "id": "7315a519b212",
-      "title": "Director of Strategic Finance",
-      "url": "https://de.linkedin.com/jobs/view/director-of-strategic-finance-at-unybrands-4447653701?position=18&pageNum=0&refId=Bkz4DEHvEbHC6kgoK7M37g%3D%3D&trackingId=KyYsffQs4udOv7fn6j6Rqw%3D%3D",
-      "description": "unybrands | \nFounded in 2020, unybrands is the next-generation brand accelerator platform built to acquire, integrate, and scale digital-first consumer brands. Headquartered in Miami, with offices in New York, London, Berlin, and Shenzhen, our 240+ team brings deep expertise across e-commerce, brand management, consumer retail, operational scaling, and M&amp;A.\nSince inception, we have acquired 30+ brands across Pet Care, Personal Care, Home Care, Supplements, Baby &amp; Juvenile, Garden &amp; O",
-      "published": "2026-08-02",
-      "location": "Berlin, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "839a1eb9fa16",
-      "title": "Global Corporate Banking - Large Cap Executive Director - Helsinki",
-      "url": "https://fi.linkedin.com/jobs/view/global-corporate-banking-large-cap-executive-director-helsinki-at-jpmorganchase-4448474187?position=56&pageNum=0&refId=0btjQ5BTK8yFY4eJMmBj8g%3D%3D&trackingId=2Gck44sNilGTZWiwprN9IQ%3D%3D",
-      "description": "JPMorganChase | Job Description\n\nWe are looking to hire our first in-country Global Corporate Banker (Executive Director level) in Helsinki who will be responsible for helping us develop and grow our global business across Finland. This banker would be responsible for managing relationships across a portfolio of clients across our Large Cap, Mid Cap and Public Sector businesses whilst acting as the first point of contact for our corporate clients on treasury topics.\n\nOur Corporate Banking teams ",
-      "published": "2026-08-06",
-      "location": "Helsinki, Uusimaa, Finland",
-      "source": "apify_linkedin_dfi_senior",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "f4b4322acb9d",
-      "title": "Senior Investment Advisor - Thessaloniki",
-      "url": "https://gr.linkedin.com/jobs/view/senior-investment-advisor-thessaloniki-at-grant-thornton-greece-4446618864?position=48&pageNum=0&refId=0btjQ5BTK8yFY4eJMmBj8g%3D%3D&trackingId=9l7u7KHCrRiS%2FN5lJxOQaQ%3D%3D",
-      "description": "Grant Thornton Greece | Who We Are\n\nAt Grant Thornton Greece, we’re not just part of a global network of 76,000 professionals across 156 countries. We’re independent thinkers who prioritize quality, inclusion, and integrity to create a better, more personal experience for our clients and our team. Our mission? To deliver expertise in a way that goes beyond — Personal, Proactive, and Agile.\n\nWe don’t predict the future here—we shape it. 🚀\n\nMilestones WE are Proud of\n\n🏆Great Place to Work certifie",
+      "id": "1534b0a10f07",
+      "title": "VP Finance",
+      "url": "https://bg.linkedin.com/jobs/view/vp-finance-at-bluethrone-4448275504?position=55&pageNum=0&refId=iS8HmpDj8HRU44l7rYTDgg%3D%3D&trackingId=6GdGU8LLhpEiyUMUb8Wdyg%3D%3D",
+      "description": "BlueThrone | We’re looking for a hungry, challenge-seeking VP Finance to join our worldwide dream team and shape the next stage of BlueThrone’s growth!\n\nAbout BlueThrone\n\nBlueThrone is a remote-first company scaling a portfolio of mobile apps across multiple markets and categories.\n\nWe acquire apps with proven product-market fit and turn them into category leaders — with 80M+ organic downloads, 22.5M+ monthly active users and a growing ARR built through sharp execution and six strategic acquisit",
       "published": "2026-08-04",
-      "location": "Thessaloniki, Central Macedonia, Greece",
-      "source": "apify_linkedin_dfi_senior",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "4cbeba45d782",
-      "title": "(Senior) Portfolio Manager Acquisition Finance",
-      "url": "https://de.linkedin.com/jobs/view/senior-portfolio-manager-acquisition-finance-at-jcw-group-4445514889?position=37&pageNum=0&refId=0btjQ5BTK8yFY4eJMmBj8g%3D%3D&trackingId=PoTNY5w7jjPiXuiCnZODiQ%3D%3D",
-      "description": "JCW Group | \nWe are currently working on behalf of an established commercial bank with an international focus and strong market presence across the DACH region, which is looking to strengthen its team with an experienced (Senior) Portfolio Manager (m/f/d) for the Acquisition Finance team in Frankfurt (up to 80% remote). The position is newly created within a young, high-performing team and offers the opportunity to take ownership and contribute to the further development of the Portfolio Managem",
-      "published": "2026-07-31",
-      "location": "Frankfurt Rhine-Main Metropolitan Area",
-      "source": "apify_linkedin_dfi_senior",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "0b1ab9233dd3",
-      "title": "Senior Risk Manager (f/m/d)",
-      "url": "https://de.linkedin.com/jobs/view/senior-risk-manager-f-m-d-at-siemens-4448535334?position=38&pageNum=0&refId=0btjQ5BTK8yFY4eJMmBj8g%3D%3D&trackingId=PTDEgBOv%2FfBfWdJP3zooRQ%3D%3D",
-      "description": "Siemens | Financing the Future. \n\nThis role focuses on assessing and monitoring Leverage Finance transactions, supporting structuring and evaluation, coordinating legal and commercial aspects, preparing credit approvals, financial modelling, and performing lending authority. It also involves leading negotiations and representing SFS in various financial discussions.\n\nWhat We Offer You\n\n\n\n- An attractive renumeration package\n- 2 to 3 days of mobile working per week as a global standard\n- Flexible",
-      "published": "2026-08-04",
-      "location": "Munich, Bavaria, Germany",
+      "location": "Sofia, Sofia City, Bulgaria",
       "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
