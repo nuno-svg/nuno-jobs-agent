@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T08:01:57.866848+00:00",
+  "generated_at": "2026-08-13T08:10:10.435204+00:00",
   "total": 14,
   "items": [
     {
       "id": "89f6f2843173",
       "title": "Head of Finance",
-      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-nuclio-talent-4452413493?position=32&pageNum=0&refId=AVY7fKhhVvY9LUUjdw4srA%3D%3D&trackingId=pwCfJQU9tweAQ9EKiV3yRg%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/head-of-finance-at-nuclio-talent-4452413493?position=33&pageNum=0&refId=zfb3c1FKAsE%2BZm6dziTkVA%3D%3D&trackingId=StBtYIyKL5PgsEtAhCvNSA%3D%3D",
       "description": "Nuclio Talent | \n🚀 HEAD OF FINANCE | INTERNATIONAL SCALE-UP | BARCELONA\nWe are partnering with a fast-growing international Scale-up headquartered in Barcelona, with operations across three continents, to identify a Head of Finance who will play a critical role in the company's next stage of growth.\nThis is not a traditional Finance leadership position.\nWe are looking for a strategic, commercially minded finance leader who is comfortable moving between the numbers, the business and the investmen",
       "published": "2026-08-11",
       "location": "Barcelona, Catalonia, Spain",
@@ -21,9 +21,45 @@
       }
     },
     {
+      "id": "c3aad9d52648",
+      "title": "Director of Corporate Finance",
+      "url": "https://lt.linkedin.com/jobs/view/director-of-corporate-finance-at-rsi-europe-4453082989?position=35&pageNum=0&refId=q2tWa8foe110TtRlMNxPFA%3D%3D&trackingId=uv0vLWHxGWtN1PSibWjWtg%3D%3D",
+      "description": "RSI Europe | \nWe are looking for a strategic and driven Director of Corporate Finance to join our team at RSI Europe. As a fast-growing defense technology company advancing towards becoming an integrated defense systems provider, we are seeking a leader to identify, evaluate, and execute key strategic growth opportunities while building a rigorous corporate finance function. Sitting at the intersection of strategy, finance, partnerships, mergers and acquisitions (M&amp;A), and corporate investme",
+      "published": "2026-08-12",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 7.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 7.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "2bc51bf02081",
+      "title": "EY-Parthenon - Director - Transactions & Corporate Finance - Industries",
+      "url": "https://be.linkedin.com/jobs/view/ey-parthenon-director-transactions-corporate-finance-industries-at-ey-parthenon-4431985071?position=40&pageNum=0&refId=q2tWa8foe110TtRlMNxPFA%3D%3D&trackingId=vxZqsG00ZpVNZVKQA3qviQ%3D%3D",
+      "description": "EY-Parthenon | EY-Parthenon is a leading global strategy consultancy. We are committed to bringing unconventional yet pragmatic thinking together with our clients, to deliver actionable strategies for real impact in today’s complex business landscape. At EY-Parthenon, we work with corporate and private equity clients to enable them to reinvent themselves for a better future.\n\nShape the future with confidence.\n\nThe Opportunity: Your Next Adventure Awaits?\n\nEY Parthenon provides services within th",
+      "published": "2026-08-12",
+      "location": "Diegem, Flemish Region, Belgium",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 6.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 6.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "57fe5afe134d",
       "title": "Product Strategy and Corporate Development Lead (EMEA)",
-      "url": "https://fr.linkedin.com/jobs/view/product-strategy-and-corporate-development-lead-emea-at-datadog-4342892521?position=34&pageNum=0&refId=aB0iU4Uf6FNs0eXAq70SQw%3D%3D&trackingId=2vIl40odbEBcwzeUqf5I1w%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/product-strategy-and-corporate-development-lead-emea-at-datadog-4342892521?position=34&pageNum=0&refId=q2tWa8foe110TtRlMNxPFA%3D%3D&trackingId=ZPXTdji7XWvKAzMfBbsuOg%3D%3D",
       "description": "Datadog | Datadog (NASDAQ: DDOG) is looking for a Product Strategy and Corporate Development Lead to drive Product vision, M&amp;A, and venture investments for Datadog. You will work directly with Datadog's founders, partnering with Datadog's global engineering and product leaders to identify and execute transactions that expand our platform into new markets. This is not a traditional Corp Dev seat. You will operate on a small, high-autonomy team where technical depth matters as much as deal exe",
       "published": "2026-08-06",
       "location": "Paris, Île-de-France, France",
@@ -41,7 +77,7 @@
     {
       "id": "e47c614097be",
       "title": "Senior Manager",
-      "url": "https://de.linkedin.com/jobs/view/senior-manager-at-enemix-4452421819?position=30&pageNum=0&refId=aB0iU4Uf6FNs0eXAq70SQw%3D%3D&trackingId=Dz0a0eVL5CVFpHHI9fUtAQ%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/senior-manager-at-enemix-4452421819?position=29&pageNum=0&refId=q2tWa8foe110TtRlMNxPFA%3D%3D&trackingId=CoZWZlraWarTtr6c1VwWLQ%3D%3D",
       "description": "Enemix | \nSenior Manager, Clean Energy Valuations and Transactions Consultant\nLocation: Berlin (Hybrid)\nOverview\nI'm recruiting for an energy advisory practice that runs valuation, financial modelling and transaction support for developers, investors and industrials across the clean energy sector. The team isn't tied to a single technology or project type, and it often leads both commercial and technical due diligence on the same deal, so I'm looking for someone who can hold both sides rather th",
       "published": "2026-08-11",
       "location": "Berlin, Germany",
@@ -59,7 +95,7 @@
     {
       "id": "b2bf596ef803",
       "title": "Head of Finance – Future Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4450270436?position=18&pageNum=0&refId=AVY7fKhhVvY9LUUjdw4srA%3D%3D&trackingId=7L3IccWWggnAafeCkEcd%2Fw%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4450270436?position=18&pageNum=0&refId=zfb3c1FKAsE%2BZm6dziTkVA%3D%3D&trackingId=SaYnAhvLcTIj%2F7oL0epbcw%3D%3D",
       "description": "Darwin Hawkins | \nJob Title: Head of Finance – Future Finance Director\nSector: PE-Backed International Business\nLocation: Dublin (Hybrid)\nSalary: €130,000 - €150,000 plus Bonus, Pension &amp; Health\n\n\nOur Client\nOur client is a high-growth, PE-backed international business with operations globally Following continued expansion, they are seeking a Head of Finance who will join the senior leadership team to lead the core finance function and play a key role in the next stage of the company's growt",
       "published": "2026-08-06",
       "location": "Dublin, County Dublin, Ireland",
@@ -75,10 +111,10 @@
       }
     },
     {
-      "id": "093bfff4af1a",
-      "title": "Principal, Quality Eng; Data & Analytics",
-      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Quality-Eng-Data-&-Analytics/1424952233/",
-      "description": "Principal, Quality Eng; Data & Analytics Principal, Quality Eng; Data & Analytics London, GB 10 Aug 2026 0.00 km London, GB 10 Aug 2026",
+      "id": "0789ebcf272e",
+      "title": "Principal, Engineering, AI",
+      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Engineering%2C-AI/1424667633/",
+      "description": "Principal, Engineering, AI Principal, Engineering, AI Sofia, BG 10 Aug 2026 0.00 km Sofia, BG 10 Aug 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -93,10 +129,10 @@
       }
     },
     {
-      "id": "0789ebcf272e",
-      "title": "Principal, Engineering, AI",
-      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Engineering%2C-AI/1424667633/",
-      "description": "Principal, Engineering, AI Principal, Engineering, AI Sofia, BG 10 Aug 2026 0.00 km Sofia, BG 10 Aug 2026",
+      "id": "093bfff4af1a",
+      "title": "Principal, Quality Eng; Data & Analytics",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Quality-Eng-Data-&-Analytics/1424952233/",
+      "description": "Principal, Quality Eng; Data & Analytics Principal, Quality Eng; Data & Analytics London, GB 10 Aug 2026 0.00 km London, GB 10 Aug 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -129,27 +165,9 @@
       }
     },
     {
-      "id": "0d0c2f8fdeb8",
-      "title": "Principal, Technical Architect - Application and Integration",
-      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Technical-Architect-Application-and-Integration/1423760133/",
-      "description": "Principal, Technical Architect - Application and Integration Principal, Technical Architect - Application and Integration Sofia, BG 6 Aug 2026 0.00 km Sofia, BG 6 Aug 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "1ea8c7144f3d",
       "title": "Vice President - Investments",
-      "url": "https://ie.linkedin.com/jobs/view/vice-president-investments-at-av-airfinance-4448026900?position=44&pageNum=0&refId=aB0iU4Uf6FNs0eXAq70SQw%3D%3D&trackingId=BcyvgWtJmUTZ%2FQItmosT5Q%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/vice-president-investments-at-av-airfinance-4448026900?position=47&pageNum=0&refId=q2tWa8foe110TtRlMNxPFA%3D%3D&trackingId=7M1D4BNgX1bm1ii4F4RC2Q%3D%3D",
       "description": "AV AirFinance | \nCompany:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AV AirFinance Limited\nPosition:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice President\nReports to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Investment Officer\nTerm:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Permanent\n\n\nAV AirFinance is a leading commercial aviation lending platform owned and backed by KKR, one of the world's largest alternative asset managers and a long term investo",
       "published": "2026-08-06",
       "location": "Dublin 4, County Dublin, Ireland",
@@ -167,7 +185,7 @@
     {
       "id": "a3a55cfc96e4",
       "title": "Senior Investment and Portfolio Manager",
-      "url": "https://hu.linkedin.com/jobs/view/senior-investment-and-portfolio-manager-at-sz%C3%A9chenyi-alapok-sz%C3%A9chenyi-funds-4449570324?position=38&pageNum=0&refId=aB0iU4Uf6FNs0eXAq70SQw%3D%3D&trackingId=5whJzCm%2BwDZUBUP9tM5jxQ%3D%3D",
+      "url": "https://hu.linkedin.com/jobs/view/senior-investment-and-portfolio-manager-at-sz%C3%A9chenyi-alapok-sz%C3%A9chenyi-funds-4449570324?position=41&pageNum=0&refId=q2tWa8foe110TtRlMNxPFA%3D%3D&trackingId=qwKV6kdPy3GmSTEnAU9GUA%3D%3D",
       "description": "Széchenyi Alapok - Széchenyi Funds | \nBefektetési feladatok\n\n- Befektetési lehetőségek felkutatása, elemzése, kiértékelése és strukturálása\n- Term sheet kidolgozása és letárgyalása az ügyféllel\n- Átvilágítások koordinálása és a feltárt kockázatok kezelése\n- Belső döntésekhez szükséges írásos előterjesztések elkészítése\n- Jogi iroda által előkészített tranzakciós dokumentumok véleményezése\n- A szerződések kitárgyalása az ügyféllel\n\n\nPortfóliókezelési feladatok\n\n- A projekt előrehaladásának nyomon",
       "published": "2026-08-11",
       "location": "Budapest, Hungary",
@@ -183,27 +201,9 @@
       }
     },
     {
-      "id": "fcfd027898a8",
-      "title": "Head of Portfolio Management, Managing Director",
-      "url": "https://de.linkedin.com/jobs/view/head-of-portfolio-management-managing-director-at-scaled-development-4449801414?position=1&pageNum=0&refId=aB0iU4Uf6FNs0eXAq70SQw%3D%3D&trackingId=YuR9LT7BY0HhHXjkfOeSpw%3D%3D",
-      "description": "SCALED Development | \nSUMMARY\n\n\nSCALED Development GmbH is a newly established blended finance advisory firm designed to facilitate capital mobilisation for sustainable private-market investments in emerging markets and developing economies (EMDEs).\n\n\nWith this announcement, the company is looking for a Head of Portfolio Management who will also be the second Managing Director of the company.\n\n\nThe Head of Portfolio Management leads SCALED Development’s advisory work on the design, structuring a",
-      "published": "2026-08-10",
-      "location": "Munich, Bavaria, Germany",
-      "source": "apify_linkedin_blended",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 2.0,
-        "B_deal_structuring": 1.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 1.0
-      }
-    },
-    {
       "id": "fc6f81aedbf3",
       "title": "Director Of Finance",
-      "url": "https://ie.linkedin.com/jobs/view/director-of-finance-at-morgan-mckinley-4439110118?position=9&pageNum=0&refId=AVY7fKhhVvY9LUUjdw4srA%3D%3D&trackingId=3%2FmRe5GcYGhOS4MEdYucoQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/director-of-finance-at-morgan-mckinley-4439110118?position=10&pageNum=0&refId=zfb3c1FKAsE%2BZm6dziTkVA%3D%3D&trackingId=V4L3GEXh1TOIS9Ku6CSyqA%3D%3D",
       "description": "Morgan McKinley | \nDirector of Finance \n\n\nLocation: Cork, Ireland (Hybrid)\n\n\nPosition Type: Permanent\n\n\nExecutive Summary\nWorking exclusively on behalf of our client, Morgan McKinley is delighted to bring this high-impact, strategic Director of Finance position to market.\n\n\nOur client is a premier, highly profitable international corporate services and business management group headquartered in Munster, with established operational hubs across Ireland and the UK. Generating multi-million-euro an",
       "published": "2026-08-11",
       "location": "Cork, County Cork, Ireland",
@@ -219,9 +219,9 @@
       }
     },
     {
-      "id": "e7db4751608b",
-      "title": "Finance Project Manager",
-      "url": "https://ie.linkedin.com/jobs/view/finance-project-manager-at-pe-global-4453092009?position=30&pageNum=0&refId=DpvZf7V1RDcr9qkNkJf5Gw%3D%3D&trackingId=IT4RCkNXXX03fuk9fxu6LQ%3D%3D",
+      "id": "5dd2474706c9",
+      "title": "Project Finance Manager",
+      "url": "https://ie.linkedin.com/jobs/view/project-finance-manager-at-pe-global-4453092009?position=26&pageNum=0&refId=AS4G7lu7h2hSgWp3JGdQKA%3D%3D&trackingId=CHr2TkYX6cAiyURRG5cAIg%3D%3D",
       "description": "PE Global | \nPE Global Recruitment is currently working with a leading semi-state body, which provides financial advice to the Irish Government to recruit a Project Finance Manager to join the team in Dublin.\n\n\nThe Role:\nThis is an excellent opportunity for an experienced finance professional to work on some of Ireland’s most significant infrastructure and capital investment projects, advising Government Departments and State bodies across sectors including climate, education, justice, social ho",
       "published": "2026-08-12",
       "location": "Dublin, County Dublin, Ireland",
@@ -239,7 +239,7 @@
     {
       "id": "f4f4d666d78d",
       "title": "Chief Financial Officer",
-      "url": "https://it.linkedin.com/jobs/view/chief-financial-officer-at-keypartners-4441184771?position=38&pageNum=0&refId=AVY7fKhhVvY9LUUjdw4srA%3D%3D&trackingId=tvFF%2BBFcKY9aQcYDEnZUmA%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/chief-financial-officer-at-keypartners-4441184771?position=39&pageNum=0&refId=zfb3c1FKAsE%2BZm6dziTkVA%3D%3D&trackingId=JmazKJ4TJ9bxk6qzemgWdw%3D%3D",
       "description": "KeyPartners | \nPer conto di una consolidata PMI operante nel settore dei servizi siamo alla ricerca di un Chief Financial Officer che assuma un ruolo centrale nel supportare il management in una fase di crescita, consolidamento organizzativo e sviluppo del business.\n\n\nRiportando direttamente al CEO, il CFO sarà responsabile dell'intera funzione Amministrazione, Finanza e Controllo, con l'obiettivo di rafforzare gli strumenti di governo economico-finanziario, supportare i processi decisionali e c",
       "published": "2026-08-08",
       "location": "Rome, Latium, Italy",
