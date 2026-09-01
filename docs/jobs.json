@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-31T14:12:05.182948+00:00",
-  "total": 29,
+  "generated_at": "2026-09-01T11:52:36.555505+00:00",
+  "total": 24,
   "items": [
-    {
-      "id": "d86488157c86",
-      "title": "Chief Financial Officer",
-      "url": "https://ee.linkedin.com/jobs/view/chief-financial-officer-at-arnold-ash-group-4458233783?position=45&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=dVrhPb0YMY50yr9FRCrYFQ%3D%3D",
-      "description": "Arnold Ash Group | \nChief Financial Officer - B2B iGaming - Tallinn, Estonia \n\n\nArnold Ash partnered with a leading iGaming B2B supplier to identify and attract a Chief Financial Officer (CFO) to join their executive team. Based in Tallinn, Estonia, this is a senior commercial finance mandate within an established international technology provider.\n\n\nThis is not a traditional reporting or financial control role. The successful candidate will work alongside the Managing Director as a strategic an",
-      "published": "2026-08-24",
-      "location": "Tallinn, Harjumaa, Estonia",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 7.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 7.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
     {
       "id": "4587351a95ef",
       "title": "Director (Anglophone Africa)",
@@ -93,13 +75,13 @@
       }
     },
     {
-      "id": "391cfaab939a",
-      "title": "Head of Finance",
-      "url": "https://de.linkedin.com/jobs/view/head-of-finance-at-privatal-4458575886?position=30&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=T6VQl7cas9D7FNFFdWJaoQ%3D%3D",
-      "description": "Privatal | \nMunich | PE-Backed Healthcare | Buy &amp; Build | M&amp;A &amp; Exit Preparation\nThe Business\nWe are partnering with one of Germany’s leading PE-backed, multi-site groups, which has grown significantly through an ambitious buy-and-build strategy.\n\n\nThe business combines strong regional operating companies with a central holding structure in Munich. With continued M&amp;A planned and an eventual exit on the horizon, the group is now further professionalising its finance organisation.\n",
-      "published": "2026-08-25",
-      "location": "Munich, Bavaria, Germany",
-      "source": "apify_linkedin_investment_director",
+      "id": "57fe5afe134d",
+      "title": "Product Strategy and Corporate Development Lead (EMEA)",
+      "url": "https://fr.linkedin.com/jobs/view/product-strategy-and-corporate-development-lead-emea-at-datadog-4342892521?position=40&pageNum=0&refId=b2iWoa18wBAO7xcAuZC98w%3D%3D&trackingId=KCx3S3nwRdBqOR0NfxsE%2FQ%3D%3D",
+      "description": "Datadog | Datadog (NASDAQ: DDOG) is looking for a Product Strategy and Corporate Development Lead to drive Product vision, M&amp;A, and venture investments for Datadog. You will work directly with Datadog's founders, partnering with Datadog's global engineering and product leaders to identify and execute transactions that expand our platform into new markets. This is not a traditional Corp Dev seat. You will operate on a small, high-autonomy team where technical depth matters as much as deal exe",
+      "published": "2026-08-28",
+      "location": "Paris, Île-de-France, France",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 4.0,
@@ -113,7 +95,7 @@
     {
       "id": "88ae1ff6a614",
       "title": "Chief Financial Officer PCF 11",
-      "url": "https://ie.linkedin.com/jobs/view/chief-financial-officer-pcf-11-at-noel-group-4458790173?position=18&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=ZysHMdYQSxmz3STOfyCMsQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/chief-financial-officer-pcf-11-at-noel-group-4458790173?position=18&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=DUK26wVdLTGewIhdS1nXXg%3D%3D",
       "description": "Noel Group | \nWe are recruiting for the type of opportunity that does not come along very often, a Chief Financial Officer (PCF 11) for a an established international technology, digital assets and financial infrastructure business which is setting up their regulatory hub in Ireland.\n\n\nThis is a great change for someone who is currently working as a Head of Finance, Finance Director or equivalent senior finance role to step up to a PCF 11 role or indeed an experienced PCF 11, who is looking for ",
       "published": "2026-08-25",
       "location": "Dublin, County Dublin, Ireland",
@@ -131,7 +113,7 @@
     {
       "id": "af932754634a",
       "title": "Head of Finance & Accounts/CFO",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-accounts-cfo-at-authentic-group-of-companies-4460350592?position=10&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=WCUzWCdV1GCmb%2BDQ8pehxA%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-accounts-cfo-at-authentic-group-of-companies-4460350592?position=13&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=m3yYGUaAdgFgLFeHAkKkig%3D%3D",
       "description": "Authentic Group of Companies | \n📌 Role Summary\n• Position: Head of Finance &amp; Accounts / CFO – Netherlands\n• Location: Netherlands (Project Office / Regional HQ)\n• Experience: 12+ Years\n• Nationality Requirement: Dutch (Strict Requirement)\n• Reporting To: Globally to Corporate Finance and Operationally to the Project Director / Regional Head\n\n\n🏢 Company Overview\nOur client is a global technology, engineering, construction, manufacturing, and financial services conglomerate. Our Offshore Wind ",
       "published": "2026-08-28",
       "location": "Gelderland, Netherlands",
@@ -147,20 +129,20 @@
       }
     },
     {
-      "id": "37e55a93fd7a",
-      "title": "Investment Banking Associate",
-      "url": "https://be.linkedin.com/jobs/view/investment-banking-associate-at-degroof-petercam-4424089494?position=30&pageNum=0&refId=D6FVCqbfvEgesMn%2Fx0mcAQ%3D%3D&trackingId=Ba8sFaTuBHoHcDUCgPhNjQ%3D%3D",
-      "description": "Degroof Petercam | Context\n\nAre you ready to drive transformational M&amp;A and capital markets transactions?\n\nDegroof Petercam Corporate Advisory is a leading advisor to family-owned businesses, large corporates, financial sponsors and governments. We deliver tailor-made, high quality advice on M&amp;A and capital-raising transactions.\n\nTo support our continued growth, we are hiring an Investment Banking Associate to join our Belgium-based team.\n\nYour position\n\nYou will work across a broad rang",
-      "published": "2026-08-28",
-      "location": "Brussels, Brussels Region, Belgium",
-      "source": "apify_linkedin_blended",
+      "id": "ba5ee8f6e697",
+      "title": "Head of Finance – Future Finance Director",
+      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4461719562?position=1&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=tXBrSeXycd7NmCh%2FBnEYyw%3D%3D",
+      "description": "Darwin Hawkins | \nJob Title: Head of Finance – Future Finance Director\nSector: PE-Backed International Business\nLocation: Dublin (Hybrid)\nSalary: €130,000 - €150,000 plus Bonus, Pension &amp; Health\n\n\nOur Client\nOur client is a high-growth, PE-backed international business with operations globally Following continued expansion, they are seeking a Head of Finance who will join the senior leadership team to lead the core finance function and play a key role in the next stage of the company's growt",
+      "published": "2026-09-01",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.5,
+      "fit": 4.0,
       "scores": {
         "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 1.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
     },
@@ -291,45 +273,9 @@
       }
     },
     {
-      "id": "f461faad13ad",
-      "title": "Debt Advisory - Senior Manager",
-      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4414657005?position=44&pageNum=0&refId=D6FVCqbfvEgesMn%2Fx0mcAQ%3D%3D&trackingId=oJts8DrvF24UKcK1fLUahg%3D%3D",
-      "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
-      "published": "2026-08-30",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "b161b79b62b1",
-      "title": "Corporate Finance Manager",
-      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-uhy-farrelly-dawe-white-limited-4458229785?position=21&pageNum=0&refId=D6FVCqbfvEgesMn%2Fx0mcAQ%3D%3D&trackingId=x8%2FaK02pPkatfdbPynP%2Bvg%3D%3D",
-      "description": "UHY Farrelly Dawe White Limited | \nWho We Are\nUHY FDW is a leading Top 20 audit, accountancy, advisory and taxation practice in Dublin and the North East of Ireland and a member of UHY, a global accountancy network ranked among the Top 20 networks worldwide.\n\n\nOver the past decade, UHY FDW has evolved into one of the most progressive and forward-thinking firms in the market. The firm has built a strong market presence in Dublin and the North East driven by its exceptionally talented workforce, s",
-      "published": "2026-08-24",
-      "location": "Balbriggan, Fingal, Ireland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "61a92faa7d86",
       "title": "Director of Finance And Operations",
-      "url": "https://ie.linkedin.com/jobs/view/director-of-finance-and-operations-at-fortis-recruitment-4459343619?position=7&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=ap8ku9PlOZucCWrDc8Vg0g%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/director-of-finance-and-operations-at-fortis-recruitment-4459343619?position=9&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=zwjeG6HVdmrgnix2NAU38w%3D%3D",
       "description": "Fortis Recruitment | \nWe are seeking a highly capable and commercially focused Finance Director to lead the finance function of a successful construction business.\nThe Finance Director will act as a member of the senior leadership team, providing strategic financial leadership to support sustainable growth, profitability, risk management and long-term business planning.\nThe role requires a strong technical accountant with proven construction or project-based finance experience, coupled with the ",
       "published": "2026-08-26",
       "location": "Clondalkin, South Dublin, Ireland",
@@ -347,7 +293,7 @@
     {
       "id": "fd7def282c05",
       "title": "Financial Director",
-      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-amicus-search-recruitment-4461201005?position=3&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=3XQEHw9eB0e4VyXTM0Pn%2BA%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-amicus-search-recruitment-4461201005?position=6&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=dmun7O9u%2FuYJd6H2aoFo6Q%3D%3D",
       "description": "Amicus Search & Recruitment | \nFinance Director\nSouth- West Dublin - 5 days onsite\nPackage: up to €150k\n\n\nAmicus are recruiting for Finance Director to lead the finance function of our fast-growing modular construction business. As a pivotal member of the Senior Leadership Team, the Finance Director will act as a key commercial partner to the Managing Director and Group Leadership Team. The core purpose of this role is to drive commercial value-add and provide strategic financial leadership as t",
       "published": "2026-08-31",
       "location": "Dublin, County Dublin, Ireland",
@@ -363,13 +309,13 @@
       }
     },
     {
-      "id": "27cfdc2b8731",
-      "title": "Vice President",
-      "url": "https://de.linkedin.com/jobs/view/vice-president-at-wealth-wings-4458214809?position=4&pageNum=0&refId=g9UwV3K3gXBGLVXqHea4mg%3D%3D&trackingId=o68fsUgb0n4mRh82GyZHww%3D%3D",
-      "description": "Wealth Wings | \nOur client, a leading investment firm, is seeking a Vice President to join its Frankfurt-based investment team.\n\n\nResponsibilities\n\n- Lead the evaluation and execution of private credit and investment opportunities across the European market.\n- Build and review financial models, credit analyses, valuations, and investment cases.\n- Structure and negotiate senior, subordinated, mezzanine, and other flexible capital solutions.\n- Prepare investment committee materials and transaction",
-      "published": "2026-08-24",
-      "location": "Frankfurt am Main, Hesse, Germany",
-      "source": "apify_linkedin_dfi_senior",
+      "id": "056dccf6b9d5",
+      "title": "Head of Finance & Investor Relations (m/f/d)",
+      "url": "https://de.linkedin.com/jobs/view/head-of-finance-investor-relations-m-f-d-at-cellbricks-therapeutics-4459224461?position=4&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=BEUFevpcUhNRntAjqBfTEQ%3D%3D",
+      "description": "Cellbricks Therapeutics | Cellbricks \n\nBerlin | On-site | Full-time | CFO track | Fluent English required\n\nAbout Cellbricks Therapeutics\n\nAt Cellbricks Therapeutics, we work towards a future where humans can enjoy longer and healthier lives. Every 30 seconds, a patient dies from a disease caused by tissue dysfunction. Our vision is to change that by producing bioengineered, implantable human tissue that restores organ and tissue function for millions of patients.\n\nOur mission is backed by vision",
+      "published": "2026-08-31",
+      "location": "Berlin, Berlin, Germany",
+      "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 3.0,
@@ -381,48 +327,12 @@
       }
     },
     {
-      "id": "1e34cd4f581d",
-      "title": "Senior Controller",
-      "url": "https://de.linkedin.com/jobs/view/senior-controller-at-privatal-4459156197?position=27&pageNum=0&refId=D6FVCqbfvEgesMn%2Fx0mcAQ%3D%3D&trackingId=mk8L1dQaJ%2BVzmS8Qz7kDfw%3D%3D",
-      "description": "Privatal | \nSenior Controller\nFrankfurt | Hybrid\n\n\nWe are working with a private equity-backed group in Frankfurt to appoint a Senior Controller. The business is executing an ambitious buy-and-build strategy and requires a commercially minded controller who can bring together financial information from across the group, improve visibility and help leadership make better decisions.\n\n\nThis is a broad position combining group consolidation with forward looking FP&amp;A.\n\n\nThe role will cover:\n• Mon",
-      "published": "2026-08-26",
-      "location": "Frankfurt Rhine-Main Metropolitan Area",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "f98f1c3cc371",
-      "title": "Finance Business Partner",
-      "url": "https://fi.linkedin.com/jobs/view/finance-business-partner-at-premix-group-4461044895?position=23&pageNum=0&refId=D6FVCqbfvEgesMn%2Fx0mcAQ%3D%3D&trackingId=puBZ6Eo3j4%2FaRSJhWdVmRg%3D%3D",
-      "description": "Premix Group | \nDo you want to turn financial insight into business impact in an international growth company with Finnish roots? Premix is a family-owned, internationally growing leader in electrically conductive and functional plastics. We are in an exciting growth phase, with a clear ambition to strengthen our international business where Finance plays a central role in ensuring that growth is profitable, well-managed and insight driven.\nWe are strengthening “Know your numbers” culture, devel",
-      "published": "2026-08-31",
-      "location": "Nurmijärvi, Uusimaa, Finland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "af07ae0439e7",
-      "title": "Head of Financial Planning & Analysis",
-      "url": "https://it.linkedin.com/jobs/view/head-of-financial-planning-analysis-at-relatech-4440763740?position=22&pageNum=0&refId=D6FVCqbfvEgesMn%2Fx0mcAQ%3D%3D&trackingId=US%2BXb8eqwDG6HvkYjy7u5w%3D%3D",
-      "description": "Relatech | 🚀 Hai voglia di innovare, crescere e fare squadra? Benvenuto nel cuore del Rinascimento Digitale.\n\nSiamo Relatech, tech company italiana nata nel 2001 e oggi presente con 14 sedi distribuite tra Italia e l’estero, cuore pulsante di un ecosistema che porta valore tecnologico e umano alle imprese.\n\nCon oltre 800 professionisti e competenze avanzate in Cloud☁️, Cybersecurity🛡️, AI🤖, AR/VR🕶️, IoT🌐 e Blockchain🔗, costruiamo soluzioni end-to-end che generano impatto reale.\n\n🌍 Al centro dell",
+      "id": "711511279c48",
+      "title": "VP Corporate Development",
+      "url": "https://it.linkedin.com/jobs/view/vp-corporate-development-at-wntd-4458961237?position=50&pageNum=0&refId=b2iWoa18wBAO7xcAuZC98w%3D%3D&trackingId=VAkNTI%2BDymCVapxO9wwq4A%3D%3D",
+      "description": "WNTD | \nVice President, Corporate Development – Data Centres\n\n\nAbout the Opportunity\nWe are recruiting a Vice President, Corporate Development for a growing European data centre platform.\n\n\nThis is a senior, high-impact appointment for an experienced data centre professional who can combine strong commercial judgement with financial modelling, investment analysis and strategic decision-making.\n\n\nWorking closely with the executive leadership team, the successful candidate will play a central role",
       "published": "2026-08-28",
-      "location": "Milan, Lombardy, Italy",
+      "location": "Greater Milan Metropolitan Area",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -435,67 +345,31 @@
       }
     },
     {
-      "id": "78b013625cdc",
-      "title": "FP&A Lead – Financial Performance & Control",
-      "url": "https://es.linkedin.com/jobs/view/fp-a-lead-%E2%80%93-financial-performance-control-at-seedtag-4459145920?position=2&pageNum=0&refId=D6FVCqbfvEgesMn%2Fx0mcAQ%3D%3D&trackingId=zt%2Ffub76m9nZPmB%2Bri19iQ%3D%3D",
-      "description": "Seedtag | We're looking for an FP&amp;A Lead to join our Strategic Finance team in Madrid and play a key role in driving financial performance, strengthening financial control and supporting strategic and corporate finance initiatives that enable Seedtag's continued global growth.\n\nWho We Are\n\nSeedtag is the leading Neuro-Contextual Advertising Company.\n\nWe are redefining how advertising works in a privacy-first world by moving beyond keywords and cookies, towards understanding human emotion, in",
-      "published": "2026-08-26",
-      "location": "Madrid, Community of Madrid, Spain",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "8dd3586c33fe",
-      "title": "Head of Finance (m/f/d)",
-      "url": "https://de.linkedin.com/jobs/view/head-of-finance-m-f-d-at-superchat-4458538322?position=17&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=eVmBxHNxmk1M75OaJ1GiRQ%3D%3D",
-      "description": "Superchat | At Superchat, we're rebuilding how businesses talk to their customers. The phone call, the contact form, the support ticket: all of it is being replaced by messaging and AI. We're building the platform that runs underneath.\n\nFounded in 2020, Superchat has become the platform of choice for 10,000+ businesses worldwide, from globally recognized brands like Allianz, Auto1, Enpal, Danone, and GASAG to the small businesses, dental practices, and one-person startups that need to look bigge",
-      "published": "2026-08-24",
-      "location": "Berlin, Berlin, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "88ab620aca33",
-      "title": "Finance Director - Strategic Projects",
-      "url": "https://ie.linkedin.com/jobs/view/finance-director-strategic-projects-at-abrivia-recruitment-specialists-4458255349?position=31&pageNum=0&refId=3PtWldRFRyAao6E5Vq73Pg%3D%3D&trackingId=ZSCMQ9syMVWS%2FfMD0dST3w%3D%3D",
-      "description": "Abrivia Recruitment Specialists | \nFinance Director – Strategic Projects\nDublin | Hybrid working\n\n\nAbrivia Recruitment has been retained to recruit a Finance Director – Strategic Projects for a large, Irish organisation experiencing a period of exceptional growth and transformation.\n\n\nReporting directly to the Chief Financial Officer, this is a broad, commercially focused position that will work across a portfolio of strategic and business critical initiatives.\n\n\nThe successful candidate will su",
-      "published": "2026-08-24",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "72507e92d5b0",
-      "title": "Vice President, Middle Market Direct Lending",
-      "url": "https://fr.linkedin.com/jobs/view/vice-president-middle-market-direct-lending-at-mufg-4439405513?position=30&pageNum=0&refId=g9UwV3K3gXBGLVXqHea4mg%3D%3D&trackingId=0NwVvXtUSxo2BnRqRY8Q8Q%3D%3D",
-      "description": "MUFG | Do you want your voice heard and your actions to count? \n\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\n\nWith a vision to be the world’s most trusted fina",
-      "published": "2026-08-26",
+      "id": "66c16f64ffd5",
+      "title": "Analyste confirmé.e",
+      "url": "https://fr.linkedin.com/jobs/view/analyste-confirm%C3%A9-e-at-lita-4458637956?position=32&pageNum=0&refId=b2iWoa18wBAO7xcAuZC98w%3D%3D&trackingId=aNVXltdQruDiRZEP698woQ%3D%3D",
+      "description": "Lita | \nLita soutient une grande variété d’acteurs en fonds propres et quasi-fonds propres, de l’amorçage au changement d’échelle, autour de 3 métiers :\n\n- \nventure capital,\n- \nfinancement de projets (immobilier &amp; ENR),\n- \nfinancement en dette privée (PME &amp; ETI),\n\n\net dans 6 grands secteurs d’activité : agriculture &amp; alimentation ; énergie, industrie &amp; matériaux ; consommation responsable ; media &amp; culture ; santé &amp; accessibilité ; logement, MO et usage responsable.\nVous ",
+      "published": "2026-08-27",
       "location": "Paris, Île-de-France, France",
-      "source": "apify_linkedin_dfi_senior",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "0b0aec4f99b2",
+      "title": "Partner, Digital infrastructure",
+      "url": "https://fr.linkedin.com/jobs/view/partner-digital-infrastructure-at-recruiterra-4460020376?position=13&pageNum=0&refId=b2iWoa18wBAO7xcAuZC98w%3D%3D&trackingId=nG%2BMeUFm00nC2liSrsrivg%3D%3D",
+      "description": "RecruiTerra | \nPartner, Digital Infrastructure\nEuropean Private Equity Firm\nLocation: Paris, with flexibility for commuting arrangements\n\n\nAbout the Role\nOur client, a leading European private equity firm with a strong track record in renewable energy and sustainable real assets, is building the next phase of a fund dedicated to backing the next generation of data center developers across Europe. The strategy focuses on early stage value creation, supporting developers through the critical risk ",
+      "published": "2026-08-31",
+      "location": "Paris, Île-de-France, France",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
@@ -509,11 +383,47 @@
     {
       "id": "ab11d32d0205",
       "title": "Senior Manager – Real Estate & Corporate Finance",
-      "url": "https://lu.linkedin.com/jobs/view/senior-manager-%E2%80%93-real-estate-corporate-finance-at-source-up-4460370172?position=5&pageNum=0&refId=g9UwV3K3gXBGLVXqHea4mg%3D%3D&trackingId=1UwmrGTs%2Fov3nJV0olZbyQ%3D%3D",
+      "url": "https://lu.linkedin.com/jobs/view/senior-manager-%E2%80%93-real-estate-corporate-finance-at-source-up-4460370172?position=6&pageNum=0&refId=b2iWoa18wBAO7xcAuZC98w%3D%3D&trackingId=KQt67D%2FQFeeow8mRlJG1DQ%3D%3D",
       "description": "Source Up | Why apply ?\n\n🌍 Join a leading international financial institution in Luxembourg and take a strategic role within its Corporate &amp; Real Estate Finance activities.\n\n💡 Combine business development, credit expertise, risk management and people leadership in a role with strong decision-making responsibilities.\n\n💬 Build and maintain senior relationships with key players in the real estate market while working closely with internal business and risk stakeholders.\n\nAbout The Offer\n\n📝 Perm",
       "published": "2026-08-28",
       "location": "Luxembourg, Luxembourg, Luxembourg",
-      "source": "apify_linkedin_dfi_senior",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "034a2ce073c8",
+      "title": "Chief Financial Officer",
+      "url": "https://lu.linkedin.com/jobs/view/chief-financial-officer-at-cornerstone-global-partners-cgp-group-4459185663?position=21&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=v5FDH0rkQUsbq0oh3%2BEE7Q%3D%3D",
+      "description": "Cornerstone Global Partners (CGP Group) | \nChief Financial Officer – Luxembourg\nAbout the Company\nOur client is a fast-growing international fintech company specialising in digital banking solutions, headquartered in Hong Kong, with its European headquarters based in Luxembourg.\nAs the company continues to expand its European operations, we are looking to appoint a Chief Financial Officer (CFO) to lead the finance function for the European business and play a key role in its next phase of growth",
+      "published": "2026-08-26",
+      "location": "Luxembourg, Luxembourg",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "0abd9acd4db4",
+      "title": "Head of Finance",
+      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-at-close-brothers-4458659082?position=14&pageNum=0&refId=vuoDpCwnBk9sfF%2BoL47ynQ%3D%3D&trackingId=RvJgQqawTkZ9ioShIpiGVw%3D%3D",
+      "description": "Close Brothers | Overall Summary\n\nAt Close Brothers we look to recruit individuals from all different backgrounds and encourage you to apply even if you don’t tick every box. We celebrate diversity, promote inclusivity and are open to discuss flexible work options to help you balance your work and home life.\n\nJoin the Close Brothers Motor Finance Team where you will be leading the Motor Finance Ireland finance function in the Republic of Ireland and working closely with the Retail Finance Direct",
+      "published": "2026-08-27",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
