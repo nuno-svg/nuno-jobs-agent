@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T11:32:42.372104+00:00",
-  "total": 24,
+  "generated_at": "2026-09-05T10:47:57.712845+00:00",
+  "total": 25,
   "items": [
     {
       "id": "2bc51bf02081",
       "title": "EY-Parthenon - Director - Transactions & Corporate Finance - Industries",
-      "url": "https://be.linkedin.com/jobs/view/ey-parthenon-director-transactions-corporate-finance-industries-at-ey-parthenon-4431985071?position=40&pageNum=0&refId=M8Y3YFYOt69Wxo9A3hFYNQ%3D%3D&trackingId=uaxqblOzZT9KIvo7qHZe%2BA%3D%3D",
+      "url": "https://be.linkedin.com/jobs/view/ey-parthenon-director-transactions-corporate-finance-industries-at-ey-parthenon-4431985071?position=50&pageNum=0&refId=%2BZL3KrSAQeOvxKaM%2Bs964g%3D%3D&trackingId=gxaEl2d3g1zYlZNREPWI%2FQ%3D%3D",
       "description": "EY-Parthenon | EY-Parthenon is a leading global strategy consultancy. We are committed to bringing unconventional yet pragmatic thinking together with our clients, to deliver actionable strategies for real impact in today’s complex business landscape. At EY-Parthenon, we work with corporate and private equity clients to enable them to reinvent themselves for a better future.\n\nShape the future with confidence.\n\nThe Opportunity: Your Next Adventure Awaits?\n\nEY Parthenon provides services within th",
       "published": "2026-09-03",
       "location": "Diegem, Flemish Region, Belgium",
@@ -93,9 +93,45 @@
       }
     },
     {
+      "id": "baabb2fd5e4c",
+      "title": "Chief Financial Officer",
+      "url": "https://lt.linkedin.com/jobs/view/chief-financial-officer-at-doloop-4461151427?position=36&pageNum=0&refId=dDV88D85W0qVkHDyQ8Rd0A%3D%3D&trackingId=feidHgy03bWJIdlGhHkIxw%3D%3D",
+      "description": "Doloop | \nAbout Doloop\nDoloop is one of the leading PET packaging manufacturers in the Baltic region, serving international markets through three business segments: preforms, bottles and PET film. We are looking for a business-oriented CFO who will actively contribute to profitability improvement, operational efficiency, investment decisions, business transformation and future growth opportunities.\n\n\nYour role\n\n- Act as an active business partner to the CEO and management team.\n- Shape and imple",
+      "published": "2026-09-04",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "31f01b8f3c1b",
+      "title": "Associate Director Infrastructure Advisory",
+      "url": "https://ie.linkedin.com/jobs/view/associate-director-infrastructure-advisory-at-marks-sattin-4461176675?position=44&pageNum=0&refId=%2BZL3KrSAQeOvxKaM%2Bs964g%3D%3D&trackingId=gnp%2FiYMKhQvMJeZpekUnfA%3D%3D",
+      "description": "Marks Sattin | \nAssociate Director / Director – Infrastructure Advisory\n\n\nA leading global advisory firm is expanding its infrastructure advisory team in Dublin and is looking to appoint an experienced Associate Director.\n\n\nThis is a senior opportunity for an infrastructure professional with a strong track record across business development, transaction execution, project finance and client relationship management.\n\n\nThe Role\n\n- Lead and manage complex infrastructure advisory and financing assig",
+      "published": "2026-09-04",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "ba5ee8f6e697",
       "title": "Head of Finance – Future Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4461719562?position=1&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=Qs0JfcMj9Nw7dEIukIiHzw%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4461719562?position=28&pageNum=0&refId=dDV88D85W0qVkHDyQ8Rd0A%3D%3D&trackingId=dVtmXXyn91EyvCsQJ9DUZw%3D%3D",
       "description": "Darwin Hawkins | \nJob Title: Head of Finance – Future Finance Director\nSector: PE-Backed International Business\nLocation: Dublin (Hybrid)\nSalary: €130,000 - €150,000 plus Bonus, Pension &amp; Health\n\n\nOur Client\nOur client is a high-growth, PE-backed international business with operations globally Following continued expansion, they are seeking a Head of Finance who will join the senior leadership team to lead the core finance function and play a key role in the next stage of the company's growt",
       "published": "2026-09-01",
       "location": "Dublin, County Dublin, Ireland",
@@ -118,6 +154,24 @@
       "published": "",
       "location": "",
       "source": "afdb",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "32576a9b36e4",
+      "title": "Principal I, Policy",
+      "url": "https://jobs.ebrd.com/job/Casablanca-Principal-I%2C-Policy/1434038033/",
+      "description": "Principal I, Policy Principal I, Policy Casablanca, MA 4 Sept 2026 0.00 km Casablanca, MA 4 Sept 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 3.0,
@@ -165,10 +219,10 @@
       }
     },
     {
-      "id": "c840b4678df7",
-      "title": "Principal - SMART Workplace",
-      "url": "https://jobs.ebrd.com/job/London-Principal-SMART-Workplace/1429733833/",
-      "description": "Principal - SMART Workplace Principal - SMART Workplace London, GB 25 Aug 2026 0.00 km London, GB 25 Aug 2026",
+      "id": "0f631e3e00b6",
+      "title": "Principal, Water Sector Policy Specialist",
+      "url": "https://jobs.ebrd.com/job/Bishkek-Principal%2C-Water-Sector-Policy-Specialist/1429760133/",
+      "description": "Principal, Water Sector Policy Specialist Principal, Water Sector Policy Specialist Bishkek, KG 25 Aug 2026 0.00 km Bishkek, KG 25 Aug 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -183,10 +237,10 @@
       }
     },
     {
-      "id": "0f631e3e00b6",
-      "title": "Principal, Water Sector Policy Specialist",
-      "url": "https://jobs.ebrd.com/job/Bishkek-Principal%2C-Water-Sector-Policy-Specialist/1429760133/",
-      "description": "Principal, Water Sector Policy Specialist Principal, Water Sector Policy Specialist Bishkek, KG 25 Aug 2026 0.00 km Bishkek, KG 25 Aug 2026",
+      "id": "c840b4678df7",
+      "title": "Principal - SMART Workplace",
+      "url": "https://jobs.ebrd.com/job/London-Principal-SMART-Workplace/1429733833/",
+      "description": "Principal - SMART Workplace Principal - SMART Workplace London, GB 25 Aug 2026 0.00 km London, GB 25 Aug 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -239,7 +293,7 @@
     {
       "id": "994eb843c724",
       "title": "Capital Markets Director - Permanent Contract",
-      "url": "https://fr.linkedin.com/jobs/view/capital-markets-director-permanent-contract-at-aria-4463313191?position=19&pageNum=0&refId=M8Y3YFYOt69Wxo9A3hFYNQ%3D%3D&trackingId=6f2d55SJLM8BX2Sv0bARCw%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/capital-markets-director-permanent-contract-at-aria-4463313191?position=23&pageNum=0&refId=%2BZL3KrSAQeOvxKaM%2Bs964g%3D%3D&trackingId=E3y5pf2eqexG0a%2BptCs4wA%3D%3D",
       "description": "Aria | \nThe company 🏢\nWe are a fast-growing fintech providing invoice financing solutions to SMEs in France and the UK (and we are expanding into other EU jurisdictions). Our lending activity is funded through a combination of structured financing vehicles, including securitisation SPVs and trust-based structures in France. As we scale, we are expanding and optimising our funding stack, including new facilities, additional funding compartments, and alternative structures such as forward flow and",
       "published": "2026-09-04",
       "location": "Paris, Île-de-France, France",
@@ -255,45 +309,9 @@
       }
     },
     {
-      "id": "e38f5093ceb8",
-      "title": "Head of Finance & Performance",
-      "url": "https://pt.linkedin.com/jobs/view/head-of-finance-performance-at-critical-software-4442765001?position=50&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=djf0tx7OmABFIB82vLck9A%3D%3D",
-      "description": "Critical Software | THE ROLE\n\nWe are now looking for a Head of Finance &amp; Performance to work alongside the CFO. This is a company-wide mission spanning sales, delivery and support functions - owning how performance is measured, challenged and reported across the business, and giving senior management a clear, independent read on how the budget is being executed and where the numbers are really going.\n\nThis is a role for someone who wants to shape how a high-growth tech group runs its finance",
-      "published": "2026-09-02",
-      "location": "Lisbon, Lisbon, Portugal",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "fb856a8be13e",
-      "title": "Head of Finance",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-at-accpro-4463343350?position=41&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=WzKNzzIfT58PyjEYs2dcOQ%3D%3D",
-      "description": "ACCPRO | \nLocation: D15\nSalary: €140-150k basic\nBenefits: Bonus, pension, health\nOn-site: Yes\n\n\nOur client, a private equity-backed SME is looking for a Head of Finance to join their team, sitting as #1 in the function. The ideal candidate will be technically strong, hands-on and keen to drive the business forward as they expand in their presence in the local market through significant M&amp;A activity.\n\n\nKey Responsibilities:\n\n- Oversee all of operational finance (statutory, financial reporting",
-      "published": "2026-09-04",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "74412c9e9c41",
       "title": "Finance Director (CFO)",
-      "url": "https://gr.linkedin.com/jobs/view/finance-director-cfo-at-pegasos-s-a-4459516648?position=20&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=6JdmaeE2e3BKyzILzegyTQ%3D%3D",
+      "url": "https://gr.linkedin.com/jobs/view/finance-director-cfo-at-pegasos-s-a-4459516648?position=4&pageNum=0&refId=dDV88D85W0qVkHDyQ8Rd0A%3D%3D&trackingId=EZIxutu9fMI9i%2F3XAwne2g%3D%3D",
       "description": "Pegasos S.A. | PEGASOS S.A. is one of the leading distribution companies in Greece since 1979, focusing on snacking products in the FMCG industry. We are proud to exclusively represent global brands such as Haribo gummies and Panini collectibles, Lindt, Corny, Durex, McVitie’s and other, for the Greek market. We operate a sales network visiting 20.000 retail stores and a logistics network delivering to thousands of them.\n\nThe Finance Director (CFO) is a key member of the Executive Leadership Tea",
       "published": "2026-09-01",
       "location": "Central Athens, Attiki, Greece",
@@ -309,45 +327,9 @@
       }
     },
     {
-      "id": "056dccf6b9d5",
-      "title": "Head of Finance & Investor Relations (m/f/d)",
-      "url": "https://de.linkedin.com/jobs/view/head-of-finance-investor-relations-m-f-d-at-cellbricks-therapeutics-4459224461?position=6&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=N0aSwkQEkTpnpwxKTnBswA%3D%3D",
-      "description": "Cellbricks Therapeutics | Cellbricks \n\nBerlin | On-site | Full-time | CFO track | Fluent English required\n\nAbout Cellbricks Therapeutics\n\nAt Cellbricks Therapeutics, we work towards a future where humans can enjoy longer and healthier lives. Every 30 seconds, a patient dies from a disease caused by tissue dysfunction. Our vision is to change that by producing bioengineered, implantable human tissue that restores organ and tissue function for millions of patients.\n\nOur mission is backed by vision",
-      "published": "2026-08-31",
-      "location": "Berlin, Berlin, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "fd7def282c05",
-      "title": "Financial Director",
-      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-amicus-search-recruitment-4461201005?position=7&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=xfa8X7NGt%2F8bJMDcS7Js4Q%3D%3D",
-      "description": "Amicus Search & Recruitment | \nFinance Director\nSouth- West Dublin - 5 days onsite\nPackage: up to €150k\n\n\nAmicus are recruiting for Finance Director to lead the finance function of our fast-growing modular construction business. As a pivotal member of the Senior Leadership Team, the Finance Director will act as a key commercial partner to the Managing Director and Group Leadership Team. The core purpose of this role is to drive commercial value-add and provide strategic financial leadership as t",
-      "published": "2026-08-31",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "15984bc77300",
       "title": "Investment Director",
-      "url": "https://fr.linkedin.com/jobs/view/investment-director-at-snipe-rh-4463324130?position=25&pageNum=0&refId=M8Y3YFYOt69Wxo9A3hFYNQ%3D%3D&trackingId=lrCF1lujeSLORISbLOBd2w%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/investment-director-at-snipe-rh-4463324130?position=30&pageNum=0&refId=%2BZL3KrSAQeOvxKaM%2Bs964g%3D%3D&trackingId=O248BCn8dSLdkCVYAAXs4g%3D%3D",
       "description": "Snipe RH | \nINVESTMENT DIRECTOR\nNew Fund | AI × Industry | Europe &amp; US\n\n\nSnipe RH Executive Search is partnering with a leading Family Office to build a new international investment platform.\n\n\nWe are looking for an Investment Director to join the project at a particularly strategic stage: building the fund, its investment strategy and its portfolio from the ground up.\n\n\nThe fund will pursue an entrepreneurial Growth Equity &amp; Buy-and-Build strategy, targeting high-growth businesses at th",
       "published": "2026-09-04",
       "location": "Paris, Île-de-France, France",
@@ -365,7 +347,7 @@
     {
       "id": "095da38d2f97",
       "title": "Financial Modelling and Project Finance Documentation Advisory Senior Manager / Manager – Infrastructure, Deal Advisory",
-      "url": "https://gr.linkedin.com/jobs/view/financial-modelling-and-project-finance-documentation-advisory-senior-manager-manager-%E2%80%93-infrastructure-deal-advisory-at-kpmg-greece-4462796867?position=24&pageNum=0&refId=pI5NgkKaBpiIAOR3lTd6HQ%3D%3D&trackingId=VQr1ZkhdLYs5PEuP37IvPw%3D%3D",
+      "url": "https://gr.linkedin.com/jobs/view/financial-modelling-and-project-finance-documentation-advisory-senior-manager-manager-%E2%80%93-infrastructure-deal-advisory-at-kpmg-greece-4462796867?position=23&pageNum=0&refId=NXIP%2B1nh8SeVBN1Q%2FbBs6g%3D%3D&trackingId=7REisU8hIlIKDgpk8h9raA%3D%3D",
       "description": "KPMG Greece | \nKPMG is more than a professional services Firm, collectively employing more than 276,000 people all over the world. It is a family of creative problem solvers who are making a difference! We see a world of opportunities - one where enterprises and individuals have the insights they need to succeed. We Inspire Confidence and Empower Change!\n\n\nFind Opportunity everywhere with KPMG\n\n\nKPMG Greece is seeking an experienced Senior Manager / Manager to join its Deal Advisory – Infrastruc",
       "published": "2026-09-03",
       "location": "Athens, Attiki, Greece",
@@ -383,7 +365,7 @@
     {
       "id": "0b0aec4f99b2",
       "title": "Partner, Digital infrastructure",
-      "url": "https://fr.linkedin.com/jobs/view/partner-digital-infrastructure-at-recruiterra-4460020376?position=13&pageNum=0&refId=M8Y3YFYOt69Wxo9A3hFYNQ%3D%3D&trackingId=WB2XeC%2B%2BhQaeBH62VetMDw%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/partner-digital-infrastructure-at-recruiterra-4460020376?position=17&pageNum=0&refId=%2BZL3KrSAQeOvxKaM%2Bs964g%3D%3D&trackingId=wIlCPNie70iPaF5SZ2rEwA%3D%3D",
       "description": "RecruiTerra | \nPartner, Digital Infrastructure\nEuropean Private Equity Firm\nLocation: Paris, with flexibility for commuting arrangements\n\n\nAbout the Role\nOur client, a leading European private equity firm with a strong track record in renewable energy and sustainable real assets, is building the next phase of a fund dedicated to backing the next generation of data center developers across Europe. The strategy focuses on early stage value creation, supporting developers through the critical risk ",
       "published": "2026-08-31",
       "location": "Paris, Île-de-France, France",
@@ -399,12 +381,48 @@
       }
     },
     {
-      "id": "9e7ad449a43a",
-      "title": "CFO / Finanšu direktors",
-      "url": "https://lv.linkedin.com/jobs/view/cfo-finan%C5%A1u-direktors-at-nextra-4462148967?position=26&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=iXgqmJ7sbZLOnbtPgj6JRA%3D%3D",
-      "description": "Nextra | \nPersonāla atlases aģentūra \"Nextra Latvia\" sava klienta vārdā meklē pieredzējušu finanšu direktoru (CFO).\n\n\nMūsu klients ir uzņēmums, kas specializējas augstas veiktspējas bateriju paku izstrādē un ražošanā priekš klientiem visā pasaulē. Uzņēmuma ražotās baterijas tiek izmantotas droniem un bezpilota sauszemes &amp; ūdens transportlīdzekļiem dažādās nozarēs - lauksaimniecībā, aizsardzībā, loģistikā.\n\n\nDarba pienākumu apraksts:\n\n- Izstrādāt un īstenot uzņēmuma finanšu stratēģiju.\n- Vadī",
-      "published": "2026-09-02",
-      "location": "Ogre, Latvia",
+      "id": "29a38827b651",
+      "title": "Chief Financial Officer 🚊",
+      "url": "https://cz.linkedin.com/jobs/view/chief-financial-officer-%F0%9F%9A%8A-at-%C5%A1koda-group-4462771214?position=49&pageNum=0&refId=dDV88D85W0qVkHDyQ8Rd0A%3D%3D&trackingId=2L8E8wsBiow77PmFnEFPsw%3D%3D",
+      "description": "Škoda Group | \nZdravíme ze Škodovky,\n\n\njsme Škoda Digital – vývojové centrum digitálních technologií pro hromadnou dopravu ve skupině Škoda Group. Fungujeme jako samostatná business unit s vlastním P&amp;L, produktovým portfoliem a odpovědností za strategické směřování. Právě teď procházíme rychlým růstem a hledáme nového CFO, který nás provede přerodem ze středně velké do velké technologické firmy a podpoří naši expanzi do západní Evropy.\n\n\nStojí za námi silný akcionář – PPF – a díky němu máme ",
+      "published": "2026-09-03",
+      "location": "Ostrava, Moravia-Silesia, Czechia",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "6271a28175b4",
+      "title": "Chief Financial Officer, Oradea",
+      "url": "https://ro.linkedin.com/jobs/view/chief-financial-officer-oradea-at-pfp-advisory-romania-executive-search-and-recruitment-4462808706?position=45&pageNum=0&refId=dDV88D85W0qVkHDyQ8Rd0A%3D%3D&trackingId=s5yiZR2Cv1XcI1R51Ruz%2Fw%3D%3D",
+      "description": "PFP Advisory Romania | Executive Search and Recruitment | \nPFP Advisory (pfpadvisory.com) is an executive search, recruitment, and assessment firm. We manage search, selection, and evaluation projects to place top- and middle-level leaders across various industries, alongside providing comprehensive human capital solutions.\nWe are looking for an experienced Chief Financial Officer in Romania for our client, a prominent company in the services sector located in Oradea, Bihor county.\n\n\nTHE ROLE\nTh",
+      "published": "2026-09-03",
+      "location": "Oradea, Bihor, Romania",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "f9f18380eaee",
+      "title": "Finanční ředitel",
+      "url": "https://cz.linkedin.com/jobs/view/finan%C4%8Dn%C3%AD-%C5%99editel-at-unicorn-attacks-4461086789?position=23&pageNum=0&refId=dDV88D85W0qVkHDyQ8Rd0A%3D%3D&trackingId=teHsbdoZHFIy6Z8UtMqzRQ%3D%3D",
+      "description": "Unicorn Attacks | \nNechceme správce tabulek. Hledáme CFO.\n\n\nPro rostoucí developerskou skupinu v Brně hledáme finančního lídra, který bude rozhodovat o tom, jak financovat růst firmy.\n\n\nCo vás čeká?\n\n- finanční řízení celé skupiny – cash-flow, rozpočty, controlling a reporting,\n- projektové financování a jednání s bankami i investory,\n- práce s kapitálovou strukturou, riziky a financováním dalšího růstu,\n- nastavování finančních procesů, nástrojů a automatizace,\n- vedení a rozvoj finančního týmu",
+      "published": "2026-08-31",
+      "location": "Brno, South Moravia, Czechia",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -419,7 +437,7 @@
     {
       "id": "fdb20e97c6f8",
       "title": "Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/finance-director-at-fk-international-financial-search-and-selection-4462427827?position=10&pageNum=0&refId=U9WzEToZ4wK6KWtiDasbYw%3D%3D&trackingId=pHAoimX3L1SLbZAvFYLdOg%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/finance-director-at-fk-international-financial-search-and-selection-4462427827?position=19&pageNum=0&refId=dDV88D85W0qVkHDyQ8Rd0A%3D%3D&trackingId=42AWJqwFlMTtN4UlNL%2Btow%3D%3D",
       "description": "FK International - Financial Search and Selection | \nFinance Director\nManufacturing - Kildare\n\n\nPosition Description\nA leading Irish manufacturing business is seeking to appoint a highly capable and commercially focused Finance Director to lead its finance function. As a key member of the Senior Leadership Team (SLT), the Finance Director will play an important role in shaping the strategic and commercial direction of the business, providing financial leadership to support sustainable growth, pr",
       "published": "2026-09-02",
       "location": "Kildare, County Kildare, Ireland",
