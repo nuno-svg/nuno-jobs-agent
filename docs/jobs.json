@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-09-08T11:32:58.648354+00:00",
-  "total": 27,
+  "generated_at": "2026-09-09T11:38:00.649384+00:00",
+  "total": 26,
   "items": [
+    {
+      "id": "afe8ae788bd3",
+      "title": "Advisory Corporate Finance - Senior Associate - Debt Advisory Milano",
+      "url": "https://it.linkedin.com/jobs/view/advisory-corporate-finance-senior-associate-debt-advisory-milano-at-pwc-italy-4464647533?position=33&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=nAsaSM6vW7808W7jhsJKZQ%3D%3D",
+      "description": "PwC Italy | All’interno della Linea di Servizio Advisory, il team Debt Advisory supporta aziende e fondi di Private Equity nel reperimento di soluzioni di finanziamento in occasione di operazioni straordinarie, tra cui:\n• Leveraged Buyout (LBO)\n• Acquisizioni e fusioni (M&amp;A)\n• Rifinanziamenti del debito esistente\n• Ristrutturazioni della struttura del capitale\n• Finanziamenti per progetti di crescita e sviluppo.\nGrazie alla collaborazione con banche, fondi di debito e investitori istituziona",
+      "published": "2026-09-08",
+      "location": "Milan, Lombardy, Italy",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 7.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 7.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
     {
       "id": "4587351a95ef",
       "title": "Director (Anglophone Africa)",
@@ -57,31 +75,13 @@
       }
     },
     {
-      "id": "f4f9a218ce1f",
-      "title": "Gerente- (Gerencia Técnico-Operativa)",
-      "url": "https://job-boards.greenhouse.io/instiglio/jobs/6163292004",
-      "description": "<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\">Equipo para Administración de la Medida Complementaria (MC)</span></p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><em>Crédito de Resiliencia Climática Urbana, Bogotá — Corporación Instiglio</em></span></p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><em>Para aplicar, revisar la página oficial de Instiglio en LinkedIn: https://co.linkedin.com/company/instiglio</em></span></p>\n<h2><span s",
-      "published": "2026-08-28T11:13:23-04:00",
-      "location": "Colombia",
-      "source": "greenhouse_instiglio",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 5.0,
-      "scores": {
-        "A_blended_catalytic": 5.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "35c68419943e",
       "title": "Director – Corporate Finance, Infrastructure",
-      "url": "https://se.linkedin.com/jobs/view/director-%E2%80%93-corporate-finance-infrastructure-at-everet-marsh-4464455877?position=16&pageNum=0&refId=2lIDoqitFpp5SDlPRDYxcg%3D%3D&trackingId=4QXluaREsWJ13EnsPkT23w%3D%3D",
+      "url": "https://se.linkedin.com/jobs/view/director-%E2%80%93-corporate-finance-infrastructure-at-everet-marsh-4464455877?position=50&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=iHpLdDxeCEkdjHHNsrIorw%3D%3D",
       "description": "Everet Marsh | \nDirector – Corporate Finance, Infrastructure\n\n\nLeading Nordic Bank\n\n\nA leading Nordic bank is seeking a Director to strengthen its Infrastructure Corporate Finance team. The role combines origination, senior client relationship management and M&amp;A execution, advising infrastructure investors, financial sponsors and corporate clients on strategic transactions.\nCoverage spans core and core-plus infrastructure, including energy and utilities, renewable generation and storage, dig",
       "published": "2026-09-08",
       "location": "Stockholm, Stockholm County, Sweden",
-      "source": "apify_linkedin_dfi_senior",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 5.0,
@@ -93,19 +93,37 @@
       }
     },
     {
-      "id": "fe6bd9f6da2a",
-      "title": "Manager - Origination",
-      "url": "https://pt.linkedin.com/jobs/view/manager-origination-at-arrow-global-portugal-4459944110?position=10&pageNum=0&refId=2lIDoqitFpp5SDlPRDYxcg%3D%3D&trackingId=IfD%2B5tZvvIWGW1VwRqnJNg%3D%3D",
-      "description": "Arrow Global Portugal | \nArrow Global was founded in 2005 and is a leading European vertically integrated asset manager specializing in real estate and private credit. We deliver best-in-class risk-adjusted returns for global investors across Opportunistic Credit, Lending and Real Estate. Currently active in 7 countries, the group manages c. €90 billion of assets. In Portugal, Arrow Global Group includes Norfin, Whitestar, Restart Capital and Details Hotels &amp; Resorts.\nDue to the company’s co",
-      "published": "2026-09-02",
-      "location": "Lisbon Metropolitan Area",
-      "source": "apify_linkedin_dfi_senior",
+      "id": "b87fcbe2cb3f",
+      "title": "Structured Finance Manager USA",
+      "url": "https://es.linkedin.com/jobs/view/structured-finance-manager-usa-at-grenergy-4443281600?position=28&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=7%2Fn5WZiMDwfcwe%2BNhIJYUQ%3D%3D",
+      "description": "Grenergy | Would you like to be part of a company that is actively shaping the future of the energy transition?\n\nOur growth continues — and with it, our commitment to attracting exceptional talent.\n\nWe are currently looking for a Structured Finance Manager to join our team in Madrid.\n\nIf you're passionate about renewable energy and financial strategy, this is your chance to make an impact. You’ll be part of our Structured Finance team, leading the structuring and execution of financing and poten",
+      "published": "2026-09-09",
+      "location": "Pozuelo de Alarcón, Community of Madrid, Spain",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 4.5,
+      "fit": 5.0,
       "scores": {
-        "A_blended_catalytic": 1.0,
-        "B_deal_structuring": 4.0,
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "baabb2fd5e4c",
+      "title": "Chief Financial Officer",
+      "url": "https://lt.linkedin.com/jobs/view/chief-financial-officer-at-doloop-4461151427?position=32&pageNum=0&refId=91Qqpq92GmgHU4aRjOgwQA%3D%3D&trackingId=qZz%2BoGSesNjANedHdPnPyA%3D%3D",
+      "description": "Doloop | \nAbout Doloop\nDoloop is one of the leading PET packaging manufacturers in the Baltic region, serving international markets through three business segments: preforms, bottles and PET film. We are looking for a business-oriented CFO who will actively contribute to profitability improvement, operational efficiency, investment decisions, business transformation and future growth opportunities.\n\n\nYour role\n\n- Act as an active business partner to the CEO and management team.\n- Shape and imple",
+      "published": "2026-09-04",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -113,7 +131,7 @@
     {
       "id": "049a16038257",
       "title": "Investments Structuring & Execution Manager (M&A)",
-      "url": "https://es.linkedin.com/jobs/view/investments-structuring-execution-manager-m-a-at-exus-renewables-4464332464?position=1&pageNum=0&refId=3cRJrKAIgmini2FILbWeYQ%3D%3D&trackingId=Oun12iQElSnk3kPoApRwsA%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/investments-structuring-execution-manager-m-a-at-exus-renewables-4464332464?position=1&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=yt68squ2RWH5QkLZETgtyQ%3D%3D",
       "description": "Exus Renewables | \nAt Exus Renewables, we leverage our industry expertise and diverse capabilities to drive the transition to a sustainable energy future. As an Energy Solutions Provider focused on the development and management of renewable energy assets and a strong presence across Europe, LatAm and North America, Exus takes pride in developing, owning, and operating large-scale, wind, solar, hydro and battery storage projects and hydro.\nWith a unique approach to energy supply and decarbonizat",
       "published": "2026-09-07",
       "location": "Madrid, Community of Madrid, Spain",
@@ -131,7 +149,7 @@
     {
       "id": "628ef5055ba6",
       "title": "Debt Advisory Director",
-      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-director-at-darwin-hawkins-4464474324?position=30&pageNum=0&refId=2lIDoqitFpp5SDlPRDYxcg%3D%3D&trackingId=O4PhZ7SZXaRlZNDZBj6MbQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-director-at-darwin-hawkins-4464474324?position=27&pageNum=0&refId=b0m6dwcAu5DvRhDDHPMstQ%3D%3D&trackingId=0uBPaOPLkCej98duEOSGkw%3D%3D",
       "description": "Darwin Hawkins | \nJob Title: Debt Advisory Director\nSector: Professional Services\nLocation: Dublin (hybrid)\nSalary: DOE plus benefits\n\n\nOur Client\nOur client is a large and well-regarded Professional Services firm in Dublin with an established Financial Advisory practice.\n\n\nWhy should you apply?\nThis is an excellent opportunity to join an expanding Debt Advisory team in a senior role. You will work on a broad range of transactions, advising corporate and private equity clients while gaining sign",
       "published": "2026-09-08",
       "location": "Dublin, County Dublin, Ireland",
@@ -149,7 +167,7 @@
     {
       "id": "31f01b8f3c1b",
       "title": "Associate Director Infrastructure Advisory",
-      "url": "https://ie.linkedin.com/jobs/view/associate-director-infrastructure-advisory-at-marks-sattin-4461176675?position=14&pageNum=0&refId=2lIDoqitFpp5SDlPRDYxcg%3D%3D&trackingId=HBr7t6b709abJYxH2i4F8g%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/associate-director-infrastructure-advisory-at-marks-sattin-4461176675?position=15&pageNum=0&refId=b0m6dwcAu5DvRhDDHPMstQ%3D%3D&trackingId=q4hC%2BrFb%2FNN%2F%2F%2FuIczoFDA%3D%3D",
       "description": "Marks Sattin | \nAssociate Director / Director – Infrastructure Advisory\n\n\nA leading global advisory firm is expanding its infrastructure advisory team in Dublin and is looking to appoint an experienced Associate Director.\n\n\nThis is a senior opportunity for an infrastructure professional with a strong track record across business development, transaction execution, project finance and client relationship management.\n\n\nThe Role\n\n- Lead and manage complex infrastructure advisory and financing assig",
       "published": "2026-09-04",
       "location": "Dublin, County Dublin, Ireland",
@@ -165,12 +183,12 @@
       }
     },
     {
-      "id": "405fbc604e09",
+      "id": "67b2970982e1",
       "title": "Corporate Finance Executive",
-      "url": "https://fr.linkedin.com/jobs/view/corporate-finance-executive-at-integrity360-4434168389?position=5&pageNum=0&refId=3cRJrKAIgmini2FILbWeYQ%3D%3D&trackingId=UOUvmVGQiXF5h63KOR%2Bmgg%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/corporate-finance-executive-at-integrity360-4434178025?position=4&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=BgjuKo%2BLoTteMcpGCtzM0Q%3D%3D",
       "description": "Integrity360 | Integrity360 is a leading independent cybersecurity and PCI specialist operating across Europe, Africa, the Caribbean, and North America. The company has office locations in Ireland, the UK, Bulgaria, Italy, Sweden, Spain, Lithuania, Ukraine, Africa, the Caribbean, and Canada, supported by six Security Operations Centres (SOCs) located in Dublin, Sofia, Madrid, Stockholm, Rome, and Cape Town.\n\nWith over 780 employees, including more than 585 dedicated cybersecurity professionals, ",
       "published": "2026-09-02",
-      "location": "Paris, Île-de-France, France",
+      "location": "Madrid, Community of Madrid, Spain",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -190,6 +208,24 @@
       "published": "",
       "location": "",
       "source": "afdb",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "6668d2b6e455",
+      "title": "Mid-level Security Engineer Vulnerability & Pen Test",
+      "url": "https://jobs.ebrd.com/job/Sofia-Mid-level-Security-Engineer-Vulnerability-&-Pen-Test/1435260533/",
+      "description": "Mid-level Security Engineer Vulnerability & Pen Test Mid-level Security Engineer Vulnerability & Pen Test Sofia, BG 9 Sept 2026 0.00 km Sofia, BG 9 Sept 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 3.0,
@@ -255,65 +291,11 @@
       }
     },
     {
-      "id": "820d1d577d30",
-      "title": "Assistant, Banking",
-      "url": "https://jobs.ebrd.com/job/Bishkek-Assistant%2C-Banking/1431128133/",
-      "description": "Assistant, Banking Assistant, Banking Bishkek, KG 27 Aug 2026 0.00 km Bishkek, KG 27 Aug 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "0f631e3e00b6",
-      "title": "Principal, Water Sector Policy Specialist",
-      "url": "https://jobs.ebrd.com/job/Bishkek-Principal%2C-Water-Sector-Policy-Specialist/1429760133/",
-      "description": "Principal, Water Sector Policy Specialist Principal, Water Sector Policy Specialist Bishkek, KG 25 Aug 2026 0.00 km Bishkek, KG 25 Aug 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "c840b4678df7",
-      "title": "Principal - SMART Workplace",
-      "url": "https://jobs.ebrd.com/job/London-Principal-SMART-Workplace/1429733833/",
-      "description": "Principal - SMART Workplace Principal - SMART Workplace London, GB 25 Aug 2026 0.00 km London, GB 25 Aug 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "c941a51ed6ba",
-      "title": "Debt Advisory - Manager",
-      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-manager-at-deloitte-4451567676?position=35&pageNum=0&refId=3cRJrKAIgmini2FILbWeYQ%3D%3D&trackingId=Xwkm%2BenQdrKnyXe40ht%2Fww%3D%3D",
+      "id": "cea4ad3f13d7",
+      "title": "Debt Advisory - Senior Manager",
+      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4464654061?position=45&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=pzg0pFzMtn4eBD%2B6qji54w%3D%3D",
       "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
-      "published": "2026-09-01",
+      "published": "2026-09-08",
       "location": "Dublin, County Dublin, Ireland",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
@@ -329,7 +311,7 @@
     {
       "id": "994eb843c724",
       "title": "Capital Markets Director - Permanent Contract",
-      "url": "https://fr.linkedin.com/jobs/view/capital-markets-director-permanent-contract-at-aria-4463313191?position=23&pageNum=0&refId=3cRJrKAIgmini2FILbWeYQ%3D%3D&trackingId=8YTG0aVfXV%2BbGsujh7pvkg%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/capital-markets-director-permanent-contract-at-aria-4463313191?position=24&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=g6OJ3G1rTsvKr4q%2FYdY7sw%3D%3D",
       "description": "Aria | \nThe company 🏢\nWe are a fast-growing fintech providing invoice financing solutions to SMEs in France and the UK (and we are expanding into other EU jurisdictions). Our lending activity is funded through a combination of structured financing vehicles, including securitisation SPVs and trust-based structures in France. As we scale, we are expanding and optimising our funding stack, including new facilities, additional funding compartments, and alternative structures such as forward flow and",
       "published": "2026-09-04",
       "location": "Paris, Île-de-France, France",
@@ -347,7 +329,7 @@
     {
       "id": "5befb2e2dadc",
       "title": "Senior Corporate Relationship Manager-M&A & Sponsors Finance",
-      "url": "https://gr.linkedin.com/jobs/view/senior-corporate-relationship-manager-m-a-sponsors-finance-at-eurobank-4464322385?position=22&pageNum=0&refId=3cRJrKAIgmini2FILbWeYQ%3D%3D&trackingId=ym7D487EG0AORMukGs8ilw%3D%3D",
+      "url": "https://gr.linkedin.com/jobs/view/senior-corporate-relationship-manager-m-a-sponsors-finance-at-eurobank-4464322385?position=23&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=fz3cFh74XPhkQUEfN9AdoA%3D%3D",
       "description": "Eurobank | Why Eurobank? \n\nAre you enthusiastic about having a positive impact and working with a great team?\n\nJoin us at Eurobank where Prosperity needs Pioneers! You will belong in a banking community that drives innovation, strives to exceed customers’ expectations, commits to sustainable practices, and combines global insights with local expertise to deliver exceptional value to all our stakeholders. Take advantage of multiple learning &amp; development opportunities, flexible work arrangeme",
       "published": "2026-09-07",
       "location": "Athens, Attiki, Greece",
@@ -363,45 +345,9 @@
       }
     },
     {
-      "id": "fb856a8be13e",
-      "title": "Head of Finance",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-at-accpro-4463343350?position=43&pageNum=0&refId=gYyRqtFCDte2wGdh3F1mPQ%3D%3D&trackingId=Y1rXFsJ7MhY9Srvw5QOEMg%3D%3D",
-      "description": "ACCPRO | \nLocation: D15\nSalary: €140-150k basic\nBenefits: Bonus, pension, health\nOn-site: Yes\n\n\nOur client, a private equity-backed SME is looking for a Head of Finance to join their team, sitting as #1 in the function. The ideal candidate will be technically strong, hands-on and keen to drive the business forward as they expand in their presence in the local market through significant M&amp;A activity.\n\n\nKey Responsibilities:\n\n- Oversee all of operational finance (statutory, financial reporting",
-      "published": "2026-09-04",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "74412c9e9c41",
-      "title": "Finance Director (CFO)",
-      "url": "https://gr.linkedin.com/jobs/view/finance-director-cfo-at-pegasos-s-a-4459516648?position=20&pageNum=0&refId=gYyRqtFCDte2wGdh3F1mPQ%3D%3D&trackingId=8PUYj99Xy8trwrriyZzFfg%3D%3D",
-      "description": "Pegasos S.A. | PEGASOS S.A. is one of the leading distribution companies in Greece since 1979, focusing on snacking products in the FMCG industry. We are proud to exclusively represent global brands such as Haribo gummies and Panini collectibles, Lindt, Corny, Durex, McVitie’s and other, for the Greek market. We operate a sales network visiting 20.000 retail stores and a logistics network delivering to thousands of them.\n\nThe Finance Director (CFO) is a key member of the Executive Leadership Tea",
-      "published": "2026-09-01",
-      "location": "Central Athens, Attiki, Greece",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "f4c050da0ba9",
       "title": "Independent Co-Coordinator",
-      "url": "https://be.linkedin.com/jobs/view/independent-co-coordinator-at-waterleau-4462956646?position=25&pageNum=0&refId=2lIDoqitFpp5SDlPRDYxcg%3D%3D&trackingId=yGrK2BM%2Bl2hO6tGnpzKfTw%3D%3D",
+      "url": "https://be.linkedin.com/jobs/view/independent-co-coordinator-at-waterleau-4462956646?position=23&pageNum=0&refId=b0m6dwcAu5DvRhDDHPMstQ%3D%3D&trackingId=qX6LjhLaAt4DiIGPxKzQRA%3D%3D",
       "description": "Waterleau | \nWaterleau Group, in partnership with leading financial institutions SFPIM, and Ethias, is seeking an Independent Co-Coordinator for WIFV, a €50 million investment vehicle focused on water infrastructure and mobile water solutions. This is a senior, board-facing role for an experienced professional in project finance, combining financial leadership, legal oversight, and investment governance.\n\n\nYour Role\nAs Independent Co-Coordinator, you will play a pivotal role in the origination, ",
       "published": "2026-09-07",
       "location": "Haacht, Flemish Region, Belgium",
@@ -419,7 +365,7 @@
     {
       "id": "3fbbe53004ee",
       "title": "Finance Manager - Croatia",
-      "url": "https://hr.linkedin.com/jobs/view/finance-manager-croatia-at-glovo-4415662972?position=45&pageNum=0&refId=3cRJrKAIgmini2FILbWeYQ%3D%3D&trackingId=mQJoieGOV%2BjIHkaxKVv8XQ%3D%3D",
+      "url": "https://hr.linkedin.com/jobs/view/finance-manager-croatia-at-glovo-4415662972?position=46&pageNum=0&refId=BshOu0Xr4eTr9abN1pNizQ%3D%3D&trackingId=35JmFtH30SH0BHfi4uGRoQ%3D%3D",
       "description": "Glovo | Glovo is part of the Delivery Hero Group, the world’s pioneering local delivery platform, our mission is to deliver an amazing experience—fast, easy, and to your door. We operate in around 65 countries worldwide. Headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index.\n\nJob Description\n\nWe are looking for a Finance Manager to act as the right hand of the General Manager, driving financial perfor",
       "published": "2026-09-03",
       "location": "Zagreb, Zagreb, Croatia",
@@ -435,12 +381,12 @@
       }
     },
     {
-      "id": "d8a3f19e5b49",
-      "title": "Finance Director",
-      "url": "https://bg.linkedin.com/jobs/view/finance-director-at-bullfinch-recruitment-4464338431?position=40&pageNum=0&refId=gYyRqtFCDte2wGdh3F1mPQ%3D%3D&trackingId=mt0NH4vZMK1h1XQqMjmxAQ%3D%3D",
-      "description": "Bullfinch Recruitment | \nThe opportunity\nOur client is an international B2B sportsbook product business operating across multiple countries and legal entities. Its finance function supports a group spanning several jurisdictions, currencies, tax regimes and reporting calendars while the commercial side of the business continues to move quickly.\nThis is a hands-on leadership role with end-to-end ownership of the day-to-day finance function and the team that delivers it. You will remain close to t",
-      "published": "2026-09-07",
-      "location": "Sofia, Sofia City, Bulgaria",
+      "id": "29a38827b651",
+      "title": "Chief Financial Officer 🚊",
+      "url": "https://cz.linkedin.com/jobs/view/chief-financial-officer-%F0%9F%9A%8A-at-%C5%A1koda-group-4462771214?position=50&pageNum=0&refId=91Qqpq92GmgHU4aRjOgwQA%3D%3D&trackingId=pfBOsKcdS6LrzS29%2FKEhfQ%3D%3D",
+      "description": "Škoda Group | \nZdravíme ze Škodovky,\n\n\njsme Škoda Digital – vývojové centrum digitálních technologií pro hromadnou dopravu ve skupině Škoda Group. Fungujeme jako samostatná business unit s vlastním P&amp;L, produktovým portfoliem a odpovědností za strategické směřování. Právě teď procházíme rychlým růstem a hledáme nového CFO, který nás provede přerodem ze středně velké do velké technologické firmy a podpoří naši expanzi do západní Evropy.\n\n\nStojí za námi silný akcionář – PPF – a díky němu máme ",
+      "published": "2026-09-03",
+      "location": "Ostrava, Moravia-Silesia, Czechia",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -453,13 +399,49 @@
       }
     },
     {
-      "id": "d411692637ff",
-      "title": "Financial Director",
-      "url": "https://ie.linkedin.com/jobs/view/financial-director-at-aims-international-ireland-spirit-executive-4464030810?position=10&pageNum=0&refId=gYyRqtFCDte2wGdh3F1mPQ%3D%3D&trackingId=IA39Yjz4A%2F1zdvqhFCxcwA%3D%3D",
-      "description": "AIMS International Ireland (Spirit Executive) | \nWe are partnering with one of Ireland’s most entrepreneurial international spirits businesses to appoint a Finance Director.\n\n\nHeadquartered in Dublin, the company develops and grows distinctive beverage brands across Europe, the United States and Asia. It combines international reach with the pace, ambition and accountability of an entrepreneurial business.\n\n\nThis role will suit a hands on leaderwuth the ability to be part of building the busines",
-      "published": "2026-09-06",
-      "location": "Dublin, County Dublin, Ireland",
+      "id": "00a202d7deb7",
+      "title": "Head of Finance",
+      "url": "https://be.linkedin.com/jobs/view/head-of-finance-at-merchery-4458705193?position=33&pageNum=0&refId=91Qqpq92GmgHU4aRjOgwQA%3D%3D&trackingId=OTIkeO3tTAP9o5ShaYKbsw%3D%3D",
+      "description": "Merchery | \nAbout Merchery\nMerchery was born from the simple observation that corporate gifts and promotional products are, most of the time, low quality. This billion-dollar market is often opaque and filled with products people throw away after two weeks. Our vision at Merchery is to offer beautiful, useful, and carefully sourced products that people actually want.\nWe are an early-stage company launched in April 2020, now building the foundations for our next phase of international growth. We ",
+      "published": "2026-09-07",
+      "location": "Brussels, Brussels Region, Belgium",
       "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "fdb20e97c6f8",
+      "title": "Finance Director",
+      "url": "https://ie.linkedin.com/jobs/view/finance-director-at-fk-international-financial-search-and-selection-4462427827?position=17&pageNum=0&refId=91Qqpq92GmgHU4aRjOgwQA%3D%3D&trackingId=lPLDs%2FwzIjrXh3pSKUrVkw%3D%3D",
+      "description": "FK International - Financial Search and Selection | \nFinance Director\nManufacturing - Kildare\n\n\nPosition Description\nA leading Irish manufacturing business is seeking to appoint a highly capable and commercially focused Finance Director to lead its finance function. As a key member of the Senior Leadership Team (SLT), the Finance Director will play an important role in shaping the strategic and commercial direction of the business, providing financial leadership to support sustainable growth, pr",
+      "published": "2026-09-02",
+      "location": "Kildare, County Kildare, Ireland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "a438cc06492d",
+      "title": "Senior Financial Advisor AIFA (m/w/d)",
+      "url": "https://de.linkedin.com/jobs/view/senior-financial-advisor-aifa-m-w-d-at-engie-deutschland-4453075744?position=29&pageNum=0&refId=b0m6dwcAu5DvRhDDHPMstQ%3D%3D&trackingId=aUcn32zBsfEUn0MEwvU6cA%3D%3D",
+      "description": "ENGIE Deutschland | ENGIE Germany stands for combined expertise in the transition to climate neutrality, offering comprehensive energy solutions and services ranging from plant engineering to carbon neutrality. More than 5,500 employees at 50 locations are already making a real difference when it comes to climate neutrality.\n\nHow do we do that? For example, we develop and implement sustainable solutions in the areas of wind, solar, hydro, and energy storage. Or we plan and build process faciliti",
+      "published": "2026-09-02",
+      "location": "Berlin, Berlin, Germany",
+      "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
@@ -473,7 +455,7 @@
     {
       "id": "36430c78994a",
       "title": "Senior Manager Project Finance",
-      "url": "https://de.linkedin.com/jobs/view/senior-manager-project-finance-at-hunter-philips-executive-search-4464360488?position=2&pageNum=0&refId=2lIDoqitFpp5SDlPRDYxcg%3D%3D&trackingId=puzJYU5CVk28Y33VGxdLhw%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/senior-manager-project-finance-at-hunter-philips-executive-search-4464360488?position=2&pageNum=0&refId=b0m6dwcAu5DvRhDDHPMstQ%3D%3D&trackingId=KieIR4nEjlduF47flbs1Rg%3D%3D",
       "description": "Hunter Philips Executive Search | \nSENIOR MANAGER PROJECT FINANCE – RENEWABLE ENERGY INFRASTRUCTURE – MUNICH\nLocation: Munich, Germany\nSector: BESS &amp; Energy Infrastructure\nEmployment: Permanent\n\n\nAre you a senior project-finance professional with a strong record of structuring and closing complex infrastructure financings? Do you want to apply your financing expertise within the renewable sector?\n\n\nWe are looking for experienced finance professionals for current and upcoming Senior Project F",
       "published": "2026-09-07",
       "location": "Munich, Bavaria, Germany",
