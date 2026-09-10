@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-09T11:38:00.649384+00:00",
-  "elapsed_total_s": 147.9,
+  "generated_at": "2026-09-10T11:34:28.372737+00:00",
+  "elapsed_total_s": 114.2,
   "sources_total": 23,
   "sources_ok": 22,
   "sources_failed": 0,
-  "items_total_raw": 655,
-  "items_kept": 26,
+  "items_total_raw": 656,
+  "items_kept": 20,
   "sources": [
     {
       "name": "afdb",
       "raw": 2,
       "kept": 1,
-      "elapsed_s": 0.6,
+      "elapsed_s": 1.3,
       "ok": true
     },
     {
       "name": "ebrd",
       "raw": 25,
-      "kept": 4,
-      "elapsed_s": 0.9,
+      "kept": 2,
+      "elapsed_s": 1.3,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 0.4,
       "ok": true
     },
     {
       "name": "greenhouse_instiglio",
       "raw": 3,
       "kept": 3,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -53,14 +53,14 @@
       "name": "greenhouse_socialfinance",
       "raw": 2,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_codeforamerica",
-      "raw": 4,
+      "raw": 5,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "name": "greenhouse_monzo",
-      "raw": 64,
+      "raw": 67,
       "kept": 0,
       "elapsed_s": 0.2,
       "ok": true
@@ -81,35 +81,35 @@
       "name": "greenhouse_n26",
       "raw": 66,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "ashby_lendable",
       "raw": 70,
       "kept": 0,
-      "elapsed_s": 0.4,
+      "elapsed_s": 0.6,
       "ok": true
     },
     {
       "name": "ashby_finca",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.9,
+      "elapsed_s": 1.0,
       "ok": true
     },
     {
@@ -122,43 +122,43 @@
     {
       "name": "apify_linkedin_blended",
       "raw": 50,
-      "kept": 10,
-      "elapsed_s": 74.2,
+      "kept": 7,
+      "elapsed_s": 32.8,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
       "raw": 50,
-      "kept": 5,
-      "elapsed_s": 30.3,
+      "kept": 3,
+      "elapsed_s": 30.4,
       "ok": true
     },
     {
       "name": "apify_linkedin_dfi_senior",
       "raw": 30,
-      "kept": 8,
-      "elapsed_s": 25.3,
+      "kept": 6,
+      "elapsed_s": 25.2,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
-      "raw": 20,
+      "raw": 18,
       "kept": 0,
-      "elapsed_s": 4.6,
+      "elapsed_s": 9.0,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
-      "raw": 12,
+      "raw": 11,
       "kept": 0,
-      "elapsed_s": 3.7,
+      "elapsed_s": 4.4,
       "ok": true
     },
     {
       "name": "apify_indeed_portugal_finance",
       "raw": 5,
       "kept": 0,
-      "elapsed_s": 3.1,
+      "elapsed_s": 3.9,
       "ok": true
     }
   ]
