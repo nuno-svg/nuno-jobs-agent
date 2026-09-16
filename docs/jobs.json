@@ -1,29 +1,11 @@
 {
-  "generated_at": "2026-09-15T11:56:37.628370+00:00",
-  "total": 22,
+  "generated_at": "2026-09-16T11:52:53.967322+00:00",
+  "total": 19,
   "items": [
-    {
-      "id": "afe8ae788bd3",
-      "title": "Advisory Corporate Finance - Senior Associate - Debt Advisory Milano",
-      "url": "https://it.linkedin.com/jobs/view/advisory-corporate-finance-senior-associate-debt-advisory-milano-at-pwc-italy-4464647533?position=33&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=k2AL5vnkYMrpZjdZup1x5g%3D%3D",
-      "description": "PwC Italy | All’interno della Linea di Servizio Advisory, il team Debt Advisory supporta aziende e fondi di Private Equity nel reperimento di soluzioni di finanziamento in occasione di operazioni straordinarie, tra cui:\n• Leveraged Buyout (LBO)\n• Acquisizioni e fusioni (M&amp;A)\n• Rifinanziamenti del debito esistente\n• Ristrutturazioni della struttura del capitale\n• Finanziamenti per progetti di crescita e sviluppo.\nGrazie alla collaborazione con banche, fondi di debito e investitori istituziona",
-      "published": "2026-09-08",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 7.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 7.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
     {
       "id": "a475fc84e0fc",
       "title": "Corporate Finance Manager",
-      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-hireiq-4466096433?position=2&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=WwEAzsj%2Fg1CdLmLvZXrCwA%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-hireiq-4466096433?position=2&pageNum=0&refId=S62%2BzHWQw7MmLa61bajLXQ%3D%3D&trackingId=okTM%2BCOmjww7qJNQ8Q%2BOrw%3D%3D",
       "description": "HireIQ | \nCorporate Finance Manager – Dublin | Deals, M&amp;A &amp; Advisory\n\n\nAre you a Corporate Finance professional who wants more ownership, more client exposure and better-quality deal experience?\n\n\nHIREIQ is delighted to be partnering with a growing advisory firm in Dublin as they look to appoint a Corporate Finance Manager to their Deals and Corporate Finance team.\nThis is a standout opportunity for someone who wants to step into a role where they are not just sitting behind a model, but",
       "published": "2026-09-11",
       "location": "Greater Dublin",
@@ -57,9 +39,27 @@
       }
     },
     {
+      "id": "63cd90d6ad54",
+      "title": "Principal",
+      "url": "https://nl.linkedin.com/jobs/view/principal-at-dte-capital-partners-4466577988?position=27&pageNum=0&refId=Pdg%2BHHJqmnvABZqzTKBzUA%3D%3D&trackingId=9gjZKhjOgiPxo8LXpg673w%3D%3D",
+      "description": "DTE Capital Partners | As Principal at DTE Capital Partners, ownership of deals runs end-to-end: from first contact with a founder to signing, and from closing to value creation in the portfolio. The position sits directly alongside the Partners, with a clear path toward Partner level.\n\nResponsibilities\n\n\n\n- Originating proprietary deal flow in the energy, food, and health transitions through direct founder contact, sector experts, and advisor networks\n- Leading transactions: valuation, structur",
+      "published": "2026-09-15",
+      "location": "Amsterdam Area",
+      "source": "apify_linkedin_dfi_senior",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 5.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 5.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "3beefb38149c",
       "title": "Director of Finance",
-      "url": "https://de.linkedin.com/jobs/view/director-of-finance-at-almedia-4429516360?position=22&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=DorAiVgfWPzFVPr6cmrtTw%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/director-of-finance-at-almedia-4429516360?position=19&pageNum=0&refId=S62%2BzHWQw7MmLa61bajLXQ%3D%3D&trackingId=g61WhRTwLcnGIiidiBfpJA%3D%3D",
       "description": "Almedia | This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in 2025 (FT1000).\n\nWe are building the future of marketing by rewarding our community of over 80 million users for engaging with our advertisers’ products. We are offering a new way to acquire users for the biggest companies in the w",
       "published": "2026-09-10",
       "location": "Berlin, Germany",
@@ -77,7 +77,7 @@
     {
       "id": "2ca83b0c6400",
       "title": "Head of Finance – Future Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4467700802?position=23&pageNum=0&refId=BtU5nLHGFaSIyMD8JGT8uQ%3D%3D&trackingId=fxC63mrFQc%2FVEhmM4riG2A%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4467700802?position=22&pageNum=0&refId=p6c7ZTK6u0p251peVQ7YEg%3D%3D&trackingId=eDW1KdRXawWJGOAQrrpsKA%3D%3D",
       "description": "Darwin Hawkins | \nJob Title: Head of Finance – Future Finance Director\nSector: PE-Backed International Business\nLocation: Dublin (Hybrid)\nSalary: €130,000 - €150,000 plus Bonus, Pension &amp; Health\n\n\nOur Client\nOur client is a high-growth, PE-backed international business with operations globally Following continued expansion, they are seeking a Head of Finance who will join the senior leadership team to lead the core finance function and play a key role in the next stage of the company's growt",
       "published": "2026-09-15",
       "location": "Dublin, County Dublin, Ireland",
@@ -95,7 +95,7 @@
     {
       "id": "dc291e4a5f00",
       "title": "Associate Director/ Director Infrastructure Advisory",
-      "url": "https://ie.linkedin.com/jobs/view/associate-director-director-infrastructure-advisory-at-marks-sattin-4461176675?position=11&pageNum=0&refId=ceqjNAwouYTn5TSXNb8sWA%3D%3D&trackingId=9Sib5GzoRTctX6711B%2FFrA%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/associate-director-director-infrastructure-advisory-at-marks-sattin-4461176675?position=11&pageNum=0&refId=Pdg%2BHHJqmnvABZqzTKBzUA%3D%3D&trackingId=i7aGp2PzXAJW3JaVPwgaBw%3D%3D",
       "description": "Marks Sattin | \nAssociate Director / Director – Infrastructure Advisory\n\n\nA global infrastructure finance advisory firm is expanding its infrastructure advisory team in Dublin and is looking to appoint an experienced Associate Director OR Director.\n\n\nThis is a senior opportunity for an infrastructure professional with a strong track record across business development, transaction execution, project finance and client relationship management.\n\n\nThe Role\n\n- Lead and manage complex infrastructure a",
       "published": "2026-09-14",
       "location": "Dublin, County Dublin, Ireland",
@@ -111,9 +111,27 @@
       }
     },
     {
+      "id": "3505bf824ee3",
+      "title": "Principal, Evaluation Manager",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Evaluation-Manager/1437160733/",
+      "description": "Principal, Evaluation Manager Principal, Evaluation Manager London, GB 15 Sept 2026 0.00 km London, GB 15 Sept 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.5,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 1.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "0270f01a6bf5",
       "title": "Head of Finance",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-ore-energy-4467218185?position=32&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=GUboyYTZmQnfTCzleSESjQ%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-ore-energy-4467218185?position=26&pageNum=0&refId=S62%2BzHWQw7MmLa61bajLXQ%3D%3D&trackingId=f%2B62xuubpZizR%2FtOFSAzmg%3D%3D",
       "description": "Ore Energy | \nAbout Ore Energy\n\n\nAt Ore Energy, we are developing long-duration, utility-scale iron-air batteries to provide safe, low-cost, multi-day energy storage. Having raised over €60 million from leading climate and energy investors and demonstrated our technology under real-world utility conditions, we are now entering our next phase of growth: financing our industrial scale-up, developing our gigafactory, and deploying multi-day storage across grid-scale markets.\n\n\nRole Overview\n\n\nRepor",
       "published": "2026-09-14",
       "location": "Amsterdam, North Holland, Netherlands",
@@ -201,27 +219,9 @@
       }
     },
     {
-      "id": "0789ebcf272e",
-      "title": "Principal, Engineering, AI",
-      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Engineering%2C-AI/1424667633/",
-      "description": "Principal, Engineering, AI Principal, Engineering, AI Sofia, BG 8 Sept 2026 0.00 km Sofia, BG 8 Sept 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "4b90a810294d",
       "title": "(Senior) Menedżer/Menedżerka | Debt Capital Advisory",
-      "url": "https://pl.linkedin.com/jobs/view/senior-mened%C5%BCer-mened%C5%BCerka-debt-capital-advisory-at-pwc-polska-4445758494?position=47&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=J%2FS3j4PNZuMnR9RubRpHpQ%3D%3D",
+      "url": "https://pl.linkedin.com/jobs/view/senior-mened%C5%BCer-mened%C5%BCerka-debt-capital-advisory-at-pwc-polska-4445758494?position=40&pageNum=0&refId=S62%2BzHWQw7MmLa61bajLXQ%3D%3D&trackingId=Kx2hK0TdHp1JpnW5KRXyEA%3D%3D",
       "description": "PwC Polska | W Debt &amp; Capital Advisory (PwC Deals) pomagamy liderom biznesu podejmować jedne z najważniejszych decyzji finansowych w cyklu życia przedsiębiorstwa. Doradzamy przy strategicznych projektach związanych z pozyskiwaniem finansowania, transakcjami M&amp;A, transformacją energetyczną, refinansowaniem oraz restrukturyzacją. Współpracujemy z największymi spółkami, inwestorami i instytucjami finansowymi, projektując rozwiązania, które umożliwiają realizację ambitnych planów rozwojowych",
       "published": "2026-09-10",
       "location": "Warsaw, Mazowieckie, Poland",
@@ -237,27 +237,9 @@
       }
     },
     {
-      "id": "cea4ad3f13d7",
-      "title": "Debt Advisory - Senior Manager",
-      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4464654061?position=48&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=YuYkaFOQOZwQJzH4PllDAQ%3D%3D",
-      "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
-      "published": "2026-09-08",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "35e1d244bad8",
       "title": "Head of Structured Finance",
-      "url": "https://es.linkedin.com/jobs/view/head-of-structured-finance-at-the-green-recruitment-company-4464852756?position=35&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=EOh4rsEI7FRRH3HIJnho9g%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/head-of-structured-finance-at-the-green-recruitment-company-4464852756?position=28&pageNum=0&refId=S62%2BzHWQw7MmLa61bajLXQ%3D%3D&trackingId=mpD%2Bzp8LqbLuWe1wzwAVbA%3D%3D",
       "description": "The Green Recruitment Company | \nHead of Structured Finance (IPP Platform)\n\n\nMy client, a fast-growing independent power producer at the forefront of the energy transition, developing, financing, and operating renewable energy assets across multiple markets. As they scale their portfolio and expand into new technologies and geographies, they are seeking a Head of Structured Finance to lead the design and execution of complex financing solutions that underpin their growth.\n\n\nThe Role\n\n\nAs Head of",
       "published": "2026-09-11",
       "location": "Madrid, Community of Madrid, Spain",
@@ -275,7 +257,7 @@
     {
       "id": "0da0be4a0ae2",
       "title": "Senior Product Specialist - Project & Infrastructure Finance (f/m/x)",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-specialist-project-infrastructure-finance-f-m-x-at-raiffeisen-bank-international-ag-4466058863?position=10&pageNum=0&refId=ceqjNAwouYTn5TSXNb8sWA%3D%3D&trackingId=IOuw9GNrTavbScjYKz3%2FTg%3D%3D",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-specialist-project-infrastructure-finance-f-m-x-at-raiffeisen-bank-international-ag-4466058863?position=10&pageNum=0&refId=Pdg%2BHHJqmnvABZqzTKBzUA%3D%3D&trackingId=VUbvoAcj0EfKGmjJm7l1Qg%3D%3D",
       "description": "Raiffeisen Bank International AG | \nAre you ready to shape landmark energy and infrastructure transactions across Central and Eastern Europe? RBI’s Project &amp; Infrastructure Finance team is a regional powerhouse, providing financial advisory, debt structuring and financing solutions across the infrastructure spectrum — with a strong focus on renewables, energy transition, data centers, and digital infrastructure.\n \nAs a Senior Product Specialist in Project &amp; Infrastructure Finance, you wi",
       "published": "2026-09-11",
       "location": "Vienna, Vienna, Austria",
@@ -291,27 +273,27 @@
       }
     },
     {
-      "id": "0f67cacd8d28",
-      "title": "Directeur financier/Directrice financière",
-      "url": "https://fr.linkedin.com/jobs/view/directeur-financier-directrice-financi%C3%A8re-at-fsc-executive-search-talent-development-4464514864?position=1&pageNum=0&refId=BtU5nLHGFaSIyMD8JGT8uQ%3D%3D&trackingId=frpDBhjYjxk3zOoFfgMY%2BQ%3D%3D",
-      "description": "FSC Executive Search & Talent Development | \n\nConfidential search — client not disclosed\n\n\nTHE ROLE\n\n\nPosition CFO Europe\nSector Energy / Renewables — international group\nLocation Paris, France\n\n\nReporting to Group CFO\nScope Several European countries\n\n\nOUR CLIENT\n\n\nOur client is a leading European IPP specializing in Renewable Energy.\nThe Group is scaling its finance function to match its ambitions, and is therefore looking to appoint a CFO Europe to lead and further develop its regional Financ",
-      "published": "2026-09-10",
-      "location": "Paris, Île-de-France, France",
-      "source": "apify_linkedin_investment_director",
+      "id": "22e535df4bd1",
+      "title": "Strategic Finance Analyst Corporate",
+      "url": "https://it.linkedin.com/jobs/view/strategic-finance-analyst-corporate-at-azienda-riservata-italia-4466850158?position=48&pageNum=0&refId=S62%2BzHWQw7MmLa61bajLXQ%3D%3D&trackingId=MaBaPL0Hj%2B9g0zDerohtAw%3D%3D",
+      "description": "Azienda Riservata Italia | \nPer importante e prestigioso cliente in ambito Telco, si ricerca una figura di Strategic Finance Analyst, a diretto riporto del Chief Strategy Officer.\n\n\nCompetenze tecniche di base:\n\n\n• Sviluppo e gestione di modelli finanziari avanzati per la valutazione di iniziative strategiche aziendali\n• Predisposizione di Business Plan industriali e finanziari (analisi cash flow, proiezioni economico-finanziarie, piani di rimborso)\n• Simulazione di scenari strategici e diverse ",
+      "published": "2026-09-16",
+      "location": "Rome, Latium, Italy",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.5,
+      "fit": 2.0,
       "scores": {
         "A_blended_catalytic": 0.0,
         "B_deal_structuring": 2.0,
-        "C_executive_training": 1.0,
+        "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
     },
     {
       "id": "78b3e5063848",
       "title": "Head of Financial Planning & Analysis",
-      "url": "https://it.linkedin.com/jobs/view/head-of-financial-planning-analysis-at-relatech-4465798307?position=43&pageNum=0&refId=Pw%2FFrHE3f3%2B8FLcBmxX2PA%3D%3D&trackingId=qzvUAskPo%2BveQdeZJOKw%2BA%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/head-of-financial-planning-analysis-at-relatech-4465798307?position=38&pageNum=0&refId=S62%2BzHWQw7MmLa61bajLXQ%3D%3D&trackingId=UVUbFO5jVizkwaFfEDVDGA%3D%3D",
       "description": "Relatech | 🌍 La tecnologia innova il business. Le persone fanno la differenza.\n\nNel Gruppo Relatech crediamo che l'innovazione abbia valore solo quando genera un impatto reale.\n\nAccompagniamo le aziende di ogni settore nella trasformazione digitale, offrendo servizi e progettando soluzioni che integrano dati, Artificial Intelligence e tecnologie innovative, dalla strategia all'execution.\n\nLo facciamo grazie a quattro Business Unit specializzate e integrate: Digital, per lo sviluppo di soluzioni ",
       "published": "2026-09-14",
       "location": "Milan, Lombardy, Italy",
@@ -327,27 +309,9 @@
       }
     },
     {
-      "id": "c5d73a3189ef",
-      "title": "Chief Financial Officer",
-      "url": "https://it.linkedin.com/jobs/view/chief-financial-officer-at-keypartners-4463276923?position=37&pageNum=0&refId=BtU5nLHGFaSIyMD8JGT8uQ%3D%3D&trackingId=O3F1GpWMN0ag0mrhClT3nA%3D%3D",
-      "description": "KeyPartners | \nPer conto di una consolidata PMI operante nel settore dei servizi siamo alla ricerca di un Chief Financial Officer che assuma un ruolo centrale nel supportare il management in una fase di crescita, consolidamento organizzativo e sviluppo del business.\n\n\nRiportando direttamente al CEO, il CFO sarà responsabile dell'intera funzione Amministrazione, Finanza e Controllo, con l'obiettivo di rafforzare gli strumenti di governo economico-finanziario, supportare i processi decisionali e c",
-      "published": "2026-09-08",
-      "location": "Rome, Latium, Italy",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "9d772479e46a",
       "title": "Dyrektor Finansowy (CFO) - Fundusz Inwestycyjny (ASI)",
-      "url": "https://pl.linkedin.com/jobs/view/dyrektor-finansowy-cfo-fundusz-inwestycyjny-asi-at-b-right-4464845791?position=6&pageNum=0&refId=BtU5nLHGFaSIyMD8JGT8uQ%3D%3D&trackingId=z7taH6DFbih1YxCb5EnDZQ%3D%3D",
+      "url": "https://pl.linkedin.com/jobs/view/dyrektor-finansowy-cfo-fundusz-inwestycyjny-asi-at-b-right-4464845791?position=5&pageNum=0&refId=p6c7ZTK6u0p251peVQ7YEg%3D%3D&trackingId=ebtEOV1Zh6usF5Fr7hSQuw%3D%3D",
       "description": "B:RIGHT | Nasz Klient to fundusz inwestycyjny (ASI) inwestujący w spółki z obszaru technologii i mediów cyfrowych. Zespół szuka osoby, która przejmie pełną kontrolę nad finansami funduszu i stanie się realnym partnerem biznesowym Zarządu oraz Komitetu Inwestycyjnego - nie tylko osobą odpowiedzialną za księgowość i raporty.\n\nTwoja misja\nZbudujesz od podstaw porządek finansowy funduszu – od cash flow i budżetu, przez raportowanie zarządcze i inwestorskie, po modele finansowe poszczególnych inwesty",
       "published": "2026-09-11",
       "location": "Cracow, Małopolskie, Poland",
@@ -365,28 +329,10 @@
     {
       "id": "72507e92d5b0",
       "title": "Vice President, Middle Market Direct Lending",
-      "url": "https://fr.linkedin.com/jobs/view/vice-president-middle-market-direct-lending-at-mufg-4439405513?position=27&pageNum=0&refId=ceqjNAwouYTn5TSXNb8sWA%3D%3D&trackingId=SHWrRK2LWxUhCaTc0WCclg%3D%3D",
+      "url": "https://fr.linkedin.com/jobs/view/vice-president-middle-market-direct-lending-at-mufg-4439405513?position=30&pageNum=0&refId=Pdg%2BHHJqmnvABZqzTKBzUA%3D%3D&trackingId=rBPGzH9OXIShO0mNXMHIrA%3D%3D",
       "description": "MUFG | Do you want your voice heard and your actions to count? \n\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\n\nWith a vision to be the world’s most trusted fina",
       "published": "2026-09-14",
       "location": "Paris, Île-de-France, France",
-      "source": "apify_linkedin_dfi_senior",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "11931a51faec",
-      "title": "Senior Associate - Real Estate Private Credit - Investment Company",
-      "url": "https://es.linkedin.com/jobs/view/senior-associate-real-estate-private-credit-investment-company-at-flynn-and-chase-4464615800?position=29&pageNum=0&refId=ceqjNAwouYTn5TSXNb8sWA%3D%3D&trackingId=AMwVGGPgq17J5C3WfLSj6A%3D%3D",
-      "description": "Flynn and Chase | \nWe are working with a Madrid-headquartered, independently owned real assets investment firm on the hire of a Senior Associate for its real estate debt team.\n\n\nWhy this platform stands out\n\n\nPrivately owned and founded over a decade ago, with several billion euros deployed across European real assets since inception.\n\n\nCurrently raising its largest flagship credit vehicle to date, already well past the majority of its target, with commitments from institutional investors across",
-      "published": "2026-09-15",
-      "location": "Madrid, Community of Madrid, Spain",
       "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
