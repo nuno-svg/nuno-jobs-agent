@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-09-18T11:32:06.715694+00:00",
-  "total": 17,
+  "generated_at": "2026-09-19T11:15:56.453414+00:00",
+  "total": 16,
   "items": [
     {
       "id": "c88a3ac65801",
       "title": "German Speaking Mergers and Acquisitions Manager (Hybrid)",
-      "url": "https://de.linkedin.com/jobs/view/german-speaking-mergers-and-acquisitions-manager-hybrid-at-juucy-4466298738?position=26&pageNum=0&refId=EobF870t5YWa3Qn%2B0IvomA%3D%3D&trackingId=nlVX%2BVz6oR6zranuiUfB%2FQ%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/german-speaking-mergers-and-acquisitions-manager-hybrid-at-juucy-4466298738?position=29&pageNum=0&refId=J0pqu%2FteLuhVlo6xyy188A%3D%3D&trackingId=tsw3RD95xWb9pRFdHDWTaw%3D%3D",
       "description": "juucy | \nM&amp;A Manager – Healthcare / Practice Network (m/f/d)\n\n\nLocation: Munich, Germany (Hybrid – 1 day Home Office / 4 days On-Site)\n\n\nDepartment: Finance &amp; Corporate Development\n\n\nTravel Requirements: Occasional nationwide travel for deal activities\n\n\nPackage: 60,000 - 120,000 EUR + Bonus\n\n\nEmployment Type: Full-time\n\n\n\n\n\n\nAbout the Role &amp; Mission\n\n\nWe are combining healthcare and technology to modernize primary care across Germany. By equipping medical practices with AI-driven as",
       "published": "2026-09-17",
       "location": "Greater Munich Metropolitan Area",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 6.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 6.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "a475fc84e0fc",
-      "title": "Corporate Finance Manager",
-      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-hireiq-4466096433?position=1&pageNum=0&refId=EobF870t5YWa3Qn%2B0IvomA%3D%3D&trackingId=483G%2Fx%2ByOwprX3AmRyIGww%3D%3D",
-      "description": "HireIQ | \nCorporate Finance Manager – Dublin | Deals, M&amp;A &amp; Advisory\n\n\nAre you a Corporate Finance professional who wants more ownership, more client exposure and better-quality deal experience?\n\n\nHIREIQ is delighted to be partnering with a growing advisory firm in Dublin as they look to appoint a Corporate Finance Manager to their Deals and Corporate Finance team.\nThis is a standout opportunity for someone who wants to step into a role where they are not just sitting behind a model, but",
-      "published": "2026-09-11",
-      "location": "Greater Dublin",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -57,19 +39,19 @@
       }
     },
     {
-      "id": "63cd90d6ad54",
-      "title": "Principal",
-      "url": "https://nl.linkedin.com/jobs/view/principal-at-dte-capital-partners-4466577988?position=30&pageNum=0&refId=d47ymvKknwrgayln41a7IQ%3D%3D&trackingId=He6hL0%2F5vmJwFBSdUp5w3A%3D%3D",
-      "description": "DTE Capital Partners | As Principal at DTE Capital Partners, ownership of deals runs end-to-end: from first contact with a founder to signing, and from closing to value creation in the portfolio. The position sits directly alongside the Partners, with a clear path toward Partner level.\n\nResponsibilities\n\n\n\n- Originating proprietary deal flow in the energy, food, and health transitions through direct founder contact, sector experts, and advisor networks\n- Leading transactions: valuation, structur",
-      "published": "2026-09-15",
-      "location": "Amsterdam Area",
-      "source": "apify_linkedin_dfi_senior",
+      "id": "3e64c87314b9",
+      "title": "CFO (Chief Financial Officer)",
+      "url": "https://es.linkedin.com/jobs/view/cfo-chief-financial-officer-at-fundcraft-4469149764?position=22&pageNum=0&refId=J0pqu%2FteLuhVlo6xyy188A%3D%3D&trackingId=%2F7vNI98ZwF4JJZsfnmcm2A%3D%3D",
+      "description": "fundcraft | fundcraft is seeking an experienced, forward-thinking Chief Financial Officer (CFO) to join our executive leadership team during a pivotal phase of hyper-growth. Reporting directly to the CEO and partnering closely with the Board, the CFO will serve as the strategic architect of fundcraft's financial strategy, corporate growth, and capital allocation across European markets.\n\nAs fundcraft prepares for its next growth stage, the CFO will co-lead fundraising initiatives, champion inves",
+      "published": "2026-09-18",
+      "location": "Girona, Catalonia, Spain",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 5.0,
+      "fit": 4.0,
       "scores": {
         "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 5.0,
+        "B_deal_structuring": 4.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -77,7 +59,7 @@
     {
       "id": "2ca83b0c6400",
       "title": "Head of Finance – Future Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4467700802?position=24&pageNum=0&refId=%2BdRffecQwHt5IRI2i9%2FyEQ%3D%3D&trackingId=w2KhZ71oz4UAvjfMVssjYg%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/head-of-finance-%E2%80%93-future-finance-director-at-darwin-hawkins-4467700802?position=22&pageNum=0&refId=hDbbP0FTYOirchiuwdehKg%3D%3D&trackingId=5l%2FIvU6pKQFDY2Jmyv5slw%3D%3D",
       "description": "Darwin Hawkins | \nJob Title: Head of Finance – Future Finance Director\nSector: PE-Backed International Business\nLocation: Dublin (Hybrid)\nSalary: €130,000 - €150,000 plus Bonus, Pension &amp; Health\n\n\nOur Client\nOur client is a high-growth, PE-backed international business with operations globally Following continued expansion, they are seeking a Head of Finance who will join the senior leadership team to lead the core finance function and play a key role in the next stage of the company's growt",
       "published": "2026-09-15",
       "location": "Dublin, County Dublin, Ireland",
@@ -95,7 +77,7 @@
     {
       "id": "dc291e4a5f00",
       "title": "Associate Director/ Director Infrastructure Advisory",
-      "url": "https://ie.linkedin.com/jobs/view/associate-director-director-infrastructure-advisory-at-marks-sattin-4461176675?position=9&pageNum=0&refId=d47ymvKknwrgayln41a7IQ%3D%3D&trackingId=VOzAlKeY%2BrnF%2F%2BZ3ws2Eyg%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/associate-director-director-infrastructure-advisory-at-marks-sattin-4461176675?position=12&pageNum=0&refId=qn%2FzDQBRqq5pitKn0B3O5Q%3D%3D&trackingId=tT2VzISP4MoggiaFz9SDgA%3D%3D",
       "description": "Marks Sattin | \nAssociate Director / Director – Infrastructure Advisory\n\n\nA global infrastructure finance advisory firm is expanding its infrastructure advisory team in Dublin and is looking to appoint an experienced Associate Director OR Director.\n\n\nThis is a senior opportunity for an infrastructure professional with a strong track record across business development, transaction execution, project finance and client relationship management.\n\n\nThe Role\n\n- Lead and manage complex infrastructure a",
       "published": "2026-09-14",
       "location": "Dublin, County Dublin, Ireland",
@@ -129,27 +111,9 @@
       }
     },
     {
-      "id": "0270f01a6bf5",
-      "title": "Head of Finance",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-ore-energy-4467218185?position=25&pageNum=0&refId=EobF870t5YWa3Qn%2B0IvomA%3D%3D&trackingId=OxO%2FZ0G1%2BHmi9nNhuwkjwA%3D%3D",
-      "description": "Ore Energy | \nAbout Ore Energy\n\n\nAt Ore Energy, we are developing long-duration, utility-scale iron-air batteries to provide safe, low-cost, multi-day energy storage. Having raised over €60 million from leading climate and energy investors and demonstrated our technology under real-world utility conditions, we are now entering our next phase of growth: financing our industrial scale-up, developing our gigafactory, and deploying multi-day storage across grid-scale markets.\n\n\nRole Overview\n\n\nRepor",
-      "published": "2026-09-14",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.5,
-      "scores": {
-        "A_blended_catalytic": 2.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "37e55a93fd7a",
       "title": "Investment Banking Associate",
-      "url": "https://be.linkedin.com/jobs/view/investment-banking-associate-at-degroof-petercam-4424089494?position=24&pageNum=0&refId=EobF870t5YWa3Qn%2B0IvomA%3D%3D&trackingId=UxxXZQdJvU2ZcK5NXSP8Hg%3D%3D",
+      "url": "https://be.linkedin.com/jobs/view/investment-banking-associate-at-degroof-petercam-4424089494?position=25&pageNum=0&refId=J0pqu%2FteLuhVlo6xyy188A%3D%3D&trackingId=EzD%2BbS2jMvNQr2i08%2FfLLw%3D%3D",
       "description": "Degroof Petercam | Context\n\nAre you ready to drive transformational M&amp;A and capital markets transactions?\n\nDegroof Petercam Corporate Advisory is a leading advisor to family-owned businesses, large corporates, financial sponsors and governments. We deliver tailor-made, high quality advice on M&amp;A and capital-raising transactions.\n\nTo support our continued growth, we are hiring an Investment Banking Associate to join our Belgium-based team.\n\nYour position\n\nYou will work across a broad rang",
       "published": "2026-09-18",
       "location": "Brussels, Brussels Region, Belgium",
@@ -161,6 +125,24 @@
         "A_blended_catalytic": 0.0,
         "B_deal_structuring": 3.0,
         "C_executive_training": 1.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "0270f01a6bf5",
+      "title": "Head of Finance",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-ore-energy-4467218185?position=28&pageNum=0&refId=J0pqu%2FteLuhVlo6xyy188A%3D%3D&trackingId=ldkjDpJXDLnt8Yk4w%2B1LGA%3D%3D",
+      "description": "Ore Energy | \nAbout Ore Energy\n\n\nAt Ore Energy, we are developing long-duration, utility-scale iron-air batteries to provide safe, low-cost, multi-day energy storage. Having raised over €60 million from leading climate and energy investors and demonstrated our technology under real-world utility conditions, we are now entering our next phase of growth: financing our industrial scale-up, developing our gigafactory, and deploying multi-day storage across grid-scale markets.\n\n\nRole Overview\n\n\nRepor",
+      "published": "2026-09-14",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.5,
+      "scores": {
+        "A_blended_catalytic": 2.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
     },
@@ -237,19 +219,19 @@
       }
     },
     {
-      "id": "0dae268a8d1b",
-      "title": "Penetration Tester (Mid/Senior Level)",
-      "url": "https://jobs.ebrd.com/job/Sofia-Penetration-Tester-%28MidSenior-Level%29/1435260533/",
-      "description": "Penetration Tester (Mid/Senior Level) Penetration Tester (Mid/Senior Level) Sofia, BG 9 Sept 2026 0.00 km Sofia, BG 9 Sept 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
+      "id": "bc43334389c4",
+      "title": "Debt Advisory & Capital Solutions Director",
+      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-capital-solutions-director-at-darwin-hawkins-4469175926?position=26&pageNum=0&refId=J0pqu%2FteLuhVlo6xyy188A%3D%3D&trackingId=gyOYCmqLPp2wy6h0wOgLmg%3D%3D",
+      "description": "Darwin Hawkins | \nJob Title: Debt Advisory &amp; Capital Solutions Director\nSector: Professional Services\nLocation: Dublin (hybrid)\nSalary: DOE plus benefits\n\n\nOur Client\nOur client is a large and well-regarded Professional Services firm in Dublin with an established Financial Advisory practice and a growing Debt Advisory team.\n\n\nWhy should you apply?\nThis is an excellent opportunity to join an expanding Debt Advisory team at Director level, working on a broad range of transactions across the de",
+      "published": "2026-09-18",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
       "fit": 3.0,
       "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -257,7 +239,7 @@
     {
       "id": "584811f10aea",
       "title": "Head of Finance",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-michael-page-4467110796?position=50&pageNum=0&refId=%2BdRffecQwHt5IRI2i9%2FyEQ%3D%3D&trackingId=XbGqEC4EOqtZI0XNbVECiQ%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-michael-page-4467110796?position=47&pageNum=0&refId=hDbbP0FTYOirchiuwdehKg%3D%3D&trackingId=53Wttio9S%2B%2B%2BbOgFikkJAQ%3D%3D",
       "description": "Michael Page | \n\n- Lead and develop the finance and administration team, providing clear direction, coaching and performance management.\n- Oversee monthly, quarterly and annual closing activities across multiple legal entities.\n- Drive budgeting, forecasting and cash-flow planning processes while improving financial visibility across the business.\n- Deliver accurate management reporting and KPI dashboards for operational and executive stakeholders.\n- Manage liquidity, working capital and interco",
       "published": "2026-09-16",
       "location": "Amsterdam, North Holland, Netherlands",
@@ -275,7 +257,7 @@
     {
       "id": "22e535df4bd1",
       "title": "Strategic Finance Analyst Corporate",
-      "url": "https://it.linkedin.com/jobs/view/strategic-finance-analyst-corporate-at-azienda-riservata-italia-4466850158?position=45&pageNum=0&refId=EobF870t5YWa3Qn%2B0IvomA%3D%3D&trackingId=slscuHhbLl1IQKWUhpJERQ%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/strategic-finance-analyst-corporate-at-azienda-riservata-italia-4466850158?position=49&pageNum=0&refId=J0pqu%2FteLuhVlo6xyy188A%3D%3D&trackingId=1PteD%2BP%2F4uyACOd3T8%2FA%2Fg%3D%3D",
       "description": "Azienda Riservata Italia | \nPer importante e prestigioso cliente in ambito Telco, si ricerca una figura di Strategic Finance Analyst, a diretto riporto del Chief Strategy Officer.\n\n\nCompetenze tecniche di base:\n\n\n• Sviluppo e gestione di modelli finanziari avanzati per la valutazione di iniziative strategiche aziendali\n• Predisposizione di Business Plan industriali e finanziari (analisi cash flow, proiezioni economico-finanziarie, piani di rimborso)\n• Simulazione di scenari strategici e diverse ",
       "published": "2026-09-16",
       "location": "Rome, Latium, Italy",
@@ -293,7 +275,7 @@
     {
       "id": "78b3e5063848",
       "title": "Head of Financial Planning & Analysis",
-      "url": "https://it.linkedin.com/jobs/view/head-of-financial-planning-analysis-at-relatech-4465798307?position=36&pageNum=0&refId=EobF870t5YWa3Qn%2B0IvomA%3D%3D&trackingId=GtBuDBvoqgYeeFcF%2Bfw4NA%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/head-of-financial-planning-analysis-at-relatech-4465798307?position=40&pageNum=0&refId=J0pqu%2FteLuhVlo6xyy188A%3D%3D&trackingId=0r5WodvzmzO%2B%2F52CbE9FDQ%3D%3D",
       "description": "Relatech | 🌍 La tecnologia innova il business. Le persone fanno la differenza.\n\nNel Gruppo Relatech crediamo che l'innovazione abbia valore solo quando genera un impatto reale.\n\nAccompagniamo le aziende di ogni settore nella trasformazione digitale, offrendo servizi e progettando soluzioni che integrano dati, Artificial Intelligence e tecnologie innovative, dalla strategia all'execution.\n\nLo facciamo grazie a quattro Business Unit specializzate e integrate: Digital, per lo sviluppo di soluzioni ",
       "published": "2026-09-14",
       "location": "Milan, Lombardy, Italy",
