@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-09-19T11:15:56.453414+00:00",
-  "elapsed_total_s": 115.5,
+  "generated_at": "2026-09-20T11:41:17.474618+00:00",
+  "elapsed_total_s": 220.3,
   "sources_total": 23,
   "sources_ok": 22,
   "sources_failed": 0,
-  "items_total_raw": 686,
+  "items_total_raw": 685,
   "items_kept": 16,
   "sources": [
     {
       "name": "afdb",
       "raw": 2,
       "kept": 1,
-      "elapsed_s": 1.0,
+      "elapsed_s": 0.8,
       "ok": true
     },
     {
       "name": "ebrd",
       "raw": 25,
       "kept": 4,
-      "elapsed_s": 0.9,
+      "elapsed_s": 0.8,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 0.9,
       "ok": true
     },
     {
@@ -102,7 +102,7 @@
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.4,
+      "elapsed_s": 1.0,
       "ok": true
     },
     {
@@ -123,42 +123,42 @@
       "name": "apify_linkedin_blended",
       "raw": 50,
       "kept": 7,
-      "elapsed_s": 26.3,
+      "elapsed_s": 121.0,
       "ok": true
     },
     {
       "name": "apify_linkedin_investment_director",
       "raw": 50,
       "kept": 2,
-      "elapsed_s": 43.0,
+      "elapsed_s": 57.7,
       "ok": true
     },
     {
       "name": "apify_linkedin_dfi_senior",
       "raw": 30,
       "kept": 2,
-      "elapsed_s": 25.8,
+      "elapsed_s": 20.3,
       "ok": true
     },
     {
       "name": "apify_indeed_blended_eu",
-      "raw": 23,
+      "raw": 22,
       "kept": 0,
-      "elapsed_s": 5.9,
+      "elapsed_s": 4.9,
       "ok": true
     },
     {
       "name": "apify_indeed_cfo_remote",
       "raw": 10,
       "kept": 0,
-      "elapsed_s": 3.9,
+      "elapsed_s": 4.2,
       "ok": true
     },
     {
       "name": "apify_indeed_portugal_finance",
       "raw": 5,
       "kept": 0,
-      "elapsed_s": 3.0,
+      "elapsed_s": 5.1,
       "ok": true
     }
   ]
