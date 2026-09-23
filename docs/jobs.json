@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-09-22T11:55:59.646853+00:00",
+  "generated_at": "2026-09-23T11:55:24.991013+00:00",
   "total": 19,
   "items": [
-    {
-      "id": "934185276319",
-      "title": "German Speaking Mergers and Acquisitions Manager (Hybrid)",
-      "url": "https://de.linkedin.com/jobs/view/german-speaking-mergers-and-acquisitions-manager-hybrid-at-ignite-4468477950?position=47&pageNum=0&refId=hHFJe2huTwXQEYhvV3mvEQ%3D%3D&trackingId=oO2hd4ySEoAXvbnmMUpScQ%3D%3D",
-      "description": "Ignite | M&amp;A Manager – Healthcare / Practice Network (m/f/d)\n\nLocation: Munich, Germany (Hybrid – 1 day Home Office / 4 days On-Site)\n\nDepartment: Finance &amp; Corporate Development\n\nEmployment Type: Full-time (Mid-Senior level)\n\nPackage: €60,000 – €120,000 gross p.a. + Bonus + Profit-Sharing\n\nTravel Requirements: Occasional nationwide travel for deal activities\n\nAbout The Role &amp; Mission\n\nWe are revolutionizing primary healthcare in Germany by seamlessly integrating modern technology wi",
-      "published": "2026-09-21",
-      "location": "Munich, Bavaria, Germany",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 6.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 6.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
     {
       "id": "4587351a95ef",
       "title": "Director (Anglophone Africa)",
@@ -39,11 +21,11 @@
       }
     },
     {
-      "id": "c864d44f47e6",
+      "id": "9d38187be613",
       "title": "Corporate Finance Director",
-      "url": "https://es.linkedin.com/jobs/view/corporate-finance-director-at-michael-page-4467388438?position=22&pageNum=0&refId=niayBk%2FO17G0BJxcMhe2IA%3D%3D&trackingId=2B1acFKByT8amd9mHH0oDw%3D%3D",
-      "description": "Michael Page | \nInternational consultancy specializing in operational efficiency and infrastructure optimization is looking for an Corporate Finance Director who will report directly to the CEO and CFO.\nThe company, delivers technology-driven solutions that help organizations improve performance, reduce costs, and enhance long-term sustainability.\n \nDetalles del cliente\nInternational consultancy specializing in operational efficiency and infrastructure optimization.\n Delivers technology-driven s",
-      "published": "2026-09-21",
+      "url": "https://es.linkedin.com/jobs/view/corporate-finance-director-at-michael-page-4469300000?position=23&pageNum=0&refId=f6OMuD1ZUWXkuzgzMyKZ9g%3D%3D&trackingId=nAJmNyPt1soy3xUZc4iRCQ%3D%3D",
+      "description": "Michael Page | \nInternational consultancy specializing in operational efficiency and infrastructure optimization is looking for an Corporate Finance Director who will report directly to the CEO and CFO.\nThe company, delivers technology-driven solutions that help organizations improve performance, reduce costs, and enhance long-term sustainability.\nClient Details\nInternational consultancy specializing in operational efficiency and infrastructure optimization.\nDelivers technology-driven solutions ",
+      "published": "2026-09-23",
       "location": "Madrid, Community of Madrid, Spain",
       "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
@@ -59,7 +41,7 @@
     {
       "id": "8a6cc86ad4b3",
       "title": "Corporate Finance Manager",
-      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-harper-finley-professional-recruitment-4462944365?position=42&pageNum=0&refId=hHFJe2huTwXQEYhvV3mvEQ%3D%3D&trackingId=NIkS3YxGsyL4zDh2vwQs6Q%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-harper-finley-professional-recruitment-4462944365?position=50&pageNum=0&refId=OVrKa2y7zjQ72pBOGSZeDA%3D%3D&trackingId=nmkvFyQ6GFeDpIVbytx7dg%3D%3D",
       "description": "Harper Finley Professional Recruitment | \nCorporate Finance Manager\nLocation: Athlone, Co. Westmeath\nWorking Hours: Full-Time, Office-Based\n\n\nThe Role\nWe are seeking an experienced Corporate Finance Manager to join a professional advisory team in Athlone. You will work primarily across Corporate Finance and Transaction Support assignments, managing projects and working closely with the Director.\nThis is a varied role offering exposure to challenging assignments involving business planning, acqui",
       "published": "2026-09-16",
       "location": "Athlone, Ireland",
@@ -77,7 +59,7 @@
     {
       "id": "8a98ad039ca4",
       "title": "Associate Director, Corporate Finance",
-      "url": "https://ie.linkedin.com/jobs/view/associate-director-corporate-finance-at-steering-point-4469869144?position=17&pageNum=0&refId=hHFJe2huTwXQEYhvV3mvEQ%3D%3D&trackingId=G39Vf%2BnN08WzMva7Ww0K%2BQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/associate-director-corporate-finance-at-steering-point-4469869144?position=19&pageNum=0&refId=OVrKa2y7zjQ72pBOGSZeDA%3D%3D&trackingId=owoEZFA8bA7Q1MMn0ovMsg%3D%3D",
       "description": "Steering Point | \nOur client, a well-established Corporate Finance team, currently seeks to hire an Associate Director. This is a superb opportunity to work with a busy team with good deal flow.\n\n\n\n\nRole:\n\n- Take ownership of the day-to-day transaction management of M&amp;A mandates from initial meetings to closing\n- Oversee complex financial modelling, valuations and due diligence findings\n- Direct the preparation and review of key documentation (pitch books, teasers, management presentations a",
       "published": "2026-09-21",
       "location": "Dublin, County Dublin, Ireland",
@@ -95,7 +77,7 @@
     {
       "id": "3e64c87314b9",
       "title": "CFO (Chief Financial Officer)",
-      "url": "https://es.linkedin.com/jobs/view/cfo-chief-financial-officer-at-fundcraft-4469149764?position=22&pageNum=0&refId=hHFJe2huTwXQEYhvV3mvEQ%3D%3D&trackingId=C2Zqep%2FD%2F5Yr08WwuRX4YA%3D%3D",
+      "url": "https://es.linkedin.com/jobs/view/cfo-chief-financial-officer-at-fundcraft-4469149764?position=27&pageNum=0&refId=OVrKa2y7zjQ72pBOGSZeDA%3D%3D&trackingId=wSzd1I6re%2BNa%2BX0jP%2FmxYQ%3D%3D",
       "description": "fundcraft | fundcraft is seeking an experienced, forward-thinking Chief Financial Officer (CFO) to join our executive leadership team during a pivotal phase of hyper-growth. Reporting directly to the CEO and partnering closely with the Board, the CFO will serve as the strategic architect of fundcraft's financial strategy, corporate growth, and capital allocation across European markets.\n\nAs fundcraft prepares for its next growth stage, the CFO will co-lead fundraising initiatives, champion inves",
       "published": "2026-09-18",
       "location": "Girona, Catalonia, Spain",
@@ -111,9 +93,27 @@
       }
     },
     {
+      "id": "b385fc32c1ee",
+      "title": "Director of Finance",
+      "url": "https://de.linkedin.com/jobs/view/director-of-finance-at-arbeitnow-jobs-in-germany-uk-4470693032?position=7&pageNum=0&refId=OVrKa2y7zjQ72pBOGSZeDA%3D%3D&trackingId=R1E47VfrE1%2BV7ZblmbaH1w%3D%3D",
+      "description": "Arbeitnow - Jobs in Germany & UK | This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in 2025 (FT1000).\n\nWe are building the future of marketing by rewarding our community of over 80 million users for engaging with our advertisers’ products. We are offering a new way to acquire users for the b",
+      "published": "2026-09-23",
+      "location": "Berlin, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "0d5a8ca35a2d",
       "title": "Group Chief Financial Officer",
-      "url": "https://ie.linkedin.com/jobs/view/group-chief-financial-officer-at-artemis-human-capital-4467617670?position=48&pageNum=0&refId=GJwuig%2BrHurLavk4amPO2g%3D%3D&trackingId=lJhVHsggZBjKAFQHGPBKZQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/group-chief-financial-officer-at-artemis-human-capital-4467617670?position=44&pageNum=0&refId=8B4pWTPmP%2BBeHRd1gZGZsg%3D%3D&trackingId=3c57%2BDj%2FNgqD3%2FcqPINnkA%3D%3D",
       "description": "Artemis Human Capital | \nArtemis Human Capital are delighted to be partnering with a high growth SME in the city centre to appoint a hands on Chief Financial Officer to oversee the finance function and help drive the next phase of growth.\n\n\nThe CFO will be a key member of the executive leadership team and a close partner to the CEO and the Investors, responsible for leading the finance function end-to-end while driving value creation across M&amp;A, integration, and performance improvement.\n\n\nTh",
       "published": "2026-09-21",
       "location": "Dublin, County Dublin, Ireland",
@@ -129,12 +129,12 @@
       }
     },
     {
-      "id": "1542ac819a60",
+      "id": "f441f0607959",
       "title": "Financial Director",
-      "url": "https://hu.linkedin.com/jobs/view/financial-director-at-ispeedtolead-4469804768?position=30&pageNum=0&refId=GJwuig%2BrHurLavk4amPO2g%3D%3D&trackingId=z%2BS53KZ4FkLHOzVdofCVDw%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/financial-director-at-ispeedtolead-4469808246?position=28&pageNum=0&refId=8B4pWTPmP%2BBeHRd1gZGZsg%3D%3D&trackingId=j7Q%2B1PEYpSQIixpzxqkMXQ%3D%3D",
       "description": "iSpeedToLead | About The Company\n\nTurning marketing into a market-domination weapon, we created a new category - the marketplace for future customers. Businesses shop for leads as they shop for products in e-commerce: you see everything about a lead before you buy - full transparency, control, and predictable outcomes. We're the #1 lead marketplace in the USA, and we're accelerating.\n\nRole overview\n\nWe're looking for a Financial Director who will own the full finance function with a strong focus",
       "published": "2026-09-20",
-      "location": "Budapest, Budapest, Hungary",
+      "location": "Berlin, Berlin, Germany",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -201,6 +201,24 @@
       }
     },
     {
+      "id": "931d26651688",
+      "title": "Senior Event Officer",
+      "url": "https://jobs.ebrd.com/job/London-Senior-Event-Officer/1440204433/",
+      "description": "Senior Event Officer Senior Event Officer London, GB 22 Sept 2026 0.00 km London, GB 22 Sept 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "0c4078cc3e10",
       "title": "Principal, Inclusive Procurement",
       "url": "https://jobs.ebrd.com/job/Belgrade-Principal%2C-Inclusive-Procurement/1439571533/",
@@ -237,27 +255,9 @@
       }
     },
     {
-      "id": "3b5bf6b4f5bc",
-      "title": "Principal, ESD",
-      "url": "https://jobs.ebrd.com/job/London-Principal%2C-ESD/1436231133/",
-      "description": "Principal, ESD Principal, ESD London, GB 11 Sept 2026 0.00 km London, GB 11 Sept 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "f461faad13ad",
       "title": "Debt Advisory - Senior Manager",
-      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4414657005?position=36&pageNum=0&refId=hHFJe2huTwXQEYhvV3mvEQ%3D%3D&trackingId=rPFPkVPZ%2BQETAWdmCiJHcQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4414657005?position=45&pageNum=0&refId=OVrKa2y7zjQ72pBOGSZeDA%3D%3D&trackingId=o5Ne0sRoj178roMyVEQJ%2FA%3D%3D",
       "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
       "published": "2026-09-21",
       "location": "Dublin, County Dublin, Ireland",
@@ -273,9 +273,27 @@
       }
     },
     {
+      "id": "c941a51ed6ba",
+      "title": "Debt Advisory - Manager",
+      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-manager-at-deloitte-4451567676?position=38&pageNum=0&refId=OVrKa2y7zjQ72pBOGSZeDA%3D%3D&trackingId=EEPQeoNHcTEK4%2Bhig2G08g%3D%3D",
+      "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
+      "published": "2026-09-22",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "584811f10aea",
       "title": "Head of Finance",
-      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-michael-page-4467110796?position=45&pageNum=0&refId=GJwuig%2BrHurLavk4amPO2g%3D%3D&trackingId=65IvUEJijDtkSzvdZxeRSg%3D%3D",
+      "url": "https://nl.linkedin.com/jobs/view/head-of-finance-at-michael-page-4467110796?position=41&pageNum=0&refId=8B4pWTPmP%2BBeHRd1gZGZsg%3D%3D&trackingId=96eLdjzUfrZn17ci2L34vw%3D%3D",
       "description": "Michael Page | \n\n- Lead and develop the finance and administration team, providing clear direction, coaching and performance management.\n- Oversee monthly, quarterly and annual closing activities across multiple legal entities.\n- Drive budgeting, forecasting and cash-flow planning processes while improving financial visibility across the business.\n- Deliver accurate management reporting and KPI dashboards for operational and executive stakeholders.\n- Manage liquidity, working capital and interco",
       "published": "2026-09-16",
       "location": "Amsterdam, North Holland, Netherlands",
@@ -293,7 +311,7 @@
     {
       "id": "f60f97777c52",
       "title": "Finance Director",
-      "url": "https://pt.linkedin.com/jobs/view/finance-director-at-mota-engil-4467378507?position=31&pageNum=0&refId=GJwuig%2BrHurLavk4amPO2g%3D%3D&trackingId=x2PbkZI71Uevja1BKfjehQ%3D%3D",
+      "url": "https://pt.linkedin.com/jobs/view/finance-director-at-mota-engil-4467378507?position=27&pageNum=0&refId=8B4pWTPmP%2BBeHRd1gZGZsg%3D%3D&trackingId=T4JnjMmuq3GIUzhFWzNAsQ%3D%3D",
       "description": "Mota-Engil | Luso Global Mining is a Mota-Engil Group company focused on the development and operation of mining projects, with a strategic presence in Africa. LGM is currently developing an iron ore mining project in Cameroon, based on a Direct Shipping Ore (DSO) model, with an integrated mine-to-port value chain. The project is expected to operate under a contract mining model, with specialised contractors responsible for mining activities while LGM retains strategic, technical, commercial and",
       "published": "2026-09-21",
       "location": "Porto, Porto, Portugal",
@@ -309,31 +327,13 @@
       }
     },
     {
-      "id": "7a5eabb9b071",
-      "title": "Senior Manager Finance Business Partnering",
-      "url": "https://ie.linkedin.com/jobs/view/senior-manager-finance-business-partnering-at-spot-recruitment-4470293558?position=49&pageNum=0&refId=hHFJe2huTwXQEYhvV3mvEQ%3D%3D&trackingId=K0sKtSj9mxLaJEcxu5C%2BsQ%3D%3D",
-      "description": "Spot Recruitment | \nAbout the job\n\n\n𝗧𝗵𝗲 𝗖𝗼𝗺𝗽𝗮𝗻𝘆:\n\n- Global leader operating within the healthcare and clinical research sector.\n- High-performing finance team supporting a large international division.\n- Highly visible role with genuine scope for career progression within a fast-paced, growth-oriented business.\n\n\n𝗧𝗵𝗲 𝗥𝗼𝗹𝗲:\n\n- Commercially focused leadership role partnering directly with senior operational stakeholders to drive financial performance and strategic decision-making.\n- Leading financ",
-      "published": "2026-09-22",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "22e535df4bd1",
-      "title": "Strategic Finance Analyst Corporate",
-      "url": "https://it.linkedin.com/jobs/view/strategic-finance-analyst-corporate-at-azienda-riservata-italia-4466850158?position=39&pageNum=0&refId=hHFJe2huTwXQEYhvV3mvEQ%3D%3D&trackingId=iSzWOkmf1AdMSKi%2FwKJdCg%3D%3D",
-      "description": "Azienda Riservata Italia | \nPer importante e prestigioso cliente in ambito Telco, si ricerca una figura di Strategic Finance Analyst, a diretto riporto del Chief Strategy Officer.\n\n\nCompetenze tecniche di base:\n\n\n• Sviluppo e gestione di modelli finanziari avanzati per la valutazione di iniziative strategiche aziendali\n• Predisposizione di Business Plan industriali e finanziari (analisi cash flow, proiezioni economico-finanziarie, piani di rimborso)\n• Simulazione di scenari strategici e diverse ",
-      "published": "2026-09-16",
-      "location": "Rome, Latium, Italy",
-      "source": "apify_linkedin_blended",
+      "id": "8a261e6ad961",
+      "title": "Chief Financial Officer",
+      "url": "https://nl.linkedin.com/jobs/view/chief-financial-officer-at-devonshire-4469302090?position=50&pageNum=0&refId=8B4pWTPmP%2BBeHRd1gZGZsg%3D%3D&trackingId=tSc3U%2BROyjzztCh6qW3vUA%3D%3D",
+      "description": "Devonshire | \nChief Financial Officer (CFO) | Paragon Central Europe\nHelp shape the next chapter of Paragon Central Europe.\nParagon Central Europe is entering an exciting new phase. Five national organisations across the Netherlands, Belgium, Germany, Austria and Switzerland have recently come together as one integrated region, representing €230m+ in annual revenue and around 630 employees.\nAs we continue to scale, we are looking for an experienced Chief Financial Officer to join our Central Eur",
+      "published": "2026-09-23",
+      "location": "The Randstad, Netherlands",
+      "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
