@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T12:12:17.734268+00:00",
-  "total": 29,
+  "generated_at": "2026-10-15T11:49:11.396463+00:00",
+  "total": 32,
   "items": [
     {
       "id": "b0e68d9969b2",
       "title": "Head of Finance (m/f/d)",
-      "url": "https://de.linkedin.com/jobs/view/head-of-finance-m-f-d-at-much-consulting-4476092367?position=21&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=LleInWluQ737WrDqfciOeA%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/head-of-finance-m-f-d-at-much-consulting-4476092367?position=24&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=bOBtCRby1BMEgh%2Fps4CG2A%3D%3D",
       "description": "much. Consulting | \nmuch. Consulting is an ERP &amp; automation consultancy with 120 people in Germany, Portugal and the UK. We grow fast and profitable, which gives us room to make bold moves. Next up: building a finance function that matches our size and starting to acquire competitors.\nThe role\n\nYou join as the first finance leader of the group and report directly to the CEO. Your job is to take our finance function to the next level and kickstart our M&amp;A. You work with a small team and o",
       "published": "2026-10-13",
       "location": "Munich, Bavaria, Germany",
@@ -57,12 +57,12 @@
       }
     },
     {
-      "id": "ca17260d514e",
-      "title": "Finance Manager (m/f/d)",
-      "url": "https://de.linkedin.com/jobs/view/finance-manager-m-f-d-at-much-consulting-4476412757?position=3&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=LbXzBn9XG0eJbG4gZHemAQ%3D%3D",
-      "description": "much. Consulting | \nAbout much. GmbH\nmuch. Consulting is an ERP &amp; automation consultancy with 120 people in Germany, Portugal and the UK. We grow fast and profitable, which gives us room to make bold moves. Next up: building a finance function that matches our size and starting to acquire competitors.\nThe role\n\n\nYou join as the first finance manager of the group and report directly to the CEO. Your job is to take our finance function to the next level and kickstart our M&amp;A. You work with",
-      "published": "2026-10-13",
-      "location": "Munich, Bavaria, Germany",
+      "id": "28ef62777d1b",
+      "title": "Corporate Finance Manager",
+      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-engage-people-recruitment-4478850931?position=14&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=GeDn7qUBgDylSrePVVzrHw%3D%3D",
+      "description": "Engage People Recruitment | \nCorporate Finance Manager - M&amp;A\n \nA boutique corporate finance firm is seeking a Corporate Finance Manager to join its thriving business.\nBased in Galway with hybrid/remote working as standard, you will be tasked with providing strategic advice to a portfolio of clients on the buy side, the sell side, and on fundraising mandates.\n\n\nThe role\nYou will be an integral part of the firm, reporting to the MD, and managing a range of M&amp;A transactions across numerous ",
+      "published": "2026-10-15",
+      "location": "Galway, County Galway, Ireland",
       "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -77,7 +77,7 @@
     {
       "id": "9136c5a1ab72",
       "title": "M&A and Project Finance Associate / Manager",
-      "url": "https://it.linkedin.com/jobs/view/m-a-and-project-finance-associate-manager-at-galileo-4477841247?position=5&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=VpM%2FGkvTHIi%2F0w4DOO%2FTqA%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/m-a-and-project-finance-associate-manager-at-galileo-4477841247?position=5&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=UlaJzcg942GYN27uQG0N2g%3D%3D",
       "description": "Galileo | Job Description\n\nGalileo is a fast-growing renewable energy developer, investor and operator. Our mission is to make a meaningful contribution to the European renewable energy transition. This year, we completed our transition to Independent Power Producer (IPP) in Italy, our first market for owned operating assets, with the ambition to extend this model to other key European markets in the coming years.\n\nSince our foundation in 2020, we have secured a pipeline of over 17 GW of solar P",
       "published": "2026-10-09",
       "location": "Milan, Lombardy, Italy",
@@ -93,9 +93,27 @@
       }
     },
     {
+      "id": "ca17260d514e",
+      "title": "Finance Manager (m/f/d)",
+      "url": "https://de.linkedin.com/jobs/view/finance-manager-m-f-d-at-much-consulting-4476412757?position=3&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=m5DMUGh62%2F25NoyiwnMotg%3D%3D",
+      "description": "much. Consulting | \nAbout much. GmbH\nmuch. Consulting is an ERP &amp; automation consultancy with 120 people in Germany, Portugal and the UK. We grow fast and profitable, which gives us room to make bold moves. Next up: building a finance function that matches our size and starting to acquire competitors.\nThe role\n\n\nYou join as the first finance manager of the group and report directly to the CEO. Your job is to take our finance function to the next level and kickstart our M&amp;A. You work with",
+      "published": "2026-10-13",
+      "location": "Munich, Bavaria, Germany",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 4.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 4.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "e685bdec51ca",
       "title": "Group Project & Corporate Finance Manager",
-      "url": "https://ie.linkedin.com/jobs/view/group-project-corporate-finance-manager-at-fk-international-financial-search-and-selection-4477815205?position=1&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=ZjQJrk0w74Q0NKKWSkILHA%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/group-project-corporate-finance-manager-at-fk-international-financial-search-and-selection-4477815205?position=1&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=NpQvF1ve02eRxd99cP7B4Q%3D%3D",
       "description": "FK International - Financial Search and Selection | \nJob Description\nFK International is partnering exclusively with an ambitious, fast-growing renewable energy business to appoint a Group Project &amp; Corporate Finance Manager.\n\n\nThis is an exciting opportunity to join a well-backed, entrepreneurial company with significant growth ambitions, playing a central role in financing and delivering a substantial pipeline of renewable energy projects.\n\n\nKey Responsibilities\n\n- Lead financial modelling",
       "published": "2026-10-09",
       "location": "Dublin, County Dublin, Ireland",
@@ -118,6 +136,24 @@
       "published": "",
       "location": "",
       "source": "afdb",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "bfeac978705a",
+      "title": "Associate Director, Head of Procurement & Implementation",
+      "url": "https://jobs.ebrd.com/job/Istanbul-Associate-Director%2C-Head-of-Procurement-&-Implementation/1446070333/",
+      "description": "Associate Director, Head of Procurement & Implementation Associate Director, Head of Procurement & Implementation Istanbul, TR 9 Oct 2026 0.00 km Istanbul, TR 9 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 3.0,
@@ -165,24 +201,6 @@
       }
     },
     {
-      "id": "bfeac978705a",
-      "title": "Associate Director, Head of Procurement & Implementation",
-      "url": "https://jobs.ebrd.com/job/Istanbul-Associate-Director%2C-Head-of-Procurement-&-Implementation/1446070333/",
-      "description": "Associate Director, Head of Procurement & Implementation Associate Director, Head of Procurement & Implementation Istanbul, TR 9 Oct 2026 0.00 km Istanbul, TR 9 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "0789ebcf272e",
       "title": "Principal, Engineering, AI",
       "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Engineering%2C-AI/1424667633/",
@@ -201,10 +219,10 @@
       }
     },
     {
-      "id": "5e375ae1da2f",
-      "title": "Principal, Delivery Manager ITSM & ServiceNow",
-      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Delivery-Manager-ITSM-&-ServiceNow/1443430333/",
-      "description": "Principal, Delivery Manager ITSM & ServiceNow Principal, Delivery Manager ITSM & ServiceNow Sofia, BG 1 Oct 2026 0.00 km Sofia, BG 1 Oct 2026",
+      "id": "8c3301f31f26",
+      "title": "Principal, EU Partnerships",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-EU-Partnerships/1443173333/",
+      "description": "Principal, EU Partnerships Principal, EU Partnerships London, GB 1 Oct 2026 0.00 km London, GB 1 Oct 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -221,7 +239,7 @@
     {
       "id": "f5ed6764ca44",
       "title": "Corporate Treasury & Funding Lead",
-      "url": "https://be.linkedin.com/jobs/view/corporate-treasury-funding-lead-at-ucb-4468506727?position=37&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=QivHK6sRbdBK52tlb2ngug%3D%3D",
+      "url": "https://be.linkedin.com/jobs/view/corporate-treasury-funding-lead-at-ucb-4468506727?position=43&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=AjS%2Bfno5w03%2FLDJ%2Bi%2BdJXA%3D%3D",
       "description": "UCB | \nMake your mark for patients\n\n\nWe are looking for a Corporate Treasury &amp; Funding Lead who is strategic yet hands-on, collaborative and analytical to join us in our Treasury and Insurance team, based in our headquarters office in Brussels, Belgium.\n\n\nAbout The Role\nIn support of UCB's continued growth, we are strengthening our Treasury and Insurance team with the creation of this additional role. As a key member of the team, you will help shape and maintain UCB's global funding capabili",
       "published": "2026-10-13",
       "location": "Brussels, Brussels Region, Belgium",
@@ -239,7 +257,7 @@
     {
       "id": "f461faad13ad",
       "title": "Debt Advisory - Senior Manager",
-      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4414657005?position=28&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=TuEmIfIylOR0h%2BqLpgSYIA%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4414657005?position=32&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=DEVv1vrG3%2BxQYts2YFLXZA%3D%3D",
       "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
       "published": "2026-10-13",
       "location": "Dublin, County Dublin, Ireland",
@@ -255,9 +273,27 @@
       }
     },
     {
+      "id": "c941a51ed6ba",
+      "title": "Debt Advisory - Manager",
+      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-manager-at-deloitte-4451567676?position=28&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=6CxaSt1LOqFxo9J4dwmihg%3D%3D",
+      "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
+      "published": "2026-10-14",
+      "location": "Dublin, County Dublin, Ireland",
+      "source": "apify_linkedin_blended",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 3.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "70a84a3708ba",
       "title": "Financial Planning Manager",
-      "url": "https://it.linkedin.com/jobs/view/financial-planning-manager-at-s-you-italia-4476656002?position=22&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=me4Lj1AYHhwqwAxNtJGJJw%3D%3D",
+      "url": "https://it.linkedin.com/jobs/view/financial-planning-manager-at-s-you-italia-4476656002?position=25&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=inRm%2Bncq%2F65md5P1Ez14LQ%3D%3D",
       "description": "S&you Italia | \nS&amp;You, brand internazionale del Gruppo Synergie, è specializzata nella ricerca e selezione di professionisti di Middle e Senior Management in grado di generare valore in organizzazioni ad alta complessità. Affianchiamo PMI, aziende e gruppi industriali nella ricerca di figure manageriali specialistiche per supportare la costruzione di organizzazioni solide, competitive e orientate al futuro, contribuendo concretamente alla loro crescita e trasformazione.\n\n\nLa Divisione Financ",
       "published": "2026-10-14",
       "location": "Milan, Lombardy, Italy",
@@ -275,7 +311,7 @@
     {
       "id": "2ea8e7ac7cb1",
       "title": "Senior Treasury and Corporate Finance Analyst",
-      "url": "https://de.linkedin.com/jobs/view/senior-treasury-and-corporate-finance-analyst-at-jss-4475246299?position=24&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=ZaAeeOKJibNAlg7MEd3YTg%3D%3D",
+      "url": "https://de.linkedin.com/jobs/view/senior-treasury-and-corporate-finance-analyst-at-jss-4475246299?position=26&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=IijTyoxkSIpepMZTVGUdLg%3D%3D",
       "description": "JSS | \nMy client, a fast growing fin tech, is looking for a Senior Treasury and Corporate Finance Analyst to report into the Head of Treasury and Corporate Finance. This is an exciting new role ideally based in Berlin, or otherwise Frankfurt or London.\n\n\nResponsibilities:\n\n- Lead the expansion of the Corporate Finance / Capital markets function \n- Expand funding mix through mainly ABL facilities\n- Create and expand strategic relationships, leveraging contacts to facilitate debt financing transac",
       "published": "2026-10-09",
       "location": "Berlin, Germany",
@@ -291,45 +327,9 @@
       }
     },
     {
-      "id": "234d2cc0f6fc",
-      "title": "Finance Manager",
-      "url": "https://lu.linkedin.com/jobs/view/finance-manager-at-uplift360-4476791034?position=25&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=JEVgCzXVrESoz15bxXtNQQ%3D%3D",
-      "description": "Uplift360 | \nClosing Date: Friday 23rd October\nLocation: House of BioHealth, Esch-sur-Alzette, L-4354\nJob Title: Finance Manager\nJob Type: Full time (40 hours); permanent\nSalary: €85–95k per annum\nAbout the Role\nWe are looking for a hands-on Finance Manager to build and run the financial&nbsp;\nbackbone of our two-entity group (Luxembourg + UK). This is not a strategy or&nbsp;\nfundraising role, our external accountants handle bookkeeping and tax, and our&nbsp;\nfractional CFO owns budgeting, cashf",
-      "published": "2026-10-07",
-      "location": "Luxembourg, Luxembourg",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "6bc0dd1a1669",
-      "title": "Investment & Corporate Finance Manager-Energy-Milano Centro",
-      "url": "https://it.linkedin.com/jobs/view/investment-corporate-finance-manager-energy-milano-centro-at-michael-page-4475209189?position=6&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=pOHXg3HhFKhDjLI9g%2B1q1w%3D%3D",
-      "description": "Michael Page | \nOttima opportunità di Investment &amp; Corporate Finance Manager\nDettagli sul cliente\nRealtà di recente costituzione, attiva nello sviluppo di progetti energetici su larga scala a livello mondiale. L'organizzazione opera nei settori delle infrastrutture elettriche, delle energie rinnovabili e delle soluzioni di energy storage, con una pipeline di progetti multimiliardari e il supporto di investitori istituzionali di primissimo livello.\nIl team è composto da professionisti di alti",
-      "published": "2026-10-09",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "3cbc0599dada",
       "title": "Authorised Manager",
-      "url": "https://lu.linkedin.com/jobs/view/authorised-manager-at-cobalt-recruitment-4474825795?position=8&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=3NTbaedKzWD%2FGv4AymyqCw%3D%3D",
+      "url": "https://lu.linkedin.com/jobs/view/authorised-manager-at-cobalt-recruitment-4474825795?position=8&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=zw3uiF7IBgsY9UpwSEemnw%3D%3D",
       "description": "Cobalt Recruitment | \nAbout the job\nPosition: Authorised Manager - Capital Markets\nLocation: Luxembourg\nWorking arrangement: Hybrid working\n\n\nSummary\nCobalt Recruitment is supporting a confidential search for a senior capital-markets professional to join a financial-services business in Luxembourg.\n\n\nYou will combine commercial leadership and transaction oversight with senior executive responsibility, working with colleagues and external advisers to oversee business activities, financial perform",
       "published": "2026-10-08",
       "location": "Luxembourg, Luxembourg",
@@ -345,13 +345,13 @@
       }
     },
     {
-      "id": "a161021a99a5",
-      "title": "Head of Finance (f/m/d)",
-      "url": "https://de.linkedin.com/jobs/view/head-of-finance-f-m-d-at-options-group-germany-gmbh-4474467897?position=47&pageNum=0&refId=t0T9hpFoBaDT1w1S7uz7Lw%3D%3D&trackingId=YZbdF9PnQ8pTaXcALlpiwA%3D%3D",
-      "description": "Options Group Germany GmbH | \nOur client is a pan-European renewable energy investment and project development company. Its portfolio spans solar PV, battery storage, data centre development and onshore wind across several European markets. The team covers the full investment lifecycle, from origination and development through financing and construction to asset management. The company is part of an established international group with a history of more than six decades.\n\nAs part of its growth p",
-      "published": "2026-10-07",
-      "location": "Frankfurt, Hesse, Germany",
-      "source": "apify_linkedin_investment_director",
+      "id": "6bc0dd1a1669",
+      "title": "Investment & Corporate Finance Manager-Energy-Milano Centro",
+      "url": "https://it.linkedin.com/jobs/view/investment-corporate-finance-manager-energy-milano-centro-at-michael-page-4475209189?position=6&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=jNugsSQAjPB%2FlqZZ%2BzKsBQ%3D%3D",
+      "description": "Michael Page | \nOttima opportunità di Investment &amp; Corporate Finance Manager\nDettagli sul cliente\nRealtà di recente costituzione, attiva nello sviluppo di progetti energetici su larga scala a livello mondiale. L'organizzazione opera nei settori delle infrastrutture elettriche, delle energie rinnovabili e delle soluzioni di energy storage, con una pipeline di progetti multimiliardari e il supporto di investitori istituzionali di primissimo livello.\nIl team è composto da professionisti di alti",
+      "published": "2026-10-09",
+      "location": "Milan, Lombardy, Italy",
+      "source": "apify_linkedin_blended",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 3.0,
@@ -365,7 +365,7 @@
     {
       "id": "0c975867c9c3",
       "title": "Finance Director",
-      "url": "https://pl.linkedin.com/jobs/view/finance-director-at-lhh-4477155455?position=13&pageNum=0&refId=t0T9hpFoBaDT1w1S7uz7Lw%3D%3D&trackingId=Jbv7QXe%2FM14I7EM2OGmiXA%3D%3D",
+      "url": "https://pl.linkedin.com/jobs/view/finance-director-at-lhh-4477155455?position=10&pageNum=0&refId=wOnxJL8AiuHCJAB11xqQ%2Fg%3D%3D&trackingId=pmam20EiBzJOKu5WD2zD6Q%3D%3D",
       "description": "LHH | \nRole Overview:\nFor our client – a dynamic and growing company active in the renewable energy sector – we are looking for an experienced Finance Director to lead the company's finance function and support its continued growth and expansion.\n\n\nThe company develops and manages renewable energy projects across selected international markets, with a focus on wind farms and other large-scale energy investments.\n\n\nThe Finance Director will work closely with senior management, shareholders, inves",
       "published": "2026-10-08",
       "location": "Warsaw, Mazowieckie, Poland",
@@ -383,7 +383,7 @@
     {
       "id": "c0172d6fdbb1",
       "title": "Senior Product Specialist - Project & Infrastructure Finance (f/m/x)",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-specialist-project-infrastructure-finance-f-m-x-at-raiffeisen-bank-international-ag-4478302703?position=9&pageNum=0&refId=tKFRgtyRYA8Q%2Bruahjm7gg%3D%3D&trackingId=8w0QGJzZ0Yp03IjW6IVMrw%3D%3D",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-specialist-project-infrastructure-finance-f-m-x-at-raiffeisen-bank-international-ag-4478302703?position=14&pageNum=0&refId=jkdCVeCLXOXR0g8xjBxQYA%3D%3D&trackingId=dp9ExggE5jufAjjAkzSbyA%3D%3D",
       "description": "Raiffeisen Bank International AG | \nAre you ready to shape landmark energy and infrastructure transactions across Central and Eastern Europe? RBI’s Project &amp; Infrastructure Finance team is a regional powerhouse, providing financial advisory, debt structuring and financing solutions across the infrastructure spectrum — with a strong focus on renewables, energy transition, data centers, and digital infrastructure.\n \nAs a Senior Product Specialist in Project &amp; Infrastructure Finance, you wi",
       "published": "2026-10-11",
       "location": "Vienna, Vienna, Austria",
@@ -419,7 +419,7 @@
     {
       "id": "0c6ed801ff76",
       "title": "Financial Controller",
-      "url": "https://lu.linkedin.com/jobs/view/financial-controller-at-3s-money-4475208724?position=41&pageNum=0&refId=gjHlKAOqykDwPD%2F1BXTAsA%3D%3D&trackingId=%2FTnRaexYWPm%2FmDc83VvIsA%3D%3D",
+      "url": "https://lu.linkedin.com/jobs/view/financial-controller-at-3s-money-4475208724?position=49&pageNum=0&refId=qiJUw10MoHDX7KcPaqRtVA%3D%3D&trackingId=UKM7%2FW4uFQ4bMqaXHJ4W7w%3D%3D",
       "description": "3S Money | \nFinancial Controller\nLuxembourg\nHybrid: up to 2 remote working days weekly \n\n\nWe are looking for a Financial Controller to take ownership of the finance function for the Luxembourg entity and its branches. You will be the senior finance lead on the ground in Luxembourg, reporting to the Group CFO and acting as a key partner to the Luxembourg Authorised managers.\nThis is a hands-on role with real scope. As the entity grows, we expect the successful candidate to step up to Head of Fina",
       "published": "2026-10-09",
       "location": "Luxembourg, Luxembourg",
@@ -435,9 +435,45 @@
       }
     },
     {
+      "id": "1a7b8b45097a",
+      "title": "Group CFO (M/K)",
+      "url": "https://pl.linkedin.com/jobs/view/group-cfo-m-k-at-manpower-polska-4475677783?position=50&pageNum=0&refId=wOnxJL8AiuHCJAB11xqQ%2Fg%3D%3D&trackingId=EMu3YaKtm9CTvZYGJeNeWg%3D%3D",
+      "description": "Manpower Polska | Dla naszego Klienta, dużej grupy spółek działających w sektorze usługowym, poszukujemy osoby na stanowisko: Group CFO (M/K).\n \n To kluczowa rola w organizacji, obejmująca odpowiedzialność za finanse kilku podmiotów oraz dalszy rozwój funkcji finansowej na poziomie całej Grupy.\n \n Szukamy osoby, która z jednej strony zadba o płynność, jakość danych finansowych i efektywność procesów, a z drugiej będzie partnerem dla Zarządu w podejmowaniu decyzji biznesowych i wyznaczaniu dalszy",
+      "published": "2026-10-12",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "c1cf03966172",
+      "title": "Chief Financial Officer",
+      "url": "https://se.linkedin.com/jobs/view/chief-financial-officer-at-sam-executive-search-sweden-4479050140?position=41&pageNum=0&refId=wOnxJL8AiuHCJAB11xqQ%2Fg%3D%3D&trackingId=%2Bi8LxstwPKmeD67IQ7fyDg%3D%3D",
+      "description": "SAM Executive Search Sweden | \nSAM Executive Search söker CFO till LEKIA AB\n\n\nOm Lekia\nLekia är Nordens största leksakskedja, med över 130 butiker i Sverige och ett 30-tal i Norge. Butikerna drivs av lokala entreprenörer som står bakom ett gemensamt varumärke, centrala inköp, ett eget lager i Malmö och en växande e-handel. Nu tar Lekia nästa steg i sin utveckling, med en tydlig tillväxtplan och en organisation som ska växa i både storlek och mognad.\n\n\nRollen\nSom CFO får du en nyckelroll i den re",
+      "published": "2026-10-13",
+      "location": "Malmo, Skåne County, Sweden",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "c960e8c53d54",
       "title": "Finance Director | PE Backed",
-      "url": "https://ie.linkedin.com/jobs/view/finance-director-pe-backed-at-fortis-recruitment-4476435837?position=36&pageNum=0&refId=t0T9hpFoBaDT1w1S7uz7Lw%3D%3D&trackingId=JzWqzIuY120O8sHyrnnHVQ%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/finance-director-pe-backed-at-fortis-recruitment-4476435837?position=34&pageNum=0&refId=wOnxJL8AiuHCJAB11xqQ%2Fg%3D%3D&trackingId=73Xh0LR8%2BY5oEDgqKo7upg%3D%3D",
       "description": "Fortis Recruitment | \nA fast-growing, PE-backed manufacturing business is hiring a Finance Director to lead finance across its UK and European operations. Dublin or UK based - a hands-on role at the centre of an ambitious growth plan\n\n\nCommercial, hands-on and high-impact. This is a role for a finance leader who wants to build and scale a function through organic growth and acquisition, not inherit a finished one.\n\n\nWHY THIS ROLE STANDS OUT\n🟣 Business has scaled rapidly, is profitable and has si",
       "published": "2026-10-13",
       "location": "Dublin, County Dublin, Ireland",
@@ -453,30 +489,12 @@
       }
     },
     {
-      "id": "237836aff561",
-      "title": "FP26/72 - CFO",
-      "url": "https://it.linkedin.com/jobs/view/fp26-72-cfo-at-aeneas-ricerca-selezione-4477142445?position=14&pageNum=0&refId=t0T9hpFoBaDT1w1S7uz7Lw%3D%3D&trackingId=9TNqhHplPh2O0si6j39dJw%3D%3D",
-      "description": "AENEAS - Ricerca&Selezione | \nPer azienda che appartiene a un Gruppo operante nel settore dei servizi, contesto moderno e orientato al miglioramento continuo, con un solido piano di sviluppo, stiamo cercando il/la\n\n\nFP26/72 - CFO\n\n\nLa risorsa ricercata è un/a leader dotato/a di autorevolezza, affidabilità, visione strategica e trasversalità, punto di riferimento per il Board, il Team interno e gli stakeholder esterni.\nLa figura, in coordinamento con il Direttore Finanziario, sarà responsabile de",
-      "published": "2026-10-08",
-      "location": "Greater Udine Metropolitan Area",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "23137eb492f0",
-      "title": "Dyrektor Finansowy (CFO) - Fundusz Inwestycyjny (ASI)",
-      "url": "https://pl.linkedin.com/jobs/view/dyrektor-finansowy-cfo-fundusz-inwestycyjny-asi-at-b-right-4476821820?position=6&pageNum=0&refId=t0T9hpFoBaDT1w1S7uz7Lw%3D%3D&trackingId=rIDEL4TaDwapyM390kvanQ%3D%3D",
-      "description": "B:RIGHT | Nasz Klient to fundusz inwestycyjny (ASI) inwestujący w spółki z obszaru technologii i mediów cyfrowych. Zespół szuka osoby, która przejmie pełną kontrolę nad finansami funduszu i stanie się realnym partnerem biznesowym Zarządu oraz Komitetu Inwestycyjnego - nie tylko osobą odpowiedzialną za księgowość i raporty.\n\nTwoja misja\nZbudujesz od podstaw porządek finansowy funduszu – od cash flow i budżetu, przez raportowanie zarządcze i inwestorskie, po modele finansowe poszczególnych inwesty",
-      "published": "2026-10-09",
-      "location": "Cracow, Małopolskie, Poland",
+      "id": "850ffde3e0db",
+      "title": "Head of Finance",
+      "url": "https://se.linkedin.com/jobs/view/head-of-finance-at-drivers-first-4416816673?position=36&pageNum=0&refId=wOnxJL8AiuHCJAB11xqQ%2Fg%3D%3D&trackingId=ItBNXJvhpm3NlpwX53VKnw%3D%3D",
+      "description": "Drivers First | Head of Finance – Drivers First\n\n\nVi bygger infrastrukturen som yrkestrafiken saknar. Nu söker vi personen som leder vår finansfunktion och driver finansieringen samt investeringarna bakom vår fortsatta expansion.\n\n\nVad vi gör\nDrivers First bygger ett nordiskt nätverk av truckstops längs de viktigaste transportkorridorerna. Varje anläggning kombinerar parkering med service genom etablerade partners inom laddning, fordonstvätt och övrig infrastruktur för tung trafik. Vi har idag ö",
+      "published": "2026-10-13",
+      "location": "Stockholm, Stockholm County, Sweden",
       "source": "apify_linkedin_investment_director",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
@@ -491,7 +509,7 @@
     {
       "id": "302c6a6753c7",
       "title": "Finance Director / Future CFO",
-      "url": "https://pl.linkedin.com/jobs/view/finance-director-future-cfo-at-page-executive-4477679232?position=1&pageNum=0&refId=t0T9hpFoBaDT1w1S7uz7Lw%3D%3D&trackingId=gVA6X88YCYQMO2m3Gen0xw%3D%3D",
+      "url": "https://pl.linkedin.com/jobs/view/finance-director-future-cfo-at-page-executive-4477679232?position=1&pageNum=0&refId=wOnxJL8AiuHCJAB11xqQ%2Fg%3D%3D&trackingId=iIRWb7fKpRuQZYSFYgX6Vw%3D%3D",
       "description": "Page Executive | \n\n- Kluczowa rola z realnym wpływem na strategię i rozwój organizacji\n- Możliwość współtworzenia przyszłości firmy i objęcia funkcji członka Zarządu\n\n\n\nAbout Our Client\n\nNaszym Klientem jest innowacyjna firma technologiczna działająca w obszarze zaawansowanych rozwiązań przemysłowych. Organizacja dostarcza specjalistyczne rozwiązania dla klientów przemysłowych na rynkach międzynarodowych. W związku z dalszym rozwojem i koniecznością profesjonalizacji funkcji finansowej, poszukuj",
       "published": "2026-10-09",
       "location": "Warsaw, Mazowieckie, Poland",
@@ -507,9 +525,27 @@
       }
     },
     {
+      "id": "23137eb492f0",
+      "title": "Dyrektor Finansowy (CFO) - Fundusz Inwestycyjny (ASI)",
+      "url": "https://pl.linkedin.com/jobs/view/dyrektor-finansowy-cfo-fundusz-inwestycyjny-asi-at-b-right-4476821820?position=5&pageNum=0&refId=wOnxJL8AiuHCJAB11xqQ%2Fg%3D%3D&trackingId=6bI69kTchCa2w6TWUmv6lA%3D%3D",
+      "description": "B:RIGHT | Nasz Klient to fundusz inwestycyjny (ASI) inwestujący w spółki z obszaru technologii i mediów cyfrowych. Zespół szuka osoby, która przejmie pełną kontrolę nad finansami funduszu i stanie się realnym partnerem biznesowym Zarządu oraz Komitetu Inwestycyjnego - nie tylko osobą odpowiedzialną za księgowość i raporty.\n\nTwoja misja\nZbudujesz od podstaw porządek finansowy funduszu – od cash flow i budżetu, przez raportowanie zarządcze i inwestorskie, po modele finansowe poszczególnych inwesty",
+      "published": "2026-10-09",
+      "location": "Cracow, Małopolskie, Poland",
+      "source": "apify_linkedin_investment_director",
+      "archetype": "B_deal_structuring",
+      "archetype_label": "B · Deal Structuring & Investment",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 0.0,
+        "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "4b07b10511b5",
       "title": "Director Corporate Banking | Power, Utilities, Renewables",
-      "url": "https://ie.linkedin.com/jobs/view/director-corporate-banking-power-utilities-renewables-at-marks-sattin-4476657296?position=8&pageNum=0&refId=tKFRgtyRYA8Q%2Bruahjm7gg%3D%3D&trackingId=E99LzES51UBfnh0oWR88nw%3D%3D",
+      "url": "https://ie.linkedin.com/jobs/view/director-corporate-banking-power-utilities-renewables-at-marks-sattin-4476657296?position=13&pageNum=0&refId=jkdCVeCLXOXR0g8xjBxQYA%3D%3D&trackingId=%2FOyA5S812dYaPe0emgclfQ%3D%3D",
       "description": "Marks Sattin | \nDirector, Corporate Banking | Power, Utilities &amp; Renewables | Focus on European Origination\n\n\nLocation: Dublin, Ireland\nSector: Corporate &amp; Investment Banking\nSeniority: Director\nCompensation: Above-market base and uncapped discretionary bonus\n\n\nThe Opportunity\n\n\nAn international banking group is seeking an experienced Director of Corporate Banking, Power, Utilities &amp; Renewables to join its European business in Dublin. This is a senior, commercially focused role for a",
       "published": "2026-10-14",
       "location": "Dublin, County Dublin, Ireland",
@@ -520,6 +556,24 @@
       "scores": {
         "A_blended_catalytic": 0.0,
         "B_deal_structuring": 2.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "49a934eacc56",
+      "title": "Director, French Desk, Development & Agency Finance",
+      "url": "https://fr.linkedin.com/jobs/view/director-french-desk-development-agency-finance-at-standard-chartered-4478876142?position=1&pageNum=0&refId=jkdCVeCLXOXR0g8xjBxQYA%3D%3D&trackingId=7S4HoiYW3i1IrDj0Y6g25A%3D%3D",
+      "description": "Standard Chartered | About The Role\n\nWe are seeking an experienced and highly connected professional to lead our French Development &amp; Agency Finance (DAF) Desk in Paris. This is a senior origination and execution role responsible for driving Export Credit Agency (ECA), Development Finance Institution (DFI), and Multilateral Development Bank (MDB) financing solutions across the French market and beyond.\n\nReporting to the Managing Director, the successful candidate will originate, structure, a",
+      "published": "2026-10-15",
+      "location": "Paris, Île-de-France, France",
+      "source": "apify_linkedin_dfi_senior",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 2.0,
+      "scores": {
+        "A_blended_catalytic": 2.0,
+        "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
