@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T11:55:49.189950+00:00",
-  "total": 28,
+  "generated_at": "2026-10-24T11:19:02.668543+00:00",
+  "total": 8,
   "items": [
     {
       "id": "6e864a71cafa",
@@ -21,60 +21,6 @@
       }
     },
     {
-      "id": "1c2f11bbc52d",
-      "title": "Finance Lead",
-      "url": "https://be.linkedin.com/jobs/view/finance-lead-at-selby-jennings-4480387864?position=34&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=NFIVvKKak9JuVliG4lFH6w%3D%3D",
-      "description": "Selby Jennings | \n\nOur client is a Benelux-focused real estate investment platform that is currently undergoing a transformation as it evolves from a development-focused model towards a more investment and asset management-driven platform while pursuing new growth opportunities and investment initiatives.\n\n\nResponsibilities\n\n- Act as the central finance point of contact across the group's operations in Belgium, Luxembourg, and the Netherlands.\n- Manage relationships with external accountants, au",
-      "published": "2026-10-16",
-      "location": "Brussels, Brussels Region, Belgium",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 4.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 4.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "0183456849eb",
-      "title": "Debt Capital Markets - Manager",
-      "url": "https://ie.linkedin.com/jobs/view/debt-capital-markets-manager-at-camden-recruitment-partners-4482459733?position=12&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=7MT7LE7n%2B6v88Q7EXefelQ%3D%3D",
-      "description": "Camden Recruitment Partners | \nI am currently partnering with a boutique advisory firm that is looking to hire a Manager into its growing Debt and Capital Advisory team in Dublin.\n\n\nA hands-on role focused on debt raising, structured finance and securitisation for banks, specialist lenders, fintechs, leasing firms and other non-bank financial institutions. Work directly with clients, lenders and investors, driving transactions from funding strategy to financial close.\n\n\nThe Role\n\n- Execute and m",
-      "published": "2026-10-22",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 4.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 4.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "28ef62777d1b",
-      "title": "Corporate Finance Manager",
-      "url": "https://ie.linkedin.com/jobs/view/corporate-finance-manager-at-engage-people-recruitment-4478850931?position=7&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=Dn6F7AmdyFec41U3O7vI1g%3D%3D",
-      "description": "Engage People Recruitment | \nCorporate Finance Manager - M&amp;A\n \nA boutique corporate finance firm is seeking a Corporate Finance Manager to join its thriving business.\nBased in Galway with hybrid/remote working as standard, you will be tasked with providing strategic advice to a portfolio of clients on the buy side, the sell side, and on fundraising mandates.\n\n\nThe role\nYou will be an integral part of the firm, reporting to the MD, and managing a range of M&amp;A transactions across numerous ",
-      "published": "2026-10-21",
-      "location": "Galway, County Galway, Ireland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 4.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 4.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "8ef99fc6fdca",
       "title": "2027 Mo Ibrahim Foundation Leadership Fellowship Program",
       "url": "https://www.afdb.org/en/vacancy/2027-mo-ibrahim-foundation-leadership-fellowship-program-96407",
@@ -82,6 +28,24 @@
       "published": "",
       "location": "",
       "source": "afdb",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "48477fa4d49d",
+      "title": "Managing Director, Equity",
+      "url": "https://jobs.ebrd.com/job/London-Managing-Director%2C-Equity/1441351433/",
+      "description": "Managing Director, Equity Managing Director, Equity London, GB 24 Oct 2026 0.00 km London, GB 24 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 3.0,
@@ -111,28 +75,10 @@
       }
     },
     {
-      "id": "038214d43464",
+      "id": "8c7346f5277d",
       "title": "Assistant",
-      "url": "https://jobs.ebrd.com/job/London-Assistant/1449971233/",
-      "description": "Assistant Assistant London, GB 21 Oct 2026 0.00 km London, GB 21 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "2c77b470ee88",
-      "title": "AD, Head of Supply Chain Engagement",
-      "url": "https://jobs.ebrd.com/job/London-AD%2C-Head-of-Supply-Chain-Engagement/1446162033/",
-      "description": "AD, Head of Supply Chain Engagement AD, Head of Supply Chain Engagement London, GB 9 Oct 2026 0.00 km London, GB 9 Oct 2026",
+      "url": "https://jobs.ebrd.com/job/London-Assistant/1450883933/",
+      "description": "Assistant Assistant London, GB 23 Oct 2026 0.00 km London, GB 23 Oct 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -165,10 +111,10 @@
       }
     },
     {
-      "id": "aa9d0cf914c4",
-      "title": "Principal, Bilateral Donor Relations",
-      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Bilateral-Donor-Relations/1446077333/",
-      "description": "Principal, Bilateral Donor Relations Principal, Bilateral Donor Relations London, GB 9 Oct 2026 0.00 km London, GB 9 Oct 2026",
+      "id": "2c77b470ee88",
+      "title": "AD, Head of Supply Chain Engagement",
+      "url": "https://jobs.ebrd.com/job/London-AD%2C-Head-of-Supply-Chain-Engagement/1446162033/",
+      "description": "AD, Head of Supply Chain Engagement AD, Head of Supply Chain Engagement London, GB 9 Oct 2026 0.00 km London, GB 9 Oct 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -178,132 +124,6 @@
       "scores": {
         "A_blended_catalytic": 3.0,
         "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "0789ebcf272e",
-      "title": "Principal, Engineering, AI",
-      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Engineering%2C-AI/1424667633/",
-      "description": "Principal, Engineering, AI Principal, Engineering, AI Sofia, BG 7 Oct 2026 0.00 km Sofia, BG 7 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "5e375ae1da2f",
-      "title": "Principal, Delivery Manager ITSM & ServiceNow",
-      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Delivery-Manager-ITSM-&-ServiceNow/1443430333/",
-      "description": "Principal, Delivery Manager ITSM & ServiceNow Principal, Delivery Manager ITSM & ServiceNow Sofia, BG 1 Oct 2026 0.00 km Sofia, BG 1 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "cea4ad3f13d7",
-      "title": "Debt Advisory - Senior Manager",
-      "url": "https://ie.linkedin.com/jobs/view/debt-advisory-senior-manager-at-deloitte-4464654061?position=39&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=dp9u27KkjogMVIxlHjftaQ%3D%3D",
-      "description": "Deloitte | Deloitte is the world’s number one professional services firm and making an impact is more than what we do. It is why we are here. We bring challenge, curiosity and edge to every project, driving positive progress for our clients, our people, our communities and the planet. This purpose inspires us to work to the highest standards and to tackle the challenges that matter. Number one never stops challenging.\n\nIn a market that demands a critical balance between accelerating performance ",
-      "published": "2026-10-22",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "10f535e44db4",
-      "title": "Investment & Corporate Finance Manager-Energy-Milano Centro",
-      "url": "https://it.linkedin.com/jobs/view/investment-corporate-finance-manager-energy-milano-centro-at-michael-page-4478224709?position=3&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=w5q1XDPl%2FuZHSbwAv9y9Ug%3D%3D",
-      "description": "Michael Page | \nOttima opportunità di Investment &amp; Corporate Finance Manager\nDettagli sul cliente\nRealtà di recente costituzione, attiva nello sviluppo di progetti energetici su larga scala a livello mondiale. L'organizzazione opera nei settori delle infrastrutture elettriche, delle energie rinnovabili e delle soluzioni di energy storage, con una pipeline di progetti multimiliardari e il supporto di investitori istituzionali di primissimo livello.\nIl team è composto da professionisti di alti",
-      "published": "2026-10-18",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "defa8c67d039",
-      "title": "Divisional CFO",
-      "url": "https://ie.linkedin.com/jobs/view/divisional-cfo-at-darwin-hawkins-4481552967?position=21&pageNum=0&refId=DE1PxIlM8ZX9%2BYGKYZbWnQ%3D%3D&trackingId=lz66cfuO%2Bn1BGmfOy%2B9BOg%3D%3D",
-      "description": "Darwin Hawkins | \nJob Title: Divisional CFO\nSector: PE Backed Corporate\nLocation: Dublin (Hybrid Working)\nSalary: €140,000 - €160,000 plus Bonus, Pension &amp; Health\n\n\nOur Client\nOur client is a leading global business with an opportunity for an experienced and commercially focused finance professional to join its senior leadership team as a Divisional CFO.\n\n\nOperating across multiple international markets, the business is going through an exciting period of growth and transformation. This is a",
-      "published": "2026-10-20",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "e0f86ca72d57",
-      "title": "Group Finance Director",
-      "url": "https://ie.linkedin.com/jobs/view/group-finance-director-at-barden-b-corp-4481211260?position=10&pageNum=0&refId=DE1PxIlM8ZX9%2BYGKYZbWnQ%3D%3D&trackingId=h3cOqjS9S66CWqlBTu4XtA%3D%3D",
-      "description": "Barden | B Corp | \nBarden are delighted to be selected as the exclusive recruitment partner for a large construction company with an international presence in their search for a Group Finance Director.\n\n\nThis is the number one finance role in the business. You will sit at the heart of the Senior Leadership Team, acting as a trusted advisor on strategy, financial control, and the overall direction of the business. You will take full ownership of the finance function, leading a tight-knit team whi",
-      "published": "2026-10-19",
-      "location": "Cork, County Cork, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 3.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "5b45d695f341",
-      "title": "Loan Capital Markets Business Director",
-      "url": "https://it.linkedin.com/jobs/view/loan-capital-markets-business-director-at-intesa-sanpaolo-4479420452?position=24&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=OVOPs19h4EGKyma7dD1VFg%3D%3D",
-      "description": "Intesa Sanpaolo | \nOverview\nYou will join the Corporate FI &amp; Sustainable Loan Capital Markets team based in Milan, a specialised unit focused on originating, structuring and executing loan financing solutions for Italian and European corporate and financial institution clients. In this role, you will be leading a broad range of syndicated loan and sustainable finance transactions, working closely with relationship managers, sector and credit teams as well as market participants. You will con",
-      "published": "2026-10-21",
-      "location": "Milan, Lombardy, Italy",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.5,
-      "scores": {
-        "A_blended_catalytic": 1.0,
-        "B_deal_structuring": 2.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0
       }
@@ -316,186 +136,6 @@
       "published": "2026-10-01T09:10:42-04:00",
       "location": "Berlin",
       "source": "greenhouse_n26",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "3fbbe53004ee",
-      "title": "Finance Manager - Croatia",
-      "url": "https://hr.linkedin.com/jobs/view/finance-manager-croatia-at-glovo-4415662972?position=42&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=BOiaRhAa%2BNS10lYXTlL%2Bww%3D%3D",
-      "description": "Glovo | Glovo is part of the Delivery Hero Group, the world’s pioneering local delivery platform, our mission is to deliver an amazing experience—fast, easy, and to your door. We operate in around 65 countries worldwide. Headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index.\n\nJob Description\n\nWe are looking for a Finance Manager to act as the right hand of the General Manager, driving financial perfor",
-      "published": "2026-10-17",
-      "location": "Zagreb, Zagreb, Croatia",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "14aab19b109c",
-      "title": "Head of Finance & Operations (m/w/d)",
-      "url": "https://de.linkedin.com/jobs/view/head-of-finance-operations-m-w-d-at-alcemy-4478653549?position=40&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=KGQ%2FIbdOr59brBdSdV3gkw%3D%3D",
-      "description": "alcemy | Your mission\n\nalcemy is on a mission to keep 100 million tons of CO2 out of the atmosphere every year by 2030. Making concrete accounts for around 8% of global COz emissions, and our machine-learning software runs inside cement and concrete plants 24/7 to cut it - without sacrificing quality or driving up costs. We're already live in a third of Germany's cement plants and 30+ ready-mix concrete plants.\n\nYour profile\n\nThe Role\n\nAs Head of Finance &amp; Operations, you are responsible for",
-      "published": "2026-10-20",
-      "location": "Berlin, Berlin, Germany",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "b11a218d64c0",
-      "title": "Senior Financial Controller",
-      "url": "https://gr.linkedin.com/jobs/view/senior-financial-controller-at-worldline-4445982697?position=37&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=6btHkLY18AN3FTw9QTHSVg%3D%3D",
-      "description": "Worldline | Who We Are\n\nWorldline helps businesses of all shapes and sizes to accelerate their growth journey - quickly, simply, and securely. We are the innovators at the heart of the payments technology industry, shaping how the world pays and gets paid. Our technology powers the growth of millions of businesses across 5 continents. And just as we help our customers accelerate their business, we are committed to helping our people accelerate their careers. Together, we shape the evolution.\n\nTh",
-      "published": "2026-10-22",
-      "location": "Athens, Attiki, Greece",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "05a3501e37f7",
-      "title": "Finance Director / CFO",
-      "url": "https://es.linkedin.com/jobs/view/finance-director-cfo-at-reclut-4480220641?position=23&pageNum=0&refId=yccssRm%2BupRaYJkYEoFKVA%3D%3D&trackingId=KwDQe4mCtNV2xOYC8jM6vw%3D%3D",
-      "description": "Reclut | Empresa líder en su sector, integrada en grupo multinacional, busca incorporar un/a Finance Director para su sede en Murcia.\n\nLa persona que se incorpore reportará directamente a Dirección General, formará parte del Comité de Dirección y será responsable de la sostenibilidad económica y financiera de la compañía: planificación, control de los recursos financieros, fiabilidad de la información contable y apoyo estratégico a la toma de decisiones. Es una posición de alta responsabilidad, ",
-      "published": "2026-10-19",
-      "location": "Murcia, Región de Murcia, Spain",
-      "source": "apify_linkedin_blended",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "1bb28cb5de3d",
-      "title": "Global Head of Finance (F/M)",
-      "url": "https://fr.linkedin.com/jobs/view/global-head-of-finance-f-m-at-limagrain-4459863894?position=49&pageNum=0&refId=DE1PxIlM8ZX9%2BYGKYZbWnQ%3D%3D&trackingId=cA33TvEovvqJCtwgCFLvWA%3D%3D",
-      "description": "LIMAGRAIN | Function\n\nAs the Global Head of Finance for Vilmorin-Mikado, you play a central role in steering the financial strategy of a multicultural, fast‑growing Business Unit within Limagrain Vegetable Seeds (LVS). You will report directly to the CEO of Vilmorin‑Mikado, with a functional line to the Head of Finance of LVS, and act as a key member of the Strategic Committee (StratCom).\n\nMain Goal\n\nYou are responsible for leading all financial and legal activities of the BU, supporting strateg",
-      "published": "2026-10-19",
-      "location": "Les Bois-d'Anjou, Pays de la Loire, France",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "b297e278776d",
-      "title": "Chief Financial Officer",
-      "url": "https://de.linkedin.com/jobs/view/chief-financial-officer-at-tenzing-search-4478294407?position=39&pageNum=0&refId=DE1PxIlM8ZX9%2BYGKYZbWnQ%3D%3D&trackingId=hQp%2BF2XlQHZUkK6OHzjbxg%3D%3D",
-      "description": "Tenzing Search | \nOur Client\nTenzing Search are excited to be partnering exclusively with this exciting AI native business as they bring in their first ever CFO.\n\n\nThey are an AI-native supplier of industrial materials - executing trade and distribution end-to-end, becoming the supplier of record for the entire industry. Five years in: seven European markets, most of the volume from customers who keep coming back and a banking consortium financing their growth.\n\n\nTheir proprietary AI stack digit",
-      "published": "2026-10-19",
-      "location": "Berlin, Germany",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "16e7fe168231",
-      "title": "CFO till Assemblin Ventilation i Malmö!",
-      "url": "https://se.linkedin.com/jobs/view/cfo-till-assemblin-ventilation-i-malm%C3%B6%21-at-fanny-m%C3%B6rk-ab-4403730194?position=14&pageNum=0&refId=DE1PxIlM8ZX9%2BYGKYZbWnQ%3D%3D&trackingId=au5G0prtb2gsWse6iVi5xA%3D%3D",
-      "description": "Fanny Mörk AB | \n\nÄr du en affärsdriven och verksamhetsnära CFO, ekonomichef eller Finance Director som trivs lika bra ute i verksamheten som i ledningsgruppen? Vill du kombinera strategiskt ansvar med operativ ekonomistyrning, utveckla affären och vara med och påverka ett framgångsrikt bolags fortsatta tillväxt? Då kan rollen som CFO på Assemblin Ventilation vara rätt nästa steg!\n\n\nOm Assemblin Ventilation\nAssemblin Ventilation är en del av Assemblin Caverion Group, en av Nordeuropas ledande le",
-      "published": "2026-10-20",
-      "location": "Malmo, Skåne County, Sweden",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "95a5ec227694",
-      "title": "Finance Director - First Finance Hire",
-      "url": "https://ie.linkedin.com/jobs/view/finance-director-first-finance-hire-at-darwin-hawkins-4482089430?position=12&pageNum=0&refId=DE1PxIlM8ZX9%2BYGKYZbWnQ%3D%3D&trackingId=ndFyxqkGVThBktgRphptyQ%3D%3D",
-      "description": "Darwin Hawkins | \nJob Title: Finance Director - First Finance Hire \nSector: Technology – High Growth\nLocation: Dublin City Centre (Hybrid)\nSalary: €140,000 – €160,000 plus Benefits\n\n\nOur Client\nOur client is an ambitious and growing technology company entering an exciting phase of its development. The business is now looking to appoint its first permanent Finance Director to support its growth plans and establish a strong finance function.\n\n\nWhy should you apply?\nThis is a rare opportunity to jo",
-      "published": "2026-10-21",
-      "location": "Dublin, County Dublin, Ireland",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "fad9badbac1b",
-      "title": "Finance Director",
-      "url": "https://dk.linkedin.com/jobs/view/finance-director-at-mindweiss-4481552451?position=7&pageNum=0&refId=DE1PxIlM8ZX9%2BYGKYZbWnQ%3D%3D&trackingId=PTubNl1vJygu9hG3ynTCQA%3D%3D",
-      "description": "MINDWEISS | \nOn behalf of KINRADEN, MINDWEISS is seeking a commercially minded and hands-on CFO to play a key role in the company's next phase of international growth. With responsibility for strengthening financial management and developing a scalable finance function, you will have significant influence on strategic decisions and the financial foundation supporting KINRADEN's ambitious retail expansion.\n\n\nAs CFO, you will report directly to the CEO and work closely with the wider management te",
-      "published": "2026-10-20",
-      "location": "Copenhagen, Capital Region of Denmark, Denmark",
-      "source": "apify_linkedin_investment_director",
-      "archetype": "B_deal_structuring",
-      "archetype_label": "B · Deal Structuring & Investment",
-      "fit": 2.0,
-      "scores": {
-        "A_blended_catalytic": 0.0,
-        "B_deal_structuring": 2.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "f4e8a5284950",
-      "title": "Real Estate Finance Assistant Vice President",
-      "url": "https://de.linkedin.com/jobs/view/real-estate-finance-assistant-vice-president-at-smbc-group-4480461402?position=19&pageNum=0&refId=VOzDGPpkVuQh%2B5AswnVPNA%3D%3D&trackingId=aI9BrHgqCHpnaFucCXyvWw%3D%3D",
-      "description": "SMBC Group | \nReal Estate Finance Assistant Vice President\n\n\nFrankfurt, DE\n\n\nWho we are\nUnited by a sense of purpose towards our customers – to be a trusted partner for the long-term – and our universal banking platform in EMEA, SMBC Group has an international growth agenda and award-winning products, meaning we provide exciting opportunities to work on a diverse range of projects and initiatives. We deliver a full suite of corporate finance products and solutions to our customers as well as inv",
-      "published": "2026-10-20",
-      "location": "Frankfurt Rhine-Main Metropolitan Area",
-      "source": "apify_linkedin_dfi_senior",
       "archetype": "B_deal_structuring",
       "archetype_label": "B · Deal Structuring & Investment",
       "fit": 2.0,
