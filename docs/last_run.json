@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T11:19:02.668543+00:00",
-  "elapsed_total_s": 8.4,
+  "generated_at": "2026-10-25T11:49:07.280705+00:00",
+  "elapsed_total_s": 6.6,
   "sources_total": 23,
   "sources_ok": 16,
   "sources_failed": 6,
@@ -11,7 +11,7 @@
       "name": "afdb",
       "raw": 2,
       "kept": 1,
-      "elapsed_s": 1.1,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
@@ -25,14 +25,14 @@
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.8,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
       "name": "greenhouse_instiglio",
       "raw": 1,
       "kept": 1,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
@@ -53,7 +53,7 @@
       "name": "greenhouse_socialfinance",
       "raw": 6,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
@@ -67,21 +67,21 @@
       "name": "greenhouse_omidyar",
       "raw": 2,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "greenhouse_monzo",
       "raw": 72,
       "kept": 0,
-      "elapsed_s": 0.3,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_n26",
       "raw": 39,
       "kept": 1,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
@@ -102,21 +102,21 @@
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 0.9,
       "ok": true
     },
     {
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.8,
+      "elapsed_s": 0.9,
       "ok": true
     },
     {
       "name": "linkedin_search_dfi",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 0.8,
       "ok": true
     },
     {
@@ -131,7 +131,7 @@
       "name": "apify_linkedin_investment_director",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -139,7 +139,7 @@
       "name": "apify_linkedin_dfi_senior",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.0,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -147,7 +147,7 @@
       "name": "apify_indeed_blended_eu",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.0,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -155,7 +155,7 @@
       "name": "apify_indeed_cfo_remote",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -163,7 +163,7 @@
       "name": "apify_indeed_portugal_finance",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     }
