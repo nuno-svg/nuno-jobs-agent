@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T11:49:07.280705+00:00",
-  "total": 8,
+  "generated_at": "2026-10-26T13:20:58.060965+00:00",
+  "total": 4,
   "items": [
     {
       "id": "6e864a71cafa",
@@ -39,82 +39,10 @@
       }
     },
     {
-      "id": "48477fa4d49d",
-      "title": "Managing Director, Equity",
-      "url": "https://jobs.ebrd.com/job/London-Managing-Director%2C-Equity/1441351433/",
-      "description": "Managing Director, Equity Managing Director, Equity London, GB 24 Oct 2026 0.00 km London, GB 24 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "9cb93fe0c59a",
-      "title": "Managing Director, Communications",
-      "url": "https://jobs.ebrd.com/job/London-Managing-Director%2C-Communications/1441092433/",
-      "description": "Managing Director, Communications Managing Director, Communications London, GB 23 Oct 2026 0.00 km London, GB 23 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
       "id": "8c7346f5277d",
       "title": "Assistant",
       "url": "https://jobs.ebrd.com/job/London-Assistant/1450883933/",
       "description": "Assistant Assistant London, GB 23 Oct 2026 0.00 km London, GB 23 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "bfeac978705a",
-      "title": "Associate Director, Head of Procurement & Implementation",
-      "url": "https://jobs.ebrd.com/job/Istanbul-Associate-Director%2C-Head-of-Procurement-&-Implementation/1446070333/",
-      "description": "Associate Director, Head of Procurement & Implementation Associate Director, Head of Procurement & Implementation Istanbul, TR 9 Oct 2026 0.00 km Istanbul, TR 9 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "2c77b470ee88",
-      "title": "AD, Head of Supply Chain Engagement",
-      "url": "https://jobs.ebrd.com/job/London-AD%2C-Head-of-Supply-Chain-Engagement/1446162033/",
-      "description": "AD, Head of Supply Chain Engagement AD, Head of Supply Chain Engagement London, GB 9 Oct 2026 0.00 km London, GB 9 Oct 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
