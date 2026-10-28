@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T12:28:54.828135+00:00",
-  "total": 6,
+  "generated_at": "2026-10-28T13:15:51.628784+00:00",
+  "total": 8,
   "items": [
     {
       "id": "6e864a71cafa",
@@ -25,7 +25,7 @@
       "title": "Financial Analyst - (Bogota or Nairobi)",
       "url": "https://job-boards.greenhouse.io/instiglio/jobs/6235253004",
       "description": "<h1><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\">About Instiglio</span></strong></span></h1>\n<p><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\">Instiglio works with governments and their partners to improve outcomes for people. Since 2012, we have worked in more than 30 low- and middle-income countries with over 200 organizations, helping ensure better outcomes for around 98 million people and influencing mo",
-      "published": "2026-10-26T18:41:05-04:00",
+      "published": "2026-10-27T09:45:38-04:00",
       "location": "Colombia",
       "source": "greenhouse_instiglio",
       "archetype": "A_blended_catalytic",
@@ -46,6 +46,42 @@
       "published": "",
       "location": "",
       "source": "afdb",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "dc64a08a6163",
+      "title": "Principal, Resident Offices",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Resident-Offices/1451838133/",
+      "description": "Principal, Resident Offices Principal, Resident Offices London, GB 27 Oct 2026 0.00 km London, GB 27 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "7f715ad03b8f",
+      "title": "AD, Sustainable Project Procurement",
+      "url": "https://jobs.ebrd.com/job/London-AD%2C-Sustainable-Project-Procurement/1451836233/",
+      "description": "AD, Sustainable Project Procurement AD, Sustainable Project Procurement London, GB 27 Oct 2026 0.00 km London, GB 27 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
       "archetype": "A_blended_catalytic",
       "archetype_label": "A · Blended / Catalytic Finance",
       "fit": 3.0,
