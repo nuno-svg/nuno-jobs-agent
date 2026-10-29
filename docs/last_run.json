@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-28T13:15:51.628784+00:00",
-  "elapsed_total_s": 9.9,
+  "generated_at": "2026-10-29T13:23:07.895993+00:00",
+  "elapsed_total_s": 9.7,
   "sources_total": 23,
   "sources_ok": 16,
   "sources_failed": 6,
-  "items_total_raw": 477,
-  "items_kept": 8,
+  "items_total_raw": 476,
+  "items_kept": 9,
   "sources": [
     {
       "name": "afdb",
       "raw": 2,
       "kept": 1,
-      "elapsed_s": 1.4,
+      "elapsed_s": 1.3,
       "ok": true
     },
     {
       "name": "ebrd",
       "raw": 25,
-      "kept": 5,
-      "elapsed_s": 1.2,
+      "kept": 6,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.8,
+      "elapsed_s": 0.6,
       "ok": true
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "greenhouse_oneacre",
-      "raw": 58,
+      "raw": 56,
       "kept": 0,
       "elapsed_s": 0.2,
       "ok": true
@@ -79,30 +79,30 @@
     },
     {
       "name": "greenhouse_n26",
-      "raw": 32,
+      "raw": 30,
       "kept": 1,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "ashby_lendable",
-      "raw": 70,
+      "raw": 73,
       "kept": 0,
-      "elapsed_s": 0.4,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
       "name": "ashby_finca",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.6,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.4,
+      "elapsed_s": 1.6,
       "ok": true
     },
     {
@@ -116,14 +116,14 @@
       "name": "linkedin_search_dfi",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 0.9,
       "ok": true
     },
     {
       "name": "apify_linkedin_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -147,7 +147,7 @@
       "name": "apify_indeed_blended_eu",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -163,7 +163,7 @@
       "name": "apify_indeed_portugal_finance",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     }

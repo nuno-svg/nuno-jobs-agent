@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T13:15:51.628784+00:00",
-  "total": 8,
+  "generated_at": "2026-10-29T13:23:07.895993+00:00",
+  "total": 9,
   "items": [
     {
       "id": "6e864a71cafa",
@@ -57,10 +57,10 @@
       }
     },
     {
-      "id": "dc64a08a6163",
-      "title": "Principal, Resident Offices",
-      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Resident-Offices/1451838133/",
-      "description": "Principal, Resident Offices Principal, Resident Offices London, GB 27 Oct 2026 0.00 km London, GB 27 Oct 2026",
+      "id": "093bfff4af1a",
+      "title": "Principal, Quality Eng; Data & Analytics",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Quality-Eng-Data-&-Analytics/1424952233/",
+      "description": "Principal, Quality Eng; Data & Analytics Principal, Quality Eng; Data & Analytics London, GB 29 Oct 2026 0.00 km London, GB 29 Oct 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -79,6 +79,24 @@
       "title": "AD, Sustainable Project Procurement",
       "url": "https://jobs.ebrd.com/job/London-AD%2C-Sustainable-Project-Procurement/1451836233/",
       "description": "AD, Sustainable Project Procurement AD, Sustainable Project Procurement London, GB 27 Oct 2026 0.00 km London, GB 27 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "dc64a08a6163",
+      "title": "Principal, Resident Offices",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Resident-Offices/1451838133/",
+      "description": "Principal, Resident Offices Principal, Resident Offices London, GB 27 Oct 2026 0.00 km London, GB 27 Oct 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
