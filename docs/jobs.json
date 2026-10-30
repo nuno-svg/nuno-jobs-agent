@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T13:23:07.895993+00:00",
-  "total": 9,
+  "generated_at": "2026-10-30T13:14:02.325835+00:00",
+  "total": 12,
   "items": [
     {
       "id": "6e864a71cafa",
@@ -57,10 +57,64 @@
       }
     },
     {
+      "id": "5e375ae1da2f",
+      "title": "Principal, Delivery Manager ITSM & ServiceNow",
+      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Delivery-Manager-ITSM-&-ServiceNow/1443430333/",
+      "description": "Principal, Delivery Manager ITSM & ServiceNow Principal, Delivery Manager ITSM & ServiceNow Sofia, BG 30 Oct 2026 0.00 km Sofia, BG 30 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "b72295031427",
+      "title": "Principal, Problem Solving",
+      "url": "https://jobs.ebrd.com/job/London-Principal%2C-Problem-Solving/1452934933/",
+      "description": "Principal, Problem Solving Principal, Problem Solving London, GB 30 Oct 2026 0.00 km London, GB 30 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
       "id": "093bfff4af1a",
       "title": "Principal, Quality Eng; Data & Analytics",
       "url": "https://jobs.ebrd.com/job/London-Principal%2C-Quality-Eng-Data-&-Analytics/1424952233/",
       "description": "Principal, Quality Eng; Data & Analytics Principal, Quality Eng; Data & Analytics London, GB 29 Oct 2026 0.00 km London, GB 29 Oct 2026",
+      "published": "",
+      "location": "",
+      "source": "ebrd",
+      "archetype": "A_blended_catalytic",
+      "archetype_label": "A · Blended / Catalytic Finance",
+      "fit": 3.0,
+      "scores": {
+        "A_blended_catalytic": 3.0,
+        "B_deal_structuring": 0.0,
+        "C_executive_training": 0.0,
+        "D_emerging_markets": 0.0
+      }
+    },
+    {
+      "id": "ede51d321178",
+      "title": "Office Manager",
+      "url": "https://jobs.ebrd.com/job/Lagos-Office-Manager/1452575233/",
+      "description": "Office Manager Office Manager Lagos, NG 29 Oct 2026 0.00 km Lagos, NG 29 Oct 2026",
       "published": "",
       "location": "",
       "source": "ebrd",
@@ -151,7 +205,7 @@
       "title": "Legal Counsel Corporate & Regulatory",
       "url": "https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842",
       "description": "<h1><strong>About the Opportunity</strong></h1>\n<p>We are looking for a Legal Counsel Corporate &amp; Regulatory to strengthen our expertise in corporate law and banking regulation.</p>\n<p>Together with your team, you will advise internal stakeholders on a broad range of legal matters across Corporate Law, Corporate Governance, M&amp;A, Corporate Financing and, prospectively, Capital Markets Law. Another key element of your role will be advising on banking regulatory matters.</p>\n<p>Working clos",
-      "published": "2026-10-01T09:10:42-04:00",
+      "published": "2026-10-30T08:53:21-04:00",
       "location": "Berlin",
       "source": "greenhouse_n26",
       "archetype": "B_deal_structuring",
