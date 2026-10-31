@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-10-30T13:14:02.325835+00:00",
-  "elapsed_total_s": 6.9,
+  "generated_at": "2026-10-31T12:51:00.022738+00:00",
+  "elapsed_total_s": 8.9,
   "sources_total": 23,
   "sources_ok": 16,
   "sources_failed": 6,
-  "items_total_raw": 476,
+  "items_total_raw": 472,
   "items_kept": 12,
   "sources": [
     {
       "name": "afdb",
       "raw": 2,
       "kept": 1,
-      "elapsed_s": 0.7,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "ebrd",
       "raw": 25,
       "kept": 8,
-      "elapsed_s": 0.7,
+      "elapsed_s": 1.0,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.6,
+      "elapsed_s": 0.7,
       "ok": true
     },
     {
       "name": "greenhouse_instiglio",
       "raw": 2,
       "kept": 2,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
       "name": "greenhouse_acumen",
       "raw": 4,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_oneacre",
       "raw": 59,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
       "name": "greenhouse_socialfinance",
-      "raw": 6,
+      "raw": 5,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_codeforamerica",
       "raw": 10,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_omidyar",
       "raw": 1,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
@@ -79,16 +79,16 @@
     },
     {
       "name": "greenhouse_n26",
-      "raw": 31,
+      "raw": 32,
       "kept": 1,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "ashby_lendable",
-      "raw": 72,
+      "raw": 68,
       "kept": 0,
-      "elapsed_s": 0.4,
+      "elapsed_s": 0.3,
       "ok": true
     },
     {
@@ -109,21 +109,21 @@
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 0.8,
       "ok": true
     },
     {
       "name": "linkedin_search_dfi",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.9,
+      "elapsed_s": 1.0,
       "ok": true
     },
     {
       "name": "apify_linkedin_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -131,7 +131,7 @@
       "name": "apify_linkedin_investment_director",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -139,7 +139,7 @@
       "name": "apify_linkedin_dfi_senior",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -147,7 +147,7 @@
       "name": "apify_indeed_blended_eu",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -163,7 +163,7 @@
       "name": "apify_indeed_portugal_finance",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.0,
+      "elapsed_s": 0.1,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     }
