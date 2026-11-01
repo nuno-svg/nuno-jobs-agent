@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T12:51:00.022738+00:00",
-  "total": 12,
+  "generated_at": "2026-11-01T13:38:56.771838+00:00",
+  "total": 10,
   "items": [
     {
       "id": "6e864a71cafa",
@@ -33,42 +33,6 @@
       "fit": 5.0,
       "scores": {
         "A_blended_catalytic": 5.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "8ef99fc6fdca",
-      "title": "2027 Mo Ibrahim Foundation Leadership Fellowship Program",
-      "url": "https://www.afdb.org/en/vacancy/2027-mo-ibrahim-foundation-leadership-fellowship-program-96407",
-      "description": "2027 Mo Ibrahim Foundation Leadership Fellowship Program Abidjan, Cote D’Ivoire 28-Aug-2026 20-Nov-2026",
-      "published": "",
-      "location": "",
-      "source": "afdb",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
-        "B_deal_structuring": 0.0,
-        "C_executive_training": 0.0,
-        "D_emerging_markets": 0.0
-      }
-    },
-    {
-      "id": "5e375ae1da2f",
-      "title": "Principal, Delivery Manager ITSM & ServiceNow",
-      "url": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Delivery-Manager-ITSM-&-ServiceNow/1443430333/",
-      "description": "Principal, Delivery Manager ITSM & ServiceNow Principal, Delivery Manager ITSM & ServiceNow Sofia, BG 30 Oct 2026 0.00 km Sofia, BG 30 Oct 2026",
-      "published": "",
-      "location": "",
-      "source": "ebrd",
-      "archetype": "A_blended_catalytic",
-      "archetype_label": "A · Blended / Catalytic Finance",
-      "fit": 3.0,
-      "scores": {
-        "A_blended_catalytic": 3.0,
         "B_deal_structuring": 0.0,
         "C_executive_training": 0.0,
         "D_emerging_markets": 0.0

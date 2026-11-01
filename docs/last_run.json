@@ -1,66 +1,67 @@
 {
-  "generated_at": "2026-10-31T12:51:00.022738+00:00",
-  "elapsed_total_s": 8.9,
+  "generated_at": "2026-11-01T13:38:56.771838+00:00",
+  "elapsed_total_s": 7.9,
   "sources_total": 23,
-  "sources_ok": 16,
-  "sources_failed": 6,
-  "items_total_raw": 472,
-  "items_kept": 12,
+  "sources_ok": 15,
+  "sources_failed": 7,
+  "items_total_raw": 466,
+  "items_kept": 10,
   "sources": [
     {
       "name": "afdb",
-      "raw": 2,
-      "kept": 1,
-      "elapsed_s": 1.1,
-      "ok": true
+      "raw": 0,
+      "kept": 0,
+      "elapsed_s": 0.2,
+      "ok": false,
+      "error": "HTTP 403"
     },
     {
       "name": "ebrd",
       "raw": 25,
-      "kept": 8,
-      "elapsed_s": 1.0,
+      "kept": 7,
+      "elapsed_s": 1.2,
       "ok": true
     },
     {
       "name": "worldbank",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.7,
+      "elapsed_s": 0.6,
       "ok": true
     },
     {
       "name": "greenhouse_instiglio",
       "raw": 2,
       "kept": 2,
-      "elapsed_s": 0.3,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "greenhouse_acumen",
       "raw": 4,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "greenhouse_oneacre",
-      "raw": 59,
+      "raw": 56,
       "kept": 0,
-      "elapsed_s": 0.3,
+      "elapsed_s": 0.2,
       "ok": true
     },
     {
       "name": "greenhouse_socialfinance",
       "raw": 5,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "greenhouse_codeforamerica",
       "raw": 10,
       "kept": 0,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
@@ -72,7 +73,7 @@
     },
     {
       "name": "greenhouse_monzo",
-      "raw": 64,
+      "raw": 63,
       "kept": 0,
       "elapsed_s": 0.2,
       "ok": true
@@ -81,14 +82,14 @@
       "name": "greenhouse_n26",
       "raw": 32,
       "kept": 1,
-      "elapsed_s": 0.2,
+      "elapsed_s": 0.1,
       "ok": true
     },
     {
       "name": "ashby_lendable",
       "raw": 68,
       "kept": 0,
-      "elapsed_s": 0.3,
+      "elapsed_s": 0.5,
       "ok": true
     },
     {
@@ -102,21 +103,21 @@
       "name": "smartrecruiters_wise",
       "raw": 200,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 1.1,
       "ok": true
     },
     {
       "name": "linkedin_search_blended",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.8,
+      "elapsed_s": 0.9,
       "ok": true
     },
     {
       "name": "linkedin_search_dfi",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 1.0,
+      "elapsed_s": 0.8,
       "ok": true
     },
     {
@@ -155,7 +156,7 @@
       "name": "apify_indeed_cfo_remote",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     },
@@ -163,7 +164,7 @@
       "name": "apify_indeed_portugal_finance",
       "raw": 0,
       "kept": 0,
-      "elapsed_s": 0.1,
+      "elapsed_s": 0.2,
       "ok": false,
       "error": "HTTP 401: {\n  \"error\": {\n    \"type\": \"user-or-token-not-found\",\n    \"message\": \"User was not found or authentication token is not valid\"\n  }\n}"
     }
