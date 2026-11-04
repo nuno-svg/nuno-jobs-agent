@@ -1,9 +1,11 @@
 name: daily-jobs-scan
 
 on:
-  schedule:
-    - cron: "30 6 * * *"   # 06:30 UTC daily
-  workflow_dispatch: {}
+  # Scheduled runs disabled (paused by Nuno, Nov 2026).
+  # To re-enable, uncomment the cron line below.
+  # schedule:
+  #   - cron: "30 6 * * *"   # 06:30 UTC daily
+  workflow_dispatch: {}      # manual trigger remains available
 
 permissions:
   contents: write
